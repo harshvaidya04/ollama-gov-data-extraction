@@ -1,0 +1,357 @@
+[
+    {
+        "name": "Exam",
+        "date_of_notification": "21/02/2023",
+        "date_of_commencement": "15/03/2023",
+        "end_date": "30/04/2023",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012056.pdf"
+        ],
+        "details": {
+            "exam_centers": [
+                "/Agra",
+                "/Bhopal",
+                "/Chandigarh",
+                "/Dehradun",
+                "/Gwalior",
+                "/Indore",
+                "/Jaipur",
+                "/Jammu",
+                "/Kanpur",
+                "/Lucknow",
+                "/Mumbai",
+                "/Patna",
+                "/Pune"
+            ],
+            "important_dates": {
+                "Last Date of Application": "21/02/2023",
+                "Tentative Date of Admission": "23/03/2023"
+            },
+            "scheme_of_exam": {
+                "Subjects": [
+                    "Mathematics",
+                    "Physics",
+                    "Chemistry"
+                ]
+            }
+        }
+    },
+    {
+        "name": "MPPET 2025 Exam",
+        "date_of_notification": "14 January 2023",
+        "date_of_commencement": "01 March 2024",
+        "end_date": "29 April 2024",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025020474.pdf"
+        ],
+        "details": {
+            "vacancies": {
+                "total": 2000,
+                "breakdown": {}
+            },
+            "eligibility": {
+                "age_limit": "18-25 years",
+                "education": "Any degree",
+                "nationality": [
+                    "Indian"
+                ]
+            },
+            "fee": {
+                "amount": "500/-",
+                "exemptions": ""
+            },
+            "exam_centers": [],
+            "important_dates": {},
+            "scheme_of_exam": {
+                "subjects": {
+                    "English": "100 marks"
+                }
+            },
+            "contact_details": {
+                "phone_number": "+91 1234567890",
+                "email_id": "mpeb2025@nta.nic.in"
+            }
+        }
+    },
+    {
+        "name": "Exam",
+        "date_of_notification": "2022-01-01",
+        "date_of_commencement": "2022-02-01",
+        "end_date": "2022-03-01",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025020112.pdf"
+        ],
+        "details": {
+            "important_dates": {
+                "exam_date": "2022-03-05",
+                "admit_card_available": "2022-03-01"
+            },
+            "scheme_of_exam": {
+                "subjects": [
+                    "Mathematics",
+                    "Agronomy",
+                    "Animal Science",
+                    "Botany",
+                    "Chemistry",
+                    "Economics",
+                    "English",
+                    "Geography",
+                    "Home Science",
+                    "Microbiology",
+                    "Physics"
+                ]
+            },
+            "eligibility": {
+                "age_limit": 20,
+                "education": [
+                    "Intermediate",
+                    "Senior Secondary",
+                    "Diploma",
+                    "Graduation"
+                ],
+                "nationality": [
+                    "Indian",
+                    "Nepali",
+                    "Bhutanese"
+                ]
+            },
+            "fee": {
+                "amount": 500,
+                "exemptions": [
+                    "SC/ST/OBC",
+                    "PwD",
+                    "Disability"
+                ]
+            }
+        }
+    },
+    {
+        "name": "National Eligibility cum Entrance Test (NEET UG) - 2025",
+        "date_of_notification": "23rd February, 2024",
+        "date_of_commencement": "20th March, 2024",
+        "end_date": "30th April, 2024",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012470.pdf"
+        ],
+        "details": {
+            "vacancies": {
+                "total": 100000,
+                "breakdown": {}
+            },
+            "eligibility": {
+                "age_limit": "25 years",
+                "education": {
+                    "qualifying_degree": "Bachelor's Degree in MBBS/MD/MS"
+                },
+                "nationality": [
+                    "Indian"
+                ]
+            },
+            "fee": {
+                "amount": "$0/-",
+                "exemptions": []
+            },
+            "exam_centers": [],
+            "important_dates": {},
+            "scheme_of_exam": {
+                "subjects": {
+                    "Science": 50,
+                    "Sanskrit": 20
+                }
+            },
+            "contact_details": {
+                "email_id": "jee.main.nta.nic.in",
+                "address": "New Delhi -110021"
+            }
+        }
+    },
+    {
+        "name": "Exam Notification",
+        "date_of_notification": "2025-01-20",
+        "date_of_commencement": "2025-02-15",
+        "end_date": "2025-03-15",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012360.pdf"
+        ],
+        "details": {
+            "vacancies": {
+                "total": 100000,
+                "breakdown": {}
+            },
+            "eligibility": {
+                "age_limit": "18-25",
+                "education": [
+                    "10th",
+                    "12th"
+                ],
+                "nationality": [
+                    "Indian"
+                ]
+            },
+            "fee": {
+                "amount": "5000",
+                "exemptions": [
+                    "PwD"
+                ]
+            },
+            "exam_centers": [
+                "New Delhi",
+                "Mumbai",
+                "Chennai"
+            ],
+            "important_dates": {},
+            "scheme_of_exam": {
+                "subjects": [
+                    "Maths",
+                    "Science"
+                ]
+            }
+        }
+    },
+    null,
+    {
+        "name": "National Eligibility cum Entrance Test (NEET-UG) 2025",
+        "date_of_notification": "January 6, 2023",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012063.pdf"
+        ],
+        "details": {
+            "scheme_of_exam": {
+                "subjects": [
+                    "Physics",
+                    "Chemistry",
+                    "Biology"
+                ]
+            },
+            "important_dates": {
+                "Last Date for Filling Application": ""
+            }
+        }
+    },
+    {
+        "name": "Release of Admit Cards for the Candidates of JEE (Main) \u20132025 Session -1(January 202 5)",
+        "date_of_notification": "18 January 2025",
+        "date_of_commencement": "",
+        "end_date": "",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025011839.pdf"
+        ],
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "details": {
+            "important_dates": {
+                "release_admit_cards": [
+                    "22, 23 & 24 January 2025"
+                ],
+                "exam_schedules": [
+                    "28, 29 and 30 January 2025"
+                ]
+            },
+            "contact_details": {
+                "helpline_number": "+91-11-40759000",
+                "e_mail": "jeemain@nta.nic.in"
+            }
+        }
+    },
+    {
+        "name": "Exam for JEE Main 2025",
+        "date_of_notification": "January 10, 2024",
+        "date_of_commencement": "January 17, 2024",
+        "end_date": "March 31, 2024",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025011693.pdf"
+        ],
+        "details": {
+            "vacancies": {
+                "total": 20000,
+                "breakdown": {
+                    "General Category": 15000,
+                    "SC Category": 3000,
+                    "ST Category": 1000,
+                    "PwD Category": 500
+                }
+            },
+            "eligibility": {
+                "age_limit": "Maximum Age Limit: 25 years",
+                "education": {
+                    "Qualifying Qualification": "10+2"
+                },
+                "nationality": [
+                    "Indian Citizen"
+                ]
+            },
+            "fee": {
+                "amount": "\u20b9750/-",
+                "exemptions": [
+                    "SBC/ST/SC/ESB/PwD candidates"
+                ]
+            },
+            "exam_centers": [
+                "Delhi, Uttar Pradesh, Bihar, Madhya Pradesh"
+            ],
+            "important_dates": {
+                "Last Date of Application": "March 15, 2024",
+                "Date of Admit Card": "April 20, 2024"
+            },
+            "scheme_of_exam": {
+                "subjects": [
+                    "Physics",
+                    "Chemistry",
+                    "Mathematics"
+                ]
+            },
+            "contact_details": {
+                "Helpline Number": "011-23010025"
+            }
+        }
+    },
+    {
+        "name": "Joint Entrance Examination (Main) -2025 Session 1",
+        "date_of_notification": "10 January 2025",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025011231.pdf"
+        ],
+        "details": {
+            "important_dates": {
+                "Date of Exam Paper Shift": [
+                    "22, 23, 24, 28 and Paper I (B.E./B. Tech) First shift (09:00 A.M. to 12:00 Noon)",
+                    "29 January 2025 Second Shift (03:00 P.M. to 06:00 P.M.)"
+                ],
+                "Date of Allotment": [
+                    "30 January 2025",
+                    "(B.Arch & B. Planning both)"
+                ]
+            },
+            "exam_centers": [
+                {
+                    "City": "[15 cities outside India] + different Centres located in various cities throughout the country"
+                }
+            ],
+            "fee": {
+                "amount": "",
+                "exemptions": ""
+            }
+        }
+    },
+    null
+]
