@@ -18,9 +18,10 @@ for org in orgs[1:2]:
         links = org["links"]
 
         events = []
-        for link in links:
+        for link in links[:3]:
             output = generateOutput(link, applyLink)
-            events.append(output)
+            if(events):
+                events.append(output)
             
         with open(f"Formatted_data/Central/{organization}.json","w", encoding='utf-8') as f:
             json.dump(events,f)
@@ -33,14 +34,14 @@ print("Central done")
 # state
 # states = supremeData['state']
 
-# for state in states:
+# for state in states[6:7]:
 #     stateName = state['name']
 #     orgs = state['organizations']
     
 #     if(not os.path.exists(f'Formatted_data/States/{stateName}')):
 #         os.mkdir(f'Formatted_data/States/{stateName}')
     
-#     for org in orgs:
+#     for org in orgs[:1]:
 #         organization = org["name"]
 #         applyLink = org['applyLink']
 #         links = org["links"]

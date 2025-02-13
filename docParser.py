@@ -24,6 +24,11 @@ def extract_content_from_pdf(pdf_url):
 
 if __name__ == "__main__":
     
-    url = ''
+    url = 'https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025020474.pdf'
     
     pdf_text = extract_content_from_pdf(url)
+    
+    with open('raw_text.txt', 'w', encoding='utf-8') as f:
+        f.write(pdf_text)
+    
+    print("Raw text extracted")

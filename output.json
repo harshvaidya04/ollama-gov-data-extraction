@@ -1,0 +1,27 @@
+{
+    "event_type": "Exam",
+    "name": "JEE Main Session 2",
+    "start_date": "2025-02-13",
+    "end_date": null,
+    "document_links": [
+        "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025020112.pdf"
+    ],
+    "apply_link": "https://jeemain.nta.nic.in/",
+    "details": {
+        "course_paper": [
+            "B.E./B.Tech.",
+            "B.Arch."
+        ],
+        "medium_of_question_paper": [
+            "English",
+            "Hindi"
+        ],
+        "examination_cities": [
+            "Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+        ],
+        "fee_payment": "Online"
+    }
+}

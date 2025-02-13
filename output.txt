@@ -1,30 +1,27 @@
 {
-    "name": "National Eligibility cum Entrance Test (NEET) UG Admission 2025",
-    "date_of_notification": "15th April 2022",
-    "date_of_commencement": "20th September 2023",
-    "end_date": "",
-    "apply_link": "https://jeemain.nta.nic.in/",
-    "event_type": "Exam",
-    "document_links": ["https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025010196.pdf"],
-    "details": {
-        "eligibility": {
-            "age_limit": 17-23 years,
-            "education": {"Minimum Qualification": "10+2"}
-        },
-        "fee": {
-            "amount": "15000",
-            "exemptions": ["Eligible Students"]
-        },
-        "exam_centers": [
-            {"Center Code": "AA101", "City": "Lucknow"},
-            {"Center Code": "BB102", "City": "Allahabad"}
-        ],
-        "important_dates": {
-            "Last Date for Submission of Application Form": "31st August 2024",
-            "Date of Test": "12th January 2025"
-        },
-        "scheme_of_exam": {
-            "subjects": {"Physics": "200 marks", "Chemistry": "200 marks", "Biology": "150 marks"}
-        }
-    }
+  "event_type": "Exam",
+  "name": "JEE Main Session 2",
+  "start_date": "2025-02-13",
+  "end_date": null,
+  "document_links": [
+    "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025020112.pdf"
+  ],
+  "apply_link": "https://jeemain.nta.nic.in/",
+  "details": {
+    "course_paper": [
+      "B.E./B.Tech.",
+      "B.Arch."
+    ],
+    "medium_of_question_paper": [
+      "English",
+      "Hindi"
+    ],
+    "examination_cities": [
+      "Delhi",
+      "Mumbai",
+      "Chennai",
+      "Kolkata"
+    ],
+    "fee_payment": "Online"
+  }
 }
