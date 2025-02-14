@@ -130,9 +130,9 @@ def generateOutput(pdf_link, apply_link):
         Put {pdf_link} in document_links array and {apply_link} in apply_link.
         Name key should not be empty. Extract a valid name from rawtext.
         Date_of_notification, date_of_commencement and end_date should not be null or empty until no date is specified. 
+        Onlu consider those events which are currently active or upcoming as per the date {date.today()}.
         
-        
-        Generate a well-formed JSON object based on the above guidelines. The Predefined key are mandatory. Any other data should be described under details key only. Don't create separate key for that data at top level. Ensure correct formatting and structure.
+        Generate a well-formed JSON object based on the above guidelines. The keys: name, date_of_notification, date_of_commencement, end_date, apply_link, event_type and document_links are mandatory. Any other data should be described under details key only. Don't create separate key for that data at top level. Ensure correct formatting and structure.
     """
     
     # call_ollama_api(user_prompt)

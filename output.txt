@@ -1,28 +1,16 @@
 {
-  "name": "National Testing Agency",
-  "date_of_notification": "01 February 2025",
-  "date_of_commencement": null,
-  "end_date": null,
-  "apply_link": ["https://jeemain.nta.nic.in/"],
-  "event_type": "Exam",
-  "document_links": [
-    "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025020112.pdf"
-  ],
-  "details": {
-    "Schedule for the same is given below:",
-    "Examination/ | Dates of Submission of Last Date for Payment",
-    "Session Examination Application Forms of Application Fee",
-    "Online Online",
-    "JEE (Main) - | Between 01 April Jou February to 25 February | 25 February 2025",
-    "2025 Session2 | and 08 April | 2025 (upto 09:00 P.M.) (up to 11:50 P.M.).",
-    "The dates of advance intimation of Examination City, downloading of Admit Cards, and declaration of result will be displayed on the JEE (Main) portal at the appropriate time.",
-    "Candidates who have applied for JEE (Main)-2025 Session 1 and also wish to appear for JEE (Main)-2025 Session 2 are required to log in with their previous Application Number and Password as provided in Session 1 and pay the examination fee for JEE (Main) 2025 Session-2 as applicable.",
-    "They may only choose the Paper, Medium of the Examination, choice of Cities for examination and pay the Examination Fees for the present Session.",
-    "Those candidates who have not applied earlier, need to. apply afresh as per the schedule given above and check the Information Bulletin of JEE (Main)-2025 available on the website https://jeemain.nta.nic.acin/ for details of Papers, Scheme, Timing, Eligibility and other information.",
-    "The candidates may refer to Annexure-1 for registration and filling application form process.",
-    "The candidates are not allowed to fill more than one Application Form. Any candidate with more than one Application Number will be treated as UGC in the event of a dispute between the applicant and the University or Institution on issues related to the award of degrees, the validity of their research output or the outcome of their academic work.",
-    "Candidates must strictly follow the instructions given in the Information Bulletin and on the NTA website. Candidates not complying with the instructions shall be summarily disqualified.",
-    "Candidates must ensure that the e-mail address and Mobile Number provided in the Online Application Form are their own or Parents/Guardians' only as all information/communication will be sent by NTA through ,",
-    "email on the registered e-mail address or SMS on the registered Mobile Number only."
-  }
+    "name": "Joint Entrance Examination (Main)-2025 Session 2",
+    "date_of_notification": "01 February 2025",
+    "date_of_commencement": "01 April 2025",
+    "end_date": "25 February 2025",
+    "apply_link": "https://jeemain.nta.nic.in/",
+    "event_type": "Exam",
+    "document_links": [
+        "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025020112.pdf"
+    ],
+    "details": {
+        "Schedule for Examination": "Between 01 April and 25 February 2025",
+        "Eligibility Criteria": "Candidates must meet the eligibility criteria specified in the Information Bulletin.",
+        "Registration Process": "Candidates must register and fill the application form through the online mode only."
+    }
 }
