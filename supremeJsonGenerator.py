@@ -20,13 +20,13 @@ for org in orgs[1:2]:
         events = []
         for link in links[:3]:
             output = generateOutput(link, applyLink)
-            if(events):
+            if(output):
                 events.append(output)
             
         with open(f"Formatted_data/Central/{organization}.json","w", encoding='utf-8') as f:
             json.dump(events,f)
         
-        print("stored in",organization,"json")
+        print("stored in",organization)
 
 print("Central done")
 

@@ -1,3 +1,6 @@
+Here's the extracted JSON object based on the provided reference structure:
+
+```
 {
   "name": "National Testing Agency",
   "date_of_notification": "01 February 2025",
@@ -26,3 +29,6 @@
     "email on the registered e-mail address or SMS on the registered Mobile Number only."
   }
 }
+```
+
+Note: The `details` key contains a JSON object with multiple values, but it is structured to follow the reference structure. If you want to format the data differently, please let me know and I can help you with that.
