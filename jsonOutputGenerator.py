@@ -18,7 +18,7 @@ def generateOutput(pdf_link, apply_link):
     end_date:ending of the exam date
     apply_link:only application link for the exam
     event_type:one from the {Exam,Result,AdmitCard}
-    document_links:array of related documents given
+    document_links:[array of strings]
     details:other details regarding it as in below json 
     }"""
 
@@ -127,13 +127,21 @@ def generateOutput(pdf_link, apply_link):
         Raw Text:
         {raw_text}
         
-        Put {pdf_link} in document_links array and {apply_link} in apply_link.
+        Add {pdf_link} in document_links and {apply_link} in apply_link.
+        Event Type should be either "Exam", "Result" or "AdmitCard" only.
+        document_links is an array of simple strings and not json objects.
         Name key should not be empty. Extract a valid name from rawtext.
         Date_of_notification, date_of_commencement and end_date should not be null or empty until no date is specified. 
-        Onlu consider those events which are currently active or upcoming as per the date {date.today()}.
+        Make sure that date is correct. 
+        Don't provide wrong information and date.
+        Only relevant information extracted from raw text should be considered while creating the json. 
+        If couldn't find a correct date, leave it empty. 
+        If date_of_notification is not present, set it to {date.today()}
+        Only consider those events which are currently active or upcoming as per the date {date.today()}.
         
         Generate a well-formed JSON object based on the above guidelines. The keys: name, date_of_notification, date_of_commencement, end_date, apply_link, event_type and document_links are mandatory. Any other data should be described under details key only. Don't create separate key for that data at top level. Ensure correct formatting and structure.
     """
+    
     
     # call_ollama_api(user_prompt)
     return call_ollama_api(user_prompt)
