@@ -1,0 +1,16 @@
+{
+  "name": "Combined Defence Service Examination (I), 2025",
+  "date_of_notification": "2024-12-11",
+  "date_of_commencement": null,
+  "end_date": null,
+  "apply_link": "https://upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28I%29,%202025",
+  "event_type": "Exam",
+  "document_links": [
+    "https://upsc.gov.in/sites/default/files/FF-CDSE-I-2025-Engl-14012025.pdf"
+  ],
+  "details": {
+    "reason_for_rejection": "Rejected due to non-payment of fee",
+    "next_steps": "Appeal against rejection may be made along with documentary evidence sent to the Commission by speed post or by hand only.",
+    "contact_person": "Shri R.S. Sharma, Under Secretary (CDS)/C"
+  }
+}
