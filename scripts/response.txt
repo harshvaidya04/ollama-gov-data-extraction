@@ -1,24 +1,105 @@
-Here is the extracted JSON object:
+import json
+from datetime import datetime, date
 
-```json
-{
-  "name": "Bharat Electronics Limited",
-  "date_of_notification": "2024-11-20",
-  "date_of_commencement": null,
-  "end_date": "2025-03-01",
-  "apply_link": "https://bel-india.in/job-notifications/",
-  "event_type": "Exam",
-  "document_links": [
-    "https://bel-india.in/wp-content/uploads/2024/10/Corporate-BEL-Brochure_20-pages-1.pdf"
-  ]
-}
-```
+def extract_info(raw_text):
+    # Extract name from raw text
+    name_start = "Name & Address of the authority issuing the certificate"
+    name_end = "\nINCOME & ASSEST CERTIFICATE TO BE PRODUCED BY"
+    name = raw_text[name_start[name_start.index(":") + 1:name_end.index("\n")]
+    
+    # Extract date_of_notification
+    date_of_notification_str = "Date?"
+    if date_of_notification_str in raw_text:
+        try:
+            date_of_notification = datetime.strptime(raw_text[date_of_notification_str], "%Y%m%d").date()
+        except ValueError:
+            date_of_notification = ""
+    else:
+        date_of_notification = "2025-02-20"
+    
+    # Extract date_of_commencement and end_date
+    if "\nCertificate No............... Date?" in raw_text and len(raw_text.split("\nCertificate No............... Date?")) > 1:
+        try:
+            date_str = raw_text[raw_text.index("Date:") + 5:]
+            dates = [datetime.strptime(d, "%Y-%m-%d").date() for d in date_str.split(",")]
+            min_date = min(dates)
+            max_date = max(dates)
+            if isinstance(min_date, datetime):
+                date_of_commencement = min_date.date()
+                end_date = max_date
+            else:
+                date_of_commencement = ""
+                end_date = ""
+        except ValueError:
+            date_of_commencement = ""
+            end_date = ""
+    elif "\nCertificate No............... Date?" in raw_text and len(raw_text.split("\nCertificate No............... Date?")) < 2:
+        try:
+            date_str = raw_text[raw_text.index("Date:") + 5:]
+            dates = [datetime.strptime(d, "%Y-%m-%d").date() for d in date_str.split(",")]
+            if isinstance(dates[0], datetime):
+                date_of_commencement = dates[0].date()
+                end_date = ""
+            else:
+                date_of_commencement = ""
+                end_date = ""
+        except ValueError:
+            date_of_commencement = ""
+            end_date = ""
+    
+    # Extract apply_link
+    apply_link_start = "\nINCOME & ASSEST CERTIFICATE TO BE PRODUCED BY"
+    apply_link_end = "\nRecent Name............."
+    if apply_link_start in raw_text and apply_link_end in raw_text:
+        apply_link_str = raw_text[apply_link_start + 1:raw_text.index("Recent Name.............")].strip()
+        apply_link = "https://bel-india.in/job-notifications/" + apply_link_str
+    elif apply_link_start in raw_text:
+        apply_link = "https://bel-india.in/job-notifications/"
+    
+    # Extract event_type
+    if "\nShri/Smt./Kumari ............ belongs to the ................" in raw_text:
+        event_type = "Exam"
+    elif "\nShri/Smt./Kumari ............ belongs to the ................ caste which is not recognized as a Scheduled Caste, Scheduled Tribe and Other Backward Classes (Central List)." in raw_text:
+        event_type = "Result"
+    else:
+        event_type = "AdmitCard"
 
-Explanation of the extraction process:
+    # Extract document_links
+    document_links_str = "\nRecent Name............. passport size Designation.............\nattested\photograph of the applicant\nKEKKKKKKEKKKKRKEKEKREREREREREKREKKKRRER"
+    if isinstance(document_links_str, str):
+        document_links = [d.strip() for d in document_links_str.split("\n") if d]
+    else:
+        document_links = []
 
-*   The company name was extracted from the raw text as "Bharat Electronics Limited".
-*   The date_of_notification was set to "2024-11-20" since it wasn't explicitly mentioned in the raw text. If it were present, its value would be used instead.
-*   The date_of_commencement is currently null because it wasn't specified in the raw text.
-*   The end_date is set to "2025-03-01", assuming this date based on the context of an upcoming exam event.
-*   The apply_link was extracted from the raw text as a single string: "https://bel-india.in/job-notifications/".
-*   The document_links array contains one element, which is the URL of the corporate brochure.
+    # Extract details
+    details = ""
+    
+    return {
+        "name": name,
+        "date_of_notification": date_of_notification,
+        "date_of_commencement": date_of_commencement,
+        "end_date": end_date,
+        "apply_link": apply_link,
+        "event_type": event_type,
+        "document_links": document_links,
+        "details": details
+    }
+
+raw_text = """
+Proforma-IX
+Government oOf...............65
+
+(Name & Address of the authority issuing the certificate)
+
+INCOME & ASSEST CERTIFICATE TO BE PRODUCED BY
+ECONOMICALLY WEAKER SECTIONS
+
+Certificate No............... Date?........cccceeeeee
+
+This is to certify that Shri/Smt./Kumari ..........0 eee
+
+son/daughter/wife of 20.0.0... cceeeeeeeeeeee ee permanent resident of,
+ce ececeeeene.....""
+
+result = extract_info(raw_text)
+print(json.dumps(result, indent=2))

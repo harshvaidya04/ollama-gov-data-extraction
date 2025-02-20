@@ -1,11 +1,16 @@
 import requests
 import pytesseract
+import fitz
 from pdf2image import convert_from_bytes
 from io import BytesIO
 from DeviceConstants import tesseract,poppler
 
 # Set the path of Tesseract-OCR if not set in the environment
 pytesseract.pytesseract.tesseract_cmd = tesseract
+
+def get_pdf_page_count(pdf_bytes):
+    with fitz.open("pdf", pdf_bytes) as doc:
+        return len(doc)  # Fastest way to count pages
 
 def download_pdf(url):
     """Downloads a PDF from a given URL and returns its content as bytes."""
@@ -20,6 +25,11 @@ def extract_text_from_pdf(pdf_url):
     try:
         pdf_bytes = download_pdf(pdf_url)
 
+        page_count = get_pdf_page_count(pdf_bytes)
+        if page_count > 50:
+            print("page size exceeded")
+            raise Exception(f"Failed to extract text")
+        
         poppler_path = poppler  # Replace with your actual path
 
         images = convert_from_bytes(pdf_bytes, poppler_path=poppler_path)
