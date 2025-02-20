@@ -25,7 +25,7 @@ def get_document_links(url):
     }
 
     try:
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, verify=False)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         print(f"Error fetching the website: {e}")

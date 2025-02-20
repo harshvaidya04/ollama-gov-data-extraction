@@ -247,3 +247,13 @@ def initializeSupremeJsonGenerator():
 
     
     generateSupremeJson(SupremeFailedData)
+
+def updateSupremeJsonGenerator():
+    with open("../scripts/documentUpdateLinksSupreme.json",'r', encoding='utf-8') as f:
+        supremeData = json.load(f)
+    
+    
+    SupremeFailedData = generateSupremeJson(supremeData)
+
+    
+    generateSupremeJson(SupremeFailedData)
