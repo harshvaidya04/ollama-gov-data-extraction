@@ -17,21 +17,24 @@ def download_pdf(url):
 
 def extract_text_from_pdf(pdf_url):
     """Extracts text from a scanned PDF using OCR."""
-    pdf_bytes = download_pdf(pdf_url)
+    try:
+        pdf_bytes = download_pdf(pdf_url)
 
-    poppler_path = poppler  # Replace with your actual path
+        poppler_path = poppler  # Replace with your actual path
 
-    images = convert_from_bytes(pdf_bytes, poppler_path=poppler_path)
-    
-    # Convert PDF to images
-    # images = convert_from_bytes(pdf_bytes)
+        images = convert_from_bytes(pdf_bytes, poppler_path=poppler_path)
+        
+        # Convert PDF to images
+        # images = convert_from_bytes(pdf_bytes)
 
-    extracted_text = ""
-    for img in images:
-        text = pytesseract.image_to_string(img)
-        extracted_text += text + "\n"
+        extracted_text = ""
+        for img in images:
+            text = pytesseract.image_to_string(img)
+            extracted_text += text + "\n"
 
-    return extracted_text
+        return extracted_text
+    except Exception:
+        raise Exception(f"Failed to extract text")
 
 if __name__ == '__main__':
     # Example usage
