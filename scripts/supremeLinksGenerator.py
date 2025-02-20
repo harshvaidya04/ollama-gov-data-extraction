@@ -15,6 +15,8 @@ def generateSupremeLinks():
 
 
     # Central
+
+    print("Extracting central")
     centralData = []
     with open("../Server/data/LinksData/Central/Central.csv", 'r', encoding='utf-8') as f:
         centralData = f.read().split('\n')[1:]
@@ -34,6 +36,8 @@ def generateSupremeLinks():
 
 
     # UPSC
+
+    print("UPSC start")
     UPSCData = []
     with open("../Server/data/LinksData/Multiple/UPSC.csv",'r', encoding='utf-8') as f:   
         UPSCData = f.read().split('\n')[1:]
@@ -62,6 +66,8 @@ def generateSupremeLinks():
 
 
     # State
+
+    print("State start")
     states = os.listdir('../Server/data/LinksData/States')
 
     for state in states:   
@@ -72,7 +78,7 @@ def generateSupremeLinks():
         
         stateOrganizations=[]
         with open(f"../Server/data/LinksData/States/{state}",'r', encoding='utf-8') as f:
-            stateOrganizations = f.read().split("\n")[1:4]
+            stateOrganizations = f.read().split("\n")[1:]
             
         for so in stateOrganizations:
             data = so.split(',')
