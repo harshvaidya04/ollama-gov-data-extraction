@@ -1,0 +1,30 @@
+[
+    {
+        "name": "BEL Export Booklet",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2023/05/BEL-Export-Booklet.pdf"
+        ],
+        "details": {
+            "Description": "BEL Export Booklet containing information on BEL's export policies and procedures.",
+            "Publisher": "BHARAT ELECTRONICS LIMITED",
+            "Ministry of Defence": true,
+            "Govt. of India Enterprise": true
+        }
+    },
+    {
+        "name": "Bharat Electronics Limited",
+        "date_of_notification": "2024-11-20",
+        "date_of_commencement": null,
+        "end_date": "2025-03-01",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2024/10/Corporate-BEL-Brochure_20-pages-1.pdf"
+        ]
+    }
+]
