@@ -1,0 +1,288 @@
+[
+    {
+        "name": "IIFT",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.iift.ac.in/iift/NIRF_2023.pdf"
+        ],
+        "details": {
+            "Description of IIFT": "IIFT is a premier business school in India.",
+            "Events and Admission Process": "IIFT hosts various events throughout the year, including admission processes. The dates for these events may vary."
+        }
+    },
+    {
+        "name": "Indian Institute of Technology Gandhinagar",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.iift.ac.in/iift/NIRF_2019.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "IITGN Admission Guidelines 2025-26",
+            "IITGN Exam Schedule 2025"
+        ],
+        "details": {
+            "Admission Guidelines": {
+                "Eligibility Criteria": "",
+                "Application Process": ""
+            },
+            "Exam Schedule": {
+                "Date of Examination": "2025-03-15",
+                "Time of Examination": "10:00 AM"
+            }
+        }
+    },
+    {
+        "name": "IIFT Hospital List",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.iift.ac.in/iift/docs/EmpanelledHospitallist.pdf"
+        ],
+        "details": {
+            "list_of_hospitals": [
+                {
+                    "name": "Desun Hospital and Heart Institute",
+                    "location": "Kolkata, West Bengal",
+                    "type": "NABH Accredited",
+                    "description": "A renowned hospital in Kolkata offering comprehensive medical services"
+                },
+                {
+                    "name": "Bellevue Hospital",
+                    "location": "Kolkata, West Bengal",
+                    "type": "NABH Accredited",
+                    "description": "A state-of-the-art hospital with advanced medical facilities"
+                }
+            ]
+        }
+    },
+    {
+        "name": "IIFT",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.iift.ac.in/iift/docs/iift_lalpathlab.pdf"
+        ],
+        "details": {
+            "description": "Indian Institute of Technology Festival (IIFT)",
+            "type": "Exam"
+        }
+    },
+    {
+        "name": "Aarthy Scans & Labs",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
+        "event_type": "Exam",
+        "document_links": [
+            "iift_Aarthy Scans & Labs.pdf"
+        ],
+        "details": {
+            "Description": "India's largest integrated diagnostic chain.",
+            "Corporate Clients": [
+                "Punjab",
+                "National Bato eens a CMACGM"
+            ],
+            "Locations": [
+                "Mumbai",
+                "Delhi",
+                "Bengaluru",
+                "Chennai",
+                "Hyderabad",
+                "Kolkata",
+                "Vizag",
+                "Gurugram",
+                "Trivandrum",
+                "Pune"
+            ]
+        }
+    },
+    {
+        "name": "Online Payment",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.iift.ac.in/iift/ONLINEPAYMENT.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://octopod.co.in/student/admission/36e3cd566ddd24107490426a535dc6fl",
+            "https://youtu.be/vj4c96VKU84"
+        ],
+        "details": {
+            "watch_video_link": "https://youtu.be/vj4c96VKU84"
+        }
+    },
+    {
+        "name": "3 Days MDP on Project Management",
+        "date_of_notification": null,
+        "date_of_commencement": "2025-03-25",
+        "end_date": null,
+        "apply_link": "https://mdpgift @iift.edu",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.iift.ac.in/iift/docs/LatestUpdates/3_Days_MDP_on_projectManagement.pdf",
+            "https://www.iift.ac.in/iift/view-all-updated.php"
+        ],
+        "details": {
+            "programme details": "This is a program for project management. It includes topics such as project management and project life cycle, selection of projects using AHP, financial aspect of project management, optimization in scheduling of projects, use of project management software(s) like Microsoft Project, project cost estimation, project cost control, project management information systems, project monitoring: time and cost overrun evaluation, risk analysis of projects.",
+            "who should attend": "Executives, consultants, and trainers involved in project management across sectors such as construction, manufacturing, energy, telecom, aviation, and transportation. It is also well-suited for managers working in product development, process optimization, and research and development roles.",
+            "programme fee": "The course fee of Rs. 13,000/- plus applicable GST 18% per participant will be charged which includes tuition fee, course materials, tea, and Lunch during the programme.",
+            "accommodation facility": "Participants are requested to arrange their own stay, however IIFT Gift city may assist in this regard to find suitable nearby stay facility as per officer’s entitlement. Kindly contact to Shri Parth Shah at contact details given in the brochure."
+        }
+    },
+    {
+        "name": "MDP Program Nomination Form",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "2025-04-25",
+        "end_date": "2025-04-27",
+        "apply_link": "https://www.iift.ac.in/iift/docs/LatestUpdates/3_days_Nomination_Form.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.iift.ac.in/iift/docs/LatestUpdates/3_days_Nomination_Form.pdf",
+            "https://www.iift.ac.in/iift/view-all-updated.php"
+        ],
+        "details": {
+            "programme_name": "Project Planning and Management",
+            "authorizing_authority": "Indian Institute of Foreign Trade, An autonomous institution under the Ministry of Commerce, Government of India."
+        }
+    },
+    {
+        "name": "Second Round of Admission Process for MBA 2025-27 Programmes",
+        "date_of_notification": "13-14 February 2025",
+        "date_of_commencement": "20 February 2025",
+        "end_date": "23:59 hrs, 20 February 2025",
+        "apply_link": "https://docs.iift.ac.in/CVT202527FirstLook/cv.as",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://www.iift.ac.in/iift/docs/LatestUpdates/CV_2025_27_14022025.pdf",
+            "https://www.iift.ac.in/iift/view-all-updated.php"
+        ],
+        "details": {
+            "description": "Last date for submission of online CV form is 20 February 2025 (till 23:59 hrs). The GD/PI process will be conducted in offline mode from 3 March 2025 onwards."
+        }
+    },
+    {
+        "name": "Indian Institute of Foreign Trade",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "March 2025",
+        "end_date": "",
+        "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://docs.iift.ac.in/pilotweb/pgdmib/brochure.pdf"
+        ],
+        "details": {
+            "address": "IIFT Bhawan, B-21 Qutab Institutional Area, New Delhi-110016",
+            "phone": "9873229212",
+            "fax": "91-011-39147301",
+            "email": "empdadmission@iift.edu",
+            "website": "www.iift.ac.in",
+            "social_media": {
+                "facebook": "",
+                "twitter": "",
+                "linkedin": ""
+            },
+            "events": [
+                {
+                    "event_name": "PGDM IB and PGDM (HRDM)",
+                    "description": "Application for PGDM IB and PGDM (HRDM) at IIFT Delhi",
+                    "date_range": "March 2025 - To be notified"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Institute of Foreign Trade (Deemed to Be University) Online Course",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": "2025-04-30",
+        "apply_link": "https://docs.iift.ac.in/Pilotweb/OCPEM/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://docs.iift.ac.in/Pilotweb/OCPITL/brochure.pdf",
+            "https://www.iift.ac.in/iift/view-all-updated.php"
+        ]
+    },
+    {
+        "name": "Indian Institute of Foreign Trade",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "2025-03-01",
+        "end_date": "",
+        "apply_link": {
+            "Event Type": "Exam",
+            "Apply Link": "https://docs.iift.ac.in/pilotweb/pgcmib/brochure.pdf"
+        },
+        "document_links": [
+            "https://www.iift.ac.in/iift/view-all-updated.php"
+        ],
+        "details": {
+            "Approval by AICTE": true,
+            "Prestigious Accreditations": [
+                "NAAC Accreditation A+ Ranking",
+                "AACSB Accreditation"
+            ],
+            "Ranking Framework": "15TH IN NATIONAL INSTITUTE RANKING FRAMEWORK (NIRF)"
+        }
+    },
+    {
+        "name": "Executive Management Programme",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://docs.iift.ac.in/Pilotweb/CPEM/brochure.pdf"
+        ],
+        "details": {
+            "programme_fee": "110,000 + 18% GST",
+            "schedule_of_classes": "Saturday: 01:30 PM-06:30 PM Sunday: 09:30 AM-04:45 PM",
+            "teaching": {
+                "pedagogy": "balanced mix of lectures, case study, live examples and general discussions"
+            },
+            "assessment": {
+                "evaluation_methodology": "discretion of the faculty",
+                "minimum_attendance": "75%",
+                "exam_conducted_online": true
+            },
+            "eligibility": "Graduation degree from recognized university or equivalent",
+            "who_should_attend": "Industry Leaders, Middle Level Executive, Entrepreneurs Fresher's"
+        }
+    },
+    {
+        "name": "Grievance Redressal Committee Re-constitution Order",
+        "date_of_notification": "17.04.2023",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.iift.ac.in/iift/docs/LatestUpdates/OO_grievance_17042023.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.iift.ac.in/iift/view-all-updated.php"
+        ],
+        "details": {
+            "Re-constituted Members": [
+                "Dr. Satinder Bhatia, Vice-Chancellor & Dean (Academics)",
+                "Dr. K. Rangarajan, Head (Kolkata Campus)",
+                "Dr. V. Raveendra Saradhi, Head (Kakinada Campus)",
+                "Dr. Jaydeep Mukherjee, Head (GIFT City Campus)",
+                "Dr. Niti Nandini Chatnani, Head (DAA)"
+            ],
+            "Contact Details": [
+                "Phone : 0091-11-39147200, 39147201, 39147202",
+                "Fax : 0091-11-39147214",
+                "Website : www.iift.ac.in"
+            ]
+        }
+    }
+]

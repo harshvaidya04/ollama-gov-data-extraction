@@ -1,0 +1,163 @@
+[
+    {
+        "name": "JEE Main Exam",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012056.pdf"
+        ],
+        "details": {
+            "description": "JEE Main Exam",
+            "exam_type": "Objective Type",
+            "application_process": "Online Application"
+        }
+    },
+    {
+        "name": "National Testing Agency",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025021573.pdf"
+        ],
+        "details": {
+            "description": "Provisional Answer Keys and Recorded Response Sheet for Answer Key Challenge",
+            "procedure": "Refer Annexure 1 for procedure",
+            "helpline_number": "+91-11-40759000",
+            "email": "jeemain@nta.nic.in"
+        }
+    },
+    {
+        "name": "JEE (Main) 2025 Session 1",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025021158.pdf"
+        ]
+    },
+    {
+        "name": "National Entrance Examination",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025021039.pdf"
+        ],
+        "details": {
+            "description": "National Entrance Examination for admissions to undergraduate programs in various fields.",
+            "notification_date": "2025-02-20",
+            "commencement_date": null,
+            "end_date": null
+        }
+    },
+    {
+        "name": "National Testing Agency",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "2025-01-01",
+        "end_date": "2025-03-31",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025020112.pdf"
+        ],
+        "details": {
+            "description": "National Testing Agency is inviting online applications for Joint Entrance Examination (Main)-2025 Session 2.",
+            " helpline_number": "+91-11-40759000",
+            "email_id": "jeemain@nta.ac.in",
+            "website_url": "www.nta.ac.in"
+        }
+    },
+    {
+        "name": "JEE (Main) 2025 Session 1",
+        "date_of_notification": "24 January 2025",
+        "date_of_commencement": "2025-02-20",
+        "end_date": "28, 29 & 30 January 2025",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012470.pdf"
+        ],
+        "details": {
+            "venue_change_notice": "Change in venue of examination due to huge congregation of devotees at Ayodhya."
+        }
+    },
+    {
+        "name": "National Testing Agency (NTA) JEE (Main) — 2025 Session 1",
+        "date_of_notification": "23 January 2025",
+        "date_of_commencement": null,
+        "end_date": "30 January 2025",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012360.pdf"
+        ],
+        "details": {
+            "examination centres": " centres in nearby city i.e. Varanasi on these days.",
+            "congregation of devotees": "huge congregation of devotees in Mahakumbh",
+            "requirement for OR Code and barcode": " ensure that the OR Code and the barcode is available on the Admit card while downloading",
+            "photo ID requirement": " bring the photo ID as uploaded in online application form and also mentioned in the Admit Card for proof of identity",
+            "instructions to follow": " carefully read the Subject-Specific Instructions and other instructions mentioned in the Question paper and abide by the same",
+            "helpline number": "+91-11-40759000, e-mail: jeemain@nta.nic.in"
+        }
+    },
+    {
+        "name": "National Testing Agency",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012220.pdf",
+            "https://jeemain.nta.nic.in/"
+        ],
+        "details": {
+            "Event Description": "Rescheduling of JEE (Main)-2025, Session-1 Examination for Few Candidates",
+            "Examin Centre": "eTalent, No.3, Belmar Estate, Nagasandra Main Rd, Bengaluru, Karnataka"
+        }
+    },
+    {
+        "name": "Joint Entrance Examination (Main) — 2025 Session-1",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "2025-01-22",
+        "end_date": "2025-01-30",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012063.pdf"
+        ],
+        "details": {
+            "description": "Intimation regarding change of Examination Centre",
+            "centre_details": "Scholar Training Institute, (902-903 Belresheed Tower, 1501-1502, The First Tower, Alkhan L",
+            "contact_info": "NTA Help Desk: cal +91-11-40759000 or email jeemain@nta.nic.in"
+        }
+    },
+    {
+        "name": "JEE (Main) — 2025 Session 1",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025011839.pdf"
+        ],
+        "details": {
+            "organization": "National Testing Agency",
+            "url": "https://nta.ac.in",
+            "phone_number": "+91-11-40759000",
+            "email": "jeemain@nta.nic.in",
+            "helpline_number": "+91-11-40759000"
+        }
+    }
+]
