@@ -6,4 +6,5 @@ def initMaster():
     print("Links Scraped")
     initializeSupremeJsonGenerator()
     print("JSON GENERATION COMPLETE")
+print("GG")
 initMaster()

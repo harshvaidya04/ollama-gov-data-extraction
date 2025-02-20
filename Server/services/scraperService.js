@@ -12,7 +12,7 @@ export  const runScraper = async () => {
     return new Promise((resolve, reject) => {
         console.log("⏳ Running Python scraper...");
 
-        const pythonProcess = spawn("python", [path.join(__dirname, "../../scripts/SupremeMaster.py")]);
+        const pythonProcess = spawn("python", ["-u",path.join(__dirname, "../../scripts/SupremeMaster.py")]);
 
 
         pythonProcess.stdout.on("data", (data) => {

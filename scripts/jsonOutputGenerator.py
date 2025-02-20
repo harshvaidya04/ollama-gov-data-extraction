@@ -3,6 +3,7 @@ import json
 from docParser import extract_content_from_pdf
 from docParserOCR import extract_text_from_pdf
 from datetime import date
+from DeviceConstants import model
 
 def generateOutput(pdf_link, apply_link):
     raw_text = extract_text_from_pdf(pdf_link)
@@ -150,7 +151,7 @@ def generateOutput(pdf_link, apply_link):
 def call_ollama_api(prompt, output_file="output.json"):
     url = "http://localhost:11434/api/generate"
     payload = {
-        "model": "llama3.2:3b",  # Replace with your model name
+        "model": model,  # Replace with your model name
         "prompt": prompt,
         "stream": False
     }
