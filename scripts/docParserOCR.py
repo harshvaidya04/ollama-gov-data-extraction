@@ -24,10 +24,9 @@ def extract_text_from_pdf(pdf_url):
     """Extracts text from a scanned PDF using OCR."""
     try:
         pdf_bytes = download_pdf(pdf_url)
-
         page_count = get_pdf_page_count(pdf_bytes)
         if page_count > 50:
-            print("page size exceeded")
+            print("page size exceeded in ",pdf_url)
             raise Exception(f"Failed to extract text")
         
         poppler_path = poppler  # Replace with your actual path

@@ -30,8 +30,8 @@ def generateSupremeJson(supremeData):
     # central
     orgs = supremeData["central"]
 
-    # for org in orgs:
-    for org in orgs[7:]:
+    for org in orgs:
+    # for org in orgs[7:]:
         if(org["name"] != "UPSC"):
             organization = org["name"]
             applyLink = org["applyLink"]
@@ -43,7 +43,7 @@ def generateSupremeJson(supremeData):
                     pass
 
             failedLinks=[]
-            for link in links:
+            for link in links[:30]:
                 
                 
                 
@@ -117,7 +117,7 @@ def generateSupremeJson(supremeData):
             
             failedLinks=[]
             
-            for link in links:
+            for link in links[:30]:
                 output = generateOutput(link, applyLink)
                 if(output):
 
@@ -191,7 +191,7 @@ def generateSupremeJson(supremeData):
                 pass
 
         failedLinks=[]
-        for link in links:
+        for link in links[:30]:
             output = generateOutput(link, applyLink)
             if(output):
 
