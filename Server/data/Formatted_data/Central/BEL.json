@@ -323,5 +323,247 @@
             "Event Type": "Exam",
             "Purpose of Document": "This document is used to certify a person's permanent disability."
         }
+    },
+    {
+        "name": "BEL Recruitment",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "2025-02-10",
+        "end_date": "2025-02-25",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/02/DETAIL-ADVERTISEMENT-IN-ENGLISH.pdf"
+        ]
+    },
+    {
+        "name": "Scheduled Castes and Scheduled Tribes Certificate",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2024/08/SC-ST-certificate.pdf"
+        ],
+        "details": {
+            "issued_by": "Scheduled Castes and Scheduled Tribes Orders (Amendment) Act, 2002",
+            "applicable_in": "the case of Scheduled Castes/Scheduled Tribes persons who have migrated from one State/Union Territory Administration to another."
+        }
+    },
+    {
+        "name": "OBC Category Certificate",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/02/OBC-category-certificate.pdf"
+        ],
+        "details": {
+            "issued_by": null,
+            "published_in": null,
+            "effective_date": "2025-02-20",
+            "responsible_authority": null,
+            "other_details": null
+        }
+    },
+    {
+        "name": "Provisional Certificate of Disability",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/02/PwBD-Certificate-Format.pdf"
+        ],
+        "details": {
+            "description": "Provisional Certificate of Disability for individuals with disabilities.",
+            "note": "The principal rules were published in the Gazette of India by Ministry of Social Justice and Empowerment vide notification number 489, dated 15.06.2017."
+        }
+    },
+    {
+        "name": "BEL Fee Payment",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/02/FEE-PAYMENT-INSTRUCTIONS-MODEL.pdf"
+        ],
+        "details": {
+            "description": "This is a sample fee payment for BEL.",
+            "url": "https://bel-india.in/",
+            "contact_info": "BEL Help Desk: [support@belindia.com](mailto:support@belindia.com)"
+        }
+    },
+    {
+        "name": "BEL Recruitment Notification",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/02/detailed-eng.pdf"
+        ]
+    },
+    {
+        "name": "Form for OL Application",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/02/FT-OL-Application-Form-Bilingual.pdf"
+        ],
+        "details": {
+            "description": "Bharat Electronics Limited recruitment notification for OL Application Form"
+        }
+    },
+    {
+        "name": "Bharat Electronics Limited (BEL)",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "2025-02-20",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "Advertisement for TE-I and PE-I: https://bel-india.in/wp-content/uploads/2025/02/Advertisement-for-TE-I-and-PE-I.pdf"
+        ]
+    },
+    {
+        "name": "TE-I and PE-I",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/02/Application-for-TE-I-and-PE-I.pdf"
+        ]
+    },
+    {
+        "name": "BEL Webmail Re: SBI COL.x | @ State Bank Collect xl",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/01/Instructions-for-making-fee-payment.pdf",
+            "https://bel-india.in/job-notifications/"
+        ],
+        "details": {
+            "payment_process": "Complete payment process for making fee payment directly by logging on to WWW.ONLINESBI.SBI.",
+            "instructions": "Select type of Corporation/Institution: - PSU - Public Sector Undertaking and press =>Go. Select PSU - Public Sector Undertaking: - Bharat Electronics Limited and press Submit. Complete the payment as explained above."
+        }
+    },
+    {
+        "name": "Form of Caste Certificate for SC/ST",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/01/Prescribed-Format-for-SC-and-ST-Certificate.pdf"
+        ],
+        "details": {
+            "@type": "Explanation",
+            "description": "A certificate issued by the Competent Authorities in the above prescribed format."
+        }
+    },
+    {
+        "name": "Prescribed Format-PWBD",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/01/6.-Prescribed-Format-PWBD.pdf",
+            "https://bel-india.in/job-notifications/"
+        ]
+    },
+    {
+        "name": "National Technical Fellow (NTF) - NSRFCS",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "E-I-Web-Advt-NSRFCS-1.pdf"
+        ],
+        "details": {
+            "Job Type": "Full-time",
+            "Location": "Bengaluru, Karnataka",
+            "Description": "National Technical Fellow (NTF) - NSRFCS Recruitment 2025",
+            "Eligibility Criteria": "Bachelor's degree in relevant field",
+            "How to Apply": "Apply online at https://bel-india.in/job-notifications/"
+        }
+    },
+    {
+        "name": "NSRFCS SBU Sr. Asst. Engineer (E-I) Exam",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/02/Application-Form-NSRFCS.pdf"
+        ],
+        "details": {
+            "Application Instructions": "Tick ONLY one location\na __/\nQITT® IOBIDITS\na RET SATCU IF\nBHARAT ELECTRONICS Affix recent passport\nQUALITY, TECHNOLOGY. INNOVATION size colour photograph\nsigned by the\nBHARAT ELECTRONICS LIMITED candidate.\nJalahalli Post, Bengaluru — 560 013 Do not use stapler or\npin.\n\nChoice of Written Test: Bangalore Kerala Port Blair\n\n1. Name of the Post applied for: Sr. Asst. Engineer (E-I) for NS(R&FCS) SBU\n2. Name of the candidate in fUllt...... 0... c cece cece eee ence eee ea ec ec eens aseecseeesenesseneeeeeeee\n(As per 10th Class Certificate)\n3. Father’s Name..........c. cece eee eeeee eee ee eee enee\n4. Date of birth: 0.0.0... e cee ne nee eee eeee 5. Age (as on 01.01.2025) : oe.\n6. Gender? : \n7. Government photo ID Proof — Aadhar Card / PAN Card / Driving License / Passport\n8. SSLC marks card and any other valid document as proof of date of birth.\n9. Diploma/Degree Marks Sheets of each Semester, if any\n10. Final Diploma/Degree Certificate, if any\n11. OBC (NCL) /EWS /SC/ST certificate in the prescribed format\n(OBC certificate issued on or after 01.01.2024. Income certificate will not be considered as valid OBC Certificate.)\n12. No Objection Certificate from the present employer (if employed in Govt/Quasi Govt/PSU) if applicable\n13. Experience Certificates/ Discharge book/Last Pay Certificate,\n14. Presently employed in the Armed Forces and yet to be discharged — Documentary proof in support of their present employment\n15. Service Record - Exemplary / Very Good\n16. Probable date of discharge - \n17. Undertaking : I affirm that the information given above is true and correct. I further undertake that, if at any stage, it is discovered that an attempt has been made by me to willfully conceal or misrepresent the facts stated above, my candidature may be summarily rejected or my employment terminated.\n18. SIGNATURE OF THE CANDIDATE \n19. Date: \n20. Place: "
+        }
+    },
+    {
+        "name": "OBC (Other Backward Classes) Form",
+        "date_of_notification": "",
+        "date_of_commencement": "2024-10-01",
+        "end_date": "2025-03-31",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/02/OBC-FORMAT.pdf"
+        ],
+        "details": {
+            "url": "https://bel-india.in/",
+            "description": "Format for OBC applicants to apply for government jobs."
+        }
+    },
+    {
+        "name": "Caste Certificate Format",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/02/SC_ST-Certificate-Format-6-12-22.pdf"
+        ],
+        "details": {
+            "certificate_description": "Form of Caste Certificate to be produced by a candidate belonging to a Scheduled Caste or Tribe in support of his/her claim.",
+            "certification_authority": "The Competent Authority empowered to issue the certificate and is in the relevant name of the community."
+        }
+    },
+    {
+        "name": "Bharat Electronics Limited Citizen Charter",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": null,
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2023/01/Citizen-Charter-Website-Eng-16-08-202120210816225849564-1.pdf"
+        ],
+        "details": {
+            "description": "Bharat Electronics Limited is committed to providing excellent customer service, ensuring values, ethics, accountability, trust, integrity, and transparency in all its business relations.",
+            "culture": "The company aims to create a culture of involvement for development of ideas, innovation, and indigenization for mutual benefit."
+        }
     }
 ]
