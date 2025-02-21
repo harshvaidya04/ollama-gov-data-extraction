@@ -1,0 +1,85 @@
+[
+    {
+        "name": "RTI Application",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://example.com/rti-application",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/document1.pdf",
+            "https://example.com/document2.pdf"
+        ],
+        "details": {
+            "Nagataju A Assistant commissioner Tumakur": {
+                "Information Sought": "Initial payment details",
+                "Endorsement (if any)": null,
+                "Additional Payment Request Date": null,
+                "Reply by Applicant Date (if any)": null,
+                "If Application is transferred to other PIO": null,
+                "Details of information provided to applicant": null,
+                "Information sent date": null,
+                "Appelled Reason/Date": null
+            }
+        }
+    },
+    {
+        "name": "Ramech TS",
+        "date_of_notification": "2022-02-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Result",
+        "document_links": [
+            {
+                "link": "https://example.com/result.pdf",
+                "type": "PDF"
+            },
+            {
+                "link": "https://example.com/marksheet.pdf",
+                "type": "PDF"
+            }
+        ],
+        "details": "Exam Result for TS Ramech"
+    },
+    {
+        "name": "Administration Chart of Department of School Education",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://schooleducation.karnataka.gov.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://schooleducation.karnataka.gov.in/uploads/schooledu_pdfs/pdffiles/General circular/Feb-2023/AdministrationChart 04.02.2023.pdf"
+        ],
+        "details": {
+            "minister_for_school": "MINISTER FOR SCHOOL",
+            "principal_secretary_of_dept": "PRINCIPAL SECRETARY OF DEPT.",
+            "addnl_cpi": "ADDNL. CPI,"
+        }
+    },
+    {
+        "name": "Academic Chart of Department of School Education",
+        "date_of_notification": "2023-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://schooleducation.karnataka.gov.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://schooledu_pdfs/pdffiles/AcademicChart.pdf"
+        ],
+        "details": {
+            "content": "R.LE.\nB.Ed R.LE.\nCOLLEGES MYSORE\nBANGALORE\nYT Sa v\nE.O. & SIS IN B.R.C’s\ninated DDPI”S OFFICE\nSCHOOLS\na An\nC.R.C’s\nS.D.M.C’s\nPRY. & UPPER\nPRY. SCHOOLS\nS.D.M.C’s"
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": ""
+    }
+]

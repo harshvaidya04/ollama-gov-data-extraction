@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Haryana Public Service Commission",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "2025-02-22",
+        "apply_link": "https://regn.hpsc.gov.in/pgt24/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://hpse.gov.in/Portals/0/Ann_Inspection_SKT_Booklet_PGT_19_02_2025.pdf"
+        ],
+        "details": {
+            "description": "Subject: Inspection of Answer Booklet of the Subject Knowledge Test for PGT (Advt. No. 18/2024 to 37/2024 except Advt. No. 21, 22 & 25/2024). Candidates can inspect their evaluated answer booklets through the link https://regn.hpsc.gov.in/pgt24/",
+            "eligibility": "Only candidates who have registered and applied for inspection will be allowed to access the document.",
+            "payment_details": "Payment of Rs. 500 per answer sheet is mandatory."
+        }
+    },
+    {
+        "name": "Announcement for Post Graduate Teachers (PGTs) in Biology",
+        "date_of_notification": "2025-02-18",
+        "date_of_commencement": "",
+        "end_date": "2025-03-31",
+        "apply_link": "https://hpsc.gov.in/en-us/Notifications/Announcements",
+        "event_type": "Exam",
+        "document_links": [
+            "https://hpsc.gov.in/Portals/0/Ann_PostVacant_PGT_Biology_18_02_2025.pdf"
+        ],
+        "details": {
+            "Reason for Vacancy": "One post of PGT Biology under BC-B Category has to be kept vacant due to the order of Hon'ble High Court in CWP No. 3693 of 2025 — Ekta V/s State of Haryana & another.",
+            "Final Decision Status": "Withheld until final decision of the Hon'ble High Court in CWP No. 3693 of 2025."
+        }
+    },
+    {
+        "name": "Inspection of Answer Booklet of the Subject Knowledge Test for Ayurvedic Medical Officer (Group-B) in Health & Ayush Department, Haryana",
+        "date_of_notification": "2025-02-20",
+        "date_of_commencement": "",
+        "end_date": "2025-02-22",
+        "apply_link": "https://regn.hpse.gov.in/amo/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://hpse.gov.in/Portals/0/Ann_Inspection_SKT_Booklet_AMO_19_02_2025.pdf"
+        ],
+        "details": {
+            "link_available_from": "20-02-2025",
+            "link_available_to": "22-02-2025",
+            "payment_required": true,
+            "representation_not_allowed": true,
+            "biometric_attendance_required": true,
+            "camera_prohibited": true
+        }
+    }
+]

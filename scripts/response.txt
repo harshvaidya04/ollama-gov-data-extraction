@@ -1,20 +1,37 @@
- {
-        "name": "National Testing Agency",
-        "date_of_notification": "2025-01-22",
-        "date_of_commencement": "2025-01-22",
-        "end_date": "",
-        "apply_link": "https://jeemain.nta.nic.in/",
-        "event_type": "Exam",
-        "document_links": [
-            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012220.pdf",
-            "additional_document_link_if_found"
-        ],
-        "details": {
-            "rescheduling_information": "Rescheduling of JEE (Main)-2025, Session-1 Examination for Few Candidates who appeared in Examination Centre eTalent, (TC Code-40086), No.3, Belmar Estate, Nagasandra Main Rd, Bengaluru, Karnataka held on 22 January 2025 (Shift-I)",
-            "exam_schedule": "22, 23, 24,28 & 29 January 2025\nPaper 1 (B.E./B. Tech) in the first shift (09:00 A.M. to 12:00 Noon) and the second shift (03:00 P.M. to 06:00 P.M.)\n30 January 2025) Paper 2A (B. Arch), Paper 2B (B. Planning) and Paper 2A & 2B (B. Arch & B. Planning both)",
-            "rescheduling_dates": "28/29 January 2025",
-            "helpline_number": "+91-11-40759000",
-            "email": "jeemain@nta.nic.in",
-            "website": "www.nta.ac.in, https://jeemain.nta.nic.in/"
-        }
-    }
+I'll help you review the provided output format requirements for the e-Office system, specifically for using Digital Signature Certificate (DSC) in e-Office.
+
+**Output Requirements:**
+
+1. **JSON Object**: Return only a valid, properly formatted JSON object.
+2. **No Explanations**: Do not include explanations, notes, or markdown formatting.
+3. **Verification**: Verify the output matches all requirements before submitting.
+4. **Mandatory Fields**: Double-check that all mandatory fields are populated according to rules.
+5. **JSON Escaping**: Ensure the JSON is properly escaped and valid for direct parsing.
+6. **Top-Level Keys**: The output MUST ONLY contain the specified top-level keys in the JSON, with the following value types:
+	* `name`: string
+	* `date_of_notification`: date (YYYY-MM-DD format)
+	* `date_of_commencement`: date (YYYY-MM-DD format)
+	* `end_date`: date (YYYY-MM-DD format)
+	* `apply_link`: URL or string
+	* `event_type`: one of the following values: ("Exam", "Result", "AdmitCard")
+	* `document_links`: array of URLs or strings
+
+**Example Output:**
+
+```json
+{
+  "name": "Shravan Kumar",
+  "date_of_notification": "2022-02-15",
+  "date_of_commencement": "2022-01-25",
+  "end_date": "2022-03-20",
+  "apply_link": "https://example.com/apply",
+  "event_type": "Exam",
+  "document_links": [
+    "https://example.com/document1.pdf",
+    "https://example.com/document2.docx"
+  ],
+  "details": "This is a test document."
+}
+```
+
+**Note:** Make sure to check the output for all mandatory fields, proper formatting, and JSON escaping before submitting it. Verify that the top-level keys are present in the correct format, and the `event_type` value is one of the specified options.

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "GBAEUR BSc AHA WSIdoll NAAN Al AlD WAYS [CSA lot! VA.",
+        "date_of_notification": "23-02-2022",
+        "date_of_commencement": "01-04-2022",
+        "end_date": "31-03-2025",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam-document",
+            "https://example.com/result-document"
+        ],
+        "details": {
+            "section1": "This is section 1 of the document.",
+            "section2": "This is section 2 of the document."
+        }
+    },
+    {
+        "name": "Gujarat Public Service Commission (GPSC) Job Notification",
+        "date_of_notification": "2024-02-01",
+        "date_of_commencement": "2024-03-01",
+        "end_date": "2024-04-30",
+        "apply_link": "https://gpsc-ojas.gujarat.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://gpsc-ojas.gujarat.gov.in/Document/Notification.pdf",
+            "https://gpsc-ojas.gujarat.gov.in/Document/Eligibility_Criteria.pdf"
+        ],
+        "details": "Details about the exam and eligibility criteria will be provided on the official website."
+    },
+    {
+        "name": "Notification",
+        "date_of_notification": "2023-02-20T14:30:00.000Z",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam-document.pdf",
+            "https://example.com/results.pdf"
+        ],
+        "details": {
+            "exam_details": {
+                "exam_name": "Mathematics Exam",
+                "exam_date": "2023-02-25T10:00:00.000Z",
+                "exam_time": 90
+            }
+        }
+    },
+    {
+        "name": "GPSC",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "2025-02-22",
+        "apply_link": "https://gpsc.gujarat.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/INDDSD-12-02-2025.pdf"
+        ],
+        "details": {
+            "Organization": "Gujarat Public Service Commission (GPSC)",
+            "Event Description": "Notification for the exam on 22nd February 2025."
+        }
+    }
+]

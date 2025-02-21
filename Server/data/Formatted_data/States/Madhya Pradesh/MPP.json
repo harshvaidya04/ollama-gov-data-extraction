@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Cyber Security Training",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-30",
+        "apply_link": "https://www.cert-in.org.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.meity.gov.in/"
+        ],
+        "details": {
+            "system_and_network_administrators": [
+                "Gla Wee & AIeay S VIS airs wfsafera Sar AST"
+            ],
+            "cunfeit_ux": [
+                "wt cunfeat ux Fafa eu S te agedar see BT AeA"
+            ],
+            "praya_affatwat": [
+                "We pray afefatwat & fa staffed festa wart ward oT"
+            ]
+        }
+    },
+    {
+        "name": "Payment Gateway Notification",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2024-02-20",
+        "apply_link": "https://example.com/apply-now",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam-documents.pdf"
+        ],
+        "details": [
+            {
+                "key": "description",
+                "value": "Payment Gateway Notification for Exam"
+            },
+            {
+                "key": "notice_number",
+                "value": "PGN-001"
+            }
+        ]
+    }
+]

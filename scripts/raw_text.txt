@@ -1,477 +1,1749 @@
-asia use vsieit
+Working with E-OFFICE
 
-National Testing Agency
+OCTOBER 2023
 
-Vj--—s
+Table of Content -
 
-4]
+1. Login
 
-meee eras a ot
+2. Diarization
 
-(SaRR Rien fay, Ren Hae, UR WHR & Ted Ua Ta BISA)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
+3. After receiving the file/receipt in Inbox
 
-Press Release
-11 February 2025
+4. Forwarding and Replying a File/Receipt to other users
+5. Opening/Creating a new File
 
-Ad Hele
+6. Noting
 
-Sub.: Declaration of Joint Entrance Examination [JEE (Main) - 2025] Session 1 NTA Scores for Paper 1
-(B.E. / B. Tech.) - reg.
+7. Creation, Approval and Dispatch of DFA in Files
 
-The National Testing Agency (NTA) conducted the Paper 1 (B.E. / B. Tech.) of Joint Entrance Examination
-(Main)— 2025 Session 1 (January 2025) in 618 Centres in 304 Cities (including 15 cities outside India) as
+8. Sending of response against a standalone Receipt
+9. Creation of Part files
 
-per the details given below:
-Date of Exam Paper Registered Appeared age
-Candidates Candidates
-22, 23, 24, 28 and Paper 1
-29 January 2025 (B.E./B. Tech.) Here) meDElESG CREE
+10. Pull up
 
-The JEE (Main) - 2025 Paper 1 (B.E. /B. Tech.) Examination was conducted in Computer Based Test (CBT)
-mode in 13 languages (Assamese, Bengali, English, Gujarati, Hindi, Kannada, Malayalam, Marathi, Odia,
+11. Search
 
-Punjabi, Tamil, Telugu, and Urdu).
+12. Process for closing and reopening of file
 
-The Examination was also conducted in 15 cities outside India in Manama, Doha City, Dubai, Muscat,
-Riyadh, Sharjah, Singapore, Kuwait, Kuala Lumpur, Kathmandu, Abu Dhabi, West Java, Washington,
+13. DSC in e-Office
 
-Lagos and Munich.
+1. Process for login
 
-The NTA Scores/ Results of Paper 1 (B.E./B.Tech.) are being declared today. The results of JEE (Main) -
-2025 Paper 2 (B.Arch/B.Planning) will be declared later.
+(Go to URL:_https://eoffice-uttarakhand.uk.gov.in —> Enter Mail-id and Password > Enter the OTP
 
-Following are the details of Category-wise and gender-wise distribution of candidates for Paper 1:
+received on mobile > click the check box don’t ask again on this device)
 
-The Gender/Category-wise distribution of Candidates Registered for Paper 1 (B.E. /B. Tech.)
+DR. tips csparicnag.nicin
 
-\Category General EWS sc ST OBC Total
+reatenegoge:
 
-Female 1,67,790 45,627 42,704 13,833] 1,73,668 4,43,622
+r
 
-Male 3,21,419 96,159 87,550 28,778| 3,34,014 8,67,920
+ie ee
 
-|Third Gender 1 0 0 0 1 2
+e
+S QaricHay
 
-Total zl 4,89,210 1,41,786 1,30,254 42,611) 5,07,683 13,11,544
-araé a/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
+€ > XB pwichayricinipen’ /asetsAagianbe v= 7Sserece=pessveSacrve=t ued
 
-aaeise / Website www.nta.ac.in, https://jeemain.nta.nic.in/
+G imi @ voulee Fonilrte BD New
 
-VS YEARS OF
-CELEBRATING
+5 FaveBicor inue=httpsA2AR- AE an_com BF mal tehSwo=1Sscc="Slnpl-retwutd, Oe OD:
 
-THE MAHATMA
+[) Alockerae
 
-wary wet
+Ld
+r) Saricuay
+Waiteg for patchapnic in
 
-%
+PD tyrenete research am™m ta GM" @
 
-asta austen viet
+28 Suney ay tne TAM
+€ Be Suny > we gy te Risidral|
 
-National Testing Agency
+2. Process for Diarization
+(Go to FMS>Receipt> Browse and Diarise>Select ‘Electronic’ >Browse and Upload pdf
+(mandatory) Enter Letter Details Click ‘Generate Receipt')
 
-Excellence in Assessment
+€ > Co ft seFce-utzathandungoy.nnoepyp cer t+ o@:
 
-(Sar Rien farm, Ran Hares, UR WHR & Tet Ver Ta BHTSA)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
+G Sai @B vouTuce BP traps Dp Tante AB Nees B MbBoskr-ares
 
-The Gender-wise/ Category-wise distribution of Candidates Appeared for Paper 1 (B.E. / B. Tech.)
+Q Search Here “land earch» &e ?) “ © Ligon
+Office 8 «@
 
-(Category General Ews sc OBC Total
+CMPLOYEL SERVICE UIC LINKS
 
-Female 1,59,378 44,762| 40,282 12,965 1,67,423 4,24,810|
-Male 3,06,980 93,937 82,563} 26,994| 3,22,851 8,33,325
-[Third Gender 0 0 d ) ae 1
-Total 4,66,358 1,38,699 1,22,845 39,959) 4,90,275 12,58,136
+(ct attack Mt you are humble noching will Couch you, neither praise nor disgrace, because you know what you are, - Mocher Teresa
+Fa meme
+© office Services Ageiculcure G%
 
-The following candidates (in ascending order of Application No.) have obtained NTA Score of 100
-in Paper 1 (B.E./ B. Tech.): -
+» File Management System
+» eFile AMS Repares = EMS
 
-S. No. Application No. | Name of candidate sessinal an poate 12 Clea}
-1 250310009213 | ayysH sINGHAL RAJASTHAN
-2 250310034720 | KUSHAGRA GUPTA KARNATAKA
-3 250310133572 | paKsH DELHI (NCT)
-a 250310143408 | arsy JHA DELHI (NCT)
-5 250310150634 | pajt GUPTA RAJASTHAN
-6 250310210195 | suREYAS LOHIVA UTTAR PRADESH
-7 250310236696 | saKsHAM JINDAL RAJASTHAN
-8 250310254844 | SAURAV UTTAR PRADESH
-9 250310299968 | yisHap JAIN MAHARASHTRA
-10 250310312145 | arnay SINGH RAJASTHAN
-11 250310391420 | sHivEN VIKAS TOSHNIWAL GUJARAT
-12 250310564942 | sai MANOGNA GUTHIKONDA _ | ANDHRA PRADESH
-13 250310569571) on PRAKASH BEHERA RAJASTHAN
-14 250310746461) Bani BRATA MAJEE TELANGANA
+» Knowledge Management » No Event Avaliable
 
-yee erase a at
+Ey Other Services
++ Finance Services
 
-wrach ua/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
-aaeige / Website www.nta.ac.in, https://jeemain.nta.nic.in/
+& Download Frems Pinare>
 
-YEAR
-CELEBRATING
-THE MAHATMA
+228M
 
-&
+@ wan a wae Sm S
 
-usa usta vsteft
+LOMICe. or
 
-National Testing Agency
+rertsubea | Sg terosskumarcypa. 60 1 Secn. | ly 1418720201011 AM Be
 
-Excellence in Assessment
+5 CS Uhr | by sono seem. | 6, 1403720200053 a Ones
 
-aya
+G | CoS umersty | So MoncosKimer Oj 80 1 SECT. | 14/0370200830 4M Be
 
-(Sa Ren foun, Ran Hares, UT MGR & Ted Vay aT HSA)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
+@ | CS Univesity | lp Mencos Kumar jhe, 601 SECT. | Ei 14/037202008357 AM Be
 
-State-wise toppers and their NTA Scores (in descending order of NTA score) in Paper 1 (B.E./ B.
-Tech.) are as under: -
+™ FS rest subjedt | Zp Mentos Kumar Ojpa, BO 1 SECT... | GB 1403720200101 AM Bae
+ 1sosom ont aut
 
-S No. Application No. | Name of Candidate State of Eligibility(State of NTA Score
-passing/ appearing 12th Class)
-1 250310009213 | AYUSH SINGHAL RAJASTHAN 100
-2 250310034720 | KUSHAGRA GUPTA KARNATAKA 100
-3 250310133572 | DAKSH DELHI (NCT) 100
-4 250310143408 | HARSH JHA DELHI (NCT) 100
-5 250310150634 | RAJIT GUPTA RAJASTHAN 100
-6 250310210195 | sHReyAS LOHIYA UTTAR PRADESH 100
-7 250310236696 | saKSHAM JINDAL RAJASTHAN 100
-8 250310254844 | caurav UTTAR PRADESH 100
-9 250310299968 | VISHAD JAIN MAHARASHTRA 100
-10 250310312145 | aRNAV SINGH RAJASTHAN 100
-11 250310391420 | cuiveN VIKAS TOSHNIWAL | GUJARAT 100
-SAl MANOGNA 100
-12 250310564942 | Ona ANDHRA PRADESH
-13 250310569571 | oi PRAKASH BEHERA RAJASTHAN 100
-14 250310746461 | BANI BRATA MAJEE TELANGANA 100
-15 250310016185 | DEVDUTTA MAJHI WEST BENGAL 99.99921
-16 250310292034 | amoGH BANSAL HARYANA 99.99921
-17 250310429117 | MAJID MUJAHID HUSAIN | MADHYA PRADESH 99.99920
-18 250310058717 | piysa DAs PUNIAB 99.99684
-19 250310524809 | ARNAV JINDAL CHANDIGARH 99.99681
-20 250310128502 | AKSHAY BIJU BN KERALA 99.99605
-21 250311120659 | sHoURYA AGRAWAL CHHATTISGARH 99.99602
-22 250310544241 | aBHIMANYU TIBREWAL JHARKHAND 99.99602
-23 250310326177 | PANINI BIHAR 99.99442
-24 250310747162 | SUNAY YADAV TAMIL NADU 99.99365
-25 250310468132 | VIVEK PANDEY UTTARAKHAND 99.99365
-26 250310246400 | NABANEET PRIYADARSHI _ | ODISHA 99,98964
-27 250310151645 | DHERYA SHARMA HIMACHAL PRADESH 99.98576
-28 250310006756 | KANISHKA CHAKRABORTY | ASSAM 99.96976
-29 250310451582 | AHRAN RAWAL DADRA AND NAGAR HAVELI
+ayes ae FS tent subjest | 2 Mansosh Kumar ha, 60 1 SECT. | Bl 14/03/2020 1253 AM BiBe
 
-wed aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
+eh 190x202 2584
 
-adage / Website www.nta.ac.in, https://jeemain.nta.nic.in/
+[220 25/2020/80) OFS terteubject | By Hone
 
-99.95858
+0) svosz020 1255 4M
 
-Kak
+2.80 +571. | 1403/2020 1255 4M BIR 6
 
-YEARS OF
-CELEBRATING
-THE MAHATMA
+TE) mt smonIAN Ne rer yer 1 sect | RR MRI 834M BE se
+ taox2070 1283 00
+(F) | wt8 | 254/2020/00-0F5 | test subject | Bg Man 4.80 1 CTI. | Gi 14/03/2020 1251 AM BR e
 
+{ twosa0e0 1282 as
+
+2) PRIN SEIPMIOIRNINEE pe che | 8 stone rmneen Ons ccrm | APR YAMIN AM Bw u
+Total Recor: 260 26 O23 ase]
+
+
+€ 39 Cf seFeeubswathinducgouingrinwtessipiovater ove oOey 08:
+
+2 Bp Fete Nees Oh A Rockeres
+
+&B Diary Betally
+
+Dlery bars — —— Fores Of C=mmuricatio-s~ Language
+227082023 Ee “7 Ende "+
+
+Letter Bite Letter elfen
+| asirmivery ®
+
+Detvey Mate Mate Nurrther Serer Tyee
+By “and or Choose One =
+
+Oy
+Cheuse Gne ,
+
+F Contact Details tw fares Rink |
+Hi Dept hers
+
+Neve” Desgraton”
+on
+Ongprkeation
+
+Mociie frat
+
+Addrene™
+
+[Bl ccrrerraam scmntora cevsapsaty tr
+
+aa Gm@@er#e Q@ sur 6 wad re SOM OO
+
+HOP Wrens to search
+
+Actions that can be Performed-
+
+A. Save the receipt generated without sending it further.
+
+Enter Desciption | Zp antosn Kumar Ojne, 901 SECT. | EE 03/03/2029 08.05 PM
+
+Enter Descistion | 2p. ManrnenKumarcna AN CTI | ff 03/03/2020 0258 PM
+
+_-| Enter Description | 5 Wantosh Kumar Oj, 80 1 SECT. | GE 03/03/2920 0255 PM
+
+Enter Descigtion | Mantosh KumarOjna, 801 SECTI.. | fp 03/03/2020 02:59 PM
+
+¢h coear2020 ce:51 pm
+
+(P| 3654 | Award Sec1101023/2020801-D. | Enter Descrition | Zp, antosh KumarOjna, 801 SECT. | Ey 8/05/2020 02-45 PM
+% canon @-45eM
+
+(B68 | wart $60.1 101007272020.801.0 | Feter Nescription | By stantocn tumarcyna, 20 1 ser. | (Ry O*vn"v2070 07-34 PM.
+& omorneneo-sse4
+
+(BH) 3652 | award Sec:11010/21/2020801.0...| Enter Descristion | Ze, Mantosh KurnarCiha. 801 SECTI__ | 03/03/2020 0228 PM
+{H c2Ma72020 2:23PM
+
+(DH) 608 | avant cores imrennera7.ROT.A Se tux “ ewer 9 1195 a
+{030372020 11:27 00
+
+(E)| se27 | 17/2020-801.5 | atgor ey MancoshKumar Ojha, BO 1 SECT. | 0208/202012120m BB \.
+Total Records: 204 (9) EB(2\(3)(4) (sir)
+
+M3. Receist Quick
+Detals
+
+E1836 1940/2020/00-DF5 ACR related matter
+
+Cops Sere Pucinafile Draft u a Close
+
+gio P AutematicZoom Bp cai ceeate
+
+A Simple PDF File eo iarecieocs fare
+{ext Andimora we. ong. 22222 And ree We. red ove st APC Leter Date Received Date osve2/2020
+(Jodreore test Ant wore tet a Diary Date: 82/2020 Diarised By: ‘Shravan Kurnar, B01 SECT!
+Aad wore tat. And more text And mere tex, Ardmore tect And more ‘ON- DFS
+re
+famed zs pat
+'D Hixory
+No records found q
+
+B. Forwarding the receipt to others (Enter 'To'/'Cc')
+
+Onmanisation
+
+Recents : : Comp.No. File Ne. / Receipt No.
+
+C. Copying the details of the generated receipt to create a new receipt
+
+(click 'Copy'> Upload pdf> Edit details (if necessary) > generate receipt)
+
+3. Process after receiving the Receipt/Files in Inbox
+
+(For Receipts only)
+
+Office
+
+My 201022020 04:15 Pm
+
+€% vwox020 101 6
+
+Pi) One
+é FS | GP | CCS University | Be ttarconh Kumar Ofve 8 1 SECT. | 14/03/2020 08:50 AM ae
+oss
+B | ces Unwersty | Sp wancosh Kumar Ojsa BO + sem. | fy 1403202000837 AM Be
+A”)
+Pa)
+& test subject | Zo n porsccr. | 14/03/2020 1258 aM RBs
+O1-DFS | test subject | ig Atantosh Kurmar Ops, B M s0v2020 1255 0M eBe
+
+a. Attachment of file to receipt for reference
+
+(Go to ‘Receipts’ > Click ‘Inbox’ >Select a receipt > Click ‘Attach file’ > Select the respective file>
+Click ‘Attach’)
+
+Office
+
+or *) | comp. No. 2033 Receipt No. 463-2020/801-0F ©
+Nature Fieno,
+Py sin Category: har reac res Su Category
+=
+a From Narme:Astcmaton Testing Designation nso
+L?] Forms of Communications: Leer Detvery Made By Post
+Sender Type eter Ret No.
+a
+eter Date Received Date
+p iary Date swoxaaz0 Slut By
+“
+2 samjec sec
+2 Endosurey Remar:
+
+Dispatched On 11 | Despetched
+
+b. Dispatching a reply against a receipt
+
+(Go to ‘Receipts’ >Click ‘Inbox’ >Select a receipt> Click ‘Dispatch’> Enter the details> Click
+‘Dispatch By Self/CRU’)
+
+c. Display details of Dispatch History and Referenced Files
+(Go to ‘Receipts’ >Click ‘Inbox’ >Select a receipt>Click ‘Details’)
+d. Attachment of receipt to file(optional)
+
+(Go to ‘Receipts’ >Click ‘Inbox’ >Select the receipt>Click ‘Put in a file’ >Select the respective
+file> Click ‘Attach)
+
+5 testubject 2 Marmsn kumar oyna, 8o }secn. | B 0602202067.16 AM
+
+abedefg do Mentosh Kumar Ojha, B01 SECT... | (RB, 0802/2020 07:09 AM
+
+200708 AM
+/2020180'.DFS abedefg Sp Mantoch Kumar Ojha, £0 1 SECT... | GB 08M2/200007.084M B
+{ osmz020 07.0548
+A
+a :
+[1380 | vose2020e0-0e | anatetg Sy Martsch urrar hs, 601 SECT. | abnrex0 07.02 0 i)
+FA) H) 08002/202007.03 AM
+. (F152 | 102572020801-05 aucdety fy Mantoxh Kumar Ojpa, BO 1 SECT. | My 08/02/2020 0650.4 8
+[3] { csna0200650 a0
+% [P) | 1520 | 71024/2020001-DFS abedefg 2p menosn Kumar Qjna. BO 1 SECT. | FE 0802/2020 06-48 AM B
+{ osmza020 06:8 axe
+(7) 1519 1ezv2020B01-FS | abosete | Lp atancosn kumer Opa, 80 15cm. | 022020 0642 AME r
+[B)1518 | 102272020801-065 adctety Sp. santosh Kurrar Opa, 60 1 SECT... |p 68/02/2020 06 0 4 é
+
+{ osziaon0 06.2
+
+[P) | 1517 | 1021/2020801-DFS sbedetg Sp Mantosn turnar Ojna, 60 1 SECT... | B, 08/02/202006:38.4m é
+Touat Records: 74 AS ERDE50H
+
+(For Files only)
+
+Office
+
+Sent Advance Search
+
+MoveTo=  CreateVolure
+
+1 IDIO3S8/2020-801.. | TESERE | Mantas Kumar Ofie.00 1 SECT. | 19/2/20200122 mA
+
+tree Destino | Sy mersazn kumar ops, 801 ster. | 1408202001:13 AN
+
+IOIOSIS/2020-601.. | Testrg | 5 Mantesn Kumar Ojhe,0 1 SECT... | Bi 14/8/2020 1139 AM
+
+CLIIDIONSIA/2N20-8O1 | Testing | Sp Mantosn Kumar Ojha, 801 SECT. | BN 14/05/2020 11:57 AM
+
+101071312/2020-801.. | Aveernacon Testing | 5) Mortaah Kumar Of, 001 SECT. | i 1440300207136 AM
+
+SH IDIOSC8/2020-601. | Autoren Testng | 2p Martoen Kumar ona, 81 Secr.. | i 140920207113 AM
+
+a. Details of the File/receipt movement
+(Go to ‘Files’ >Click ‘Inbox’ > Open a file/receipt> Click ‘Movements’)
+
+Sent Advance Search ne Ok x . 5 Sent Rewrned Advance Search
+
+ede
+
+erzameonsovors
+
+ill 1210272020 006 PA ere A Simple PDF File
+J COEUR ‘Thicic acl demonstration petite
+TE note 2 se tevzein te Vr Mec: Motte Wert heres
+
+TU Aodrere td And meron Ard wore ft
+i ‘And more ex. Andre test. And more ex. Ard rore test Are mare
+
+18/03/2020 11:37 AM Shravan Kumer sda oe Ane
+
+‘And er ft od a ft Ad rAd we tc Ad ere
+CONES ‘ee Ana wor te Ane norsten: Ever mere Covinved on eae 2
+
+Noto#3
+
+ge ol
+
+19/03/2020 11:38 AM Mantosh Kumar Ojha
+ASST2(80-1)-DFS
+
+[EB conytene © 2020, esgne ae developed by Wi
+
+b. Close File
+
+(Go to ‘Files’ >Click ‘Inbox’ >Open a file>Click ‘More Action’ >Select ‘Close File’ (Only by the
+creator of the file) > Enter Closing Remarks Click ‘Close’)
+
+»@D *
+
+ISSUE Gant | Returned
+
+SentOn {| | Read Ont] |DueOn 4] | Remarks
+
+Comp. No. f| File No. —
 
 4
 
-usa uster vst
-National Testing Agency
+19/05/2020 19/06/2020
 
-Excellence in Assessment
+3115477 A1963/2020-QA01 Oeste ogsaow
 
-(SaRR Rien four, Rat Hare, UT PRR & Tea Ue Fa BTA)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
+18/06/2020 18/06/2020
 
-30| 250310071793 | ROHAN SIDDHESHKENI_ | GOA 9.95858
-31| 250310000744 | ARKAJIT BHOWMIK TRIPURA 99.94604
-32 | __250310189720 | KAMRAN BILAL BHAT JAMMU AND KASHMIR 9.89337
-33 | 250310340859 | SABYASACHI CHOUDHURY | OUTSIDE INDIA 9.87098
-34 | 250310218760 | E KUMARAN PUDUCHERRY 99.86772
-35 | 250310098102 | ISHANT VERMA MIZORAM 99.57766
-36 | 250310617130 | NISTHA GAUTAM MEGHALAYA 99.43582
-37 | 250310666429 | PRANAY KUMAR ROY ARUNACHAL PRADESH 99,38402
-38 | ___250310183132 | RAJAT KUMAR SINGH SIKKIM 9.35852
-39| — 250310048742 | MOUSAM DAS ANDAMAN AND NICOBAR 98.90498
-ISLANDS
-LOYANGANBA
-40) 250310113058 | FA MANIPUR 98.6999
-41 | 250310561005 | JAYESH VASAN DAMAN AND DIU 98.41820
-42 | 250310628173 | BASHIR AHMAD LADAKH 96.19349
-43 | 250310392465 | SAMIR KUMAR NAGALAND 95,60180
-44 | 250310948259 | MUHAMMAD HAMID L___| LAKSHADWEEP 90.06976
+fa) E 3115391 (A941/2020-RTI Test Email &5MS 4 Vandana Pal, RTI DIVISION
+s " 0314PM 07:56PM
 
-General Category toppers and their NTA Score (in ascending order of Application No.) for Paper 1 (B.E.
-/ B.Tech.) are as under:
+B
 
-State of Eligibility
-- ae . (State of passing/
-SNo Category | Application No | Name of Candidate appearing 12th NTA Score
-Class)
-1 General 250310009213 | AYUSH SINGHAL RAJASTHAN 100
-2 General 250310034720 | KUSHAGRA GUPTA KARNATAKA 100
-3 General 250310143408 | HARSH JHA DELHI (NCT) 100
-4 General 250310150634 | RAJITGUPTA RAJASTHAN 100
-5 General 250310236696 | SAKSHAM JINDAL RAJASTHAN 100
-6 General 250310254844 | SAURAV UTTAR PRADESH 100
-7 General 250310299968 | VISHAD JAIN MAHARASHTRA 100
-8 General 250310312145 | ARNAV SINGH RAJASTHAN 100
-9 General 250310391420 | SHIVEN VIKAS TOSHNIWAL | GUJARAT 100
-SAI MANOGNA
-10 General 250310564942 GUTHIKONDA ANDHRA PRADESH 100
-11 General 250310569571 | OM PRAKASH BEHERA RAJASTHAN 100
-12 General 250310746461 | BANI BRATA MAJEE TELANGANA 100
-Gen-EWS Category topper and the NTA Score for Paper 1 (B.E. / B.Tech.) is as under:
-State of Eligibility
-SNo Category | Application No Name of Candidate (State of passing/ NTA Score
-appearing 12th Class)
-1 Gen-EWS 250310154073 Sonik YASWANTH ANDHRA PRADESH 99.9968125
+- 18/05/2020 20/06/2020
+fa] E 3115390 .A940/2020-RTI ‘Test Emall & SMS 11 Vandana Pal, RTIDIVISION os pM o3.50aM 1
 
-yee eres
+Yerur Siraj Ahmed, eOffice 10/06/2020 10/06/2020
 
-arad aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
+oO 3115382 (41931/2020-QA01 250002 tne. bespaM obsoane
 
-aaese / Website www.nta.ac.in, https://jeemain.nta.nic.in/
+c. Park File
 
-ial:
+(Go to ‘Files’ >Click ‘Inbox’ >Open a file>Click ‘More Action’ >Select ‘Park File’ >Enter Remarks
+and Reminder Date Click ‘OK')
 
-CELEBRATING
-THE MAHATMA
+Office eFile veo
 
-Fes at ay
-wy
-wi
+= osearci SER
+B [ran] ‘
 
-wey Tet
+a
+LF
+4 1) | 1929 | suitsing 11/3:2019-801-0FS | @ | wed | $5 Shravan Kumer, DEAS... | 6 443M eB
+Ly | CE) | 2077 | Buitding-11/11/2020-801-D8S | wed | $y shravan Kumar, DEAS... | 6 443 PM
+ERE) <1 (E)| 2076 | suiteing-21010/1/2020.801.055 | erfert | 2p Mantosh Kumar Ojna, | G3 229M 8
+Q OB 02101/20200229PM [3S] et
 
-OBC-NCL Category topper and the NTAS.
+&
 
-3
+Parking Confirmation
+Do you want to park the fellowing files)?
+subject
 
-asi oSten wale
+2088 1-20012/565/2019-801-DFS Enter Description
 
-National Testing Agency
+Parking Due Date *
+70 VE020
 
-Excellence in Assessment
+Paricing Remark *
+Park till Further Action
 
-(Sar Ratt four, Ria Hares, URT WR & ded Ue eae BS)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
+rexa10| S76 Carecer eft
 
+d. Details of part files and volumes if created
+
+(Go to ‘Files’ >Click ‘Inbox’ >Open a file>Click ‘Details’)
+
+4. Process for Forwarding and Replying a Receipt/File to other users
+a. Forward
+
+(Go to ‘Files/Receipts’ >Click ‘Inbox’ >Select a file/receipt> Click ‘Forward’ > Enter ‘To/Cc’>Enter
+‘Action/Priority’ (optional) >Click ‘Send’)
+
+sumvounccnren FILE ver.70 BSE osetorice
+
+recert G Ace ILE reat ert Ady ch ISSUE Sent Returned Adv
+
+Comp.No. $1 | File No, Sent On {| ReadOnt] DueOnt] — Remariee
+
+‘1052020 19/06rcz0
+asap onsapu a
+
+‘alos :4reenez0
+eas kau TescEmal BSUS Vandana Pal RT1OMSON
+fe ee am aan | “ oar orserw 5
+
+‘ay06/2020 0706/2020
+, p.40!2020% Te fonda Pel, FTI Dt
+E 3115390 4/40/2020-8T1 ‘esc Emad & SMS 11 Vendare Pel FTIDIVSION ano O350aM 1
+
+& 3115877 18/963/2020..01 fet Jasiéran, nd?
+
+Yerur Siraj Ahmed, eOffice 10/06/2020 10/06/2020
+
+P 3115382 4V937/2020-0A.01 250002 oa O952AM 09:52AM
+
+or
+
+(Go to ‘Files/Receipts’ >Click ‘Inbox’ >Select quick action for forward> Enter ‘To/Cc'>Enter
+‘Action/Priority’ (optional) >Click ‘Send’)
+
+or
+
+(Go to ‘Files/Receipts’ >Click ‘Inbox’ >Open a file/receipt>Click ‘Send’ >Enter ‘To/Cc’>Enter
+‘Action/Priority’ (optional) >Click ‘Send’)
+
+WINGS
+
+= receist “Greatelt | Inbox || Sent reste Inbox
+
+e FE] Movement Detaiis Dr Send Back LinkFlles Attach =
+
+Fle inbox / 4/94172020-8T|
+
+18/06/2020 03:14 PM Vandane Pel
+DEALING HAND
+
+Quick Noting ~
+
+eFile y,
+
+= RECEIPT Inbox Sent Ada Fic Create
+
+File Inbox / A/941/2020-RT1 E 3195991 A/S41/2020-8T1 Test Emoil &SMS.4
+
+Organisation
+
+Ga
+
+eS Comp.No. File No. /Receipt Ne. Subject Note Type
+To: g F aniss01 | arocti200.en TeccEmaiRSMSA GREEN
+Vendara Devi SNVD}HP SHIMLA STATE UNT) joufy Trough: ) Ema SMS
+Sc: Due Dete ation
+Eimer Choose One
+Priory
+Choose One + tiniiate Action
+Remarks
+
+‘Note: Noting In the attached files, if any, will ba finalizes after movement of main fila/racaipt.
+
+Intimate To
+
+1 Vandene Pet
+
+
+b. Reply
+
+(Go to ‘Files/Receipts’ >Click ’Inbox’ >Select a file/receipt >Click ‘Reply’> Enter ‘To/Cc’ > Enter
+‘Action/Priority’(optional)-->Click ‘Send’
+
+or
+
+Go to ‘Files/Receipts’ >Click ‘Inbox’ >Select a quick action for reply>Enter ‘To/Cc’>Enter
+‘Action/Priority’ (optional) >Click ‘Send’)
+
+Action that can be performed after-
+
+I. Pull back the file/receipt
+
+(File/Receipts >Sent Click the icon for Pullback against the file/receipt to be pulled back(if
+unread))
+
+Comp. No. {J File Ne. nc On DueOn 14 Actions
+
+£31598 —A952/2020 0401 a & isha #
 7
 
-——
-ae
-STS ay ar
+£ 3115481 1 2/1128/2020-QA.01 ex Jaskiran, nid {oogam  2stiran,nte2
+OAR © sisca t21117812020-Q8-01 Tex Jastaran, nid Jashiran, nie?
+nN & 3115408 8/23/2020-04-0 Draft Ras prpataee Tis De
+Fad c 2106s © soayco20.an Request far information Under RTI Act, 2005 by Menu = , iar ga ae
+& Gee des = ie Coals Ae
+© Bie 28 = a oe a@
 
-od Asia
+|. Follow up
 
-core for Paper 1 (B.E. / B.Tech.) is as under:
+(File/Receipts>Inbox/Sent> Select the file>Click ‘Mark As’>Select ‘New Follow Up’>Select
+the severity> Enter the Follow Up action>Select the Alert Mode >Select the date and time >Click
+‘Save’)
 
-State of Eligibility
-—_— . (State of passing/
-NTA
-SNo Category | Application No Name of Candidate appearing 12h Score
-Class)
-1 OBC-NCL 250310133572 | DAKSH DELHI (NCT) 100
-SC Category topper and the NTA Score for Paper 1 (B.E. / B.Tech.) is as under:
-State of Eligibility
-SNo Categor Application No Name of Candidate (State of passing/ NTA Score
-Bory ppiica appearing 12th
-Class)
-1 SC 250310210195 | SHREYAS LOHIYA UTTAR PRADESH 100
-ST Category topper and the NTA Score for Paper 1 (B.E. / B.Tech.):
-State of Eligibility
-State of passii
-SNo Category | Application No Name of Candidate (State 'P ing/ NTA Score
-appearing 12th
-Class)
-a ST 250310077196 | PARTH SEHRA RAJASTHAN 99.9713129
-PwBD topper and the NTA Score for Paper 1 (B.E. / B.Tech.) is as under:
-SNo | Sub-Category | Application No Name of Candidate State of Eligibility NTA Score
-(State of passing/
-appearing 12" Class)
-i, PwBD 250311143008 | HARSHAL GUPTA CHHATTISGARH 99.9545990
+lll. View of the sent file/receipt
 
-Gender wise (Male) toppers and their NTA Score (in ascending order of Application No.) for Paper 1
-(B.E. / B.Tech.) are as under :
+(File/Receipts >Sent Click the file/receipt number to view the sent file/receipt)
 
-State of Eligibility
-SNo | Gender Application No Name of Candidate (State of passing/ NTA Score
-appearing 12th Class)
-1 Male 250310009213 | AYUSH SINGHAL RAJASTHAN 100
-2 Male 250310034720 | KUSHAGRA GUPTA KARNATAKA 100
-3 Male 250310133572 | DAKSH DELHI (NCT) 100
-4 Male 250310143408 | HARSH JHA DELHI (NCT) 100
-5 Male 250310150634 | RAJITGUPTA RAJASTHAN 100
-6 Male 250310210195 | SHREYAS LOHIYA UTTAR PRADESH 100
-7 Male 250310236696 | SAKSHAM JINDAL RAJASTHAN 100
-8 Male 250310254844 | SAURAV UTTAR PRADESH 100
+Ea
+Sere t0 Currency wen Dueon ty | Actions
+Cs Tex pee ered arm: oe, wee ae ene ace 2«@
+SB ce aniscai Tes Jastiran, nt d2 190872020 actran,nle2
+1125PM
 
-weer nen ar
+2 eee = ene cree Yet ae
+35 Er Requestor information Under RTI Act, 2005 by Min tatu Stalled cOFks  tainameag Mes 2@
 
-were aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
-adaenge / Website www.nta.ac.in, https://jeemain.nta.nic.in/
+2aoe | aes = our SeeAned cOFke T9MG2O20 Yeu Sey Al Ofer Ae
+o BL ete eur sraishmes core 1092520 erurSraates, <oe me
+
+
+IV. Part file (only for files)
+(Files >Sent Select the particular file against which a part file
+
+is created>Click Create Part)
+
+5. Process for Opening/Creating a new File
+
+(Go to FMS > Files > Create New File (SFS/Non SFS) > Enter File Heads> Enter Subject and other
+details> Click ‘Continue Working’)
+
+ss ee oe oe oe
+
+Actions that cab be performed —
+a. Attach or Detach Files/Receipt
+
+(Files >Create New >Click ‘Attach’ >Click ‘Attach’ >Choose file/receipt> Click ‘Attach’)
+
+E | 1430 | CS0-11015/2/2010-€ | Testing
+
+. BB, |
+
+Bi | mevonen aa ort eat] oa]
+
+2
+
+@ © 1223/2019 a@
+
+Is
+
+wnzazoe
+
+a FS
+
+qe
+
+&
+
+FlowPort
+
+Ona ence hee i's aca
+
+=)
+
+LS
+
+Xerav Dacument Centre Setun
+
+LOFfiCe, eile versa s az
+
+receet \G@este Se ¢ ATCH Sent Returned Advance Search
+
+E | 1430 | CS0-11015/2/2019-C | Testing
+
+EA] movement | Details | Draft- | Edit | Send | Link- Attach- Close~ | More~ fe]
+File(s)
+ComputerNo & File No. Subject Ascached By Attoch On Remarks Action
+
+No records found
+
+Nature ¢ Comp Number & File Number & Subject &
+e 1139 DEV-SCH-14010/1/2019- fsadtstst
+8 E 1136 G-1s0121/2019.¢ Test DFA
+e 1134 HTED-16041(111/2019- u2
+e 1126 DoL-12018/2/2019-¢ Lottery State(West Bengal)
+e 1125 .23011/1/2019.¢ Test 26 june
+E 12 csoni2019-¢ On the Insert tab, the galleries include items tha
+e 1120 Building/3/2019-C Test Fle-Convert
+e 116 DEV-SCH-19011/1/2019-C TestFile
+E m2 20/1/2019. Physical Fle
+e am Builging-11/1/2018.¢ ent
+Sil | Bee
+Remarks"
+[aach fle
+
+To detach.
+
+CO@ffice eFile v. ry a
+
+E | 1430 | CS0-11015/2/2019-C | Testing
+
+@.
+
+Movement | Details | Draft~ | Edit | send | Link> attach~ close~ | More~ fa]
+file(s)
+Computer No & File No. Subject Astached By Attach On Remarks Action
+Shravan Kamer, ASST1(601)-
+1 p-20013/1/2010-c Tess drafa 12/00/2019 05:23:41 PM Actach la
+2288) / DFS,BO 1 SECTION - DFS. Io
+Shravan Kumar, ASST1(601)-
+saan csoveact9.c File 12/00/2019 05:23:41 PM Actach @
+2 FS.BO 1 SECTION DS aS
+‘yy
+a
+Remarks ™
+
+‘As perrequiremert
+
+Toa 0 on Geese
+
+To attach another file...
+
+CED 5
+Ei}
+
+R
+
+File Inbox /- A-12/1122/2020-QA01 E 3115376 A-12/1122/2020-QA01 Automation Testing,
+Comp. No. T1 | File No. Subject Attached By ‘Attached On T}
+
+@ «& asa /3812020-9A-01 134r34r34134r34r Saroja Kumar Patro, eOffice MM, 20/06/2020 04:32 AM
+Oe 3115426 4/948/2020-04-01 Testing Dispatch by emal Saroja Kumar Patro, eOffice MM... 20/06/2020 04:32 AM
+
+NI]
+
+Ruomaton TeEtng
+
+a11ste8 A-11011/9968/2020-QA.01 Automation Testing
+
+3108506 #A11011/87/2020-94.01 Enter Description12,
+
+3106719 ‘4/22/2020-E0FFICE
+
+Testting file
+
+3106345 1D-12011/194/2020-EOFACE Enter Description
+
+3106347 1D-12011/196/2020-EOFACE Enter Description
+
+3107557 6-14014/1 2020-E0FFICE Jaspresttesting
+
+3106350 D-12011/199/2020-EOFFICE Enter Description
+
+3106359 1D-1201 1/208/2020-E0FFICE Enter Description
+
+3106364 10-12011/213/2020-EOFACE Enter Description
+
+§OEA2GV900
+
+each for reference
+
+b. Edit the details on the cover-page of the file
+
+(Files >Create New >Click ‘Edit’ >Modify the details except the File number Click ‘Save’)
+
+ir Dratty |) Edit Send Back | Link Files
+
+File Inbox /- Award Sect-11010/1313/2020.01-DFS E 5123 Award ect-1010/1313/2020-801-DFS | Testing
+
+=|
+& »
+
+12, zy
+
+Note #4
+
+Create Green Note
+
+= + AutomaticZo0m =
+‘Ward Sec 1010 T313IZ020-50 TOFS
+
+‘7782020801-0FS
+
+@ ee eros A Simple PDF File
+
+p ssST (B00) OFS
+
+£ esl ener
+
+. Note #2 st for use in the Vital Mechanics tutriais. More text. And more
+gp ot'Aedmonetst And more od And mera tect
+
+‘ore text And mere tent And more text And more text Ard more fx
+
+FE 14/03/2020 11:36 AM
+6! Tdmotetse Seon
+
+Manos Kamar Oj f
+/ASST2(BO-1)-DFS
+
+landmore tect Ard move es. nc more txt Ard mores. An are
+text And meretest. And more tet Even more. Comeued en 93062 —
+
+10.25.85. 173/eFileT/# [BD copyright © 2020, designed and developed by NIC.
+
+‘Award Sec: 11010/1313/2020 801-DFS
+
+Desrption *
+Fees
+
+Nain Category
+ACP and other related matters x +) Ghoere One: 7
+
+Remarks.
+[enn Testing Remarks Enter RemarksNICNIC
+
+re ——
+[ftomaton Tsung, Preaous Re. ] (Attomocon Tesi. ater ner
+
+(copyright © 2020, designed and developed by NIC.
+
+c. Send
+
+(Files>Create New >Click ‘Send’> Enter ‘To’>Click ‘Send’)
+
+d. Add Green Note
+
+(Files>Create New >Click ‘Add Green Note’>Type the Noting Click ‘Save’(For Details Refer
+Process 6))
+
+e. Add Yellow Note
+
+(Files>Create New >Click ‘Add Yellow Note’>Type the Noting Click ‘Save’(For Details Refer
+Process 6))
+
+f. Attach Correspondences
+
+(Files>Create New Click ‘Correspondences’> Click ‘Attach’ >Choose a receipt Click ‘Attach’)
+
+No records found fo)
+B
+
+
+Year 2029 | Qsesen rere
+
+Nature | Comp. No. [J | ReceiptNo. Subject
+
+1454 1958/2020/601-DFS sex subject
+
+1481 .985/2020/601-DFS test subject
+
+1482 .986/2020/601-DFS test subject
+1484 .968/2020/801-DFS ‘Automaton Testing
+1486 .990/2020/601.DFS ‘Automaton Testing
+
+e
+e
+e
+e
+e
+E 1495 ‘999/2020/601-DFS ‘Automation Testing
+e
+c
+e
+e
+
+1496 +1000/2020/801-DFS ‘Automation Testing
+197 +1901/2020801-DFS ‘Automation Testing
+
+108 +1002/2020/801-DFS ‘Automation Testing
+
+a nee
+a /
+
+g. Drafting a fresh letter/Reply
+
+HOBAAGG0"
+
+Step 5
+
+(Files>Create New >Click ‘Draft’ >Select ‘Create new Draft’>Click ‘New/Fresh’ or
+
+‘Reply’ Enter details >Type a letter>Click ‘Save’ (For Details Refer Process 7))
+
+h. References
+
+(Files>Create New >Click ‘References’ Local references Click ‘Browse’>Choose a
+
+document Click ‘Attach’)
+
+i. Link or Delink files/receipt
+
+(Files >Create New >Click ‘Link File’ >Click ‘Attach’ > Choose file/receipt> Click ‘Attach’)
+
+
+Year 2020 iB] | Qsearch Here
+
+@@ | Neture | comp.No.th | File No. Subject
+De a2 ‘uling-21010/2/2020-801-DFS quesqusqueus
+De 2141 BC C13/2020-B01-DFS Link 3
+DO. 237 uilcing/4/2020-201.075 unk2
+Be 2135 CS-14/4/2020.801-DFS wef
+Be 212 CS-14037/1/2020-801-D5S Descrition
+De m9 '8.24/4/2020-801-0FS Pt
+DO. ae G-1801471/2020-201-D8S Dessriation nj
+De 27 ‘ulcing/1/2020-801-D55 ‘or pat vewer testing
+Oe 2116 DEV-ESTT.17/1/2020-601-D5 Dhysical dae chece
+De 25 (¢50-11/3:2020-£0-DFS physical dave
+ST CK : Ele
+Link Files
+
+“Total 1000 | 390 Cnaacerlef
+
+To delink...
+
+intor | Sent | Advance Search re a «Sent | Achance Searc st ert | Retumed | Advances
+
+Drafty | Edit Send Back |) Link Files
+
+=)
+
+| 2136 | Bullanng/3/2020-801-0FS | Link 1
+
+20 a: ae
+
+a
+rig
+
+Py Notet 1 Marked Attached/issued |
+om fs ont
+
+a © 6 © ssenagenias wet ee EIB oye
+heel 07/01/2020 10:52 AM Shravan Kumar croyansn
+
+ao ASSTIBONDS © © S4202001.083  sutje —_—Recept CE 18 us
+OD note #2
+
+PANG dslegeted To Nantosh Kumar ojpa
+
+BM oroveca0 224m seravanturar ll
+
+ge
+
+saDpen
+
+Sent | Adv cl rile) Greate | inbox Sent || Advance Searc ent_|-Retumed | Advance Search
+
+Draft ~ LinkFies Anach~
+
+File No Subject
+FCS-14/4/2020-601-DFS wet Link Files
+
+FCS-14037/1/2020.801.D5S Descriation Une Flee
+
+5
+
+zo
+Bg?
+
+B
+
+Sz)
+
+mR
+
+ge
+
+6. Process for Noting
+(Go to Files>Create New/ Completed/Inbox> Click File number)
+---To Add a Green Note (Not editable)---
+
+(Click ‘Add Green note’>Type in the green sheet Click ‘Save’)
+
+Inbox Se 7 z FLE Create Sent Advi ¢ ISSU Sent Returned Ad ch
+
+Details it Link Files Attach
+
+»@> 0
+
+Sent | Returned Advance
+
+Sent | Advance Search FILE Geate | Inbox | Sent
+
+Re pr
+
+u
+-Q*% « Ay AM © © & enoisn~ Fo
+
+verdana 13 Line Heignt
+
+‘OWORDS
+
+{EB copyrih© 2020, designed and deveeped by NIC.
+
+Actions that can be performed in Green Sheet-
+
+a. Reference to Correspondence
+
+(Click ‘Add Green Note’>Type in the green sheet>Select text to be referred >Click the reference
+button Click ‘Save’)
+
+= ieeceieossisa (ED) @ © tor2020/c0Fnce
+
+Refer to following
+
+Refer This Page:
+
+
+FILE Create Inbox Sent Adv Sent Returned
+
+SendRack LinkFiles Attachy Park
+
+APSO 2020-RTT v2 ry
+
+= A Simple PDF File
+
+Refer to rotowing
+“nis emat cemorsvaton pe te -
+
+ustforuce inthe Virtual Mechancs tori Moretest And more
+
+Verdana Line Heth
+
+And more tect od yore tet. Ard mow text And mere. Andere
+f ‘text And moe tex. Borg, zzzzr And moretest Ané more ted. And |
+
+Note Reference
+
+© Correspondence
+
+Poge Number*
+2
+
+b. Reference to previous noting
+
+(Click the file number >Click ‘Previous noting’ >Click paragraph button>Click ‘Add Green
+Note’>Type in the green sheet >Select text to be referred>Click the paragraph number from the
+previous noting Click ‘Save’)
+
+ja Kumar Patro
+PLEOFFICE
+
+ISSUE Sent Returned | Adva
+
+He Note #1
+
+_ H Enalist ‘ormats: Create @ Green Nowe
+< | Eaton fume Refer This Note
+oe 120 Line High ———
+= 10/06/2020 09:38 AM = Saroja Kumor Potro
+p Ser D rotowe Download This Note Ca,
+ba) Note #2
+on Create one more Green Note
+= i
+we 1070612020 0939 AM Yerur Siraj Ahmed
+
+INDIVIDUAL
+
+* aes b
+
+Sent Returned Adv h
+
+E 3115376 A-12/1122/2020-QA-01 Automation Testing,
+
+Note #1
+Create @ Green Note
+
+10/06/2020 09:38 AM Seroja Kumar Pato
+INDIVIDUAL
+
+Note #2
+Create one more Green Note
+
+10/06/2020 09:39 AM ‘Yerur Siraj Anmed
+INDIVIDUAL
+
+Note Reference
+
+(© Noting
+
+Note Number™
+Note #1
+
+Paragraphs
+
+---To Add a Yellow Note(editable)---
+
+(Click ‘Add Yellow note’>Type in the yellow sheet>Click ‘Save’)
+
+© e ‘® en~
+By EF S
+ER
+File Created /- ABCI/3/2020-QA-01 E 3115851 ABC1/3/2020-9A-01
+FER) 7
+E)
+
+Office a
+e
+
+* ORES
+Details Draft edit
+
+E 3115451 | ABC1/3/2020-QA.01 wefwefwefve
+
+e >
+English Formats
+
+Line Height
+
+Actions that can be performed in Yellow Sheet-
+a. Editing text in yellow note
+
+(Click file number >Click ‘Edit’ >Click ‘Save’)
+
+Py
+
+Create» Sent Adv A = aay ey ISSU Sent | Retumed | Adv
+
+ile ve..70
+
+Version 1
+
+This is Test Yellow note.
+
+Lo
+
+LS-}
+
+Bs
+E]
+
+b. Discarding Yellow Note
+
+(Click the file number >Click ‘Discard’)
+
+»@> 0
+
+ISSUE" Sene | Returned | Adva
+
+Advance Search FILE
+
+Drafty Edit
+
+Version 1
+
+c. Confirming Yellow Note
+
+(Click the file number Click ‘Confirm’ (converted to green sheet))
+
+— + Automatic Zoom
+
+Version 1
+
+This is Test Yellow note.
+
+7. Process for Creation, Approval and Dispatch of DFA in Files
+
+(Go to Files>|Inbox> Open selected file>Click 'Draft'>Select ‘Create New Draft’>Select ‘New /
+Fresh’ or ‘Reply’>Type the letter on the right side Enter details on the left side>Upload the
+document (if required) >Click ‘Save’)
+
+a a
+
+Details | Draft Send | SendBack Link Files Attach | Park
+
+File Inbox | A/940/2020-RTI Create New Draft
+
+Ey” jew Draft
+
+(8 jroo Vandana Pal A Simple PDF File
+
+DEALING HAND
+
+Create Inbox Sent Advance Seard IssuE Sent Returned
+
+LnkFiles attach ¥
+
+E 3115390 /940/2020-RTI_ Test Emall & SMS 11
+
+Receipt No. te ine
+aie )— aly xla-M-lor cls x enn Kewhresh hone Receit Crone ne
+Forms Of Commaricalans Prefix Language
+>, ——— Line Heian [Haan Tay > ] choose one Forms OF Con =) Peete +) (aneuae :
+2) = ain Category Sub Category
+Choose On ~) (Cheese One :
+2 Subjec*
+a STREETS q
+6B
+a aworos
+Enable Mull Sign
+2.
+
+Actions that can be performed-
+a. Drafting fresh letter
+
+(Files>Go to ‘Inbox’ >Click on a file number to open the inner page of the file>Click
+‘Draft’ >Select ‘Create New Draft’ >Click ‘New/Fresh’> Enter details >Type a letter Click ‘Save’)
+
+b. Drafting reply
+(Files>Go to ‘Inbox’ >Click on a file number to open the inner page
+
+of the file>Click ‘Draft’ >Select ‘Create New Draft’>Click ‘Reply’ > Browse the receipt against
+which the reply is to be created >Enter ‘Reply’ >Type a letter>Click ‘Save’)
+
+os @FI1€ ver. 70
+
+recept Ge
+
+Create Inbox Sent Advance Searc! Sent
+
+Link Files Attache Park
+
+E 3115390 A/940/2020-RTI_ Test Email & SMS 11
+
+or &.00C ony 2540 Last Auto backed up: 20/06/2020 05:38:24 AM
+
+Template L@® Bluse Receipt No. * Reply Type
+oy : ose Recel +) © | choose One :
+BB woe — Q », < A~ M~ O~ © © HK Engisn- Formats Choose Receipt se
+
+verdana 13 ne Helgnt ~ HasnTag > Cnoase One Gueseone re ‘gnguese
+Q 3p 2 Helg 0 New/Fresh Choose One 7| | Bengal
+& “ Sub Category
+
+Reply Draft. +) | choose one aa
+
+ie Subject”
+be] "
+-
+
+Edit Recipients
+&
+
+
+Sent | Advance FILE Create Inbox Sent Sent | Returned
+
+Draft Send Back | LinkF Attach +
+
+File Inbox / A/940/2020-RTI E 3113390 A/940/2020-RTI Test Email & SMS 11
+
+17s
+ta ror eoocony = 208 Ln: to back p 20/672020054209 0M |B of et
+
+Template Re BUS 6 Draft Nature * Receipt No. * Reply Type
+Hom — 0 x € A~ RM O~ & @ BE Enaicn~ Fo Resly 1912/2020/E0FFICE Choase One
+Forms Of Communications Language
+g Yerdana 13px Line Height ~ HashTag > Choose One theses One , et 5
+xa)
+os All ax
+Main Category
+Reply Draft. Excablishment .
+A) Subjec*
+ua test subject
+= q
+aR “eta 1000 | 968 Chere
+
+Address
+
+2 WORDS
+Name: Automation MINISTRY OF
+
+= Neve aso AvtomatonTestng — MNSTRVOF xe
+=]
+noble Mul Sign
+
+=
+
+c. Approval of DFA
+
+(Files>Go to ‘Inbox’ >Click on a file number to open the inner page of the file>Click
+‘Draft’ >Select ‘View draft’>Click ‘DFA number’ or the ‘Version of DFA’>Click ‘Approve’ >Click
+‘Send’)
+
+Offi
+
++ sap oO
+
+= RECEIPT Greate» Inbox Sent Advance Search FILE Create Inbox Sent Advance Search
+
+£% Movement
+
+Receipt Inbox / 5232/2020/EOFFICE E 5055903 5232/2020/EFFICE Common Office Services
+
+Put ina file Edit Action Details Att
+
+Close
+
+Draft No.: DFA/4804 Draft State: DFA Version: 1
+
+EB ovate Details
+Toft = + Automatic Zoom # >
+ao B Draft Nature" Receipt No. * Reply Type
+Reply % _5232/2020/EOFFICE ¥ © Ghose One ”
+Forms Of Communications Prefix. Language *
+Date: 04-December2012 (grees 7] [choose One + Bengal .
+To
+: Main Category Sub Category
+‘Secretary Common Office Services +) | Choose One ~
+Ministry of Home Aare =
+Sub: Acknowledgement of your letter no - dated 30-11-2012 =
+Dear Secretary,
+‘Your later has been received. For future communications please reer tothe correspondence no
+117/2012/Secretary(TRG)
+Tora 100 | 988 character ee
+Regards,
+PK Mathur
+MINISTRY OF
+‘Autometion Testing MINSTRY OF
+
+Enable Multi Sign
+
+{EE copyright © 2020, designed and developed by NC
+
+Approval Confirmation
+
+
+Inbox Sent Advance FILE Create Inbox Sent earch ISSUE Returned
+
+copy | send Putinafile Draft | Edit Action Details | Attachy Close
+
+Draft Nature ~ Receipt No. * Reply Type
+
+Reply 7 5232/2020/E OFFICE 7 © | choose One Y
+venzseezr0z0 Forms Of Communications Prefix Language*
+Date: 04-Dacember-2012 Chooze One Choose One Y) | Bengal Y
+To
+: Main Category Sub Category
+Secretary ‘Common Office Services, ~| [Choose One bd
+
+Ministry of Home Alai's
+‘Sub: Acknowledgement of your letier no - dated 30-11-2012
+
+Subject ™
+‘estsubject
+
+Dear Secretary,
+‘Your etter has boon rocoved. For futuro communications ploase refor tothe correspondance no.
+17 2012/Secretary(TRG)
+
+“otal 1000 | 928 Character ef
+
+Regarés,
+PK Mathur
+
++ Aci at Rees
+
+Designation Address Min/Depe/Others
+
+Name: Automation MINISTRY OF
+youn 450 ‘Auomation Testing qonieuurune
+
+Enable Multi Sign
+
+d. Dispatch of DFA (by Self)
+
+(Files>Go to ‘Inbox’ >Click on a file number to open the inner page of the file>Click
+‘Draft’ >Select ‘View draft’>Click ‘DFA number’ with status ‘Approved’ >Click ‘Dispatch by
+Self’ >Select ‘By Post/Mail’> Enter the necessary details >Click ‘Send’)
+
+Office
+
+Success message for
+Ink Sign Confirmation
+
+1% Movement Copy Send Back Putinafile Draft~ | Edit | ActionDetails | Attach~
+
+Receipt inbox /469/202001-DFS
+tase No: 3679/2020
+
+Forms Of Communications Prefix Language *
+Main Category Sub Category
+
+noveaeois| Status Changed to SIGNED f | 22°
+Gnennen atid and Signed Date recorded Guidelines on inemtip
+
+sone), Pubic Orie
+vert of Perscnneld
+
+Nerth Block, New Delbi-1 000)
+Posed uve 17 May. 2018
+
+ics Nercorar dug
+
+Subject: Guidelines oa Ieternship for Undergrads
+imlegeated cours d_praduates pursat
+‘Law uder the Agpual Prugeamme o& ° Lmproving. Iransparcnes a
+Ascuuntabit in gnerioent hugh ff Inplementtan 4] Rah
+‘tw Information Act”
+
+LO tntrodperion
+
+3 prsning the year
+a
+
+ignation Department
+
+waTHE Deputy Secretary bor
+
+ho Deparment ot
+Grievances and Pensions,
+Taformation Act
+
+‘Transparency ard Acct in Ge
+Zocmation Act’, tx primary
+
+Training (Dol, Ministy of Messonne’, Publi
+
+F India, ts tae mach Mintstry for ie Rik to
+
+rol Prugraen-ne ‘ied “impmving
+
+a UWnagh Fees lap ementation 9 the
+
+cf the schemes corunbite rows rare
+components
+
+Recipient Details - Public
 
 a
 
-OS YEARS OF
-CELEBRATING
+Name
 
-THE MAHATMA
+Programmes for owuemsss penoraioe. sine and ¢ govermance indatves or 27 F
+ene ti ® Kabir Singhs Deis
+—— tis 8 ehcmes
+9 fs and the ices. This Il lp :
+locum its sage inisry of Parhamentary
+Neha Tyagi Deputy Secretary Dein reso
 
+tats
 
-meena poe
+Process of seeing infornatiy an combing
 
-WH" ] National Testing Agency —s ax
+ete sone, DOPT i shortcerea internships to eH
 
-Excellence in Assessment
-
-wey Ge ‘
-
-(Sar Rien faur, Rian Aare, URT PRR Tet Cay TaTT STO)
-
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
-9 Male 250310299968 | VISHAD JAIN MAHARASHTRA 100
-10 Male 250310312145 | ARNAV SINGH RAJASTHAN 100
-4 Male SHIVEN VIKAS
-
-250310391420 | TOSHNIWAL GUJARAT 100
-12 Male 250310569571 | OMPRAKASH BEHERA RAJASTHAN 100
-13 Male 250310746461 BANI BRATA MAJEE TELANGANA 100
-
-Gender wise (Female) topper and the NTA Score for Paper 1 (B.E. / B.Tech.) is as under:
-
-Name of State of Eligibility (State
-SNo | Gender Application No . of passing/ appearing NTA Score
-Candidate
-12th Class)
-SAl MANOGNA
-1 Fi I PRADESH 100
-emale 250310564942 GUTHIKONDA ANDHRA PRADES
-
-The NTA Score of 39 candidates has not been declared as they were found indulging in Unfair
-Means practices.
-
-NTA Scores are normalized scores across multi-session papers and are based on the relative
-performance of all those who appeared for the examination in one session. The marks obtained
-are converted into a scale ranging from 100 to 0 for each session of examinees. NTA score is not
-the same as the percentage of marks obtained. The NTA Score of a Candidate has been
-calculated as follows:
-
-100 X Number of candidates appeared in the ‘Session’ with raw score EQUAL TO OR LESS than the candidate
-Total number of candidates who appeared in the ‘Session’
-
-After both Sessions of the JEE (Main) - 2025 Examination for Paper 1, the rank of the
-candidates will be released taking into consideration the best of the two NTA Scores in
-accordance with the policy already made.
-
-Various measures were adopted by NTA for smooth conduct and monitoring of examinations as
-under:-
-
-. An orientation training programme was organized for all the examination functionaries in
-hybrid mode on 18 January 2025 at Bharat Mandapam, Convention Centre, Pragati
-Maidan, New Delhi. A total around 800 examination functionaries and stakeholders
-attended the training session (both physically and virtually).
-
-‘ A Central Control Room was opened at NTA to monitor and facilitate the smooth conduct
-of the Examination on the ground. 277 City Coordinators, 894 Observers, 38 NTA flying
-squad and representative of certain Government Cyber Security agencies were deputed
-for examination duties in various cities and centres.
-
-° Live CCTV Surveillance was planned in all examination centres to curb malpractices in the
-examination. The NTA also made arrangements for live viewing of remote locations of all
-
-EIQ) arch aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in ARE
-
-eerie aaenge / Website www.nta.ac.in, https://jeemain.nta.nic.in/ eens,
+Enable Mut Sign Approved Copy
 
 
-nig 7] National Testing Agency asietan -
-(SaRR Rien four, Ren Hae, UNG MOR & aed Ue eae BISA)
-
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
-examination centres from the Control Room located in the NTA premises of New Delhi.
-Recording of CCTV Systems was also done and used for post examination analysis for
-identifying act of malpractices.
-
-° The examination centres were also monitored using Al-based Video Analytics and Virtual
-Observers.
-° In order to stop cheating using mobile networks, Jammers were installed in all the
-
-Centres to prevent unfair practices by the candidates during the examination through
-mobile or any other electronic device. The latest 5G Jammers were installed at all
-examination Centres.
-
-* Based on the report submitted by the High-Level Committee of Experts on the
-“Reformation of National Common Entrance Testing in India”, the National Testing
-Agency (NTA) has coordinated with State and District Authorities to form the committees
-and carry out physical audit of examination centres.
-
-a The District Level Committees successfully carried out physical audit of various
-examination for conduct of JEE (Main) 2025 Session-1 all across the country.
-
-. A three tier audit of centres was conducted for the examination Centres namely Virtual
-Audit by NTA, Audit by Third Party Agency and Physical Audit by District Level
-Committees and feedback taken for improvements.
-
-. For the centres outside India, close coordination was done with the Embassy of India /
-High Commission of India in those countries.
-
-. The JEE (Main) being one of the most sensitive examinations, NTA made elaborate
-arrangements at various levels and took help from State and District Authorities for the
-smooth conduct of the examination.
-
-. Special emphasis was made on the random deployment of examination functionaries in
-all centres.
-° The PwD candidates were allotted to a PwD-friendly test Centre and extra organizational
-
-support was given to those candidates.
-
-° The candidate’s particulars were indicated in the admit card as mentioned by the
-candidate in the online Application Form.
-
-e The identity proof as mentioned by the candidate in online application form was
-included in the admit card of the respective candidate for verification at the
-examination centre during biometric attendance.
+E2633 | 469/2020/801-DFS ACP and other related matters
 
 a
 
-arach aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
-eeawonor aauise / Website www.nta.ac.in, https://jeemain.nta.nic.in/ eee
+Mi Postal | Im Email ‘a SMS | Act
 
-ey zee usta volt
-WH] National Testing Agency
+Neha Tyagi
 
-wera wet
-(GaRR Rian four, Rat Hares, UR GRR & ea Var TATA TSA)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
+Email Details a
+Emails”
 
-° Bio-breaks were not allowed during the first hour and the last half an hour before the
-end of the examination.
+yi ba
+‘§ Deatepa
 
-° Apart from the biometric attendance and frisking at entry, candidates were frisked, and
-biometric attendance was taken again on entry from the bio-break/toilets break.
+Vode te scheme, DOFT is eng suf Step Qe remy ao
 
-° To make the candidates and their parents aware of the rules and regulations of the
-examination the “Important Advisory and Instructions to the candidates for JEE (Main) -
-2025” were included in the Admit Card.
+‘eo torons 7 EIS
 
-° In order to make the examination system transparent, the Question Paper and recorded
+Email Message”
 
-responses along with the Answer Key were displayed on the website for verification by
-examinees. After verification by the Subject Experts, the Revised Answer Keys were
-published on the website.
+e. Dispatch of DFA (By DND/CRU)
 
-NTA thanks all the Central Government Agencies, State and District authorities, various examination
-functionaries and all the candidates for the support extended during the successful conduct of the
-prestigious JEE (Main) 2025 Session 1.
+(Files>Go to ‘Inbox’ >Click on a file number to open the inner page of the file>Click
+‘Draft’ >Select ‘View draft’>Click ‘DFA number’ with status ‘Approved’ Click ‘Dispatch by
+DND’ Select ‘DND user’ and ‘Delivery Mode’ Enter ‘Remarks’ >Click ‘OK’)
 
-F gf
-SA
-ctor (Exams)
-. N
-wrerh aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in |
-Semen aaege / Website www.nta.ac.in, https://jeemain.nta.nic.in/ oY Eiraeaine
+Please Fill CRU details x
+
+cRU*
+Suman Sharma x
+Delivery Mode *
+By Post
+Remarks
+Total 1000 | 1000 Character lft
+© copyTo Al
+==
+
+8. Process for Sending of Issual against a standalone Receipt
+
+(Go to FMS Receipt Dispatch)
+
+---Dispatching a DFA against a Receipt---
+
+(Receipts>Go to ‘Inbox’ >Select the receipt>Click ‘Dispatch’ >Select ‘Reply’ or ‘New/Fresh’
+Enter type and nature of reply>Enter the mandatory details (Name and Address) >Attach any
+document (if required) >Click ‘Dispatch by Self’)
+
+Actions that can be performed-
+
+a. Sent--
+|. Print envelope
+
+(Files>Go to ‘Dispatch’ >Click ‘Sent’>Select a dispatched letter>Click ‘Print Envelope’ >Save
+and take a printout)
+
+b. Returned--
+|. Receive
+
+(Select a particular Receipt >Click ‘Receive’)
+Il. Resend
+
+(Select a particular Receipt (with complete details and attachments) >Click ‘Resend’)
+
+9. Process for Creation of Part files
+
+(Go to Files>Click ‘Create Part’ > Browse the existing file number and the details related to the
+original file gets auto-populated> Click ‘Create Part’>Work on Part File(Refer Processes 5, 6 and 7))
+
+Office
+RECEIPT
+Recove Send
+Sent By Sent On tl
+9706/2020 19/08V
+van on B
+ea tasran se2 istevaia a = ae
+19/08/2020
+Test Emeil SMS 4 Veridere Pel, RTI DIVISION
+Enmeil & SMS J NSION Ssvapw, 5
+pay roimsion 1902020 20/00/2020
+es: Emall& SMS 11 Vendara at Rriorwsion jreezeze  29G/20 ’
+; YerurSrajahmed, cOffice 10/06/2020 10/08/2020
+Lt neo ODS2AM —O9S2AM
+a Yerur SrajAbwred, cOffice 10/06/2020 10/06/2020
+sci ne. ons2AM —0952AM
+= YerurSraj Armed, eOtice 10/06/2620 10/05/2020
+‘ MNF. 0349AN 0949AM
+Z VorurSrajAbmed,<Offce 10/06/2000 10/06/2020
+am une. Oo45AM —ODMTAM
+A YerurSirajAnmed, eOffce 10/06/2020 10/05/2020 2
+Eo tails ait Me. 0339AN—0839AM a
+
+rie Greate issue Sent
+
+Comp.No. | File No, Subject Sent By Read Ont] | DueOn q)
+
+fa toeea020 19/06/2020
+€ suse? ncsr020-0K01 tet Jessen 2 forcezt20 sso tes
+
+18/06/2020 18/06/2020
+0 E 3115391 ‘A/941/2020-RTI Test Email & SMS 4 Vendane Pel, RTI DIVISION SSD Oe
+
+ae “ese Ema sendana Pal A ‘18/06/2020 20/06/2020
+0 E 3115390 .8/940/2020-RTI Test Email & SMS 11 VendanaPal,RTIDIVISION Qn om gasp AM 1
+
+(> ee
+D(SKP}-EOFFIC
+
+Inbo» av < A Create inbos ee J curned Adv
+Movement Details s ink More ¥
+
+eate Part
+
+Y * @ © v2028172/2028 a
+
+Seroja Kumar Patro
+INDIVIDUAL
+
+a A Simple PDF File
+
+[ruJ} 19/06/2020 08:5 Pm Jeskiran ‘sis a sna serunaraton ptt
+Ng ASSISTANT SECTION OFFICER, n1d2 stir sein ie Vita Neca torte Met A nee
+4 (MO) {Se Andere so Ard mre A eo
+
+gh “a ‘text Ard more text Borina. 22222 And more tect And ree text Ard
+
+10. Process for Pull Up
+
+(Files/Receipts>Go to ‘Inbox’ >Select the name of the user from the ‘Hierarchical View’ > Files
+present in the Inbox of the user is displayedSelect the file/receipt> Click ‘Pull Up’)
+
+roja Kumar Potro
+OFFICE
+
+a
+
+By SentOn 1 | ReadOn tI | Due On tl | MarkedTo
+Ge Requestfor information under Vandana Pal, RTI 20/06/2020 Seroje Kumar
+CO % © 20096 © scray20t0RT9 : 1206 PM
+~ & RTI Act, 2095 by shin. DIVISION 12:40PM Patro,..
+4
+4 risey200e-eTveF- | Requestfor informetion Vandane Pal RT 20/06/2020 Saroje Kumar
+2047628 +1206 eM
+0 22IP-A regarding hispettion No... DIVSION 296M Pat, .
+@ a2012a2020 Soroe Kumar Pave, 2ooe2020 sei tumor
+tke migration fle 1
+BF HE gear jeration fle cest eOfice Mil. 2.00PM 200M Sharma... PERE @
+pe ; ———S FTI ==
+Re 311832 cr3012020.08.01 show bversion oa tiszam 7908 meek
+4 i! Kumar Sharma, Soja Kumar
+Fic) © 3isae — A1aa2020-Q801 ple fortyet Keni Kumars siovam 70/06/2020 Sarai K
+(S) = ‘Bene
+aS
+BE Fic [recent sve PiGlobal | E:Global @
+Comp. No. File No. Subject origin
+@ = internal 7) C1 include Closed
+F
+send | Reopen | Receive [ Pull up Pull Back | Unpark o72Records | T+ B
+)GOGGOIOS[|-
+Comp. No. 11. | FiteNo. = = On fl a em
+ul
+File for external
+Decals & 3115476 Azori7znaogaar Fie fore File/Sene - 19/06/2020 08:27 PM pls seeand.comment Sent o:ntd2
+i Vandana Pal RTI
+© pulve)vewis P 3113420 © /ITOZOU0QADI ples Flerinbox RTIDIMISION 19/00/2020 12:22 PM venders
+5 ‘e11011/3967/2020- (CHANDIGARH (UT. Acton Kore
+SEM cur sack Decais E 3113187 Automation Testing ile/inbox 19/06/2020 02:25 PM Balla,CHANDIGARH
+~ aot ne uN
+(ur. uN
+= A1011/3944/2020- Kapil Kurmar
+CO PulBack Detaits e atts AN Enter Description 223 file/Inbox cOfice MMP Division 19/06/2020 07558 PM Sharma,cOffice MMP
+Division
+
+11. Process for Search
+
+---Apply filter if searching directly(optional)---
+
+» Into | Sent Ad
+
+Send Back | M
+
+a ‘5179 | ward Sec-11010/1368/2020-601
+€h 17703/202011:42. 4
+
+FR © % (6/5175 | Anord sex-t1010/13642020-001
+~ (17372020 1215 mM
+FD (estas anard Sect t010/19:5/2020 801
+{B 14102/202011:39 ana
+
+go
+B: -
+
+OO #(B)) 5128 | anand sex-itoransianc2eson
+Qa B va20201:38 am
+
+(8 1B)! 5123 | Award sece-r1010/1313,/2020-801
+2 een
+ro 5174 | nara Sec-11010/1305/2020-501
+
+€B 14/03/2020 11:19 an
+
+O15) sore | anara sea-st9r0rs2722020-801
+Qh 1402720200822 0m
+
+(BH)! 5076 | Award Sece-t10107127072000-801
+(7% 14/03/20200815 4M
+
+|. Normal Search
+
+lume | Create Pert
+
+Testing | > Mantosh
+
+@ Emer Description
+
+Testing | Bp Manosh
+
+Testing | 29 Marcozh
+
+Automation Testing | $f
+
+aucomation Testng | 2}
+
+ener Descripton | 5)
+
+Enter Description | 25)
+
+Search
+
+Nature
+Physical © ai Recevea  Urveceved None
+Becronic —_ (OVAlll Ras Urresa None
+Priority
+
+Innmesiate Most immediste — ) Que Texey
+
+Subject Category
+
+ACP andotner Al meeungs lates C) Al Aavarces
+related meters matters
+AILGPE related
+
+Date
+
+Sen Date From sent DateTo
+camniyiy B) [sammyyy
+
+Due Date From Due Date To
+caimmlpyy dele)
+
+Others
+
+‘Acton Initiated Due Dace Elapsed
+‘other Deparment lmacrtant
+
+sue See)
+Search Here
+
+(Files>Go to ‘Inbox/sent/all’ >Click a file number to open it>Enter the text to be searched in
+the space provided at the right top of the noting page)
+
+Create + Inbox
+
+sate Port Pull Back
+
+4/952/2020-08-01
+
+4-1211128/2020.Q4 0
+
+Yenur Siraj Ahmad, eOtfice
+we.
+
+Jaskiran, nté2
+
+DueOn 44 | Actions
+
+File Number
+
+of ED Subject
+
+29] @ SeneTo
+
+12) Currently With
+
+P . yon: ver Seana eomce SOREN Yer Seated, orca .
+2 Gee one et ae ot ne
+
+Il. Advance search
+
+(Go to FMS Click the down arrow of the ‘Search’ textbox Select the location of the text to be
+searched Click the 'Search' symbol
+
+or
+
+Go to FMS Enter the text/keyword (to be searched) in the ‘Search’ textbox >Click the ‘Search’
+symbol)
+
+P:Global | E:Global @
+
+a; Ee
+
+‘comp. Ne. Receipt No. supject
+=i - | Include Closed
+a
+Receive! Sere nemares =
+Gor Dewie —_feparement >| SeleeSeevon >| | Select User
+‘Sender Details
+To Date Forwarding ction Initavon Aetion Remarks Intation Action Type
+my BB ayimmyy (8) choose One Ml ‘Choose One ’
+BG | 220 vecats a
+Bo: Forms OF Communicatons + Languoge 7 Main category +) subcoegory .
+Leer Date Diary Date Received Date
+& ie e From Dare 8) [Toda 8) Fremose 8 (Tope e
+Sender Detais 7
+2 ee 7
+e Inna Name Designation Email/Mobile
+Cag) = ~
+Address state
+Select .
+Send | Reopen | Receive ! Pull Up | Pull Back ve
+Actions Subject 1] Seaion ForwardingRemark Sent On | Currentiy With Sender
+No records fourd
+
+12. Process for Reopening of a Receipt/File
+
+(Search the file using advanced search option/Go to closed file>select the file>Reopen)
+
+Office eFile
+
+Inbox | Sent | AdvanceSearch
+
+& Search For Closed Files ( byMe )
+BA Department Section Gosing Date
+
+ai ee @ | [Bo secrion. ors 2) [rom a ®
+computer Number File Number Subject Remarks
+Fle Heads
+reba esa | | re eer aa © | | pe econaary eae | | rte remarytesa :
+., (ee ees sujet caosea by clesedon $ ———_Cosng Remar con
+& a
+ecpen sso ce Manos Kur Oia,
+nesoranizoreec ser cioverieo1 Mentos ar veosranisosizeM gg .
+6 Bega
+ia vo ants kumar a,
+eum suidingatoronoi.e clone tet teosnoweasepu tice .
+p ied ASST2(BO1)DFS_
+ih von Mantoen Kumar Oj, 601
+£9 EcceLrmr2nn019 cestclse Meteo Kars o7aer2019 12370 case winoue agers .
+2
+%
+; Mentos Kumar jh,601
+a) undng or0n019.¢ stat ma e7ouzo19o440eM esse .
+: Mentos Kur jh, 801 2
+195 cconnanoise test wees fun enoerno19 04070 sts e
+on on Mentos Kamer Ojh,.801
+ews scceu.arortanoie deserip os Kare oroenore0s370U tt e
+Mantes Kumar Oj, 601
+© 7 buidngs20isc datst toe Kurs cscez019 046M test e
+
+ex | Sent | Advance Search FLE Greate | Inbox Sent | Advance Search
+
+Section Closing Date
+Boos *) | B01 Semon Des =) Fcom Bot
+Comp. No. Receipt No. Subject Remarks
+
+Closed on 11 Closing Remarks,
+
+1112012020/801-DFS ‘Shravan Kumar, B01 SECTION
+
++770272020 02:09 PM
+1613 v72020/801-0S cof ‘Shravan Kure, 801 SECTION 177021202002.09 PM chad
+1595 1039/2020/607-DES wed ‘Shravan Kumar, 801 SECTION 15/02/20201205 PM heen
+1535 1039/2020/60"-0S abcde Shravan Kumar, 801 SECTION 19/02/2020 11:16 AM SDesctg
+
+asa +1038/2020/801-DFS beef ‘Shravan Kumar, 807 SECTION. 19/02/2020 11:55AM oat
+
+O FP 1s2 +103612020/001-DFS abedefg ‘Shravan Kumar, BO SECTION 39/02/2020 11:58AM sedgedg
+
+13. Process for using DSC in e-Office
+1. install latest version of java in the system
+
+2. visit eoffice.gov.in>go to downloads>choose Digital service signer from the
+menu~>download 7.2.0 windows/mac software install it>plug the dsc>verify the
+certificate Ready to use it)
+
 

@@ -1,0 +1,48 @@
+[
+    {
+        "name": "GUVNL Recruitment",
+        "date_of_notification": "30/09/2024",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.guvnl.com/guvnl-vacancies.html",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.guvnl.com/guvnl-recruitment-form.pdf",
+            "https://www.guvnl.com/eligibility-criteria.pdf"
+        ],
+        "details": {
+            "eligibility_criteria": "Candidates must meet the following criteria to be eligible for the post of DGM (AI & ML)",
+            "exam_date": "TBD",
+            "exam_time": "10:00 AM - 12:00 PM",
+            "exam_centre": "GUVNL Head Office, Gandhinagar"
+        }
+    },
+    {
+        "name": "Senior Manager (Artificial Intelligence & Machine Learning) Recruitment",
+        "date_of_notification": "2023-09-01",
+        "date_of_commencement": "2023-10-01",
+        "end_date": "2024-03-31",
+        "apply_link": "https://www.guvnl.com/guvnl_vacancies.html",
+        "event_type": "Job Opening",
+        "document_links": [
+            {
+                "title": "GUVNL Circular dtd. 07.12.2018",
+                "link": "https://www.guvnl.com/GUVNL-Circular-Dtd-07-12-2018.pdf"
+            },
+            {
+                "title": "Terms and Conditions",
+                "link": "https://www.guvnl.com/Terms-and-Conditions.pdf"
+            }
+        ],
+        "details": [
+            {
+                "key": "Eligibility Criteria",
+                "value": "The candidates must have a minimum qualification of Bachelor's degree in Engineering/Technology with at least 2 years of experience."
+            },
+            {
+                "key": "Selection Process",
+                "value": "The selection will be made based on a Personal Interview, followed by an Online Test."
+            }
+        ]
+    }
+]

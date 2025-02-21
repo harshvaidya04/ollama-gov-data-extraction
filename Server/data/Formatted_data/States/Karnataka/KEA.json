@@ -1,0 +1,100 @@
+[
+    {
+        "name": "CET Cancellation List",
+        "date_of_notification": "2022-03-08T00:00:00+05:30",
+        "date_of_commencement": "2022-03-01T00:00:00+05:30",
+        "end_date": "2022-04-15T23:59:59+05:30",
+        "apply_link": "https://www.example.com/cancellation-apply",
+        "event_type": "Exam",
+        "document_links": [
+            "link1",
+            "link2"
+        ],
+        "details": [
+            {
+                "name": "Name 1",
+                "date_of_notification": "2022-03-08T00:00:00+05:30",
+                "date_of_commencement": "2022-03-01T00:00:00+05:30",
+                "end_date": "2022-04-15T23:59:59+05:30"
+            },
+            {
+                "name": "Name 2",
+                "date_of_notification": "2022-03-08T00:00:00+05:30",
+                "date_of_commencement": "2022-03-01T00:00:00+05:30",
+                "end_date": "2022-04-15T23:59:59+05:30"
+            }
+        ]
+    },
+    {
+        "name": "UGCET-2025",
+        "date_of_notification": "2025-01-23",
+        "date_of_commencement": "2025-02-18",
+        "end_date": "2025-02-20",
+        "apply_link": "https://cetonline.karnataka.gov.in/kea/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cetonline.karnataka.gov.in/keawebentry456/ugcet2025/flow_chartkannada.pdf"
+        ],
+        "details": {
+            "Application Process": "The application process includes registration, filling of application online, payment of fees, and final submission.",
+            "Eligibility Criteria": "The eligibility criteria include age limits, educational qualifications, and reservation categories.",
+            "Exam Format": "The exam format includes multiple-choice questions in Kannada language."
+        }
+    },
+    {
+        "name": "Karnataka Selection of Candidates for Admission to Government seats in Professional Educational Institutions",
+        "date_of_notification": "16.04.2025",
+        "date_of_commencement": "17.04.2025",
+        "end_date": "18.04.2025",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam-doc1.pdf",
+            "https://example.com/exam-doc2.pdf"
+        ],
+        "details": [
+            {
+                "title": "Eligibility Criteria",
+                "description": "Check eligibility criteria for admission to government seats in professional educational institutions."
+            },
+            {
+                "title": "Exam Schedule",
+                "description": "Find the exam schedule and timing details."
+            }
+        ]
+    },
+    {
+        "name": "Notification of Exam Details",
+        "date_of_notification": "2024-11-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            {
+                "url": "https://example.com/exam-flyer.pdf",
+                "filename": "Exam Flyer"
+            },
+            {
+                "url": "https://example.com/admit-card-guidelines.pdf",
+                "filename": "Admit Card Guidelines"
+            }
+        ],
+        "details": "Detailed information about the exam"
+    },
+    {
+        "name": "Karnataka Examinations Authority",
+        "date_of_notification": "2024-11-28",
+        "date_of_commencement": "",
+        "end_date": "2024-12-02",
+        "apply_link": "https://cetonline.karnataka.gov.in/kea/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cetonline.karnataka.gov.in/keawebentry456/mscmpt2024/Press_Notekannada.pdf"
+        ],
+        "details": {
+            "Eligible Candidates": "Candidates of Karnataka origin passed the qualifying examination in the college located in Karnataka state willing to take admission may fill the application form online on the KEA Website http://kea.kar.nic.in from 29-11-2024 to 02-12-2024.",
+            "Contact Information": "Phone: 080 - 23 564 583 Helpline : 080 - 23 460 460. e-mail : keauthority-ka@nic.in Website : http://kea.kar.nic.in"
+        }
+    }
+]

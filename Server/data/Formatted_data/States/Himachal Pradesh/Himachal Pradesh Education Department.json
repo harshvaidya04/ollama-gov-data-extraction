@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Professor in Commerce (College Cadre) from Surplus Pool of Directoreie",
+        "date_of_notification": "2017-02-22T00:00:00.000Z",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.hp.gov.in/EDN/A(1)-69(2009)-H.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            {
+                "title": "Government of Himachal Pradesh Website",
+                "url": "https://www.hp.gov.in/"
+            },
+            {
+                "title": "U.O. No. 511423004 -Fin-C/2009",
+                "url": "https://www.hp.gov.in/EDN/A(1)-69-2009-H.pdf"
+            }
+        ],
+        "details": [
+            "This is the notification for Professor in Commerce (College Cadre) from Surplus Pool of Directoreie."
+        ]
+    },
+    {
+        "name": "Notification of Assistant/Associate Professor in Music",
+        "date_of_notification": "2017-02-05",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "AdmitCard",
+        "document_links": [],
+        "details": [
+            {
+                "Sr": "1",
+                "District": "Solan",
+                "Name of the College": "Govt. Degree College, Diggal",
+                "Posts of Music": "Assistant Professor (Instrumental)"
+            },
+            {
+                "Sr": "2",
+                "District": "Dharampur",
+                "Name of the College": "Govt. Degree College, Dharampur",
+                "Posts of Music": "Associate Professor (Vocal)"
+            }
+        ]
+    },
+    {
+        "name": "Establishment Report Form for Sunding i iSTABLISHMENT REPORT",
+        "date_of_notification": "18th April 2017",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "http://himachal.nic.in/index.php?lang=1&dpt_id=239",
+        "event_type": "Establishment Report Form",
+        "document_links": [
+            "http://himachal.nic.in/index.php?lang=1&dpt_id=239"
+        ],
+        "details": "Form for sending enrolment in r/o all subjects"
+    },
+    {
+        "name": "Notification Guidelines for Colleges in Himachal Pradesh",
+        "date_of_notification": "2022-01-10",
+        "date_of_commencement": "2022-03-01",
+        "end_date": "2022-06-30",
+        "apply_link": "",
+        "event_type": "Exam",
+        "document_links": [
+            "https://himachal.gov.in/",
+            "https://collegeboard.hp.gov.in/"
+        ],
+        "details": {
+            "subject": "Colleges in Himachal Pradesh Notification Guidelines",
+            "description": "Guidelines for colleges in Himachal Pradesh regarding staff requirement, teaching hours, and more.",
+            "link": "https://himachal.gov.in/college-board"
+        }
+    }
+]

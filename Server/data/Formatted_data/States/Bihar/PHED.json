@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Sample Test",
+        "date_of_notification": "2023-03-15T10:00:00Z",
+        "date_of_commencement": "2023-04-01T12:00:00Z",
+        "end_date": "2023-05-31T14:00:00Z",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam-document.pdf",
+            "https://example.com/exam-schedule.pdf"
+        ],
+        "details": {
+            "exam_name": "Sample Test Exam",
+            "exam_description": "This is a sample test exam."
+        }
+    },
+    {
+        "name": "FEE",
+        "date_of_notification": "2022-12-01",
+        "date_of_commencement": "2023-05-01",
+        "end_date": "2023-06-30",
+        "apply_link": "https://example.com/fee-apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/fees.pdf",
+            "https://example.com/id-card.pdf"
+        ],
+        "details": "Fees for the academic year 2023-24"
+    },
+    {
+        "name": "Medical License",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://state.bihar.gov.in/health/CitizenHome.html",
+        "event_type": "Exam",
+        "document_links": [
+            "https://state.bihar.gov.in/health/cache/1/Asset/Jigyasa-Helpline.pdf"
+        ],
+        "details": {
+            "Organization": "Government of Bihar Health Department",
+            "License Type": "Medical License for Practitioners",
+            "Eligibility Criteria": "As per the Bihar Medical Council Regulations, 2023.",
+            "Last Updated": "2024-12-31",
+            "Contact Information": "Phone: 18003456161 Email: [info@biharhealth.gov.in](mailto:info@biharhealth.gov.in)"
+        }
+    },
+    {
+        "name": "Yurahie Yee Fier",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "2025-02-21",
+        "apply_link": "https://state.bihar.gov.in/health/CitizenHome.html",
+        "event_type": "Exam",
+        "document_links": [
+            "https://state.bihar.gov.in/health/cache/1/Asset/Jigyasa-Helpline.pdf"
+        ],
+        "details": {
+            "Details": "Fier is a type of examination."
+        }
+    }
+]

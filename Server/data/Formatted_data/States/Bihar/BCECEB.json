@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Board of Secondary Education",
+        "date_of_notification": "15/04/1996",
+        "date_of_commencement": "01-04-1994",
+        "end_date": "31/03/2003",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam-document1.pdf",
+            "https://example.com/exam-document2.pdf"
+        ],
+        "details": "This is the details of the exam. You can find more information here."
+    },
+    {
+        "name": "BIHAR COMBINED ENTRANCE COMPETITIVE EXAMINATION BOARD",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bceceboard.bihar.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bceceboard.bihar.gov.in/pdf_Web/ExamSummary.pdf"
+        ],
+        "details": {
+            "Examination Courses": [
+                "ING Medical One paper with two parts",
+                "PG Dental Part A",
+                "PG Aurvedic Rass",
+                "Math",
+                "PGMAT",
+                "ITICAT (08.04.2012) ITI Institutions (For admissions to different Trades.) One paper with 3 section |General science Total 150 question",
+                "DECE [LE] (08.04.2012) Engg. Diploma Institution (for admission in 2nd year) One paper with 3 section |Chemistry Total 150 question",
+                "BCECE (1* Stage) (22.04.2012)",
+                "DCECE (PE/PNE/PMD/PM/H M) (05.05.2012) and (06.05.2012)",
+                "BCECE [LE] (06.05.2012)"
+            ],
+            "Courses for which examination is conducted": [
+                "Same as BCECE Ist Stage",
+                "Engg. Diploma level Institution",
+                "For admission to non Engg.",
+                "Diploma level women Institution",
+                "For dresser Courses"
+            ],
+            "Number of question": [
+                "90 question",
+                "150 question",
+                "100 question",
+                "150 question"
+            ],
+            "Paper Details": [
+                "(i) PE/PN (HM)",
+                "(ii) PMD (iii) PM (iv)",
+                "Physics, Chemistry",
+                "Physics, Mathematics, Biology",
+                "Hindi, English, General Knowledge",
+                "English, Mathematics"
+            ]
+        }
+    },
+    {
+        "name": "Super Specialization in [Related Course] (2025)",
+        "date_of_notification": "February 20, 2023",
+        "date_of_commencement": "March 1, 2023",
+        "end_date": "December 31, 2024",
+        "apply_link": "https://www.nbe.gov.in/exams/Eligibility-exam.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.nbe.gov.in/Documents/NBEMarksSheet.pdf"
+        ],
+        "details": "For all foreign graduates, marks awarded in NBE conducted eligibility exam (FDST) are to be used for calculation for all purposes. Marks of his Degree will not be considered."
+    },
+    {
+        "name": "S.R./ Tutor in Geriatrics",
+        "date_of_notification": "31/03/2024",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://example.com/application-link",
+        "event_type": "Result",
+        "document_links": [
+            {
+                "name": "Failure Marks Sheet",
+                "link": "https://example.com/failure-marks-sheet"
+            }
+        ],
+        "details": [
+            {
+                "key": "Grace marks awarded",
+                "value": "None"
+            },
+            {
+                "key": "Recognized or permitted Institutes / Colleges",
+                "value": "Treated similarly"
+            },
+            {
+                "key": "Joining service before last date of receipt",
+                "value": "Considered as BHS for all purposes"
+            },
+            {
+                "key": "Result declared after last date",
+                "value": "Not entertained"
+            }
+        ]
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": ""
+    }
+]

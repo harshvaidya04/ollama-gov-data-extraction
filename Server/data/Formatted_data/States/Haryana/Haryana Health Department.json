@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Endst.No. 12/25-4Admn-2023",
+        "date_of_notification": "05.10.2023",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": null,
+        "event_type": "Notification",
+        "document_links": [
+            "https://www.haryana.gov.in/Portal/Endst.No-12-25-4Admn-2023.pdf"
+        ],
+        "details": {
+            "Description": "Endst. No. 12/25-4Admn-2023 Dated 05.10.2023 ( Copy )",
+            "Place": "Panchkula",
+            "Date": "05.10.2023",
+            "Endst.No": "12/25-4Admn-2023"
+        }
+    },
+    {
+        "name": "Weekly Reporting of COVID-19",
+        "date_of_notification": "2024-08-19",
+        "date_of_commencement": "",
+        "end_date": "2024-08-25",
+        "apply_link": "https://haryanahealth.gov.in/notice-category/recruitments/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s31177967c7957072da3dc1db4ceb30e7a/uploads/2024/08/202408272082803974.pdf"
+        ],
+        "details": {
+            "Preventive measures": [
+                "Avoid touching your eyes, nose or mouth",
+                "Stay more than arm’s length from persons affected with flu",
+                "Cover your mouth and nose with a handkerchief or tissue when you cough or sneeze",
+                "Drink plenty of fluids and eat nutritious food",
+                "Do’s Don’ts: Wear mask and avoid crowded places Shake hands or use an alcohol-based hand sanitizer Spit in public Eat in groups Take antibiotics or other medicines without consulting a doctor"
+            ]
+        }
+    },
+    {
+        "name": "Output Requirements",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": null,
+        "event_type": "Exam",
+        "document_links": [],
+        "details": []
+    },
+    {
+        "name": "Haryana Health Department",
+        "date_of_notification": "2024-05-20",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://haryanahealth.gov.in/notice-category/recruitments/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s31177967c7957072da3dc1db4ceb30e7a/uploads/2024/05/20240521412458758.pdf"
+        ],
+        "details": {
+            "Preventive measures": [
+                "Don’ts",
+                " Wear mask and avoid crowded places",
+                " Wash your hands often with soap and water or use an alcohol-based hand sanitizer",
+                " Avoid touching your eyes, nose or mouth",
+                " Stay more than arm’s length from persons affected with flu",
+                " Cover your mouth and nose with a handkerchief or tissue when you cough or sneeze",
+                " Drink plenty of fluids and eat nutritious food",
+                " Shake hands or hug in greetings",
+                "Spit in public",
+                "Eat in groups",
+                "Take antibiotics or other medicines without consulting a doctor"
+            ]
+        }
+    },
+    {
+        "name": "Influenza A (H1N1 and H3N2) surveillance report, Haryana",
+        "date_of_notification": "2023-05-14",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/Hisar_District wise testing facility list.pdf"
+        ],
+        "details": {
+            "Influenza A (H1N1 and H3N2) surveillance report, Haryana": {
+                "Total Cases Reported": "18",
+                "Total Deaths Reported": "2",
+                "Testing Facilities in Haryana": [
+                    "Ambala = |Molecular lab, polyclinic, sector-10, Ambala city",
+                    "Karnal Department of Microbiology, Kalpana Chawla Government Medical College, Karnal",
+                    "Sonipat |Department of Microbiology, BPS Government Medical College for Women, Khanpur"
+                ],
+                "Symptoms": [
+                    "Fever",
+                    "Body aches",
+                    "Cough",
+                    "Headache",
+                    "Sore throat",
+                    "Chills",
+                    "Runny or stuffy nose",
+                    "Diarrhoea",
+                    "Difficulty in breathing",
+                    "Vomiting",
+                    "Blood in sputum",
+                    "Fatigue"
+                ],
+                "Preventive Measures": [
+                    "Wear mask and avoid crowded places",
+                    "Shake hands or hug in greetings",
+                    "Wash your hands often with soap and water or use an alcohol-based hand sanitizer",
+                    "Eat in groups",
+                    "Avoid touching your eyes, nose or mouth",
+                    "Stay more than arm’s length from persons affected with flu",
+                    "Cover your mouth and nose with a handkerchief or tissue when coughing or sneezing",
+                    "Drink plenty of fluids and eat nutritious food"
+                ]
+            }
+        }
+    }
+]

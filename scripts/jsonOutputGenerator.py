@@ -171,16 +171,22 @@ def generateOutput(pdf_link, apply_link):
             - If a date appears invalid or inconsistent, leave as empty string rather than guessing
 
             3. CONTENT GUIDELINES:
+            - Strictly do not generate any example data , only take data from the raw data
             - document_links must be an array of simple strings, not objects
             - Do not create additional top-level keys beyond those in the reference structure
             - Place any supplementary information in the "details" object
             - Empty values should be "" (strings), [] (arrays), or (objects) as appropriate
             - Never return null values except where explicitly permitted in the reference structure
+            - Strictly do not generate any example links , if link is not found then keep it blank 
 
             4. MANDATORY OUTPUT JSON FORMAT:
             - Structure must be same as reference json structure.
             - Keys: "name", "date_of_notification", "date_of_commencement", "end_date", "apply_link", "event_type" and "document_links" must be present with specified conditions.
             - Additional information must be in json object nested under the "details" key.
+            - "event_type" must strictly contain a suitable value from ("Exam","Result", "AdmitCard")
+            - The output MUST ONLY contain the specified keys in the json as top level.
+            - TOP LEVEL KEYS: "name", "date_of_notification", "date_of_commencement", "end_date", "apply_link", "event_type", "document_links" and "details" as per the above specified value type for each key.
+            - Strictly do not generate any example links , if link is not found then keep it blank 
 
 
             Raw Text to Process:
@@ -192,6 +198,9 @@ def generateOutput(pdf_link, apply_link):
             - Verify the output matches all requirements before submitting
             - Double-check that all mandatory fields are populated according to rules
             - Ensure the JSON is properly escaped and valid for direct parsing
+            - The output MUST ONLY contain the specified keys in the json as top level.
+            - TOP LEVEL KEYS: "name", "date_of_notification", "date_of_commencement", "end_date", "apply_link", "event_type", "document_links" and "details" as per the above specified value type for each key.
+            - "event_type" must strictly contain a suitable value from ("Exam","Result", "AdmitCard")
             """
         
         # call_ollama_api(user_prompt)

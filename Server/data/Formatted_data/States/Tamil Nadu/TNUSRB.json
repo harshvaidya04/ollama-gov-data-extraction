@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Tamil Nadu Uniformed Services Recruitment Board",
+        "date_of_notification": "2023-03-01",
+        "date_of_commencement": "2023-03-05",
+        "end_date": "2023-04-30",
+        "apply_link": "https://tnusrb.gov.in/",
+        "event_type": "Exam",
+        "document_links": {
+            "AdmitCard": [
+                "https://tnusrb.gov.in/admitcard/",
+                "https://tnusrb.gov.in/admitcard/download/"
+            ],
+            "Result": [
+                "https://tnusrb.gov.in/result/",
+                "https://tnusrb.gov.in/result/download/"
+            ]
+        },
+        "details": {
+            "Fire & Rescue Services": [
+                "Candidates for CV & ET"
+            ],
+            "Police": [
+                "Candidate for CV & ET"
+            ]
+        }
+    },
+    {
+        "name": "Provisional Revised Selection list of Department",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-30",
+        "apply_link": "https://tnusrb.org/selections/apply-now",
+        "event_type": "Result",
+        "document_links": [
+            {
+                "link": "https://tnusrb.org/selections/result.pdf",
+                "type": "PDF"
+            },
+            {
+                "link": "https://tnusrb.org/selections/admit-card.pdf",
+                "type": "PDF"
+            }
+        ],
+        "details": {
+            "Department": [
+                {
+                    "name": "Fire & Rescue Services"
+                },
+                {
+                    "name": "Tamil Nadu Uniformed Services Recruitment Board"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cutoff Marks for CAV & ME",
+        "date_of_notification": "Not Specified",
+        "date_of_commencement": "Not Specified",
+        "end_date": "Not Specified",
+        "apply_link": "https://www.example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.example.com/exam-document.pdf"
+        ],
+        "details": {
+            "Taluk": [
+                {
+                    "name": "GT",
+                    "date_of_notification": "17-07-1992",
+                    "date_of_commencement": "15-05-1990",
+                    "end_date": "16-05-1996"
+                },
+                {
+                    "name": "BC",
+                    "date_of_notification": "05-05-1988",
+                    "date_of_commencement": "11-05-1998",
+                    "end_date": "14-06-1987"
+                },
+                {
+                    "name": "BCM",
+                    "date_of_notification": "03-07-1990",
+                    "date_of_commencement": "11-04-1989",
+                    "end_date": "15-07-1993"
+                }
+            ],
+            "Armed Reserve": [
+                {
+                    "name": "IMBC / DNC",
+                    "date_of_notification": "13-07-1993",
+                    "date_of_commencement": "03-05-1989",
+                    "end_date": "27-09-1992"
+                },
+                {
+                    "name": "sc",
+                    "date_of_notification": "06-05-1990",
+                    "date_of_commencement": "04-08-1991",
+                    "end_date": "27-04-1993"
+                }
+            ],
+            "Station Officer": [
+                {
+                    "name": "st",
+                    "date_of_notification": "15-06-1997",
+                    "date_of_commencement": "None",
+                    "end_date": "None"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tamil Nadu Uniformed Services Recruitment Board, Chennai - 08",
+        "date_of_notification": "2024-10-28",
+        "date_of_commencement": "",
+        "end_date": "2025-02-25",
+        "apply_link": "https://www.tnusrb.tn.gov.in/index.php",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "http://tnusrb.tn.gov.in/SiteContent Files/2023/SrcDocs/AdmitCard.pdf"
+        ]
+    }
+]

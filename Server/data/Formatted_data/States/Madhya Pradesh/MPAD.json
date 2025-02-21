@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Facility Approval Request",
+        "date_of_notification": "2022-01-01",
+        "date_of_commencement": "2022-02-01",
+        "end_date": "2022-12-31",
+        "apply_link": "https://example.com/apply",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://example.com/document1.pdf",
+            "https://example.com/document2.pdf"
+        ],
+        "details": {
+            "Facility Name": "Exam Facility",
+            "Description": "This is an exam facility request."
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": {}
+    },
+    {
+        "name": "2024",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": ""
+    },
+    {
+        "name": "Exam Admissions",
+        "date_of_notification": "24.11.2012",
+        "date_of_commencement": "01.01.2005",
+        "end_date": "04/02/2025",
+        "apply_link": "https://example.com/admissions",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam-document-1.pdf",
+            "https://example.com/exam-document-2.pdf"
+        ],
+        "details": {
+            "exam-date": "04/02/2025",
+            "exam-time": "09:00 AM",
+            "exam-center": "New Delhi"
+        }
+    }
+]

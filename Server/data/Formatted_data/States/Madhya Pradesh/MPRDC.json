@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Madhya Pradesh Development Corporation",
+        "date_of_notification": "01-05-2021",
+        "date_of_commencement": "10-02-2018",
+        "end_date": "30-04-2022",
+        "apply_link": "https://www.mpdc.org/mpdc-application",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://www.mpdc.org/mpdc-admission-form.pdf",
+            "https://www.mpdc.org/mpdc-fee-schedule.pdf"
+        ],
+        "details": "Madhya Pradesh Development Corporation invites application for Admit Card. "
+    },
+    {
+        "name": "Cost in Cr., GC: Govt. Contribution",
+        "date_of_notification": "Not available",
+        "date_of_commencement": "10/9/2026",
+        "end_date": "10/9/2026",
+        "apply_link": "",
+        "event_type": "AdmitCard",
+        "document_links": [
+            " "
+        ],
+        "details": ""
+    },
+    {
+        "name": "Accident Response System & Traffic Management Centre",
+        "date_of_notification": "2021-11-08",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "http://mprdc.gov.in/Career",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "http://mprdc.gov.in/uploads/menu/Brief_-_Accident_Response_System_(1).pdf"
+        ],
+        "details": {
+            "description": "Integrated Accident Response System (ARS) for medical facilities, toll free number 1099 for accident-related information."
+        }
+    },
+    {
+        "name": "National Highways Authority of India",
+        "date_of_notification": "2021-11-16",
+        "date_of_commencement": "2022-01-01",
+        "end_date": "2032-02-15",
+        "apply_link": "https://www.nhaindia.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.nhaindia.gov.in/docs/exam-document-links.pdf"
+        ],
+        "details": {
+            "title": "2022 National Highways Toll Management System Exam",
+            "description": "The 2022 National Highways Toll Management System Exam will be conducted to test the knowledge and skills of candidates.",
+            "location": "New Delhi"
+        }
+    }
+]
