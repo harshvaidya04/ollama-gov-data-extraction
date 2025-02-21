@@ -5,7 +5,7 @@
         "date_of_commencement": "2024-04-01",
         "end_date": "2025-03-31",
         "apply_link": "https://rajasthan.gov.in/health-in-rajasthan-policy",
-        "event_type": "Policy",
+        "event_type": "Exam",
         "document_links": [
             "https://rajasthan.gov.in/-upload-content/heal-in-rajasthan-policy.pdf"
         ],
@@ -33,7 +33,7 @@
         "date_of_commencement": "2023-03-01",
         "end_date": "2023-12-31",
         "apply_link": "https://rajasthan.gov.in/",
-        "event_type": "Policy",
+        "event_type": "Exam",
         "document_links": [
             "https://rajasthan.gov.in/documents/Action%20Plan.pdf"
         ],

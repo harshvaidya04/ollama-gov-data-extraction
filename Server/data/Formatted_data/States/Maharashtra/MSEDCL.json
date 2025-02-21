@@ -5,7 +5,7 @@
         "date_of_commencement": "2023-03-01",
         "end_date": "2024-02-20",
         "apply_link": "https://www.mSEDCL.com/CORP_SOCResponsibility-Policy.pdf",
-        "event_type": "Policy",
+        "event_type": "Exam",
         "document_links": [
             "https://www.mSEDCL.com/CSR-Policy-Annexure-I.pdf"
         ],
@@ -152,37 +152,5 @@
             "deputation_basis": "working employees/officers from MSEBHL/MSEDCL/MSPGCL/MSETCL on deputation basis",
             "interested_officers": "Statewise Seniority from MSEBHL, MSEDCL, MSPGCL, and MSETCL who are interested in working in New Delhi on the said post"
         }
-    },
-    {
-        "name": "Exam",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-03-01",
-        "end_date": "2023-04-30",
-        "apply_link": "https://example.com/apply",
-        "event_type": "Exam",
-        "document_links": [
-            "https://example.com/exam-document1.pdf",
-            "https://example.com/exam-document2.pdf"
-        ],
-        "details": "This is a test exam notification."
-    },
-    {
-        "name": "",
-        "date_of_notification": "",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://example.com/apply",
-        "event_type": "",
-        "document_links": [
-            {
-                "link": "https://example.com/document1.pdf",
-                "filename": "document1.pdf"
-            },
-            {
-                "link": "https://example.com/document2.pdf",
-                "filename": "document2.pdf"
-            }
-        ],
-        "details": ""
     }
 ]
