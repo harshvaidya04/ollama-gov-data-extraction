@@ -1,18 +1,5 @@
 [
     {
-        "name": "Board of Secondary Education",
-        "date_of_notification": "15/04/1996",
-        "date_of_commencement": "01-04-1994",
-        "end_date": "31/03/2003",
-        "apply_link": "https://example.com/apply",
-        "event_type": "Exam",
-        "document_links": [
-            "https://example.com/exam-document1.pdf",
-            "https://example.com/exam-document2.pdf"
-        ],
-        "details": "This is the details of the exam. You can find more information here."
-    },
-    {
         "name": "BIHAR COMBINED ENTRANCE COMPETITIVE EXAMINATION BOARD",
         "date_of_notification": "",
         "date_of_commencement": "",
@@ -69,47 +56,5 @@
             "https://www.nbe.gov.in/Documents/NBEMarksSheet.pdf"
         ],
         "details": "For all foreign graduates, marks awarded in NBE conducted eligibility exam (FDST) are to be used for calculation for all purposes. Marks of his Degree will not be considered."
-    },
-    {
-        "name": "S.R./ Tutor in Geriatrics",
-        "date_of_notification": "31/03/2024",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://example.com/application-link",
-        "event_type": "Result",
-        "document_links": [
-            {
-                "name": "Failure Marks Sheet",
-                "link": "https://example.com/failure-marks-sheet"
-            }
-        ],
-        "details": [
-            {
-                "key": "Grace marks awarded",
-                "value": "None"
-            },
-            {
-                "key": "Recognized or permitted Institutes / Colleges",
-                "value": "Treated similarly"
-            },
-            {
-                "key": "Joining service before last date of receipt",
-                "value": "Considered as BHS for all purposes"
-            },
-            {
-                "key": "Result declared after last date",
-                "value": "Not entertained"
-            }
-        ]
-    },
-    {
-        "name": "",
-        "date_of_notification": "",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "",
-        "event_type": "",
-        "document_links": [],
-        "details": ""
     }
 ]

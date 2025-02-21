@@ -23,83 +23,7 @@
             "The Commission desires to computerize all the activities of the Commission and recruitments and departmental tests by obtaining detailed proposal from APOnline."
         ]
     },
-    {
-        "name": "AdmitCard",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-03-01",
-        "end_date": "2023-04-15",
-        "apply_link": "https://www.example.com/apply",
-        "event_type": "AdmitCard",
-        "document_links": [
-            "https://www.example.com/admitcard.pdf",
-            "https://www.example.com/document-link2.pdf"
-        ],
-        "details": "This is a sample admit card for exam purposes only."
-    },
-    {
-        "name": "Huan Vea da",
-        "date_of_notification": "2024-07-23",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://example.com/applying",
-        "event_type": "Exam",
-        "document_links": [
-            {
-                "key": "Hall Ticket Number",
-                "value": "123456789"
-            },
-            {
-                "key": "Education Qualifications",
-                "value": "SADAREM Certificate Number: 122468"
-            }
-        ],
-        "details": {
-            "Address Details": {
-                "PresentiCorrespondence Address Details": {
-                    "FlatHouse No.": "2",
-                    "Street/Village": "fest fat",
-                    "TownDistrict": "Kadapa",
-                    "Pin Code": "518001"
-                },
-                "Permanent Address Details": {
-                    "FlatHouse No.": "2",
-                    "Street/Village": "fest fat",
-                    "TownDistrict": "Kadapa",
-                    "State": "",
-                    "Pin Code": "2018001"
-                }
-            },
-            "Education Qualifications": {
-                "Type of Study": "Regular Study",
-                "School Name": "Kurnool test school",
-                "Year Of Passing": [
-                    "4th Class Kurnaol test acreol 2008",
-                    "6th Class Kureol test scrcol 2007"
-                ],
-                "X Standard Details": {
-                    "District": "Kumool",
-                    "School Name": "Kurnool test school",
-                    "Board": "",
-                    "Date of Pass": "March.2011 Percentage of Marks/Grade: 7B",
-                    "College Name": [
-                        {
-                            "Hall Ticket Number": "123456789",
-                            "Date of Pass": "September-1978"
-                        },
-                        {
-                            "Hall Ticket Number": "$555555",
-                            "Date of Pass": "April.975"
-                        }
-                    ]
-                },
-                "Post Graduation": {
-                    "University": "Srikakulam University",
-                    "College Name 1 testelg Specialization": "ece",
-                    "Date of Acquiring": "Aprilt966 Hall Ticket Number: 33933"
-                }
-            }
-        }
-    },
+   
     {
         "name": "Departmental OTPR Reprint",
         "date_of_notification": "",
@@ -127,6 +51,78 @@
             "S.No": 1,
             "NAME OF THE OFFICER": "Sri. I. NARASIMHA MURTHY",
             "DESIGNATION": "SECRETARY(FAC)"
+        }
+    },
+    {
+        "name": "Others OTPR RePrint",
+        "date_of_notification": "19/07/2024",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://psc.ap.gov.in/OthersOTPReprint",
+        "event_type": "Hall Ticket Reprint",
+        "document_links": [
+            {
+                "name": "Hall Ticket RePrint PDF",
+                "link": "https://pdf.example.com/hall-ticket-reprint.pdf"
+            },
+            {
+                "name": "Others OTPR RePrint Form",
+                "link": "https://form.example.com/others-otpr-reprint-form.pdf"
+            }
+        ],
+        "details": "RePrint of Others OTPR for Departmental Tests and Computer Proficiency Tests"
+    },
+    {
+        "name": "APPSC Examination, May 2024 Session",
+        "date_of_notification": "19/07/2024",
+        "date_of_commencement": "To be announced",
+        "end_date": "To be announced",
+        "apply_link": "https://psc.ap.gov.in",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://psc.ap.gov.in/downloads/hall_ticket_may_2024"
+        ],
+        "details": {
+            "reprint_link": "https://psc.ap.gov.in/others-otpr-reprint",
+            "contact_number": "0866-2527820"
+        }
+    },
+    {
+        "name": "NOTIFICATION NON GAZETTED POSTS LIMITED RECRUITMENT",
+        "date_of_notification": "13/04/2019",
+        "date_of_commencement": "9/05/2019",
+        "end_date": "[ Post wise Fee Payment Closed ]",
+        "apply_link": "www.psc.ap.gov.in",
+        "event_type": "Exam",
+        "document_links": {
+            "application_form": "Check Payment Status",
+            "admit_card": null,
+            "result": null
+        },
+        "details": {
+            "post_name": "Non Gazetted Posts",
+            "vacancies": null,
+            "eligibility_criteria": null,
+            "selection_process": null,
+            "important_dates": null
+        }
+    },
+    {
+        "name": "Fraudulent Appointment Letters Notice",
+        "date_of_notification": "2024-10-08",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://portal-psc.ap.gov.in/Default",
+        "event_type": "Result",
+        "document_links": [
+            "https://psc.ap.gov.in/Documents/NotificationDocuments/fraudulentappointmentletterswebnote_08102024.pdf"
+        ],
+        "details": {
+            "verification_contact": "appschelpdesk@gqmail.com",
+            "phone_number": "0866-2527821",
+            "verification_url": "https://sc.ap.gov.in",
+            "local_police_complaint": "A complaint has lodged in the local police station.",
+            "legal_action": "Legal action will be taken against individuals found involved in creating or circulating these fraudulent appointment letters."
         }
     }
 ]

@@ -29,51 +29,6 @@
         ]
     },
     {
-        "name": "GUVNL Recruitment",
-        "date_of_notification": "21/01/2025",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": null,
-        "event_type": "Result",
-        "document_links": [
-            "https://www.guvnl.org/recruitment"
-        ],
-        "details": [
-            {
-                "reg_no": "GS24000507",
-                "name": "Suresh Kumar M",
-                "gender": "M",
-                "category": "UR",
-                "dob": "25/10/1999",
-                "marks": "67.04"
-            },
-            {
-                "reg_no": "GS24002776",
-                "name": "Rajesh",
-                "gender": "M",
-                "category": "UR",
-                "dob": "21/09/1993",
-                "marks": "61.78"
-            },
-            {
-                "reg_no": "GS24000612",
-                "name": "Kumar",
-                "gender": "M",
-                "category": "UR",
-                "dob": "02/02/1991",
-                "marks": "59.33"
-            },
-            {
-                "reg_no": "GS24000647",
-                "name": "Suresh Kumar M",
-                "gender": "M",
-                "category": "SEBC",
-                "dob": "08/08/1989",
-                "marks": "58.40"
-            }
-        ]
-    },
-    {
         "name": "Gujarat State Electricity Corporation Limited",
         "date_of_notification": "2025-02-21",
         "date_of_commencement": "2025-02-21",

@@ -45,68 +45,6 @@
         }
     },
     {
-        "name": "",
-        "date_of_notification": "24/07/2023",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://example.com/application",
-        "event_type": "Exam",
-        "document_links": [
-            {
-                "link": "https://example.com/certificates",
-                "file_name": "Certificates.pdf"
-            },
-            {
-                "link": "https://example.com/degree_cert",
-                "file_name": "Degree_Certificate.pdf"
-            }
-        ],
-        "details": {
-            "application_form": [
-                {
-                    "document_type": "Basic Degree",
-                    "duration": "10 years",
-                    "university": "Gujarat University",
-                    "passing_year": "2015"
-                },
-                {
-                    "document_type": "CA / ICWA",
-                    "duration": "6 months",
-                    "institution": "Institute of Chartered Accountants of India",
-                    "passing_year": "2020"
-                }
-            ],
-            "experience": [
-                {
-                    "organization_name": "Gujarat State Electricity Corporation Ltd.",
-                    "designation": "Junior Engineer",
-                    "gross_pay": "50000",
-                    "employment_date": "01/01/2015",
-                    "leaving_date": null
-                },
-                {
-                    "organization_name": "Private Company XYZ",
-                    "designation": "Accountant",
-                    "gross_pay": "60000",
-                    "employment_date": "01/06/2020",
-                    "leaving_date": null
-                }
-            ],
-            "other_details": [
-                {
-                    "document_type": "Caste Certificate",
-                    "institution": "Gujarat State Government",
-                    "file_name": "Caste_Certificate.pdf"
-                },
-                {
-                    "document_type": "No Objection Certificate",
-                    "institution": "Present Employer",
-                    "file_name": "NOC_Present_Employer.pdf"
-                }
-            ]
-        }
-    },
-    {
         "name": "UGVCL Exam Admit Card",
         "date_of_notification": "2003-04-06",
         "date_of_commencement": "2025-02-21",

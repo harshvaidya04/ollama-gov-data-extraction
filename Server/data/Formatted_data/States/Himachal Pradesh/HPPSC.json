@@ -47,36 +47,5 @@
         "details": {
             "Amendment": "The Himachal Pradesh Public Service Commission in its meeting held on 31-08-2020 decided to withhold the applicability of the new selection procedure notified vide Office Order No.3-8/86-PSC dated 20 May, 2020 & 21 July, 2020 and fill up all the posts to be advertised in future on the basis of the pre-amended selection procedure."
         }
-    },
-    {
-        "name": "Vacancy Notification",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-03-01",
-        "end_date": "2023-04-30",
-        "apply_link": "",
-        "event_type": "Exam",
-        "document_links": [
-            "",
-            ""
-        ],
-        "details": {
-            "post_id": 107,
-            "classification": "CLASS-IV (NON-GAZETTED)",
-            "job_description": {
-                "position": "Peon",
-                "salary": "",
-                "benefits": ""
-            },
-            "requirement": [
-                {
-                    "key": "education",
-                    "value": ""
-                },
-                {
-                    "key": "experience",
-                    "value": ""
-                }
-            ]
-        }
     }
 ]
