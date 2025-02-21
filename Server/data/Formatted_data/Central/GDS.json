@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Notification for Examination and Admission",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://indiapostgdsonline.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://indiapostgdsonline.cept.gov.in/Notifications1/Final_Post_Consolidation.pdf"
+        ],
+        "details": {
+            "Organization": "Government of India",
+            "Exam Dates": "",
+            "Application Fees": ""
+        }
+    },
+    {
+        "name": "Gramin Dak Sevak BPM/ABPM/Dak Sevak",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.indianpostoffice.gov.in/gram-in-dak-sevak-bpm-abpm-daksewak-recruitment-2023/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://api.example.com/daksevak-marksheet.pdf",
+            "https://api.example.com/daksevak-verification.pdf"
+        ],
+        "details": {
+            "eligibility_criteria": [
+                {
+                    "key": "Education",
+                    "value": "Secondary Level Examination of Class X standard"
+                },
+                {
+                    "key": "Age",
+                    "value": "18 to 40 years"
+                }
+            ],
+            "eligibility_documents": [
+                {
+                    "name": "Passport size attested photograph",
+                    "description": "A recent passport-sized photograph taken on a white background."
+                },
+                {
+                    "name": "Mark sheet of Secondary Level Examination of Class X standard",
+                    "description": "The mark sheet of the applicant's secondary level examination of class x standard."
+                }
+            ],
+            "eligibility_process": [
+                {
+                    "key": "Application submission",
+                    "value": "Submit online application through official website"
+                },
+                {
+                    "key": "Verification of documents",
+                    "value": "Verification of documents by the Department"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Hindi Language Test",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://indiapostgdsonline.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://indiapostgdsonline.cept.gov.in/Notifications1/Final_Post_Consolidation.pdf"
+        ],
+        "details": {
+            "total_students": 9735,
+            "passing_percentage": 42.86
+        }
+    }
+]

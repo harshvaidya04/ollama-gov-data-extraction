@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Exam",
+        "date_of_notification": "2023-03-15",
+        "date_of_commencement": "2023-04-01",
+        "end_date": "2023-05-31",
+        "apply_link": "https://example.com/exam-apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam-doc1.pdf",
+            "https://example.com/exam-doc2.pdf"
+        ],
+        "details": {
+            "exam_name": "Government Exam",
+            "exam_date": "2023-05-15",
+            "exam_time": "10:00 AM - 01:00 PM",
+            "exam_location": "City Hall, Downtown"
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": {}
+    },
+    {
+        "name": "Your Name",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-30",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam.pdf",
+            "https://example.com/result.pdf"
+        ],
+        "details": {
+            "subject": "Electrical Engineering",
+            "course": "Power Systems"
+        }
+    }
+]

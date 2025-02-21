@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Joint Entrance Examination (Main) — 2025 Session 1",
+        "date_of_notification": "2025-02-15",
+        "date_of_commencement": "",
+        "end_date": "2025-02-16",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://jeemain.nta.nic.in/"
+        ],
+        "details": {
+            "Procedure for Challenge of Answer Key": {
+                "1. Please go to the website https://jeemain.nta.nic.in/": null,
+                "2s Click ‘Challenge (s) regarding Answer Key’": null,
+                "3s Login with your Application Number and Password, enter the Captcha Code as displayed": null,
+                "4. Click ‘Challenge (s) regarding Answer Key’:": null,
+                "5. You will see the Question IDs in the below sequential order for JEE (Main) — 2025 Session 1 (January 2025)": null,
+                "6. The ID next to the question under the column ‘Correct Option’ stands for the most appropriate Answer Key by NTA": null,
+                "7. If you wish to challenge this option, you may use any one or more of the Option IDs given in the next four columns by clicking the check box [-]": null,
+                "8. You may upload supporting documents for which you can select ‘Choose File and Upload (all documents to be put in a single PDF file).’": null,
+                "9. After clicking your desired option, for Mathematics / Aptitude Test for Paper 2A (B. Arch) and Mathematics / Aptitude Test/ Planning for Paper 2B (B. Planning), scroll down and ‘Save you claim’ and move on to the next screen.": null,
+                "10. You will see a display of all the Option IDs you have challenged.": null,
+                "11. Click on ‘Save your claim and Pay Fee finally.’": null,
+                "12. Select the Mode of Payment and Pay a non-refundable processing fee @ % 200/- for each question challenged. Make payment through Debit / Credit Card / Net Banking.": null
+            },
+            "Helpline Number and e-mail": {
+                "+91-11-40759000, jeemain@nta.nic.in": null,
+                "+9+11-40759000, jeemain@nta.nicin": null,
+                "011-40759000, jeemain@nta.nic.in": null
+            },
+            "Website": {
+                "www.nta.ac.in, https://jeemain.nta.nic.in/": null
+            }
+        }
+    },
+    {
+        "name": "JEE (Main) 2025",
+        "date_of_notification": "Not specified",
+        "date_of_commencement": "Not specified",
+        "end_date": "Not specified",
+        "apply_link": "",
+        "event_type": "Exam",
+        "document_links": [
+            "",
+            ""
+        ],
+        "details": {
+            "arrangements": [
+                "Random deployment of examination functionaries in all centres.",
+                "PwD candidates were allotted to a PwD-friendly test Centre and extra organizational support was given.",
+                "Identity proof as mentioned by the candidate in online application form was included in the admit card for verification at the examination centre during biometric attendance."
+            ],
+            "committees": [
+                {
+                    "committee_name": "High-Level Committee of Experts on the Reformation of National Common Entrance Testing in India",
+                    "committee_action": "Coordinated with State and District Authorities to form committees and carry out physical audit of examination centres."
+                },
+                {
+                    "committee_name": "District Level Committees",
+                    "committee_action": "Successfully carried out physical audit of various examinations for the conduct of JEE (Main) 2025 Session-1 all across the country."
+                }
+            ]
+        }
+    },
+    {
+        "name": "National Testing Agency",
+        "date_of_notification": "2025-01-29",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.nationaltestingagency.org/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.nationaltestingagency.org/exam-materials",
+            "https://www.nationaltestingagency.org/admit-card"
+        ],
+        "details": {
+            "SESSION": "Session-1",
+            "SUBJECT": "JEE Main",
+            "COURSE": "Bachelor of Technology"
+        }
+    },
+    {
+        "name": "Joint Entrance Examination (Main) — 2025 Session 1",
+        "date_of_notification": "2025-02-04",
+        "date_of_commencement": "",
+        "end_date": "2025-02-06",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://jeemain.nta.nic.in/Annexure1.pdf"
+        ],
+        "details": {
+            "Procedure for Challenge of Answer Key": {
+                "Step 1": "Please go to the website https://jeemain.nta.nic.in/",
+                "Step 2": "Click ‘Challenge (s) regarding Answer Key’.",
+                "Step 3": "Login with your Application Number and Password, enter the Captcha Code as displayed and Submit.",
+                "Step 4": "Click ‘Challenge (s) regarding Answer Key’.",
+                "Step 5": "You will see the Question IDs in the below sequential order for JEE (Main) — 2025 Session 1(January 2025)",
+                "Step 6": "The ID next to the question under the column ‘Correct Option’ stands for the most appropriate Answer Key by NTA.",
+                "Step 7": "You may upload supporting documents for which you can select ‘Choose File and Upload (all documents to be put in a single PDF file).'",
+                "Step 8": "After clicking your desired option, for Mathematics / Physics / Chemistry for Paper 1 (B.E./B. Tech.), scroll down and ‘Save you claim’ and move on to the next screen.",
+                "Step 9": "You will see a display of all the Option IDs you have challenged.",
+                "Step 10": "Click on ‘Save your claim and Pay Fee finally’.",
+                "Step 11": "Select the Mode of Payment and Pay a non-refundable processing fee @ % 200/- for each question challenged. Make payment through Debit / Credit Card / Net Banking."
+            }
+        }
+    }
+]

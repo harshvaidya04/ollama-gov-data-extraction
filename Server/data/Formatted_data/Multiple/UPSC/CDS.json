@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Combined Defence Service Examination (I), 2025",
+        "date_of_notification": "2025-01-14",
+        "date_of_commencement": "",
+        "end_date": "2025-02-21",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20(%C2%)28I%C2)%2C%202025",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/FF-CDSE-I-2025-Engl-14012025.pdf"
+        ],
+        "details": {
+            "reason_for_rejection": "rejected due to non-payment of fee - regarding.",
+            "applicants": [
+                {
+                    "registration_id": "12501204535",
+                    "candidate_name": "SOMNATH NAG",
+                    "transaction_id": "2345678543686"
+                },
+                {
+                    "registration_id": "12502724324",
+                    "candidate_name": "ARYAN AHMED",
+                    "transaction_id": "472705530737"
+                },
+                {
+                    "registration_id": "12503128565",
+                    "candidate_name": "SAURABH TIWARI",
+                    "transaction_id": "7789787"
+                },
+                {
+                    "registration_id": "12504111238",
+                    "candidate_name": "RAVI KUSHWAHA RAVI1075KUSHW",
+                    "transaction_id": ""
+                }
+            ],
+            "action_required": [
+                {
+                    "text": "Appeal against rejection, if any, may be made along with the documentary evidence sent to the Commission by speed post OR by hand only to Shri R.S. Sharma, Under Secretary (CDS)/C, Union Public Service Commission..."
+                },
+                {
+                    "text": "Please submit a copy of your Debit/ Credit Card Statement or Bank Account Statement as the case may be."
+                }
+            ]
+        }
+    },
+    {
+        "name": "Combined Defence Services Examination (CDSE) II, 2024",
+        "date_of_notification": "2024-05-15",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28II%29%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/FictFee-CDSE-II-24-engl-190624.pdf"
+        ],
+        "details": {
+            "status": "Rejected applications due to non-payment of fee",
+            "reason": "Confirmation not received from Bank Authorities regarding receipt of fees in respect of 06 applicants.",
+            "appeal_procedure": "Appeals may be made, along with documentary evidence, to the Commission either by speed post or hand addressed to Sh. R.S. Sharma, Under Secretary (CDS), Union Public Service Commission.",
+            "document_requirements": {
+                "bank_pay_in_slip": "Original bank pay-in slip for cash mode payment",
+                "debit_credit_card_statement": "Copy of Debit/Credit Card Statement or Bank Account Statement"
+            },
+            "additional_info": "List of No Fee Cases for CDSE (ID, 2024)",
+            "no_fee_cases": [
+                {
+                    "registration_id": "12427838960",
+                    "candidate_name": "ANSHU TIWARI",
+                    "transaction_id": "9987986453122"
+                },
+                {
+                    "registration_id": "12427940755",
+                    "candidate_name": "YASH SHARMA",
+                    "transaction_id": "38069465659"
+                },
+                {
+                    "registration_id": "12428094210",
+                    "candidate_name": "JADHAV RUSHIKESH",
+                    "transaction_id": "1240602182407"
+                },
+                {
+                    "registration_id": "12428127860",
+                    "candidate_name": "DURGESH PATTNAIK",
+                    "transaction_id": "38548547313"
+                },
+                {
+                    "registration_id": "12429895635",
+                    "candidate_name": "SHIVANKIT SINGH",
+                    "transaction_id": "C453964826"
+                },
+                {
+                    "registration_id": "12430507876",
+                    "candidate_name": "PRINCE KUMAR",
+                    "transaction_id": "Pric124305078"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Combined Defence Services Examination (II), 2024",
+        "date_of_notification": "2024-08-24",
+        "date_of_commencement": "2024-09-01",
+        "end_date": "2024-09-30",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28II%29,%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/PressNote-CDSE-II-2024.pdf",
+            "https://upsc.gov.in/examinations/CombinedDefenceServicesExamination-II-2024 Instructions.pdf"
+        ],
+        "details": {
+            "Session Timings": {
+                "English Paper": "09:00 AM - 11:00 AM",
+                "General Knowledge Paper": "12:00 Noon - 02:00 PM",
+                "Elementary Mathematics Paper": "03:00 PM - 05:00 PM"
+            },
+            "Entry and Exit": {
+                "Entry Time": "30 minutes prior to the commencement of Examination in each Session",
+                "Exit Time": "Closure of entry 30 minutes before commencement of Examination"
+            },
+            "Mobile Phones and Gadgets": {
+                "Not Allowed": "Possession or use of mobile phones, pager, or any other electronic/communication devices shall entail disciplinary action.",
+                "Permitted Items": "Only e-Admit Card, pen, pencil, identity proof, photographs, and specified items as per Instructions of the e-Admit Card are allowed."
+            },
+            "Questions Representation Portal": {
+                "URL": "https://upsconline.nic.in/miscellaneous/QPRep/",
+                "Timing": "0224 September 2024 to O8t September 2024 (till 06:00 pm)"
+            }
+        }
+    },
+    {
+        "name": "RAKU-S-GKL Test Booklet Series",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-15",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/document1.pdf",
+            "https://example.com/document2.pdf"
+        ],
+        "details": {
+            "title": "General Knowledge Test",
+            "description": "Test your knowledge in general topics."
+        }
+    },
+    {
+        "name": "Raju",
+        "date_of_notification": "2022-01-01",
+        "date_of_commencement": "2022-01-02",
+        "end_date": "2022-12-31",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "link1.pdf",
+            "link2.docx"
+        ],
+        "details": {
+            "exam_name": "Mathematics",
+            "subject_code": "MATH-101"
+        }
+    }
+]

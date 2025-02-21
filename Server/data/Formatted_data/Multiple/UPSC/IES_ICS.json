@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Name of Event",
+        "date_of_notification": "Date of Notification",
+        "date_of_commencement": "Date of Commencement",
+        "end_date": "End Date",
+        "apply_link": "Apply Link",
+        "event_type": "Exam",
+        "document_links": [
+            "Link 1",
+            "Link 2"
+        ],
+        "details": {
+            "exam_details": {
+                "exam_name": "Exam Name",
+                "exam_date": "Exam Date"
+            },
+            "admission_details": {
+                "admission_process": "Admission Process",
+                "eligibility_criteria": "Eligibility Criteria"
+            }
+        }
+    },
+    {
+        "name": "E.S/1.S.S. Examination, 2024",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-STUDIES-240624.pdf"
+        ],
+        "details": {
+            "Time Allowed": "Three Hours",
+            "Maximum Marks": "100",
+            "Question Paper Specific Instructions": "Please read each of the following instructions carefully before attempting questions: ...",
+            "Severe weather events and climate extremes associated with El-Nifo": "",
+            "Factors justifying India’s significant potential for solar energy": "",
+            "Distribution of industries in India highly uneven": "",
+            "Agriculture is an environment-dependent activity": "",
+            "Beneficial outcomes stemming from India’s National River Linking Project": ""
+        }
+    },
+    {
+        "name": "SGE-2024",
+        "date_of_notification": "2023-12-01",
+        "date_of_commencement": "2023-12-05",
+        "end_date": "2023-12-31",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam-materials",
+            "https://example.com/admit-card-terms"
+        ],
+        "details": {
+            "exam_subject": "English Language",
+            "exam_duration": "3 hours",
+            "exam_number_of_questions": "100",
+            "exam_type": "Multiple Choice Questions"
+        }
+    },
+    {
+        "name": "SGSE-P-INM Examination",
+        "date_of_notification": "2024-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-INDIAN-ECONOMICS-240624.pdf"
+        ],
+        "details": {
+            "Exam Details": {
+                "Subject": "Economics",
+                "Type": "SGSE-P-INM",
+                "Description": "Time Allowed : Three Hours Maximum Marks : 200"
+            }
+        }
+    },
+    {
+        "name": "Example Output",
+        "date_of_notification": "2023-02-20T14:30:00Z",
+        "date_of_commencement": "2022-09-01T14:30:00Z",
+        "end_date": "2024-08-31T14:30:00Z",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam-doc1.pdf",
+            "https://example.com/exam-doc2.pdf"
+        ],
+        "details": {
+            "exam_name": "ABC Exam",
+            "exam_date": "2023-03-15T14:30:00Z",
+            "test_centers": [
+                "Test Center 1",
+                "Test Center 2"
+            ]
+        }
+    }
+]

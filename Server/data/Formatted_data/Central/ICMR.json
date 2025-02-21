@@ -1,0 +1,45 @@
+[
+    {
+        "name": "ICMR-RMRCSVP Recruitment",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-30",
+        "apply_link": "https://rmrc.res.in/recruitment",
+        "event_type": "Exam",
+        "document_links": [
+            "https://rmrc.res.in/pdfs/ICMR-RMRCSVP_Recruitment.pdf",
+            "https://rmrc.res.in/pdfs/Application_Form.pdf"
+        ],
+        "details": {
+            "duration": "6 months",
+            "eligibility_criteria": "Age limit: 18-40 years, Essential qualification: M.Sc. in relevant field, Experience: 3-5 years",
+            "vacancies": 100,
+            "selection_process": "Written Test and Interview"
+        }
+    },
+    {
+        "name": "Hindi Translator (Consultant) on contract basis",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2024-02-29",
+        "apply_link": "https://www.icmr-nin.ac.in/career/consultant-hindi-translator/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://www.icmr-nin.ac.in/career/consultant-hindi-translator/documents/link1.pdf",
+            "https://www.icmr-nin.ac.in/career/consultant-hindi-translator/documents/link2.pdf"
+        ],
+        "details": {
+            "description": "We are seeking a highly skilled and experienced Hindi Translator (Consultant) on contract basis.",
+            "responsibilities": [
+                "Translation services",
+                "Consultative services",
+                "Research assistance"
+            ],
+            "qualifications": [
+                "Master's degree in Hindi or related field",
+                "Experience in translation and consultancy",
+                "Excellent communication skills"
+            ]
+        }
+    }
+]

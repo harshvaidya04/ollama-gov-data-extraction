@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Exam",
+        "date_of_notification": "2023-03-01",
+        "date_of_commencement": "2023-04-01",
+        "end_date": "2023-06-30",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/exam-document1.pdf",
+            "https://example.com/exam-document2.pdf"
+        ],
+        "details": {
+            "title": "National Eligibility Test for Graduate Admission",
+            "description": "A national-level test for graduate admission to medical and dental institutions.",
+            "eligibility": "MBBS, BDS, BSMS, BAMS, BHMS"
+        }
+    },
+    {
+        "name": "Union Public Service Commission",
+        "date_of_notification": "Ist July, 2024",
+        "date_of_commencement": "10 Ashadha, Saka 1946",
+        "end_date": null,
+        "apply_link": "https://www.upsconline.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.upsconline.nic.in/NoticeBoard.aspx?PageId=8&MenuId=10&LangId=EN",
+            "https://www.upsconline.nic.in/NoticeBoard.aspx?PageId=5&MenuId=10&LangId=EN"
+        ],
+        "details": {
+            "examination_centres": [
+                "Ahmedabad",
+                "Bhopal",
+                "Chennai",
+                "Dehradun",
+                "Gandhinagar",
+                "Imphal",
+                "Kanpur",
+                "Lucknow",
+                "Mumbai",
+                "Patna",
+                "Ranchi"
+            ],
+            "exam_date": [
+                "2024-07-15",
+                "2024-07-16",
+                "2024-07-17",
+                "2024-07-18",
+                "2024-07-19",
+                "2024-07-20",
+                "2024-07-21",
+                "2024-07-22"
+            ]
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Suspension of booking of international mails destined to Sudan",
+        "date_of_notification": "12.2024",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.indiapost.gov.in/vas/Pages/IndiaPostHome.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.indiapost.gov.in/VAS/Pages/News/IP_17122024_Publicnotice_English.pdf"
+        ],
+        "details": {
+            "Subject": "Suspension of booking of international mails destined to Sudan.",
+            "Reason": "Due to the prevailing geopolitical situation in the Middle East; cancellation of flights, and lack of alternative transmission channels for international mail.",
+            "Action Taken": "All categories of international mail to Sudan have been suspended with immediate effect until further notice."
+        }
+    },
+    {
+        "name": "Suspension of booking of international mails destined to Sudan",
+        "date_of_notification": "2024-12-02",
+        "date_of_commencement": "",
+        "end_date": "2025-01-15",
+        "apply_link": "https://www.indiapost.gov.in/vas/Pages/IndiaPostHome.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.indiapost.gov.in/VAS/Pages/News/IP_17122024_Publicnotice_English.pdf",
+            "https://www.indiapost.gov.in/vas/Pages/Notification_NoDA19-25-2024-DOP.pdf"
+        ],
+        "details": {
+            "Published by": "Government of India, Ministry of Communications, Department of Posts",
+            "Division": "(IR & GB Division)",
+            "Office Address": "Dak Bhawan, Sansad Marg, New Delhi-110001",
+            "Contact Person": "Nee Ss (Himanshu Chaudhary), Assistant Director General (IM)"
+        }
+    }
+]
