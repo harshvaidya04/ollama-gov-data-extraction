@@ -1,30 +1,6 @@
 [
-    {
-        "name": "Example",
-        "date_of_notification": "2022-06-15",
-        "date_of_commencement": "2023-01-15",
-        "end_date": "2023-12-31",
-        "apply_link": "https://example.com/apply",
-        "event_type": "Exam",
-        "document_links": [
-            "https://example.com/exam-document.pdf",
-            "https://example.com/result-document.pdf"
-        ],
-        "details": "This is a sample event detail."
-    },
-    {
-        "name": "Exam",
-        "date_of_notification": "2024-03-15",
-        "date_of_commencement": "2024-04-01",
-        "end_date": "2024-05-31",
-        "apply_link": "https://example.com/apply",
-        "event_type": "Exam",
-        "document_links": [
-            "https://example.com/document1.pdf",
-            "https://example.com/document2.pdf"
-        ],
-        "details": "This is a notification for an upcoming exam."
-    },
+  
+  
     {
         "name": "Yurahie Yee Fier Arearget",
         "date_of_notification": "2022-01-01",

@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+ANDHRA PRADESH PUBLIC SERVICE COMMISSION:: VIJAYAWADA
+
+EXAMINATION CENTER FOR CONDUCT OF WRITTEN EXAMINATIONS (COMPUTER BASED TESTS) FOR
+THE POSTS OF ASSISTANT LIBRARIAN IN DR. NTR UNIVERSITY OF HEALTH SCIENCES (NOTIFICATION
+
+NO. 48/MIl/2024), SCHEDULED TO BE HELD ON 24.03.2025 FN & 25.03.2025 FN.
+
+WEB NOTE
+
+In continuation to the Commission's web/press Note dated: 02.12.2024, it is hereby
+informed that the conduct of Written Examinations (Computer Based Tests) for the post of
+Assistant Librarian in Dr. NTR University of Health Sciences (Notification. No. 48/MII/2024),
+
+scheduled to be held on 24.03.2025 FN & 25.03.2025 FN will be at Vijayawada center only.
+
+Vijayawada, Sd/- I|.Narasimha Murthy,
+Date: 18.02.2025. Secretary (FAC).
+
+=======
 Engineering Services (P) Examination, 2024
 DO NOT OPEN THIS TEST BOOKLET UNTIL YOU ARE TOLD TO DO SO
 
@@ -3422,3 +3442,4 @@ SPACE FOR ROUGH WORK
 
 PNGE-D-CVL — A 40
 
+>>>>>>> 72922e2eb312c2e48868e39848fe0224ace5877d

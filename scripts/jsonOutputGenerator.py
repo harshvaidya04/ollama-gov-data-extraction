@@ -171,7 +171,7 @@ def generateOutput(pdf_link, apply_link):
             - If a date appears invalid or inconsistent, leave as empty string rather than guessing
 
             3. CONTENT GUIDELINES:
-            - Strictly do not generate any example data , only take data from the raw data
+            - Strictly do not generate any example data , only take data from the raw text
             - document_links must be an array of simple strings, not objects
             - Do not create additional top-level keys beyond those in the reference structure
             - Place any supplementary information in the "details" object

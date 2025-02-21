@@ -90,79 +90,79 @@ def generateSupremeJson(supremeData):
 
 
     # state
-    # states = supremeData['state']
+    states = supremeData['state']
 
-    # for state in states:
-    #     stateName = state['name']
-    #     orgs = state['organizations']
+    for state in states:
+        stateName = state['name']
+        orgs = state['organizations']
         
-    #     if(not os.path.exists(f'../Server/data/Formatted_data/States/{stateName}')):
-    #         os.mkdir(f'../Server/data/Formatted_data/States/{stateName}')
+        if(not os.path.exists(f'../Server/data/Formatted_data/States/{stateName}')):
+            os.mkdir(f'../Server/data/Formatted_data/States/{stateName}')
         
-    #     failedState = {
-    #         "name": stateName,
-    #         "organizations": []
-    #     }
+        failedState = {
+            "name": stateName,
+            "organizations": []
+        }
         
-    #     for org in orgs:
-    #         organization = org["name"]
-    #         applyLink = org['applyLink']
-    #         links = org["links"]
+        for org in orgs:
+            organization = org["name"]
+            applyLink = org['applyLink']
+            links = org["links"]
             
             
-    #         file_path = f"../Server/data/Formatted_data/States/{stateName}/{organization}.json"
-    #         if(not os.path.exists(file_path)):
-    #             with open(file_path,'a') as f:
-    #                 pass
+            file_path = f"../Server/data/Formatted_data/States/{stateName}/{organization}.json"
+            if(not os.path.exists(file_path)):
+                with open(file_path,'a') as f:
+                    pass
             
-    #         failedLinks=[]
+            failedLinks=[]
             
-    #         for link in links[:5]:
-    #             output = generateOutput(link, applyLink)
-    #             if(output):
+            for link in links[5:10]:
+                output = generateOutput(link, applyLink)
+                if(output):
 
-    #                 os.makedirs(os.path.dirname(file_path), exist_ok=True)
+                    os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
-    #                 if os.path.exists(file_path):
-    #                     with open(file_path, "r", encoding="utf-8") as f:
-    #                         try:
-    #                             existingEvents = json.load(f)  # Load existing JSON data
-    #                             if not isinstance(existingEvents, list):  # Ensure it's a list
-    #                                 existingEvents = []
-    #                         except json.JSONDecodeError:
-    #                             existingEvents = []  # If JSON is corrupted or empty, reset it to an empty list
-    #                 else:
-    #                     existingEvents = []  # If file doesn't exist, start with an empty list
+                    if os.path.exists(file_path):
+                        with open(file_path, "r", encoding="utf-8") as f:
+                            try:
+                                existingEvents = json.load(f)  # Load existing JSON data
+                                if not isinstance(existingEvents, list):  # Ensure it's a list
+                                    existingEvents = []
+                            except json.JSONDecodeError:
+                                existingEvents = []  # If JSON is corrupted or empty, reset it to an empty list
+                    else:
+                        existingEvents = []  # If file doesn't exist, start with an empty list
 
-    #                 existingEvents.append(output)
+                    existingEvents.append(output)
 
-    #                 with open(file_path, "w", encoding="utf-8") as f:
-    #                     json.dump(existingEvents, f, ensure_ascii=False, indent=4)
+                    with open(file_path, "w", encoding="utf-8") as f:
+                        json.dump(existingEvents, f, ensure_ascii=False, indent=4)
                         
                         
-    #             else:
-    #                 failedLinks.append(link)
+                else:
+                    failedLinks.append(link)
             
-    #         failedObject = {
-    #             "name":organization,
-    #             "applyLink":applyLink,
-    #             "links": failedLinks
-    #         }
+            failedObject = {
+                "name":organization,
+                "applyLink":applyLink,
+                "links": failedLinks
+            }
             
-    #         failedState["organizations"].append(failedObject)
-            
-            
+            failedState["organizations"].append(failedObject)
             
             
             
-    #         print("stored in",organization,"json")
             
-    #     SupremeFailedData["state"].append(failedState)
+            
+            print("stored in",organization,"json")
+            
+        SupremeFailedData["state"].append(failedState)
         
-    #     with open ('../scripts/SupremeFailedLinksTemp.json','w',encoding='utf-8') as f:
-    #         json.dump(SupremeFailedData,f)
+        with open ('../scripts/SupremeFailedLinksTemp.json','w',encoding='utf-8') as f:
+            json.dump(SupremeFailedData,f)
             
-    # print('states done')
+    print('states done')
 
 
     # UPSC
@@ -179,7 +179,7 @@ def generateSupremeJson(supremeData):
     #     "organizations":[]
     # }
     
-    # for org in orgs[-1:]:
+    # for org in orgs:
     #     organization = org["name"]
     #     applyLink = org["applyLink"]
     #     links = org["links"]
@@ -190,10 +190,10 @@ def generateSupremeJson(supremeData):
     #         with open(file_path,'a') as f:
     #             pass
 
-        # failedLinks=[]
-        # for link in links[:5]:
-        #     output = generateOutput(link, applyLink)
-        #     if(output):
+    #     failedLinks=[]
+    #     for link in links[:5]:
+    #         output = generateOutput(link, applyLink)
+    #         if(output):
 
     #             os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
