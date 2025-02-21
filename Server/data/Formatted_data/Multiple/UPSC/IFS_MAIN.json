@@ -1,0 +1,113 @@
+[
+    {
+        "name": "Indian Forest Service (Main) Examination, 2024",
+        "date_of_notification": "2024-08-23",
+        "date_of_commencement": "",
+        "end_date": "2024-09-05",
+        "apply_link": "https://upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/ImpNotice-IFSM-24-DAF-I-Engl-270824.pdf"
+        ],
+        "details": {
+            "result_declaration_date": "2024-07-01",
+            "exam_period": "27.08.2024 to 05.09.2024",
+            "submission_instructions": "Submit online within the prescribed time frame.",
+            "cancellation_policy": "Any delay in submission of DAF-I or documents beyond the prescribed date will lead to cancellation of candidature."
+        }
+    },
+    {
+        "name": "Indian Forest Service (Main) Examination, 2024",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/TT-IFSM-Engl-031024.pdf"
+        ],
+        "details": {
+            "timing": "Time-table\n\nDate & Day Forenoon Session Afternoon Session\n(9.00 AM to 12.00 Noon) (2.30 PM to 5.30 PM)\n24-11-2024 General English General Knowledge\n(Sunday)\n25-11-2024 No paper (Rest day ) No paper ( Rest day )\n(Monday)\n26-11-2024 Mathematics Paper-I/ Mathematics Paper-II/\n(Tuesday) Statistics Paper-I/ Statistics Paper-II/\nZoology Paper -I Zoology Paper —II\n27-11-2024 Civil Engineering Paper -I / Civil Engineering Paper- II/\n(Wednesday) Botany Paper- I Botany Paper- II\n28-11-2024 | Agricultural Engineering Paper -I /| Agricultural Engineering Paper -II\n(Thursday) Animal Husbandry Animal Husbandry & Veterinary Science Paper- I/ & Veterinary Science Paper- II/\nPhysics Paper- I Physics Paper- II\n29-11-2024 Agriculture Paper- I/ Agriculture Paper- II/\n(Friday) Forestry Paper- I Forestry Paper —II\n30-11-2024 Geology Paper- I Geology Paper -II\n(Saturday)\n01-12-2024 Chemistry Paper- I/ Chemistry Paper- II/\n(Sunday) Chemical Engineering Paper -I/ Chemical Engineering Paper -II/\nMechanical Engineering Paper —I\nMechanical Engineering -Paper II",
+            "subjects": [
+                "General English",
+                "Mathematics Paper-I",
+                "Mathematics Paper-II",
+                "Statistics Paper-I",
+                "Statistics Paper-II",
+                "Zoology Paper -I",
+                "Zoology Paper —II",
+                "Civil Engineering Paper -I",
+                "Civil Engineering Paper- II",
+                "Botany Paper- I",
+                "Botany Paper- II",
+                "Agricultural Engineering Paper -I",
+                "Agricultural Engineering Paper -II",
+                "Animal Husbandry Animal Husbandry & Veterinary Science Paper- I/ & Veterinary Science Paper- II/",
+                "Physics Paper- I",
+                "Physics Paper- II",
+                "Agriculture Paper- I",
+                "Agriculture Paper- II",
+                "Forestry Paper- I",
+                "Forestry Paper —II",
+                "Geology Paper- I",
+                "Geology Paper -II",
+                "Chemistry Paper- I",
+                "Chemistry Paper- II",
+                "Chemical Engineering Paper -I/ Chemical Engineering Paper -II/",
+                "Mechanical Engineering Paper —I",
+                "Mechanical Engineering -Paper II"
+            ]
+        }
+    },
+    {
+        "name": "Indian Forest Service (Main) Examination, 2024",
+        "date_of_notification": "2024-11-11",
+        "date_of_commencement": "",
+        "end_date": "2024-12-31",
+        "apply_link": "https://upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/PressNote-IFSM-24-Engl-111124.pdf"
+        ],
+        "details": {
+            "important_instructions": "Candidates are advised to read carefully the 'Important Instructions' appended with the e-Admit Card.",
+            "candidate_requirements": "Candidates are required to carry along their e-Admit Card, Photo ID card, and other specified items at the allotted venue."
+        }
+    },
+    {
+        "name": "Nuclear Reactor Physics Exam",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-15",
+        "apply_link": "https://www.example.com/apply-now",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/syllabus.pdf",
+            "https://example.com/faculty-list.pdf"
+        ],
+        "details": {
+            "exam_description": "This exam covers the principles of nuclear reactor physics.",
+            "examtopics": [
+                "Nuclear Reactor Design",
+                "Thermohydraulics",
+                "Reactor Safety Analysis"
+            ]
+        }
+    },
+    {
+        "name": "Irrigation Engineering Examination",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-03-31",
+        "apply_link": "https://exam.link",
+        "event_type": "Exam",
+        "document_links": [
+            "https://doc1.link",
+            "https://doc2.link"
+        ],
+        "details": {
+            "subject": "Irrigation Engineering",
+            "description": "Examination for Irrigation Engineering"
+        }
+    }
+]

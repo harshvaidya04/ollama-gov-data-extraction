@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Exam",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "",
+        "event_type": "Exam",
+        "document_links": [],
+        "details": {
+            "exam_details": {
+                "subject": "Mathematics",
+                "duration": 3,
+                "type": "Written Exam"
+            },
+            "eligibility_criteria": [
+                {
+                    "key": "Education",
+                    "value": "Bachelor's degree"
+                },
+                {
+                    "key": "Age",
+                    "value": "Maximum 30 years"
+                }
+            ],
+            "test_center_details": {
+                "center_name": "Delhi",
+                "center_code": "1234"
+            }
+        }
+    },
+    {
+        "name": "Engineering Services (Preliminary) Examination, 2025",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202025",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/TT-ESEP-25-Engl-061124.pdf"
+        ],
+        "details": {
+            "date-time-table": "TIME-TABLE (STAGE-I)\nDATE AND DAY TIME SUBJECT\n09:30 A.M. | GENERAL STUDIES AND ENGINEERING\nto APTITUDE PAPER (PAPER-I) (OBJECTIVE)\n11:30 A.M. | (2 hours duration) (200 Marks)\n8th June, 2025\n(SUNDAY)\n2:00 P.M CIVIL, MECHANICAL, ELECTRICAL,\n.\n to — ELECTRONICS & TELECOM. ENGG.\n5:00 P.M (DISCIPLINE-SPECIFIC PAPER)(PAPER-II)\n.\n_(OBJECTIVE) (3 hours duration) ( 300 Marks)\nBRANCH CODES\nCIVIL ENGINEERING ELECTRICAL ENGINEERING\nSUBJECT CODE SUBJECT CODE\nGENERAL STUDIES AND 01 GENERAL STUDIES AND 01\nENGINEERING APTITUDE PAPER ENGINEERING APTITUDE PAPER\n(PAPER-I)(OBJ.) (PAPER-I)(OBJ.)\nCIVIL ENGG. PAPER -II(OBJ.) 11 ELECTRICAL ENGG. PAPER -II(OBJ.) | 31\nMECHANICAL ENGINEERING ELECTRONICS & TELECOMMUNICATION\nENGINEERING\nSUBJECT CODE SUBJECT CODE\nGENERAL STUDIES AND 01 GENERAL STUDIES AND 01\nENGINEERING APTITUDE PAPER ENGINEERING APTITUDE PAPER\n(PAPER-I)(OBJ.) (PAPER-I)(OBJ.)\nMECHANICAL ENGG. PAPER — 21 ELECTRONICS & 41 Il(OBJ.)\nTELECOMMUNICATION ENGG.\nPAPER -II(OBJ.)"
+        }
+    },
+    {
+        "name": "UNION PUBLIC SERVICE COMMISSION",
+        "date_of_notification": "Not specified",
+        "date_of_commencement": "Not specified",
+        "end_date": "Not specified",
+        "apply_link": "https://www.upsc.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.upsc.gov.in/images/Annexure-I.pdf",
+            "https://www.upsc.gov.in/images/Annexure-II.pdf"
+        ],
+        "details": {
+            "category": {
+                "Category I - Civil Engineering": {
+                    "Service Functional Physical Requirements": {
+                        "9. | IRMS (Civil)": "LD-OA/OL, S, ST, BN, W, SE, MF, C, RW, KC, CL, Leprosy Cured, JU, H",
+                        "10. | IRMS (Civil)": "Hard Hearing S, ST, BN, W, SE, MF, C, RW, KC, CL, JU, H"
+                    },
+                    "10. | IRMS LD - OA/OL, S, ST, BN, W, SE, MF, C, RW, H": "Leprosy Cured, Acid Attack Victims"
+                },
+                "Category II -Mechanical Engineering": {
+                    "11. | IRMS LD - OA/OL, Leprosy S, ST, BN, W, SE, MF, C, RW, (Mechanical)": "Cured, Acid Attack KC, CL, JU, H",
+                    "12. | IRMS (Stores) LD - OA/OL, Leprosy S, ST, BN, W, SE, MF, C, RW, Mechanical": "Hard Hearing S, ST, BN, W, SE, MF, C, RW, KC, CL, JU, H"
+                },
+                "Category III —Electrical Engineering": {
+                    "9. | IRMS LD - OA, OL, S, ST, BN, W, SE, MF, C, RW, KC, CL, (Electrical)": "Leprosy Cured, JU,H",
+                    "10. | IRMS LD - OA/OL, S, ST, BN, W, SE, MF, C, RW, H": "Hard Hearing S, ST, BN, W, SE, MF, C, RW, KC, CL, JU, H"
+                },
+                "Category IV -Electronics and Telecommunication Engineering": {
+                    "10. | IRMS (Signal LD - OA/OL, Leprosy S, ST, BN, W, SE, MF, &Telecommunication)": "Cured, Acid Attack C, RW, KC, CL, JU, H",
+                    "11. | IRMS (Stores) Signal LD - OA or OL or Hard Hearing": "OA or OL or Hard Hearing S, ST, BN, W, SE, MF, &Telecommunication C, R, W & RW"
+                }
+            }
+        }
+    },
+    {
+        "name": "Rescheduling of Engineering Services Examination 2025",
+        "date_of_notification": "2024-10-09",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20(Preliminary)%20Examination,%202025",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/Noti_ESEP_2025_Eng_10102024.pdf"
+        ],
+        "details": {
+            "additional_info": "The one week Correction / Edit Window, which was scheduled to be opened from October 9th, 2024, has been put on hold."
+        }
+    },
+    {
+        "name": "Engineering Services Examination, 2025 (ESE, 2025)",
+        "date_of_notification": "2024-10-18",
+        "date_of_commencement": "2024-11-01",
+        "end_date": "2024-12-22",
+        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202025",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/PressReleaseESEP-2025-Engl-181024.pdf"
+        ],
+        "details": {
+            "opening_of_correction_window": "put on hold until further notice",
+            "new_application_window": "open from 18th October 2024 to 22nd November 2024",
+            "correction_edit_window": "from 23rd November 2024 to 29th November 2024",
+            "postponement_of_exams": "ESE (Preliminary) and ESE (Main) Exams, 2025 postponed to 8th June 2025 and 10th August 2025 respectively"
+        }
+    }
+]

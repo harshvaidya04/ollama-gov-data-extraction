@@ -1,0 +1,73 @@
+[
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.upsc.gov.in",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/otr/",
+            "https://upsc.gov.in/exam-2024/"
+        ],
+        "details": {
+            "description": "",
+            "date_of_last_date": "",
+            "last_date": "",
+            "start_date": ""
+        }
+    },
+    {
+        "name": "Combined Section Officers’ (Grade ‘B’) Limited Departmental Competitive Examination",
+        "date_of_notification": "2024-08-22",
+        "date_of_commencement": "",
+        "end_date": "2024-11-30",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Section%20Officer%20%28Grade-B%29%20LDCE%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/Instructions-SO-LDCE-24-Engl-021224.pdf"
+        ],
+        "details": {
+            "eligibility_conditions": [
+                "Stipulated by Rule 4 of the Rules for the Combined Section Officers’ (Grade B) Limited Departmental Competitive Examination for the year 2024",
+                "Candidates will have to fill in the application form on-line on the UPSC web-site and hard copies of the same are to be routed through proper channel, to the Cadre Controlling Authorities of participating Services for verification/authentication and onward transmission to the Commission."
+            ],
+            "non_compliance": [
+                "Non-compliance may invite cancellation of the candidature of the candidate(s) concerned"
+            ]
+        }
+    },
+    {
+        "name": "Combined SO LDCE, 2024",
+        "date_of_notification": "2025-01-11",
+        "date_of_commencement": [
+            "2025-01-12",
+            "2025-01-13"
+        ],
+        "end_date": "2025-01-23",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Section%20Officer%20%28Grade-B%29%20LDCE%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/TimeTable-SO-LDCE-2024-Eng-171224.pdf"
+        ],
+        "details": {
+            "paper_number": [
+                1,
+                2,
+                3
+            ],
+            "subject_type": [
+                "General Studies & General",
+                "Procedure and Practice in the Govt. of India Secretariat and attached offices"
+            ],
+            "time_of_exam": [
+                "10:00 AM to 12 Noon",
+                "02:30 PM to 04:30"
+            ],
+            "subject_marks": [
+                "(150 (Saturday) (2 Hrs.)",
+                "(150 (Saturday) PM"
+            ]
+        }
+    }
+]

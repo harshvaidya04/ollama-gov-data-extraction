@@ -1,0 +1,125 @@
+[
+    {
+        "name": "MGNREGA-0000000123",
+        "date_of_notification": "2022-04-01",
+        "date_of_commencement": "2022-04-15",
+        "end_date": "2022-06-30",
+        "apply_link": "https://mgnrega.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mgnrega.gov.in/attachments/19211/19211%20Annexure_A.pdf",
+            "https://mgnrega.gov.in/attachments/19211/19211%20Annexure_B.pdf"
+        ],
+        "details": {
+            "scheme_name": "MGNREGA",
+            "scheme_code": "MGNREGA-0000000123",
+            "scheme_type": "Rural Employment Guarantee Act, 2005",
+            "scheme_level": "State",
+            "scheme_schemes": [
+                "Swachh Bharat Abhiyan"
+            ],
+            "scheme_scheme": [
+                {
+                    "scheme_name": "Swachh Bharat Abhiyan (SBA)",
+                    "scheme_code": "SBA-0000000123"
+                }
+            ]
+        }
+    },
+    {
+        "name": "COMBINED MEDICAL SERVICES EXAMINATION- 2024",
+        "date_of_notification": "30th July 2024",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "UNION PUBLIC SERVICE COMMISSION NEW DELHI - 110 069 -",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.upsc.gov.in/",
+            "https://www.mccr.gov.in/",
+            "https://www.ssb.nic.in/"
+        ],
+        "details": {
+            "$schema": "http://json-schema.org/draft-04/schema#",
+            "type": "object",
+            "title": "COMBINED MEDICAL SERVICES EXAMINATION- 2024",
+            "description": "",
+            "required": [
+                "name"
+            ],
+            "properties": {
+                "name": {
+                    "$ref": "#/definitions/name"
+                },
+                "date_of_notification": {
+                    "$ref": "#/definitions/date_of_notification"
+                },
+                "date_of_commencement": {
+                    "$ref": "#/definitions/date_of_commencement"
+                },
+                "end_date": {
+                    "$ref": "#/definitions/end_date"
+                },
+                "apply_link": {
+                    "$ref": "#/definitions/apply_link"
+                },
+                "event_type": {
+                    "$ref": "#/definitions/event_type"
+                },
+                "document_links": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/document_link"
+                    }
+                },
+                "details": {
+                    "$ref": "#/definitions/details"
+                }
+            },
+            "additionalProperties": false,
+            "definitions": {
+                "name": {
+                    "description": "",
+                    "type": "string"
+                },
+                "date_of_notification": {
+                    "format": "date",
+                    "description": "",
+                    "type": "string"
+                },
+                "date_of_commencement": {
+                    "format": "date",
+                    "description": "",
+                    "type": "string"
+                },
+                "end_date": {
+                    "format": "date",
+                    "description": "",
+                    "type": "string"
+                },
+                "apply_link": {
+                    "description": "",
+                    "type": "string"
+                },
+                "event_type": {
+                    "description": "",
+                    "type": "string"
+                },
+                "document_links": {
+                    "description": "",
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/document_link"
+                    }
+                },
+                "details": {
+                    "$ref": "#/definitions/details"
+                },
+                "document_link": {
+                    "description": "",
+                    "type": "string"
+                }
+            }
+        },
+        "additionalProperties": false
+    }
+]

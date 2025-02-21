@@ -1,477 +1,3424 @@
-asia use vsieit
+Engineering Services (P) Examination, 2024
+DO NOT OPEN THIS TEST BOOKLET UNTIL YOU ARE TOLD TO DO SO
 
-National Testing Agency
+T.B.C. : PNGE-D-CVL Test Booklet Series
 
-Vj--—s
+TEST BOOKLET
 
-4]
+PAPER II
+CIVIL ENGINEERING
 
-meee eras a ot
+Time Allowed : Three Hours : Maximum Marks : 300
 
-(SaRR Rien fay, Ren Hae, UR WHR & Ted Ua Ta BISA)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
+Serial No.
 
-Press Release
-11 February 2025
+0029117
 
-Ad Hele
+INSTRUCTIONS
 
-Sub.: Declaration of Joint Entrance Examination [JEE (Main) - 2025] Session 1 NTA Scores for Paper 1
-(B.E. / B. Tech.) - reg.
+1. IMMEDIATELY AFTER THE COMMENCEMENT OF THE EXAMINATION, YOU SHOULD
+CHECK THAT THIS TEST BOOKLET DOES NOT HAVE ANY UNPRINTED OR TORN OR
+MISSING PAGES OR ITEMS, ETC. IF SO, GET IT REPLACED BY A COMPLETE TEST
+BOOKLET. >
 
-The National Testing Agency (NTA) conducted the Paper 1 (B.E. / B. Tech.) of Joint Entrance Examination
-(Main)— 2025 Session 1 (January 2025) in 618 Centres in 304 Cities (including 15 cities outside India) as
+2. PLEASE NOTE THAT IT IS THE CANDIDATE’S RESPONSIBILITY TO ENCODE AND
+FILL IN THE ROLL NUMBER AND TEST BOOKLET SERIES CODE A, B, C OR D
+CAREFULLY AND WITHOUT ANY OMISSION OR DISCREPANCY AT THE APPRO-
+PRIATE PLACES IN THE OMR ANSWER SHEET. ANY OMISSION/DISCREPANCY
+WILL RENDER THE ANSWER SHEET LIABLE FOR REJECTION.
 
-per the details given below:
-Date of Exam Paper Registered Appeared age
-Candidates Candidates
-22, 23, 24, 28 and Paper 1
-29 January 2025 (B.E./B. Tech.) Here) meDElESG CREE
+3. You have to enter your Roll Number on the Test
+Booklet in the Box provided alongside. DO NOT
+write anything else on the Test Booklet.
 
-The JEE (Main) - 2025 Paper 1 (B.E. /B. Tech.) Examination was conducted in Computer Based Test (CBT)
-mode in 13 languages (Assamese, Bengali, English, Gujarati, Hindi, Kannada, Malayalam, Marathi, Odia,
+4. This Test Booklet contains 150 items (questions). Each item comprises four responses (answers). You
+will select the response which you want to mark on the Answer Sheet. In case, you feel that there
+is more than one correct response, mark the response which you consider the best. In any case,
+choose ONLY ONE response for each item.
 
-Punjabi, Tamil, Telugu, and Urdu).
+5. You have to mark your responses ONLY on the separate Answer Sheet provided. See directions
+in the Answer Sheet.
 
-The Examination was also conducted in 15 cities outside India in Manama, Doha City, Dubai, Muscat,
-Riyadh, Sharjah, Singapore, Kuwait, Kuala Lumpur, Kathmandu, Abu Dhabi, West Java, Washington,
+6. All items carry equal marks.
 
-Lagos and Munich.
+7. Before you proceed to mark in the Answer Sheet the response to various items in the Test Booklet,
+you have to fill in some particulars in the Answer Sheet as per instructions sent to you with your
+Admission Certificate.
 
-The NTA Scores/ Results of Paper 1 (B.E./B.Tech.) are being declared today. The results of JEE (Main) -
-2025 Paper 2 (B.Arch/B.Planning) will be declared later.
+8. After you have completed filling in all your responses on the Answer Sheet and the examination has
+concluded, you should hand over to the Invigilator only the Answer Sheet. You are permitted to take
+away with you the Test Booklet.
 
-Following are the details of Category-wise and gender-wise distribution of candidates for Paper 1:
+9. Sheets for rough work are appended in the Test Booklet at the end.
 
-The Gender/Category-wise distribution of Candidates Registered for Paper 1 (B.E. /B. Tech.)
+10. Penalty for wrong Answers :
+THERE WILL BE PENALTY FOR WRONG ANSWERS MARKED BY A CANDIDATE.
 
-\Category General EWS sc ST OBC Total
+(i) There are four alternatives for the answer to every question. For each question for which a
+wrong answer has been given by the candidate, one-third of the marks assigned to that
+question will be deducted as penalty. :
 
-Female 1,67,790 45,627 42,704 13,833] 1,73,668 4,43,622
+(ii) If a candidate gives more than one answer, it will be treated as wrong answer even if one
+of the given answers happens to be correct and there will be same penalty as above to that
+question. \
 
-Male 3,21,419 96,159 87,550 28,778| 3,34,014 8,67,920
+(iii) If a question is left blank i.e. no answer is given by the candidate, there will be no penalty
+for that question.
 
-|Third Gender 1 0 0 0 1 2
+DO NOT OPEN THIS TEST BOOKLET UNTIL YOU ARE TOLD TO DO SO
 
-Total zl 4,89,210 1,41,786 1,30,254 42,611) 5,07,683 13,11,544
-araé a/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
+1. What is the temperature of the tensile
+strength of the stone in water for
+3 days?
+(a) 40°C to 50°C
+(b) 10°C to 15°C
+(c) 20°C to 30°C
+(d) S9CtorI5S°C
 
-aaeise / Website www.nta.ac.in, https://jeemain.nta.nic.in/
+2. The decomposition of felspar is
+represented as
+(a) K,A103-6H20 + CO, + nH,0 =
+(Orthoclase)
+KCO; +
+(Alkaline carbonate)
+A103-2Si02-2H,O +
+(Kaolinite)
+4Si0,-nH,0
+(Hydrated silicate)
+(b) _K2Al,03-6H,0 + CO, + nH,0 =
+(Orthoclase)
+K,CO; +
+(Alkaline carbonate)
+AlyO3-2Si0-2H,0 +
+(Kaolinite)
+4SiO>-nH,O
+(Hydrated silicate)
+(Orthoclase)
+K,CO +
+(Alkaline carbonate)
+Al,03-2Si0-2HO +
+(Kaolinite)
+4SiO>-nH,O
+(Hydrated silicate)
+(d) _KAl036H,0 + CO, + nH20 =
+(Orthoclase)
+KCO; +
+(Alkaline carbonate)
+(Kaolinite)
+4SiO7-nH,O0
+(Hydrated silicate)
 
-VS YEARS OF
-CELEBRATING
+PNGE-D-CVL — A.
 
-THE MAHATMA
+3. Match the following lists :
+List I List II
 
-wary wet
+P. Trap and 1. Damp proofing
+Basalt and partitions
 
-%
+Q. Sandstone 2. Rough stone for
 
-asta austen viet
+masonry work
+R. Laterite a
 
-National Testing Agency
+3. Tile stone for
+S. Slate roofing
 
-Excellence in Assessment
+4. Road metal and
+concrete aggregate
 
-(Sar Rien farm, Ran Hares, UR WHR & Tet Ver Ta BHTSA)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
+Select the correct answer using the
+code given below :
 
-The Gender-wise/ Category-wise distribution of Candidates Appeared for Paper 1 (B.E. / B. Tech.)
+Pai Ot Rae Ss
+hide 24
+Wake Races
+(Oe HORS
+Ga se
 
-(Category General Ews sc OBC Total
+4. Consider the following statements
+regarding the characteristics of poor
+lime :
 
-Female 1,59,378 44,762| 40,282 12,965 1,67,423 4,24,810|
-Male 3,06,980 93,937 82,563} 26,994| 3,22,851 8,33,325
-[Third Gender 0 0 d ) ae 1
-Total 4,66,358 1,38,699 1,22,845 39,959) 4,90,275 12,58,136
+1. It requires less slaking time and
+hydrates very fast.
 
-The following candidates (in ascending order of Application No.) have obtained NTA Score of 100
-in Paper 1 (B.E./ B. Tech.): -
+2. Setting and hardening is very fast.
 
-S. No. Application No. | Name of candidate sessinal an poate 12 Clea}
-1 250310009213 | ayysH sINGHAL RAJASTHAN
-2 250310034720 | KUSHAGRA GUPTA KARNATAKA
-3 250310133572 | paKsH DELHI (NCT)
-a 250310143408 | arsy JHA DELHI (NCT)
-5 250310150634 | pajt GUPTA RAJASTHAN
-6 250310210195 | suREYAS LOHIVA UTTAR PRADESH
-7 250310236696 | saKsHAM JINDAL RAJASTHAN
-8 250310254844 | SAURAV UTTAR PRADESH
-9 250310299968 | yisHap JAIN MAHARASHTRA
-10 250310312145 | arnay SINGH RAJASTHAN
-11 250310391420 | sHivEN VIKAS TOSHNIWAL GUJARAT
-12 250310564942 | sai MANOGNA GUTHIKONDA _ | ANDHRA PRADESH
-13 250310569571) on PRAKASH BEHERA RAJASTHAN
-14 250310746461) Bani BRATA MAJEE TELANGANA
+3. The color varies from yellow to
+grey.
 
-yee erase a at
+Which of the above statements is/are
+correct ?
 
-wrach ua/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
-aaeige / Website www.nta.ac.in, https://jeemain.nta.nic.in/
+(a) 1 only
+(b) 1 and 2
+(c) 3 only
+(d) 1 and 3
 
-YEAR
-CELEBRATING
-THE MAHATMA
+5. Consider the following statements
 
-&
+regarding the advantages of plywood :
 
-usa usta vsteft
+1. It has good strength both along
+as well as across the grains.
 
-National Testing Agency
+2. It will not shrink or swell across
+the grains.
 
-Excellence in Assessment
+3. It can be curved into desired
+shapes.
 
-aya
+Which of the above statements is/are
+correct ?
 
-(Sa Ren foun, Ran Hares, UT MGR & Ted Vay aT HSA)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
+(a) 1 and 3
+(b) 1 and 2
+(c) 2 and 3
+(d) 2 only
 
-State-wise toppers and their NTA Scores (in descending order of NTA score) in Paper 1 (B.E./ B.
-Tech.) are as under: -
+6. Match the following lists :
 
-S No. Application No. | Name of Candidate State of Eligibility(State of NTA Score
-passing/ appearing 12th Class)
-1 250310009213 | AYUSH SINGHAL RAJASTHAN 100
-2 250310034720 | KUSHAGRA GUPTA KARNATAKA 100
-3 250310133572 | DAKSH DELHI (NCT) 100
-4 250310143408 | HARSH JHA DELHI (NCT) 100
-5 250310150634 | RAJIT GUPTA RAJASTHAN 100
-6 250310210195 | sHReyAS LOHIYA UTTAR PRADESH 100
-7 250310236696 | saKSHAM JINDAL RAJASTHAN 100
-8 250310254844 | caurav UTTAR PRADESH 100
-9 250310299968 | VISHAD JAIN MAHARASHTRA 100
-10 250310312145 | aRNAV SINGH RAJASTHAN 100
-11 250310391420 | cuiveN VIKAS TOSHNIWAL | GUJARAT 100
-SAl MANOGNA 100
-12 250310564942 | Ona ANDHRA PRADESH
-13 250310569571 | oi PRAKASH BEHERA RAJASTHAN 100
-14 250310746461 | BANI BRATA MAJEE TELANGANA 100
-15 250310016185 | DEVDUTTA MAJHI WEST BENGAL 99.99921
-16 250310292034 | amoGH BANSAL HARYANA 99.99921
-17 250310429117 | MAJID MUJAHID HUSAIN | MADHYA PRADESH 99.99920
-18 250310058717 | piysa DAs PUNIAB 99.99684
-19 250310524809 | ARNAV JINDAL CHANDIGARH 99.99681
-20 250310128502 | AKSHAY BIJU BN KERALA 99.99605
-21 250311120659 | sHoURYA AGRAWAL CHHATTISGARH 99.99602
-22 250310544241 | aBHIMANYU TIBREWAL JHARKHAND 99.99602
-23 250310326177 | PANINI BIHAR 99.99442
-24 250310747162 | SUNAY YADAV TAMIL NADU 99.99365
-25 250310468132 | VIVEK PANDEY UTTARAKHAND 99.99365
-26 250310246400 | NABANEET PRIYADARSHI _ | ODISHA 99,98964
-27 250310151645 | DHERYA SHARMA HIMACHAL PRADESH 99.98576
-28 250310006756 | KANISHKA CHAKRABORTY | ASSAM 99.96976
-29 250310451582 | AHRAN RAWAL DADRA AND NAGAR HAVELI
+List I List II
+P. Bridges 1. Gamhar, haritaki
 
-wed aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
+Q. Scientific 2. Red cedar, satin,
+Instruments sissoo
 
-adage / Website www.nta.ac.in, https://jeemain.nta.nic.in/
+R. Railway 3. Guava
 
-99.95858
+carriage :
+4. Black wood, iron
 
-Kak
+S. Shuttering wood
 
-YEARS OF
-CELEBRATING
-THE MAHATMA
+Select the correct answer using the
+code given below :
 
+P O°: RS
+Got eee a
+Oe 4 ee a
+Ct?) oy at
+
+BG) 4 ot ag
+
+7. Consider the following statements
+
+regarding calcined clay :
+1. Its chief function is to impart
+strength and hydraulic properties
+
+of mortar.
+
+2. It is dense, compact and imper-
+meable concrete.
+
+3. It increases the temperature of
+hydration and sets the concrete
+quickly.
+
+Which of the above statements are
+correct ?
+
+(a) 2 and 3 only
+(b) 1 and 2 only
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+. What are the concrete stages
+
+production order respectively ?
+
+(a) Batching, mixing, transporting,
+placing, curing, compacting,
+finishing
+
+(b) Batching, transporting, mixing,
+placing, compacting, curing,
+finishing
+
+(c) Batching, mixing, transporting,
+compacting, placing, curing,
+finishing
+
+(d) Batching, mixing, transporting,
+placing, compacting, curing,
+finishing
+
+A — PNGE-D-CVL
+
+9. Consider the following statements
+regarding the functions of admixtures :
+
+1. It is to speed up the rate of
+development of strength at early
+ages.
+
+2. It increases the strength of
+concrete.
+
+3. It increases the heat of evolution
+and decreases the durability of
+concrete.
+
+Which of the above statements is/are
+correct ?
+
+(a) 2 and 3 only
+(b) 1 and 3 only
+(c) 1 and 2 only
+(d) 1, 2 and 3
+10. Consider the following statements
+regarding the concrete mix design :
+
+1. It is to be compressive with
+strength of standard _ test
+specimens
+
+2. It is to be compiled with -the
+durability requirements to accept
+the environment.
+
+3. It is to be capable of mixed,
+transported, and compacted as
+efficiently as possible.
+
+Which of the above statements are
+correct ? :
+
+(a) 1 and 3 only
+(b) 1, 2 and 3
+
+(c) 2 and 3 only
+(d) 1 and 2 only
+
+PNGE-D-CVL - A
+
+11. Consider the following statements
+regarding the design requirements of
+concrete mix :
+
+1. Grade of concrete: M20, M25
+
+connotes the characteristic strength
+of 30 N/mm? to 35 N/mm?.
+
+. Type of cement: The grade of
+
+OPC such as of 33, 43 or 53 grade.
+
+. Type of mixing and curing water :
+
+Whether fresh. potable water,
+seawater, ground water is to be
+used.
+
+Which of the above statements are
+correct ?
+
+(a) 1, 2 and 3
+
+(b) 2 and 3 only
+(c) 1 and 2 only
+(d) 1 and 3 only
+
+12. Consider the following statements
+regarding the characteristics of good
+
+_ mortar :
+1. The density and strength of
+
+mortars made of the same class of
+aggregate decrease as the pro-
+portion of fine aggregate is
+increased.
+
+_ It requires about twice as much
+
+cement to produce a mortar of
+given strength when fine sand is
+used as it does with coarse sand.
+
+. Even small percentage of mica if
+
+present considerably increases the
+tensile strength and adversely
+affects the compressive strength.
+
+Which of the above statements are
+correct ?
+
+(a) 1 and 2 only
+(b) 2 and 3 only
+
+1 and 3 only
+
+(d) 1, 2 and 3
+
+13.
+
+14.
+
+How. does the bulk modulus of
+elasticity of a fluid change with
+increasing pressure ?
+
+(a) It remains constant
+
+(b) It decreases with increase in
+
+pressure
+
+(c) It increases with increase in
+
+pressure
+
+(d) It becomes zero
+
+Consider the following statements
+regarding stability of floating bodies :
+
+1. If metacentre (M) lies above
+centroid (G), then the body is said
+to be in unstable equilibrium.
+
+2. If metacentre (M) lies below
+centroid (G), then the body is said
+to be in unstable equilibrium.
+
+3. If metacentre (M) coincides with
+centroid (G), then the body is said
+to be in stable equilibrium.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 and 3
+(b) 2 and 3
+(c) 2 only
+
+(d) 1 only
+
+15.
+
+16.
+
+If Vs is the velocity of the vector,
+
+: Vp
+r is the radius of curvature and at is
+
+the local normal acceleration; what
+is the expression for total normal
+acceleration of fluid particles ?
+
+@) Tay34,Sn
+(c) On =r v3 To
+
+Consider the following statements
+regarding flow measurement through
+pipes : ;
+
+1. The reduction
+diameter causes
+increase.
+
+in constriction
+velocity to
+
+2. High velocities in constriction
+cause low pressures in the system.
+
+3. The reduction in constriction
+diameter enables lesser accuracy
+in its measurement.
+
+Which of the above statements is/are
+correct :
+
+(a) 1-and 2
+(b) 2 and 3
+(c) 2 only
+
+(a) 1 and 3
+
+A — PNGE-D-CVL
+
+17. Consider the following statements
+
+18.
+
+19. Consider the following
+
+regarding ultrasonic flowmeters :
+1. There are no moving parts.
+
+2. They cannot measure
+quantities in reverse flow.
+
+flow
+
+3. There is no direct contact with the
+fluid, there is no danger of
+corrosion or clogging.
+
+Which of the above statements are
+correct ?
+
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+@ 1,2and3 ~
+When the average flow is steady,
+which one of the following causes
+
+significant fluctuations in velocity,
+temperature and pressure ?
+
+(a) Streamlines in turbulent flow
+
+(b) Molecular diffusion in turbulent
+flow
+
+(c) Eddy motion in turbulent flow
+(d) Orderly flow in turbulent flow
+
+statements
+regarding uniform flow in channel :
+
+1. The depth of flow and wetted area
+are constant at every section along
+the channel reach.
+
+2. The velocity of flow and discharge
+are varying along the channel
+reach.
+
+3. The total energy line, water
+surface and the channel bottom
+are all parallel.
+
+PNGE-D-CVL — A
+
+20.
+
+21.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 and 2
+
+(b) 2 and 3
+
+(c) 3 only
+
+(d) 1 and 3
+
+If Q=discharge into the channel,
+a= cross sectional area at the entrance,
+and Dy, is depth at the channel
+entrance, what is the equation for depth
+
+of the reservoir (D,) when the flow in
+the channel is subcritical ?
+
+Q
+a) D,=D,-
+ooo 7 2ga”
+
+yo weep 9 asem
+(b) r n ea?
+
+Q
+(2 Ny DN Oa eo
+r n 2ga
+
+2
+@) D, = Dy + 2g
+
+ga
+
+Which one of the following heads is
+
+’ defined as “the head against which a
+
+centrifugal pump has to work” ?
+(a) Suction head
+
+(b) Delivery head
+
+(c) Static head
+
+(d) Manometric head
+
+22. Consider the following statements
+regarding positive-displacement pumps :
+
+23.
+
+i
+
+Positive-displacement pump is
+better able to handle shear sensi-
+tive liquids.
+
+. A well-sealed positive-displace-
+
+ment pump can create a signi-
+
+- ficant vacuum pressure at its inlet,
+
+even when dry.
+
+. The rotor(s) of a positive dis-
+
+placement pump run at higher
+speeds than the retor (impeller) of
+a dynamic pump at similar loads.
+
+Which of the above statements are
+correct ?
+
+(a)
+
+1 and 2 only
+
+(b) ft and 3 only ©
+
+(©)
+(d)
+
+2 and 3 only |
+1, 2 and 3
+
+Consider the following statements
+regarding draft tube of Francis turbine :
+
+I,
+
+It permits a suction head to be
+established at the runner exit.
+
+. It makes possible to install the
+
+turbine above the tail race level
+without loss of head.
+
+. It converts a large proportion of
+
+velocity energy rejected from the
+runner into useful pressure energy.
+
+Which of the above statements is/are
+correct ?
+
+(a)
+
+1 and 2 only
+
+(b) 2 and 3 only
+
+()
+
+3 only
+
+(d) 1, 2 and 3
+
+Q. 50 to 340
+
+24. Consider the following statements
+regarding Kaplan turbine :
+
+1. The runner blades of Kaplan
+
+turbine runner are warped.
+
+2. The blade angle is being greater at
+
+the hub than at the outer tip.
+
+3. The peripheral velocity of the
+
+blades is being directly -propor-
+tional to radius.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 and 3 only
+(b) 2 and 3 only
+(c) 3 only
+
+(d) 1, 2 and 3
+
+25. Match the following lists :
+
+List I List II
+(Specific speed (Bpe of
+(rpm)) turbine)
+P. 8-5 to 30 1. Francis turbine
+
+2. Kaplan turbine
+
+R. 255 to 860 3. Pelton wheel
+
+turbine with
+single jet
+
+Select) the correct answer using the
+code given below :
+
+ee. R
+A ae Cae |
+ae oe aie
+ae ae eee
+ways 3
+
+A — PNGE-D-CVL
+
+26. Consider the following statements
+
+regarding the difference between true
+strains and engineering strains :
+
+1. True strains for equivalent
+amounts of deformation in ten-
+sion and compression are equal
+including for sign.
+
+2. True strains are additive. For a
+deformation consisting of several
+steps the overall strain is the sum
+of the strains in each step.
+
+3. The volume change is related to
+the sum of the three normal
+strains. For constant volume,
+& + & + &,=0.
+
+Which of the above statements are
+correct ?
+
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+27. Consider the following statements
+
+regarding the properties of materials :
+
+1. A material in plastic state is
+temporarily deformed by the
+application of load and it has
+tendency to recover.
+
+PNGE-D-CVL - A
+
+28.
+
+2. Ductility is the characteristic of
+a material to be drawn out
+longitudinally to a reduced section
+under the action of tensile force.
+
+3. Malleability is a property of
+a material which permits the
+materials to be partially extended
+in all directions without rupture.
+
+Which of the above statements is/are
+
+correct ?
+e
+
+(a) 1 and 2
+(b) 2 only
+(c) 3 only
+
+(d) 1 and 3
+
+Which one of the following statements
+is correct regarding the Mohr’s circle
+of a plane Tensor ?
+
+(a) o is positive in tension and is
+plotted to the right of the origin.
+Compression is negative to the left
+
+(b) tis plotted negatively if it rotates
+the stress block clockwise
+
+(c) Angles @ from one axis to another
+around the origin are in different
+direction {
+
+(d) Any orthogonal set of axes are 90°
+to one another on Mohr’s circle
+
+29.
+
+30.
+
+Consider the following regarding the
+general situations in linear elasticity :
+
+1. The stress field is a function of
+only the boundary conditions,
+geometric shape and loading
+which are constant.
+
+2. The stress field is a function of
+material properties like volume
+and deviatoric stiffness as well.
+
+3. The loads are time independent.
+
+Which of the above statements are
+correct ?
+
+(a) 1, 2 and 3
+
+(b) 1 and 3 only
+
+(c) 1 and 2 only
+
+(d) 2 and 3 only
+
+Consider the following statements
+
+regarding two dimensional _ stress
+formulations :
+
+1. Ina plane stresses are identical for
+any given geometry, loading.
+
+2. The in-plane stresses are different
+for plane strain or plane stress.
+
+3. Linear viscoelastic stress fields are
+different for constant load and
+change with time.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 only
+(b) 1 and 2
+(c) 3 only
+(d) 2 and 3
+
+31.
+
+32.
+
+Which one of the following is the
+equation for extension of whole length
+of a uniformly tapering rectangular
+bars where b, and bp are the limits of
+widths (b2 > b,), length L, thickness t
+and the bar is subjected to an axial
+force P and elastic module E ?
+
+PL
+
+by
+Se a oe
+OO ete
+
+logig 4.
+
+AS
+(b) By
+
+PE
+(2) — 8, )tE
+
+by
+© 8G EE
+
+a. te
+———— |
+Grae
+
+A conical bar tapers uniformly from
+a diameter of 15 mm to a diameter of
+40 mm in a length of 400 mm. What
+is the elongation of the bar under an
+axial tensile force of 100 KN? (Take
+E=2x10° N/mm?)
+
+(a) 0-242 mm
+(b) 0-121 mm
+(c) 0-424 mm
+
+(4) 0-212 mm
+
+A — PNGE-D-CVL
+
+33;
+
+34.
+
+Abts
+
+A circular section tapering bar is
+rigidly fixed at both the ends. The
+diameter changes from 75 mm at one
+end to 150 mm at the other end, in a
+length of 1-2 m. What is the maximum
+stress in the bar if the temperature
+is raised by 32°C? (Take E=2x10°
+N/mm? and a= 12x10~ per 1°C)
+
+(a) 123-6 N/imm?
+(b) 143-6 N/mm?
+(c) 163-6 N/mm?
+
+(d) 153-6 N/mm?
+
+A thin type of steel is to be shrunk
+on to a rigid wheel of 900mm
+diameter. What is the internal diameter
+of the tyre if the hoop stress is
+limited to 120 N/mm?? (For the tyre
+take o = 12x10 per °C and E = 2x10°
+N/mm?)
+
+(a) 899-46 mm
+(b) 819-46 mm
+(c) 900-54 mm
+
+(4) 800-54 mm
+
+Consider the following statements
+regarding the effective stress and
+effective strain :
+
+1. G and € will reduce to o, and &,
+in an x-direction tension test.
+
+2. The incremental work per volume
+done in deforming a material
+plastically is da=Ed6G.
+
+PNGE-D-CVL - A
+
+10
+
+36.
+
+3. It is usually assumed that the
+© vs € curve describes the strain
+hardening for loading under a
+constant stress ratio a, regardless
+of a*. :
+
+Which of the above statements is/are
+correct ?
+
+(a) 2 and 3
+
+(b) 3 only
+(c) 1 and 3
+
+(d) 2 only
+
+A solid cylinder of steel is placed
+inside a copper tube. The assembly is
+compressed between rigid plates by
+forces P. What is the value of increase
+in temperature so that all the load
+is carried by the copper tube? (Let
+the parameters with suffix c represent
+copper and suffix s represent steel)
+
+(a) pqothte BR
+A,Es(@c- Os)
+2P.
+©) t AEglts— a)
+(©) t= P(Gic~ Gs)
+AcE
+(a) pe ee
+AcE ((@e- Qs)
+
+37.
+
+38.
+
+39:
+
+Match the following lists :
+
+List I List IT
+(Materials) (Modulus of
+elasticity)
+P. Aluminium 1. 190
+ve 2. 190-210
+Q. Cast iron Aree
+R. Copper fo
+S. Steel 4. 110-120
+T. Wrought iron 5. 83-170
+
+Select the correct answer using the
+code given below :
+
+POO: RS CT
+OG mes Wee Tekin eae
+ee es Oe Gale
+(cli s4eaese oS
+7 ile DEE ee Bele: aes |
+
+Which one of the following preci-
+pitations results from ocean air streams
+passing over land and being deflected
+upward by coastal mountains, thus
+cooling below saturation temperature
+and spilling moisture ?
+
+(a) Convective precipitation
+
+(b) Frontal precipitation
+
+(c) Orographic precipitation
+
+(d) Cyclonic precipitation
+
+Which one of the following terms
+refers to the time between the end of
+the net rainfall and the end of the direct
+runoff hydrograph ?
+
+(a) Recession time
+
+(b) Time-to-peak
+
+(c) Lag time
+
+(d) Concentration time
+
+40. Match the following lists :
+
+- List I List II
+(Soil and (Infiltration rate
+vegetation) (mm/hr))
+
+P. Forested loam 1. 10-70
+Q. Loam pasture 2.0-4
+
+R. Sand 14545
+
+S. Bare clay 4. 100-200
+
+Select the correct answer using the
+code given below :
+
+PaO RS
+
+(Qi 2 Sed aw
+
+(Cs) eae eas Coes eee |
+(Saber PEN eet
+
+GO 4 sel 22553
+
+41. Match the following lists :
+
+List I List II
+(Type of (Value of coefficient
+surface) of runoff )
+
+P. Wooded areas 1. 0-70 — 0-95
+Q. Gravel roads 2. 0-15 — 0-30
+pec oem ee
+e —— 4. 0-25 - 0-60
+S. Watertight roof
+surfaces
+
+Select the correct answer using the
+code given below :
+
+fOr Re Ss
+@y 225 3 ic 4
+(Se 24s oy
+(Cy see 04
+Gee is 353
+
+A — PNGE-D-CVL
+
+42. Consider the following statements
+
+regarding ground water :
+
+1. Ground water is exhaustible and
+is evenly available.
+
+2. Natural replenishment of the
+ground water resource is a very
+fast process.
+
+3. Ground water is generally better
+
+than surface water in respect of
+
+biological characteristics.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 and 3 only
+(b) 2 and 3 only
+(c) 3 only
+
+(d) 1, 2 and 3
+
+43. Match the following lists :
+
+List I List II
+(Material) (Specific yield %)
+P. Clay 1. 5-15
+Q. Sand and 2. 15-25
+— 3. 0-5-5
+R. Sandstone 41-10
+
+S. Limestone
+
+Select the correct answer using the
+code given below :
+
+Di Oe oR aS
+Geo 8-1 A
+(yl 2) 43
+(c)i.5 1 2 4
+O 4. 21 3
+
+PNGE-D-CVL — A
+
+12
+
+44.
+
+45.
+
+A fully penetrating artesian well is
+pumped at a rate Q=1500 m?/day
+from an aquifer whose storage
+coefficient and transmissivity are
+4x10-4 and 0-145 m?/min, respectively.
+Considering «(u) = 8-62, what is the
+drawdowns at a distance 3 m from the
+production well after one hour of
+pumping ?
+
+(a) 8-62 m
+(b) 14-53 m
+(c) 4:93 m rs
+
+(d) 2:38 m
+
+Water attached to soil particles through
+loose chemical bonds is termed as
+
+_@ Capillary water
+
+46.
+
+(b) Gravity water
+(c) Hygroscopic water
+
+(d) Field capacity —
+
+The water remaining in the soil after
+the removal of gravitational water is
+called
+
+(a) Capillary water
+(b) . Gravity water
+(c) Hygroscopic water
+
+(d) Field capacity
+
+47. The field capacity and permanent
+
+wilting point for a given 0-8 m root-
+zone soil are 35 and 10 per cent,
+respectively. At a given time, the soil
+moisture in the given soil is 20 per cent
+when a farmer irrigates the soil with
+250 mm depth of water. Assuming bulk
+specific gravity of the soil as 1-6, what
+is the amount of water wasted from the
+consideration of irrigation ?
+
+(a) 23-2%
+(b) 58%
+(c) 58%
+(d) 19-2%
+
+48. Match the following lists :
+
+List I List II
+(Soil texture) (Field capacity
+(%))
+P. Sand 1. 5-10
+Q. Loam 2. 27-35
+R. Silty clay 3. 18-25
+S. Clay 4. 32-40
+
+Select the correct answer using the
+code given below :
+
+P Ge R28
+40
+"ee ee eee
+(©) 3
+@ 4 2e9 53
+
+_
+N
+b
+
+13
+
+49.
+
+50.
+
+If V is the wind velocity and F is
+the fetch, for F <32 Km, what is the
+formula for wave height (Ay) in gravity
+dams ?
+
+ak
+(a) My =1-032VVF +0-76+0-27F4
+E
+(b) hy =0-032VVF -0-76-0-27F4
+‘]
+(c) Ay =1-032VVF -0-76+0-27F4
+av
+(d) Ay =0-032VVF +0-76-0-27F4
+
+If c;=a dimensionless pressure co-
+efficient, a, = horizontal acceleration
+factor, p=mass density of water,
+g=acceleration due to gravity,
+h= depth of the reservoir; what is the
+formula for the variation of horizontal
+hydrodynamic earthquke pressure with
+depth (Pe) in gravity dams ?
+
+@ R=Ga,%
+
+Cah
+gh
+
+(b) R=
+(Cc) Fe=Capgh
+
+(d) Fe=Cgth+ay)
+
+A — PNGE-D-CVL
+
+51.
+
+52.
+
+Consider the following statements
+regarding the distribution shear stress
+assumptions :
+
+1. For all values of y, g is uniform
+across the width of the cross-
+section, irrespective of its shape.
+
+2. ‘F =(dM/dx)’ is derived from the
+assumption that bending stress
+varies non-linearly across the
+section and is not zero at the
+centroid.
+
+3. The material is homogenous and
+isotropic and the value of E is the
+same for tension as well as
+compression.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+
+(d) 1,2 and3
+
+Which one of the following statements
+is NOT a property of the curves ?
+
+(a) Both the systems of the curves
+cross each other at 45°.
+
+(b) Each system crosses the N.A at
+45°.
+
+(c) At any point of a curve the tangent
+and normal give the directions of
+the two principal stresses.
+
+PNGE-D-CVL — A
+
+14
+
+53.
+
+(d) The intensity of stress along each
+curve is the greatest when it is
+parallel to the length of the beam
+and diminishes along the curve to
+zero, where it cuts a face of beam
+at right angles.
+
+A rod of circular section is subjected
+to a shearing force on a plane
+perpendicular to its axis. What is the
+maximum shearing stress in terms of
+shearing force and rod diameter, if
+the rod is used as a beam with free
+ends and a central concentrated load,
+express the free length in terms of
+diameter for which the maximum
+shearing stress, due to shearing force
+is half the maximum direct stress ?
+
+(a) L=(3/2) D
+(b) L=(1/2) D
+(c) L=(5/2) D
+
+(d) L=(2/3) D
+
+54. A beam 3m long, simply supported
+
+at its ends is carrying a point load W
+at its mid-span. If the slope at the
+ends of the beam does not exceed 1°,
+what is the deflection at the mid-span ?
+
+(a) 17-45 mm
+(b) 17-45 cm
+(c) 19-45 mm
+
+(d) 19:45 cm
+
+55.
+
+56.
+
+Consider the following statements
+regarding the end conditions and
+internal conditions of a conjugate
+beam :
+
+1. A stable and statically determinate
+real beam will have a conjugate
+beam which is also stable and
+statically determinate.
+
+2. An unstable real beam will have
+statically indeterminate conjugate
+beam. Hence if a conjugate beam
+is found to be statically in-
+determinate, it is concluded that
+the real beam is unstable and
+further analysis is not appropriate.
+
+3. A statically indeterminate. real
+beam will have stable conjugate
+beam. Hence its conjugate load
+must be such that it maintains
+equilibrium.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 and 3
+
+(b) 2 and 3
+
+(c) 1 and 2
+
+(d) 1 only
+
+Which one of the following is NOT an
+
+assumption of impact loading on a
+beam ?
+
+(a) The falling weight sticks to the
+beam and moves/vibrates with it
+
+(b) No energy loss takes place
+(c) The beam is linearly non elastic
+
+(d) The deflected shape of the beam
+is the same under‘a dynamic load
+as under the static load
+
+57. Which one of the following is NOT
+
+an effect of wind on a structure ?
+
+(a) The effect of wind on a structure
+depends upon the density and
+velocity of the air
+
+(b) It depends upon the angle of
+incidence of the wind
+
+(c) It depends upon the shape and
+stiffness of the structure
+
+(d) It depends upon the smoothness
+of the structure surface
+
+58. Match the following lists :
+
+List I List II
+(Basic structural (Applications)
+elements)
+
+P. Tinrods _1. Carry tensile and
+compressive loads
+
+. Beams
+Q 2. Members that
+
+resist axial
+R. Columns compressive force
+S. Trusses 3. Bracing
+
+4. Reinforced
+concreter
+
+Select the correct answer using the
+code given below :
+
+Boy he 8
+2 sae 4
+io ae pales ter see
+4k Ores
+
+ie aye Ege Sacer.
+
+59. Consider the following statements
+regarding the principle of super
+position :
+
+1. The total displacement of the
+stress at a point in a structure
+subjected to several external
+loadings can be determined by
+adding together the displacements
+caused by each of the external
+loads acting together.
+
+2. The material must behave in a
+non-linear elastic manner.
+
+3. The geometry of the structure
+must not undergo significant
+change when the loads are
+applied.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 and 2
+(b) 2 only
+(c) 3 only
+
+(d) 1 and3
+
+60. What is the condition for stability of
+truss with b number of bars, 7 number
+of external support reactions with j
+number of joints ?
+(a) bt+r=2j
+(oe) b+r>2j
+(ce) b+r<2j
+(dd) b+r<j
+
+PNGE-D-CVL - A
+
+16
+
+61. Match the following lists :
+
+List I List II
+(components) (working)
+P. Trusses __1. Carry compressive
+fe
+Q. Cables To
+2. Located at the
+R. Arches crown and supports
+S\ Tiree elevations
+
+hinged 3. Support their loads
+arches in tension
+
+4. Prevent collapse
+
+Select the correct answer using the
+code given below :
+
+Pi gees
+(Qed Bu ole
+Oo Be pa ea
+Ch # Bere 4
+2358 24
+
+62. Which one of the following is the
+condition for maximum shear in a
+cantilever ?
+
+(a)
+
+(b)
+
+(©)
+
+(d)
+
+It occurs when a series of
+concentrated loads are not placed
+at the farthest point away from
+the fixed support
+
+It occurs when a series of distri-
+buted loads are placed at the
+farthest point away from the fixed
+support
+
+It occurs when a series of
+concentrated loads are placed at
+the nearest point away from the
+fixed support
+
+It occurs when a series of
+concentrated loads are placed at
+the farthest point away from the
+fixed support
+
+63. Match the following lists :
+
+List I List II
+(Dype of (Water demand
+commercial in Litres
+building/institution) per day)
+P. Restaurants 1.45 per
+capita
+Q. Nurses homes
+aaanedical 2.70 per
+quarters seat
+3.135 per
+R. Cinemas, capita
+concert halls ;
+and theatre 4.15 per
+seat
+S. Factories
+
+Select the correct answer using the
+code given below :
+
+BP iGQ.27R, 5-8
+(a) 4 1 DirceS
+ib). 2 Tt a
+Gis ae
+(Do 2h? Aare a
+
+64. Consider the following statements
+regarding quality difference of ground
+water and surface water :
+
+1. The Turbidity of ground water is
+high, whereas surface water is
+little.
+
+2. Total dissolved solids of ground
+water is lower than surface water.
+
+3. Concentration of inorganic com-
+pounds or ions of ground water is
+higher than surface water.
+
+17
+
+65.
+
+66.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 and 2
+
+(b) 2 only
+
+(c) 3 only
+
+(d) 1 and 3
+
+If P is population of town/city, QO is
+total quantity of water required during
+one year for a town/city; what is the
+
+formula for maximum daily per capita
+demand for a town/city ?
+
+(a) 18x—2
+Px365
+
+Q
+Px24
+
+Q
+Px365
+
+(b) 18x
+
+(c) 15x
+
+ne,
+iets
+
+If P, =Population at the end of n
+decade, P, = Present population, P,, =
+Average arithmetic increase in the
+population (decadal), P,;= Average
+incremental increase in population,
+n=Number of decades; what is the
+mathematical representation of Incre-
+mental Increase Method ?
+
+(a) Py=P,Xn+ (Pay + Po)
+(b) Pn=Pr+ (Pay + Po) xn
+(c) Py=Po+(Payt Pin
+(d) Pn=Poxn+ (Pay +t Pi)
+
+A — PNGE-D-CVL
+
+67.
+
+68.
+
+The impurities in water which are
+extremely small size particles and
+cannot be removed by settling and
+filtration are known as
+
+(a) Suspended impurities
+(b) Colloidal impurities
+(c) Dissolved impurities
+
+(d) Picked up impurities
+
+What is the function of flocculator
+
+" in the typical water treatment scheme
+
+69.
+
+for surface water ?
+
+(a) To rapid dispersion of chemical
+coagulant(s) to encourage destabi-
+lization of colloids
+
+(b)
+
+To permit the settlement of
+chemical ‘flocs’ along with
+colloidal particles
+
+(c). To provide for gentle mixing
+of the destabilized colloids to
+promote agglomeration of colloids
+
+into large easily settleable flocs
+
+To remove the flocs and colloids
+which escape from the settlement
+in the secondary sedimentation
+tank
+
+@)
+
+What is the function of rapid mixing
+in the typical water treatment flow
+scheme for ground water with high
+hardness ?
+
+(a) To drive out the objectionable
+dissolved gas such as H)S and
+CO,
+
+(b) To permit the settlement of chemi-
+cal precipitates under gravity
+
+PNGE-D-CVL — A
+
+18
+
+70.
+
+71.
+
+(c) To reform the calcium and mag-
+nesium bicarbonates to prevent
+settlement of CaCO; — under
+Mg(OH), precipitates in the
+distribution lines
+
+(d) To disperse the lime and soda ash
+
+to form the chemical precipitates
+
+If Q is the water requirement in L/min
+and P is population in thousands, what
+is Buston’s formula to determine fire
+demand ?
+
+(a) Q=5663VP
+
+(b) Q=3182VP
+
+(©) Q=4637(1-0-01/P)
+(d) Q=100VP
+
+What is meant by soffit ?
+
+(a) The system of pipes which con-
+veys discharges in separate pipes
+to the drainage system
+
+(b) A pipe or conduit which is owned
+
+by a local authority for convey-
+
+ance of the sewage
+
+The highest point of the interior of
+a sewer pipe at any cross section
+(d) The horizontal pipe lay below the
+floor level or below basement to
+receive the discharge of soil or
+waste water
+
+
+72.
+
+EE
+
+What is the logical extension of the
+pit privy ?
+
+(a) Septic tank and tile field
+
+(b) Composting toilet
+
+(c) Seepage pits
+
+(d) Plastic pipe with holes
+
+Consider the following statements
+regarding a good building/house
+drainage system :
+
+1. The pipes should be of non-
+absorbent materials.
+
+2. The system should have traps at
+all necessary points.
+
+3. The branch drains should be as
+long as possible.
+
+Which of the above statements are
+correct ?
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(a) 1, 2 and 3
+
+19
+
+74.
+
+15%
+
+76.
+
+What is a drawback of aerobically
+digested sludges ?
+
+(a) Odor reduction
+
+(b) Enhanced putrescible
+
+(c) Degraded of organic acids
+
+(d) Difficulty in dewatering
+
+What needs to be maintained to avoid
+the odour problem in tannery effluent
+treatment ?
+
+(a) Low pH
+
+(b) pH between 7-8
+
+(c) pH between 9-5-—10
+
+(d) High pH
+
+Which of the following is not a factor
+in the design of tension members ?
+
+(a) Length of the connection
+
+(b) Type of fabrication
+
+(c) Connection eccentricity
+
+(d) Gross area of the cross section
+
+A — PNGE-D-CVL
+
+77. Match the following lists :
+
+List I List II
+(Members) (Maximum
+effective
+slenderness
+ratio)
+P. A tension member 1. 350
+in which a reversal
+of direct stress 2. 400
+occurs due to loads
+other than wind or 3. 180
+seismic forces
+4. 250
+
+Q. A member subjected
+to compressive forces
+resulting only from a
+combination of wind
+actions
+
+R. A member normally
+acting as a tie ina
+roof truss which is
+not considered
+effective when
+subject to reversal
+of stress resulting
+from the earthquake
+
+S. Members always
+in tension
+
+Select the correct answer using the
+code given below :
+
+ae ee ene
+Got OE a
+Ne gee eae ee’
+@- 3-452 1
+
+Mp 254-7 3
+
+PNGE-D-CVL — A
+
+20
+
+78.
+
+79.
+
+Which one of the following is NOT a
+parameter for determining the strength
+of the column ?
+
+(a) Material of the column
+(b) Cross-sectional configuration
+
+‘(c) Width of the column
+
+(d) Residual stress
+
+Consider the following modes regard-
+ing the failure of an axially loaded
+column :
+
+1. Local buckling
+2. Squashing
+3. Joint buckling
+
+Which of the above modes are cor-
+rect ?
+
+(a) 2 and 3 only
+(b) 1 and 2 only
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+80. Match the following lists :
+List I List II
+(Sections) (Limiting width
+to thickness ratio)
+P. Rolled section 1. 882?
+Q. Welded section 2. 42
+R. Circular hollow 3. 15-7e
+section 4. 13-6e
+
+S. Hot rolled RHS
+
+Select the correct answer using the
+code given below :
+
+Pp Gees
+Gide va eek
+Oy 3 Tee
+his eee
+(Ore 4 coat
+
+81. Match the following lists :
+
+List I List II
+(Dypes of (Applications)
+beams with)
+P. Angles 1. Long spans and
+Q. Rolled heavy loads
+I-sections 2. Roof purlin and
+R Castella- sheeting rail
+ted beams 3. Most frequently
+S. Plate used as a beam
+girders 4. Long spans and
+
+light loads
+
+Select the correct answer using the |
+
+code given below :
+
+PO. 2s
+3-34 Eg
+Bes 7. Ee
+ie wees Bee ee
+@.2 seo ae
+
+82. Consider the following statements
+regarding the lateral torsional buckling
+of symmetric sections :
+
+1. The beam has no initial imperfec-
+tions and its behavior is elastic.
+
+2. It is loaded by unequal and
+opposite end moments in the plane
+of the web.
+
+3. The beam have residual stresses
+and its ends are simply supported
+vertically and laterally.
+
+Which of the above statements is/are
+correct ?
+
+(a) 2 and 3
+(b) 3 only
+
+21
+
+83.
+
+(c) 1 and 2
+
+(d) 1 only
+
+Which of the following is NOT a
+functional requirement of a girder ?
+(a)
+(b)
+
+Strength to carry bending moment
+
+Vertical stiffness to satisfy any
+deflection limitation
+
+Strength to carry
+adequate web area
+
+shear i.e.
+
+(c)
+
+(d) Stiffness to reduce the buckling or
+
+post-buckling strength of the web
+
+. Which one of the following is NOT a
+
+difference between the behaviour of
+the beam-columns subject to the
+bending moment about minor axis to
+major axis ?
+
+(a) In the case of slender members
+under small axial load, there is
+very little reduction of moment
+capacity below Mp, since lateral
+torsional buckling is not a
+problem in weak axis bending
+
+(b)
+
+The moment of magnification is
+larger in the case of beam-
+columns bending about their weak
+axis
+
+(c) As the slenderness decreases, the
+failure curves in the P/P,,, y-y axis
+plane change from convex to
+concave, showing decreasing
+
+dominance of minor axis bucking
+
+The failure of short/stocky
+members is either due to section
+strength being reached at the
+ends or at the section of larger
+magnified moment
+
+(d)
+
+A — PNGE-D-CVL
+
+85.
+
+86.
+
+In practical design of steel structures,
+on the vertical walls, external pressure
+coefficient on windward wall is
+
+(a) 0-8
+(b) 0-5
+(c) -0-5
+
+(d) —0-8
+
+Consider the following statements
+regarding the behavior of a column
+under a compression load :
+
+1. The stress-strain properties do not
+remain constant throughout the
+section.
+
+2. Residual stresses due to cooling
+after rolling the steel section and
+those imposed by welding during
+construction exist in the section
+before loading.
+
+3. Due to construction details, the
+load is perfectly concentric and
+the end conditions will not vary
+from case to case.
+
+Which of the above wines ss
+correct ?
+
+(a) 1 and 2
+
+(b) 1 only
+
+(c) 2 only
+
+(d) 1 and3
+
+PNGE-D-CVL — A
+
+22
+
+87.
+
+What is the minimum load factor for
+dead load as per IS 800:1984 ?
+
+(a) 1:3
+
+(b) 1-7
+
+- (© 23
+
+89.
+
+(d) 2-7
+
+What is the grain specific gravity for
+humus type soil ?
+
+(a) 2:37
+
+(b) 1:37
+
+(c) 4:37
+
+(@) 3:37
+
+When the specific gravity of solids is
+known, which one of the following
+types of methods is used to determine
+the water content ?
+
+(a) Pycnometer method
+
+(b) Rapid moisture tester method
+
+(c) Oven-drying method
+
+(d) Sand-replacement method
+
+90. Which one of the following soils are 92. Consider the following statements
+transported by wind ? regarding sedimentation analysis of
+soil particles based on Stokes’ law :
+
+(a) Alluvial soils 1. The finer soil particles are never
+perfectly spherical.
+(b) Lacustrine soils 2. All the soil grains may have the
+same specific gravity.
+(c) Aeolian soils 3 Poe 4
+3. Particles constituting to fine soil
+fraction may carry surface electric
+(d) Marine soils charges.
+
+Which of the above statements are
 
 4
+91. If ys= unit weight of the material of spre
 
-usa uster vst
-National Testing Agency
+falling sphere in g/cm?, y, = unit
+weight of the liquid medium in g/cm},
+Ht = viscosity of the liquid medium in
+g sec/cm?, and D = diameter of the
+spherical particle in cm. According to
+Stokes’ law, what is the formula for the.
+terminal velocity (v) of the spherical (@) 1,2and3
+particle ? ;
 
-Excellence in Assessment
+(a) 1 and 2 only
+(b) 1 and 3 only
 
-(SaRR Rien four, Rat Hare, UT PRR & Tea Ue Fa BTA)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
+(c) 2 and 3 only
 
-30| 250310071793 | ROHAN SIDDHESHKENI_ | GOA 9.95858
-31| 250310000744 | ARKAJIT BHOWMIK TRIPURA 99.94604
-32 | __250310189720 | KAMRAN BILAL BHAT JAMMU AND KASHMIR 9.89337
-33 | 250310340859 | SABYASACHI CHOUDHURY | OUTSIDE INDIA 9.87098
-34 | 250310218760 | E KUMARAN PUDUCHERRY 99.86772
-35 | 250310098102 | ISHANT VERMA MIZORAM 99.57766
-36 | 250310617130 | NISTHA GAUTAM MEGHALAYA 99.43582
-37 | 250310666429 | PRANAY KUMAR ROY ARUNACHAL PRADESH 99,38402
-38 | ___250310183132 | RAJAT KUMAR SINGH SIKKIM 9.35852
-39| — 250310048742 | MOUSAM DAS ANDAMAN AND NICOBAR 98.90498
-ISLANDS
-LOYANGANBA
-40) 250310113058 | FA MANIPUR 98.6999
-41 | 250310561005 | JAYESH VASAN DAMAN AND DIU 98.41820
-42 | 250310628173 | BASHIR AHMAD LADAKH 96.19349
-43 | 250310392465 | SAMIR KUMAR NAGALAND 95,60180
-44 | 250310948259 | MUHAMMAD HAMID L___| LAKSHADWEEP 90.06976
+93. What is meant by Thixotropy ?
 
-General Category toppers and their NTA Score (in ascending order of Application No.) for Paper 1 (B.E.
-/ B.Tech.) are as under:
+(a) va =| D (a) Property of a material which is
+Mt manifested by its resistance to
+flow
+1[(%s +) ] 02 (b) The ratio of the unconfined
+(b) Me Te D compression strength in the
+natural or undisturbed state to that
+in the remoulded state
+() vai | Ue <n ] D2 (c) The compressive stress at failure,
+12 by giving due allowance to the
+reduction in area of cross-section
+(d) Phenomenon of strength loss-
+(d) ral D? strength gain, with no change in
+2, Mt volume or water content
 
-State of Eligibility
-- ae . (State of passing/
-SNo Category | Application No | Name of Candidate appearing 12th NTA Score
-Class)
-1 General 250310009213 | AYUSH SINGHAL RAJASTHAN 100
-2 General 250310034720 | KUSHAGRA GUPTA KARNATAKA 100
-3 General 250310143408 | HARSH JHA DELHI (NCT) 100
-4 General 250310150634 | RAJITGUPTA RAJASTHAN 100
-5 General 250310236696 | SAKSHAM JINDAL RAJASTHAN 100
-6 General 250310254844 | SAURAV UTTAR PRADESH 100
-7 General 250310299968 | VISHAD JAIN MAHARASHTRA 100
-8 General 250310312145 | ARNAV SINGH RAJASTHAN 100
-9 General 250310391420 | SHIVEN VIKAS TOSHNIWAL | GUJARAT 100
-SAI MANOGNA
-10 General 250310564942 GUTHIKONDA ANDHRA PRADESH 100
-11 General 250310569571 | OM PRAKASH BEHERA RAJASTHAN 100
-12 General 250310746461 | BANI BRATA MAJEE TELANGANA 100
-Gen-EWS Category topper and the NTA Score for Paper 1 (B.E. / B.Tech.) is as under:
-State of Eligibility
-SNo Category | Application No Name of Candidate (State of passing/ NTA Score
-appearing 12th Class)
-1 Gen-EWS 250310154073 Sonik YASWANTH ANDHRA PRADESH 99.9968125
+23 A — PNGE-D-CVL
 
-yee eres
+94.
 
-arad aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
+95.
 
-aaese / Website www.nta.ac.in, https://jeemain.nta.nic.in/
+96.
 
-ial:
+Consider the following statements
+regarding energy heads :
 
-CELEBRATING
-THE MAHATMA
+1. The velocity head in soils is
+negligible.
 
-Fes at ay
-wy
-wi
+2. Direction of flow is determined by
+the difference in total head.
 
-wey Tet
+3. Negative pore pressure cannot
+exist.
 
-OBC-NCL Category topper and the NTAS.
+Which of the above statements are
+correct ? ;
 
+(a) 1 and 2 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+What is the value of coefficient of
+permeability for coarse gravel ?
+
+(a) Greater than 100 mm/s
+
+(b) Greater than 10 mm/s
+
+(c) Greater than 1 mm/s
+
+(d) Less than 0-1 mm/s
+
+A reinforced concrete foundation, of
+dimensions 18mx36m, exerts a
+uniform pressure of 180kN/m? on a
+soil mass, with E-value 45 MN/m?.
+
+What is the value of immediate settle-
+ment under the foundation ?
+
+(a) 1m
+
+(b) 154m
+(c) 18 mm
+(d) 54 mm
+
+PNGE-D-CVL — A
+
+24
+
+Ds
+
+98.
+
+Which one of the following terms is
+defined as “Maximum pressure which
+a foundation can withstand without the
+occurrence of shear failure of the
+foundation” ?
+
+(a) Gross bearing capacity
+
+(b) Bearing capacity
+(c) Ultimate bearing capacity
+
+(d) Safe bearing capacity
+
+If S; = immediate settlement at a
+comer of a rectangular flexible founda-
+tion of size L x B, B = Width of the
+foundation, g = Uniform pressure on
+the foundation, E; = Modulus of
+elasticity of the soil beneath the
+foundation, v = Poisson’s ratio of the
+soil, and J; = Influence value, which is
+dependent on L/B. What is the
+immediate settlement of a flexible
+foundation ?
+
+l+v?
+(a) Sj= of).
+
+BE,
+
+
+99;
+
+100.
+
+101.
+
+Consider the following statements
+regarding bearing capacity values
+specified in building codes :
+
+1. The codes tacitly assume that the
+allowable bearing capacity is
+dependent only on the soil type.
+
+2. The codes assume that the bearing
+capacity is dependent of the size,
+shape and depth of foundation.
+
+3. Building codes are usually not
+up-to-date
+
+Which of the above statements are
+correct ?
+
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+Which one of the following comprises
+two or more footings connected by a
+beam called strap ?
+
+(a) Continuous footing
+(b) Spread footing
+(c) Combined footing
+
+(d) Cantilever footing
+
+A one way slab has effective span
+3-6m and is 150mm thick. The live
+load expected on it is 3 KN/m?. What
+are the design shear and loads for
+checking serviceability respectively ?
+
+25
+
+102.
+
+(a) 18-225 KN, 6-75 kN
+(b) 16-225 KN, 5-75 kN
+(c) 18-225 KN, 7:75 kN
+
+(d) 15-225 KN, 8-75 kN
+
+Consider the following statements
+regarding the strength of flanged
+sections in flexure where the moment
+of resisting capacity of the flanged
+sections depends upon the depth of
+neutral axis X%y : :
+
+1. If x, < Dg compressive force is
+in the flange only.
+
+2. If 3x, > Ds compressive stress
+in the flange is uniform.
+
+3. If %y > Dy and 3%, > Dg com-
+pressive stress in flange is non
+uniform.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 and3
+(b) 2 and3
+(©) 1 and 2
+
+(d) 1 only
+
+A — PNGE-D-CVL
+
+103.
+
+104.
+
+105.
+
+What is the maximum deflection for
+cantilever subjected to udl throughout ?
+(Where E is the modulus of elasticity
+of concrete, J is the moment of inertia,
+L is the length of the span, P is the
+point load)
+
+sal?
+
+@) Sean
+
+PE
+©) ser
+ol!
+(©) SEI
+PE
+© S4Er
+
+Which one of the following is the
+equation for width of the step in a
+staircase, consider R being the rise,
+T being tread, D/2 being the depth
+and b is the width ?
+
+2.
+
+T?
+
+() b=VR? +7?
+() b=VR?-T?
+@) b=VR?-7?
+
+(a) b=
+
+Which one of the following statements
+is correct under safety provisions of
+the ACI code ?
+
+PNGE-D-CVL — A
+
+26
+
+106.
+
+107.
+
+(a) Design strength is greater than
+required strength and design
+moment is greater than required
+moment
+
+(b) Design strength is greater than
+
+required strength and design
+moment is less than required
+moment
+(c) Design strength is less than
+required strength and design
+moment is greater than required
+moment
+(d) Design strength is less than
+required strength and design
+moment is less than required
+moment
+
+In the conveying of most building
+concrete from the mixer or truck to
+the form is done in bottom-dump
+buckets, then the chief danger during
+conveying is that of
+
+(a) Transferring
+
+(b) Moisture and temperature
+
+(c) Segregation
+
+(d) Vibrations
+
+Which one of the following is NOT
+a property of an admixture ze
+
+(a) Improve workability
+(b) Increase strength
+(c) Improve durability
+
+(d) Increase permeability
+
+108.
+
+109.
+
+Which one of the following is the
+creep co-efficient at any time ? (Where
+Cet is the creep co-efficient at any
+time and C,, is the ultimate creep
+co-efficient and ¢ is the time in days
+after loading)
+
+7960
+
+050
+
+(b) ¢
+
+t
+Cae
+= 104g
+
+4940
+
+(c) Cy= Jos7040 Cou
+
+@ .¢, =—_ = 6
+‘ag 10+¢
+
+Consider the following statements
+regarding the design of T-beams :
+
+1. To establish flange thickness hy
+based on flexural requirements of
+the slab, which normally spans
+transversely between perpendi-
+cular T beams.
+
+2. Determine the effective flange
+width by according to ACI limits.
+
+3. Choose web dimensions by, and d
+
+based on either negative bending -
+
+requirements at the supports or
+shear requirements by setting a
+reasonable upper limit on the
+nominal unit shear stress V,, in the
+beam web.
+
+27
+
+110.
+
+111.
+
+Which of the above statements are
+correct ?
+
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+
+(d) 1,2 and3
+
+What is the minimum thickness ‘h’ of
+nonprestressed one-way slabs of length
+‘L’ for simply supported ?
+
+(a) L/24
+(b) L/10
+(c) L/20
+
+(a) L/28
+
+What is the maximum bending
+moment of elastic plates in a square
+slab where q is the load shared on
+
+length /?
+(a) 0-625 gi?
+(b) 0-00625 gi?
+(c) 0-0625 gi2
+(d) 0-000625 gi?
+
+A — PNGE-D-CVL
+
+112. What is the load factor for stem in the
+design procedure for cantilever
+retaining walls with safety ?
+
+(a) 1-2
+(b) 1-6
+(©) 2
+
+(d) 25
+
+113. Which one of the following types
+of equipment is used in topographic
+surveys and also for recording the
+shapes of buildings ?
+
+(a) Electromagnetic distance measure-
+ment devices
+
+(b) GPS
+(c) Satellite camera
+
+(d) Aerial camera
+
+114. Match the following lists :
+
+List I List II
+(Correction) (Formula)
+1(wy
+P. Absolute Ae al) L
+length (c,) 24\ P
+Q. Sag (cg) : we
+R. Alignment (c,,) 2L
+c
+3. ze
+
+PNGE-D-CVL - A
+
+Select the correct answer using the
+code given below :
+
+@
+(b)
+(©)
+(d)
+
+115. If sensitivity of a bubble tube is 30”
+per 2 mm division what would be the
+error in staff reading on a vertically
+held staff at a distance of 200 m,
+when the bubble is out of centre by
+
+P
+
+Q
+
+2:5 divisions ?
+
+(a) 0-073 m
+(b) 0-73 m
+(c) 0:0073 m
+
+(@) 73m
+
+116. When a celestial body crosses the
+observer’s meridian, it is said to be
+
+(a) culminate
+(b) vernal equinox
+
+(c) obliquity
+
+(d) celestial pole
+
+117.
+
+118.
+
+119.
+
+Why the observations of field astro-
+nomy do not involve the measurement
+of declination and right ascension ?
+
+(a) Because the altitude and azimuth
+are constantly changed to the
+motion of the celestial body
+
+(b)
+
+Because the stars do not occupy
+fixed positions on the celestial
+sphere
+
+Because the distance of the sun
+from the earth is variable
+
+(©)
+
+(@)
+
+ecliptic
+
+If the equality of back sight distance
+and foresight cannot be maintained,
+under such condition, which one of the
+following levelling types is most
+important part of geodetic surveying ?
+
+(a) Spirit levelling
+(b) Reciprocal levelling
+(c) Trigonometric levelling
+
+(d) Ordinary levelling
+
+Consider the following statements
+regarding global positioning system
+(GPS): ©
+
+1. GPS cannot be used in all weather
+conditions.
+
+Because of the obliquity of the
+
+29
+
+120.
+
+2. In GPS surveying inter visibility
+between stations or _ points
+surveyed is not necessary.
+
+3. High cost of GPS surveying has
+restricted the realization of the full
+potential of GPS.
+
+Which of the above statements are
+correct ?
+
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only.
+
+(a) 1,2 and 3
+
+Consider the following statements
+regarding remote sensing surveys :
+
+1. Different types of land use are
+distinguishable on images.
+
+2. Most images lack the horizontal
+perspective.
+
+3. For surveys of small areas, the
+cost of mobilizing a remote
+sensing mission may be uneco-
+nomical
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 and 2
+(b) 2 and 3
+(c) 2 only
+(d) 3 only
+
+A — PNGE-D-CVL
+
+121. Consider the following statements Select the correct answer using the
+regarding aerial photogrammetry : code given below :
+
+; Pie Q. Rae)
+1. Aerial photogrammetry has the
+
+ease with which topography of @ip20 ssl 4
+inaccessible areas can be detailed.
+(b) 3 4 1 2
+
+2. In aerial photogrammetry, there (c) 4 1 Ae >
+is possibility of omitting of few
+field data. (d) 4 1 2 3
+
+Which of the above statements is/are 123. Accurate transfer of surface alignment
+correct ? down a vertical shaft using two
+plumbwires can be achieved by
+
+(a) 1 only (a) Rise and fall method
+(b) 2 only (b) Collimation method
+(c) Bowditch’s method
+
+Both 1 2 :
+(©) as “— (d) Weisbach triangle method
+
+(d) Neither 1 nor 2 : 124. If R is the radius of the circle and A is
+deflection angle, what is the formula
+for external distance (Z) in circular
+
+122. Match the following lists : curve for use in design and setting
+out?
+List I List II
+(Region) (Wavelength) @ E= 1( seo 1
+P. Reflected 1. Less than
+IR band 0-03 nm (6): £= a(1- seo!)
+¥)
+Q. X-ray 2. 0-1—30 cm ‘
+: ©) £= R{ cos - )
+R. Gamma ray 3. 0:7—3-0 pm
+(d) E=R\|.1-co ‘as
+“8. Microwave 4. 0-03 -3-0 nm a)
+
+PNGE-D-CVL — A 30
+
+125. Which one of the following situations
+is NOT at all suitable for tunneling ?
+
+126.
+
+(a)
+
+(b)
+
+(©)
+
+(@)
+
+If the beds are parallel to horizon-
+tal or have approximately zero
+degree inclination
+
+If the beds are vertically dipping
+and the axis of the tunnel is
+perpendicular to the strike
+
+If the strike of involved beds is
+parallel to the axis of the tunnel
+
+If the dip of involved beds is
+parallel to the axis of the tunnel
+
+Which one of the following is NOT
+a necessity of specifications for con-
+struction ?
+
+(a)
+
+(b)
+
+(d)
+
+Specification of a work is required
+to specify the quality and quantity
+of different materials required for
+a construction work and is one of
+the essential contract documents
+
+Specification is necessary to
+specify the equipment, tools and
+plans to be engaged for a work
+and thus enables to procure them
+beforehand
+
+Specification is an essential
+contract document and is required
+for Arbitration
+
+Specification has no impact on
+changes of cost of materials and
+tools i.e. the tender rate
+
+31
+
+127. What is the capital value of a premises
+consisting of land and a well-built
+house, let out for %800/- per month
+inclusive of all taxes. The house is in
+good condition. The rent by com-
+parison with other premises is fair and
+is likely to be maintained. Assume the
+following data :
+
+Outgoings: 18% of the gross rent,
+expected rate of return : 8%, future life
+of the building : 60 years.
+
+(a)
+(b)
+()
+
+(d)
+
+98,400/-
+%141,687-50/-
+%110,687-50/-
+
+%88,400/-
+
+128. Which one of the following is the
+advantage of lump sum contract ?
+
+(a)
+
+yy)
+
+(c)
+
+(d)
+
+In case of unforeseen hazards’
+during construction, the contractor
+is put to unlimited hardship
+
+There may not be any hazard
+which could not be visualized
+beforehand
+
+It becomes intricate to accommo-
+date additions, alterations of
+design and specifications
+
+Lump sum contract works better
+in civil engineering construction
+than for mechanical and electrical
+installations
+
+A — PNGE-D-CVL
+
+129.
+
+130.
+
+131.
+
+Consider the following statements
+regarding the right of the contractor to
+terminate :
+
+1. If the work is stopped by a court
+order for three months or more for
+any reasons. :
+
+2. If the architect fails to issue the
+certificate of payment in the
+stipulated period.
+
+3. If the owner fails to pay the
+contractor after the stipulated
+period or certification for the
+payment from the consultant or
+the arbitrator.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 ais 2
+(b) 2 and 3
+(c) 1 and 3
+
+(d) 2 only
+
+How many number of bricks are
+required in 10 m? of brick work ?
+
+(a) 3000 numbers
+(b) 5000 numbers
+(c) 2000 numbers ~
+
+(d) 4000 numbers
+
+Consider the following statements
+regarding the essential insurance
+record to be maintained :
+
+PNGE-D-CVL — A
+
+32
+
+1. Workmen’s compensation and
+employer’s accountability insur-
+ance in accordance with appli-
+cable laws should be maintained.
+
+2. Comprehensive general liability
+insurance to cover any solitary
+whichever body or the property
+should be maintained.
+
+3. Comprehensive automobile liabi-
+lity insurance to cover any solitary
+whichever body or the property
+damage should be maintained.
+
+Which of the above statements is/are
+correct ?
+
+(a) 1 only
+(b) 1 and 2
+(c) 3 only
+
+(d) 2 and 3
+
+. A supplier sends steel plates in a
+
+huge quantity to a contractor. The first
+batch was exhaustively examined for
+thickness and gave a standard devia-
+tion of 1-80. The contractor feels that
+the knowledge of mean within a range
+of 0-5 to its true value for a probability
+of 95% would be satisfactory. What is
+the size of sample ?
+
+(a) 40 numbers
+(b) 30 numbers
+(c) 60 numbers
+
+(d) 50 numbers
+
+133.
+
+134.
+
+A preliminary survey indicates that
+20% of the time of a gang of workers
+is spent ideally. What is the total
+number of observations required to
+determine the proportion of idle time
+within +5% with 95% confidence
+limit ?
+
+(a) 216 observations
+(b) 226 observations
+(c) 246 observations
+
+(d) 236 observations
+
+Consider the following _ statements
+regarding the dependency of crane load
+
+capacity :
+
+1. The size of the crawlers is not a
+factor due to diminutive mounting
+which decreases the stability of
+any footing.
+
+2. The strength of the boom is also
+one of the major governing factors
+in establishing load ratings, and
+any extension of the boom reduces
+the rating. Lowering the boom
+also increases the clearance radius
+and thus reduces the rated
+capacity.
+
+3. The counterweight is added to the
+after-end of the machine. Manu-
+facturer’s specifications provided
+standard and maximum counter-
+weights and also the crane ratings.
+Counter weights may be increased
+to a specified maximum, but the
+operating radius must not exceed
+that given by the manufacturer.
+
+Which of the above statements is/are
+
+correct ?
+
+@ 1 and 2
+(b) 1 and 3
+(c) 1 only
+
+(4) 2 and 3
+
+135. Match the following lists regarding the
+physical properties of cement :
+
+List I
+P.' Loss on
+ignition
+
+Q. Insoluble
+
+residues
+
+R. Lime and
+alumina
+content
+
+S. Sulphur
+content
+
+List II
+
+1. Causes
+expansion
+
+2. Due to evapo-
+ration of
+moisture and
+carbondioxide
+
+3. Due to inactive
+materials like
+
+gypsum
+
+4. Causes
+unsoundness
+
+Select the correct answer using the
+code given below :
+
+ig Q
+(a) 2 3
+Gjes 4
+© 4
+
+@ 2 <a
+
+33
+
+Res
++ 1
+1 2
+2 3
+1 3
+
+A — PNGE-D-CVL
+
+136. What is the proportion of acid and
+
+alkalis permitted in the water used in
+construction ?
+
+(a) A 100 ml sample of water should
+be neutralized by not more than
+2ml of 0-1 normal NaOH of
+10 ml of 0-1 normal HCl
+
+(b) A 200 ml sample of water should
+be neutralized by not more than
+2ml of 0-1 normal NaOH of
+10 ml of 0-1 normal HCl
+
+(c) A 300 ml sample of water should
+be neutralized by not more than
+2ml of 0-1 normal NaOH. of
+10 ml of 0-1 normal HCl
+
+(d) A 50 ml sample of water should
+be neutralized by not more than
+2ml of 0-1 normal NaOH of
+10 ml of 0-1 normal HCl
+
+137. Match the following lists regarding
+
+different types of bricks with their
+applications :
+
+List II
+
+List I
+P. Sand lime 1. Tough,
+bricks durable
+
+Q. Face bricks 2. Edges and
+curves to suit
+
+R. Paving bricks the shape
+
+S. Sewer bricks 3. Cheaper and
+used only for
+backup .
+
+4. Where distinct
+brick work
+finish is
+intended.
+
+PNGE-D-CVL — A
+
+138.
+
+139,
+
+Select the correct answer using the
+code given below :
+
+Bi OCR |S
+@exy Bere"
+o ee
+Ooo: Se
+(4 | ee
+
+What are the two main categories of
+embankment slopes ?
+
+(a) Flat and Steep
+
+(b) Recoverable and Non-recoverable
+(c) Desirable and Undesirable
+
+(d) Hazardous and Non-hazardous
+
+Match the following lists :
+List I List II
+(Median widths (Key features)
+
+at intersections)
+
+P. Four feet 1. Provides a pedes-
+
+or wider trian refuge and
+room for a dual
+
+Q. Twenty- left-turn bay
+
+eight feet. Provides a pedes-
+
+or wider trian refuge and
+R. Sixteen feet  '0om for a
+
+or wider left-turn bay
+
+3. Provides a pedes- ©
+
+S. Twenty feet ‘trian refuge
+
+ey aid 4. Provides refuge
+
+for a crossing
+
+passenger car
+Select the correct answer using the
+code given below :
+
+Pe Os oR Ss
+@® 424 27°93
+6) 3 ote ae a
+ice See ea
+hose 4
+
+140. If V, is design speed (mph), by-r is
+perception-reaction time (sec), a is
+deceleration rate (ft/sec?) and G is
+longitudinal grade of the road (%/100).
+What is the expression for stopping
+sight distance ?
+
+141.
+
+RES Se OER ere CN RE re ee ee cee EN menor er Teer ee ee |
+
+(a) SSD=
+1468 Vyt
+
+ae
+°" 30((3#3)*6)
+(b) SSD =1-468 Yy1,_, + 4 —
+
+(c) SSD=
+1468 Vyty_, - ;
+
+y2
+(d) SSD =1468 fp
+PY (gB5)#G
+
+If Vq is design speed (mph), ema, is
+maximum rate of superelevation, fyyay
+is co-efficient of side friction. What is
+the expression for minimum radius of
+curvature (Rypin) ?
+
+2») 2.
+
+©) Rain (0-:01enin — fnax)
+2
+
+(b) R, Va
+
+cil 15(Enin + fee)
+
+142.
+
+143.
+
+Vi
+
+OF Ray Wel
+oe eae (nin s, Smax)
+
+Vj
+
+Qi Ree
+© Rnin 15(0-0lemin + Snax)
+
+What is the major difficulty in
+establishing human surveillance in
+freeway management systems ?
+
+(a) Difficulty in integrating electronic
+detection with human surveillance
+
+(b) Infrastructure for providing video
+to the location of .the human
+operator
+
+(c) Human operators have superior
+judgment, but they may lose
+attention
+
+(d) Lack of qualified human operators
+
+The weighted average of the damages
+caused by the individual axle load
+group with respect. to the corres-
+ponding volume of the traffic of each
+group is known as
+
+(a) Lane distribution factor
+(b) Load Safety factor
+(c) Vehicle damage factor
+
+(d) Heavy-vehicle adjustment factor
+
+A — PNGE-D-CVL
+
+144, Which one of the following is a factor
+that is to be multiplied by the total
+traffic repetitions in a lane to convert
+it to equivalent repetitions along the
+maximum distressed path ?
+
+(a) Lane distribution factor
+(b) Load Safety factor
+(c) Vehicle damage factor
+
+(d) Lateral distribution factor
+
+145. Consider the following statements
+
+regarding tunnel :
+
+1. In hills with soft rocks, a tunnel is
+cheaper than a cutting. ,
+
+2. The maintenance cost of a tunnel
+is considerably higher than that of
+a bridge.
+
+3. The construction of a tunnel is
+costly as it requires special
+construction.
+
+Which of the above statements are
+correct. ?
+
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+PNGE-D-CVL - A
+
+36
+
+146. Match the following lists :
+
+List I List II
+(Size of the — (Purpose of the
+tunnel) tunnel)
+P. Circular 1. Water and
+sewage mains
+Q. Elliptical 2. Roads and
+Railways
+R. Horseshoe 3. Water and
+sewage
+
+Select the correct answer using the
+code given below :
+
+O98
+eo? 1.4
+res ties TE Ce ey
+Gia 3
+GQ 2 a st
+
+147. Consider the following — statements
+regarding full face method for
+tunneling in hard rocks :
+
+1. An entire section of the tunnel is
+tackled at one time.
+
+2. Mucking tracks can be laid on the
+tunnel floor and extended as the
+work progresses.
+
+3. It is suitable for unstable rocks.
+
+Which of the above statements are
+correct ?
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+~(d) 1, 2 and 3
+
+148. Match the following lists :
+
+List I
+
+(ype of
+
+soil)
+P. Silt
+
+Q. Clay
+
+R. Sand
+
+1.
+
+WwW
+
+List II
+(Method of
+tunneling)
+
+One or two ports’ are
+opened and the
+material flows
+continuously into the
+tunnel.
+
+. One or two port doors
+
+are opened. The
+
+material is excavated
+and deposited at the
+bottom of the tunnel.
+
+. Tunneling is of the
+
+open type. The
+material settles on
+the floor of the
+shield and it should
+be continuously
+removed.
+
+Select the correct answer using the
+code given below :
+
+ie
+(a). °:2
+(b) 3
+(c).23
+(ad) 2
+
+Q
+
+1
+1
+2
 3
 
-asi oSten wale
+Ke BSB NY WwW W
 
-National Testing Agency
+37
 
-Excellence in Assessment
+149.
 
-(Sar Ratt four, Ria Hares, URT WR & ded Ue eae BS)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
+150.
 
-7
+Which one of the following methods
+is achieved by drilling a drift through
+the tunnel from portal to portal ?
 
-——
-ae
-STS ay ar
+(a) Blow-in method
+(b) Exhaust method
+(c). Blow-out method
 
-od Asia
+(d) Natural method
 
-core for Paper 1 (B.E. / B.Tech.) is as under:
+Which one of the following types of
+soils will usually shrink if drained or
+if subjected to repeated loading ?
 
-State of Eligibility
-—_— . (State of passing/
-NTA
-SNo Category | Application No Name of Candidate appearing 12h Score
-Class)
-1 OBC-NCL 250310133572 | DAKSH DELHI (NCT) 100
-SC Category topper and the NTA Score for Paper 1 (B.E. / B.Tech.) is as under:
-State of Eligibility
-SNo Categor Application No Name of Candidate (State of passing/ NTA Score
-Bory ppiica appearing 12th
-Class)
-1 SC 250310210195 | SHREYAS LOHIYA UTTAR PRADESH 100
-ST Category topper and the NTA Score for Paper 1 (B.E. / B.Tech.):
-State of Eligibility
-State of passii
-SNo Category | Application No Name of Candidate (State 'P ing/ NTA Score
-appearing 12th
-Class)
-a ST 250310077196 | PARTH SEHRA RAJASTHAN 99.9713129
-PwBD topper and the NTA Score for Paper 1 (B.E. / B.Tech.) is as under:
-SNo | Sub-Category | Application No Name of Candidate State of Eligibility NTA Score
-(State of passing/
-appearing 12" Class)
-i, PwBD 250311143008 | HARSHAL GUPTA CHHATTISGARH 99.9545990
+(a) Non-cohesive soils
 
-Gender wise (Male) toppers and their NTA Score (in ascending order of Application No.) for Paper 1
-(B.E. / B.Tech.) are as under :
+(b) Cohesive soils
 
-State of Eligibility
-SNo | Gender Application No Name of Candidate (State of passing/ NTA Score
-appearing 12th Class)
-1 Male 250310009213 | AYUSH SINGHAL RAJASTHAN 100
-2 Male 250310034720 | KUSHAGRA GUPTA KARNATAKA 100
-3 Male 250310133572 | DAKSH DELHI (NCT) 100
-4 Male 250310143408 | HARSH JHA DELHI (NCT) 100
-5 Male 250310150634 | RAJITGUPTA RAJASTHAN 100
-6 Male 250310210195 | SHREYAS LOHIYA UTTAR PRADESH 100
-7 Male 250310236696 | SAKSHAM JINDAL RAJASTHAN 100
-8 Male 250310254844 | SAURAV UTTAR PRADESH 100
+(c) Peat
 
-weer nen ar
+(d) Silts
 
-were aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
-adaenge / Website www.nta.ac.in, https://jeemain.nta.nic.in/
-
-a
-
-OS YEARS OF
-CELEBRATING
-
-THE MAHATMA
+A — PNGE-D-CVL
 
 
-meena poe
+SPACE FOR ROUGH WORK
 
-WH" ] National Testing Agency —s ax
-
-Excellence in Assessment
-
-wey Ge ‘
-
-(Sar Rien faur, Rian Aare, URT PRR Tet Cay TaTT STO)
-
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
-9 Male 250310299968 | VISHAD JAIN MAHARASHTRA 100
-10 Male 250310312145 | ARNAV SINGH RAJASTHAN 100
-4 Male SHIVEN VIKAS
-
-250310391420 | TOSHNIWAL GUJARAT 100
-12 Male 250310569571 | OMPRAKASH BEHERA RAJASTHAN 100
-13 Male 250310746461 BANI BRATA MAJEE TELANGANA 100
-
-Gender wise (Female) topper and the NTA Score for Paper 1 (B.E. / B.Tech.) is as under:
-
-Name of State of Eligibility (State
-SNo | Gender Application No . of passing/ appearing NTA Score
-Candidate
-12th Class)
-SAl MANOGNA
-1 Fi I PRADESH 100
-emale 250310564942 GUTHIKONDA ANDHRA PRADES
-
-The NTA Score of 39 candidates has not been declared as they were found indulging in Unfair
-Means practices.
-
-NTA Scores are normalized scores across multi-session papers and are based on the relative
-performance of all those who appeared for the examination in one session. The marks obtained
-are converted into a scale ranging from 100 to 0 for each session of examinees. NTA score is not
-the same as the percentage of marks obtained. The NTA Score of a Candidate has been
-calculated as follows:
-
-100 X Number of candidates appeared in the ‘Session’ with raw score EQUAL TO OR LESS than the candidate
-Total number of candidates who appeared in the ‘Session’
-
-After both Sessions of the JEE (Main) - 2025 Examination for Paper 1, the rank of the
-candidates will be released taking into consideration the best of the two NTA Scores in
-accordance with the policy already made.
-
-Various measures were adopted by NTA for smooth conduct and monitoring of examinations as
-under:-
-
-. An orientation training programme was organized for all the examination functionaries in
-hybrid mode on 18 January 2025 at Bharat Mandapam, Convention Centre, Pragati
-Maidan, New Delhi. A total around 800 examination functionaries and stakeholders
-attended the training session (both physically and virtually).
-
-‘ A Central Control Room was opened at NTA to monitor and facilitate the smooth conduct
-of the Examination on the ground. 277 City Coordinators, 894 Observers, 38 NTA flying
-squad and representative of certain Government Cyber Security agencies were deputed
-for examination duties in various cities and centres.
-
-° Live CCTV Surveillance was planned in all examination centres to curb malpractices in the
-examination. The NTA also made arrangements for live viewing of remote locations of all
-
-EIQ) arch aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in ARE
-
-eerie aaenge / Website www.nta.ac.in, https://jeemain.nta.nic.in/ eens,
+PNGE-D-CVL — A 38
 
 
-nig 7] National Testing Agency asietan -
-(SaRR Rien four, Ren Hae, UNG MOR & aed Ue eae BISA)
+SPACE FOR ROUGH WORK
 
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
-examination centres from the Control Room located in the NTA premises of New Delhi.
-Recording of CCTV Systems was also done and used for post examination analysis for
-identifying act of malpractices.
+39 A — PNGE-D-CVL
 
-° The examination centres were also monitored using Al-based Video Analytics and Virtual
-Observers.
-° In order to stop cheating using mobile networks, Jammers were installed in all the
+SPACE FOR ROUGH WORK
 
-Centres to prevent unfair practices by the candidates during the examination through
-mobile or any other electronic device. The latest 5G Jammers were installed at all
-examination Centres.
-
-* Based on the report submitted by the High-Level Committee of Experts on the
-“Reformation of National Common Entrance Testing in India”, the National Testing
-Agency (NTA) has coordinated with State and District Authorities to form the committees
-and carry out physical audit of examination centres.
-
-a The District Level Committees successfully carried out physical audit of various
-examination for conduct of JEE (Main) 2025 Session-1 all across the country.
-
-. A three tier audit of centres was conducted for the examination Centres namely Virtual
-Audit by NTA, Audit by Third Party Agency and Physical Audit by District Level
-Committees and feedback taken for improvements.
-
-. For the centres outside India, close coordination was done with the Embassy of India /
-High Commission of India in those countries.
-
-. The JEE (Main) being one of the most sensitive examinations, NTA made elaborate
-arrangements at various levels and took help from State and District Authorities for the
-smooth conduct of the examination.
-
-. Special emphasis was made on the random deployment of examination functionaries in
-all centres.
-° The PwD candidates were allotted to a PwD-friendly test Centre and extra organizational
-
-support was given to those candidates.
-
-° The candidate’s particulars were indicated in the admit card as mentioned by the
-candidate in the online Application Form.
-
-e The identity proof as mentioned by the candidate in online application form was
-included in the admit card of the respective candidate for verification at the
-examination centre during biometric attendance.
-
-a
-
-arach aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in
-eeawonor aauise / Website www.nta.ac.in, https://jeemain.nta.nic.in/ eee
-
-ey zee usta volt
-WH] National Testing Agency
-
-wera wet
-(GaRR Rian four, Rat Hares, UR GRR & ea Var TATA TSA)
-(An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India)
-
-° Bio-breaks were not allowed during the first hour and the last half an hour before the
-end of the examination.
-
-° Apart from the biometric attendance and frisking at entry, candidates were frisked, and
-biometric attendance was taken again on entry from the bio-break/toilets break.
-
-° To make the candidates and their parents aware of the rules and regulations of the
-examination the “Important Advisory and Instructions to the candidates for JEE (Main) -
-2025” were included in the Admit Card.
-
-° In order to make the examination system transparent, the Question Paper and recorded
-
-responses along with the Answer Key were displayed on the website for verification by
-examinees. After verification by the Subject Experts, the Revised Answer Keys were
-published on the website.
-
-NTA thanks all the Central Government Agencies, State and District authorities, various examination
-functionaries and all the candidates for the support extended during the successful conduct of the
-prestigious JEE (Main) 2025 Session 1.
-
-F gf
-SA
-ctor (Exams)
-. N
-wrerh aa/Helpline Number: +91-11-40759000, e-mail: jeemain@nta.ac.in |
-Semen aaege / Website www.nta.ac.in, https://jeemain.nta.nic.in/ oY Eiraeaine
+PNGE-D-CVL — A 40
 

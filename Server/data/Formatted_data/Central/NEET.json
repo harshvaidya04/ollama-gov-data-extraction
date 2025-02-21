@@ -1,0 +1,55 @@
+[
+    {
+        "name": "NEET (UG) - 2025",
+        "date_of_notification": "2023-02-15T00:00:00.000Z",
+        "date_of_commencement": "2024-01-15T00:00:00.000Z",
+        "end_date": "2024-06-14T23:59:59.999Z",
+        "apply_link": "https://neet.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://nta.ac.in/",
+            "https://neet.nta.nic.in/"
+        ],
+        "details": {
+            "examination_date": "2025-05-04T14:00:00.000Z",
+            "duration_of_examination": "180 minutes (03 hours)",
+            "timing_of_examination": "02:00 PM to 05:00 PM (IST)",
+            "centre_of_neet_ug_2025_examination": "As indicated on the Admit Card"
+        }
+    },
+    {
+        "name": "NEET (UG)-2025",
+        "date_of_notification": "2025-01-25",
+        "date_of_commencement": "",
+        "end_date": "2025-03-31",
+        "apply_link": "https://neet.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2025/01/20250125100.pdf"
+        ],
+        "details": {
+            "examination-duration": "180 minutes",
+            "question-paper-pattern": "180 compulsory questions (45 in Physics and Chemistry, 90 in Biology)",
+            "provision-for-optional-questions": "no longer available due to COVID-19 pandemic"
+        }
+    },
+    {
+        "name": "National Eligibility-cum-Entrance Test (NEET UG) 2025",
+        "date_of_notification": "2025-01-17",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://neet.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2025/01/2025011718.pdf"
+        ],
+        "details": {
+            "Issued by": "National Testing Agency",
+            "Contact Information": {
+                "Phone Number": "+91-11-40759000",
+                "Email": "neetug2025@nta.ac.in"
+            },
+            "Website": "www.nta.ac.in"
+        }
+    }
+]

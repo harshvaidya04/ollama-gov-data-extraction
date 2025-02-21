@@ -192,6 +192,11 @@ def generateOutput(pdf_link, apply_link):
             - Verify the output matches all requirements before submitting
             - Double-check that all mandatory fields are populated according to rules
             - Ensure the JSON is properly escaped and valid for direct parsing
+            - The output MUST ONLY contain the specified keys in the json as top level.
+            - TOP LEVEL KEYS: "name", "date_of_notification", "date_of_commencement", "end_date", "apply_link", "event_type", "document_links" and "details" as per the above specified value type for each key.
+            - "event_type" must strictly contain a suitable value from ("Exam","Result", "AdmitCard")
+            - "details" key may contain a json object which may contain nested json object.
+            - "document_links" must be an array of strings.
             """
         
         # call_ollama_api(user_prompt)

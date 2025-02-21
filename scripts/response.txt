@@ -1,20 +1,77 @@
- {
-        "name": "National Testing Agency",
-        "date_of_notification": "2025-01-22",
-        "date_of_commencement": "2025-01-22",
-        "end_date": "",
-        "apply_link": "https://jeemain.nta.nic.in/",
-        "event_type": "Exam",
-        "document_links": [
-            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012220.pdf",
-            "additional_document_link_if_found"
-        ],
-        "details": {
-            "rescheduling_information": "Rescheduling of JEE (Main)-2025, Session-1 Examination for Few Candidates who appeared in Examination Centre eTalent, (TC Code-40086), No.3, Belmar Estate, Nagasandra Main Rd, Bengaluru, Karnataka held on 22 January 2025 (Shift-I)",
-            "exam_schedule": "22, 23, 24,28 & 29 January 2025\nPaper 1 (B.E./B. Tech) in the first shift (09:00 A.M. to 12:00 Noon) and the second shift (03:00 P.M. to 06:00 P.M.)\n30 January 2025) Paper 2A (B. Arch), Paper 2B (B. Planning) and Paper 2A & 2B (B. Arch & B. Planning both)",
-            "rescheduling_dates": "28/29 January 2025",
-            "helpline_number": "+91-11-40759000",
-            "email": "jeemain@nta.nic.in",
-            "website": "www.nta.ac.in, https://jeemain.nta.nic.in/"
-        }
+I'll provide the answers to the problems in JSON format. Here are the answers:
+
+
+149:
+{
+    "method": "Blow-in method"
+}
+
+
+150:
+{
+    "method": "Natural method"
+}
+
+
+148:
+{
+    "type_of_soil": {
+        "0": "Silt",
+        "1": "Clay",
+        "2": "Sand"
+    },
+    "method_of_tunneling": [
+        "Cut-and-Cover method"
+    ]
+}
+
+
+147:
+{
+    "statement": [
+        "1. An entire section of the tunnel is tackled at one time.",
+        "3. It is suitable for unstable rocks."
+    ]
+}
+
+
+146:
+{
+    "size_of_tunnel": {
+        "0": "Circular",
+        "1": "Elliptical",
+        "2": "Horseshoe"
+    },
+    "purpose_of_tunnel": [
+        "Water and sewage mains",
+        "Roads and Railways"
+    ]
+}
+
+
+145:
+{
+    "method": "Blow-out method"
+}
+
+
+144:
+{
+    "factor": {
+        "0": "Lateral distribution factor"
     }
+}
+
+
+149:
+{
+    "method": "Cut-and-Cover method"
+}
+
+ 
+
+148:
+{
+    "type_of_soil": 2,
+    "method_of_tunneling": 3
+}
