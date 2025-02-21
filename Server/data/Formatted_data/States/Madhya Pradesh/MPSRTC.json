@@ -1,19 +1,5 @@
 [
     {
-        "name": "afis erat (ay)",
-        "date_of_notification": "2015-02-21",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://transport.mp.gov.in/",
-        "event_type": "Exam",
-        "document_links": [
-            "https://transport.mp.gov.in/sites/default/files/documents/Yearly_Work_Plan.pdf"
-        ],
-        "details": {
-            "additional_info": "afis erat (ay) related information"
-        }
-    },
-    {
         "name": "Driving School",
         "date_of_notification": "2022-01-01",
         "date_of_commencement": "2022-01-15",

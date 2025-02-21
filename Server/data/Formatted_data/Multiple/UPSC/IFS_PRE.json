@@ -1,22 +1,5 @@
 [
     {
-        "name": "Exam",
-        "date_of_notification": "2023-03-01",
-        "date_of_commencement": "2023-04-01",
-        "end_date": "2023-06-30",
-        "apply_link": "https://example.com/apply",
-        "event_type": "Exam",
-        "document_links": [
-            "https://example.com/exam-document1.pdf",
-            "https://example.com/exam-document2.pdf"
-        ],
-        "details": {
-            "title": "National Eligibility Test for Graduate Admission",
-            "description": "A national-level test for graduate admission to medical and dental institutions.",
-            "eligibility": "MBBS, BDS, BSMS, BAMS, BHMS"
-        }
-    },
-    {
         "name": "Union Public Service Commission",
         "date_of_notification": "Ist July, 2024",
         "date_of_commencement": "10 Ashadha, Saka 1946",

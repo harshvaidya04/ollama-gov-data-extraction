@@ -7,12 +7,9 @@
         "apply_link": "http://uppbpb.gov.in/",
         "event_type": "Exam",
         "document_links": [
-            {
-                "url": "http://uppbpb.gov.in/"
-            },
-            {
-                "url": "https://www.upboard.net/"
-            }
+                "http://uppbpb.gov.in/",
+                "https://www.upboard.net/"
+            
         ],
         "details": [
             "The Uttar Pradesh Board of Secondary Education is responsible for conducting exams in the state of Uttar Pradesh.",
@@ -56,9 +53,7 @@
     },
     {
         "name": "List of Scheduled Examinations and Notifications",
-        "date_of_notification": [
-            "23/06/2022"
-        ],
+        "date_of_notification": "23/06/2022",
         "date_of_commencement": "",
         "end_date": "",
         "apply_link": "https://link.com/exam-apply",

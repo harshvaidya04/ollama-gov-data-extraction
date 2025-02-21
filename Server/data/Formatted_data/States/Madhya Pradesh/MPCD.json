@@ -20,35 +20,6 @@
         }
     },
     {
-        "name": "Invalid Output",
-        "date_of_notification": null,
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": null,
-        "event_type": null,
-        "document_links": null,
-        "details": null
-    },
-    {
-        "name": "COVID-19 Test Notification",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-03-01",
-        "end_date": "2023-04-15",
-        "apply_link": "https://example.com/apply",
-        "event_type": "Result",
-        "document_links": [
-            {
-                "link": "https://example.com/result.pdf",
-                "type": "PDF"
-            },
-            {
-                "link": "https://example.com/certificate.jpg",
-                "type": "Image"
-            }
-        ],
-        "details": "COVID-19 Test Result Notification"
-    },
-    {
         "name": "farg malo —16",
         "date_of_notification": "2024-12-01",
         "date_of_commencement": "",

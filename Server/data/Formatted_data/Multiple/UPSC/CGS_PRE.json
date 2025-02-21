@@ -1,31 +1,5 @@
 [
     {
-        "name": "Exam Notification",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-03-01",
-        "end_date": "2023-04-30",
-        "apply_link": "https://exam.apply.gov.in",
-        "event_type": "Exam",
-        "document_links": [
-            "https://exam.doc.gov.in",
-            "https://exam.pdf.gov.in"
-        ],
-        "details": {
-            "examination_name": "Engineering Entrance Exam",
-            "exam_centre": [
-                "Delhi",
-                "Mumbai",
-                "Chennai"
-            ],
-            "exam_duration": 3,
-            "exam_type": "Multiple Choice Questions",
-            "eligibility_criteria": [
-                "Age: 18-25 years",
-                "Qualification: 12th Class"
-            ]
-        }
-    },
-    {
         "name": "Combined Geo-Scientist (Preliminary) Examination, 2025",
         "date_of_notification": "2024-10-07",
         "date_of_commencement": "",
@@ -71,26 +45,6 @@
             },
             "pen_required": true,
             "watch_allowed": true
-        }
-    },
-    {
-        "name": "Sample Solution",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-03-01",
-        "end_date": "2023-04-30",
-        "apply_link": "https://example.com/apply",
-        "event_type": "Exam",
-        "document_links": [
-            "https://example.com/exam-doc1.pdf",
-            "https://example.com/exam-doc2.pdf"
-        ],
-        "details": {
-            "title": "Sample Exam Details",
-            "description": "This is a sample exam for demonstration purposes only.",
-            "categories": [
-                "sample",
-                "exam"
-            ]
         }
     }
 ]

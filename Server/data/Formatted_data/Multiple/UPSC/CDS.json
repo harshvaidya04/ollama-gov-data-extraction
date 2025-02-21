@@ -126,37 +126,5 @@
                 "Timing": "0224 September 2024 to O8t September 2024 (till 06:00 pm)"
             }
         }
-    },
-    {
-        "name": "RAKU-S-GKL Test Booklet Series",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-03-01",
-        "end_date": "2023-04-15",
-        "apply_link": "https://example.com/apply",
-        "event_type": "Exam",
-        "document_links": [
-            "https://example.com/document1.pdf",
-            "https://example.com/document2.pdf"
-        ],
-        "details": {
-            "title": "General Knowledge Test",
-            "description": "Test your knowledge in general topics."
-        }
-    },
-    {
-        "name": "Raju",
-        "date_of_notification": "2022-01-01",
-        "date_of_commencement": "2022-01-02",
-        "end_date": "2022-12-31",
-        "apply_link": "https://example.com/apply",
-        "event_type": "Exam",
-        "document_links": [
-            "link1.pdf",
-            "link2.docx"
-        ],
-        "details": {
-            "exam_name": "Mathematics",
-            "subject_code": "MATH-101"
-        }
     }
 ]
