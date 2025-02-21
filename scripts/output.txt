@@ -1,13 +1,18 @@
 {
-  "name": "Shravan Kumar",
-  "date_of_notification": "2022-02-15",
-  "date_of_commencement": "2022-01-25",
-  "end_date": "2022-03-20",
-  "apply_link": "https://example.com/apply",
-  "event_type": "Exam",
-  "document_links": [
-    "https://example.com/document1.pdf",
-    "https://example.com/document2.docx"
-  ],
-  "details": "This is a test document."
-}
+        "name": "Fraudulent Appointment Letters Notice",
+        "date_of_notification": "2024-10-08",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://portal-psc.ap.gov.in/Default",
+        "event_type": "Result",
+        "document_links": [
+            "https://psc.ap.gov.in/Documents/NotificationDocuments/fraudulentappointmentletterswebnote_08102024.pdf"
+        ],
+        "details": {
+            "verification_contact": "appschelpdesk@gqmail.com",
+            "phone_number": "0866-2527821",
+            "verification_url": "https://sc.ap.gov.in",
+            "local_police_complaint": "A complaint has lodged in the local police station.",
+            "legal_action": "Legal action will be taken against individuals found involved in creating or circulating these fraudulent appointment letters."
+        }
+    }

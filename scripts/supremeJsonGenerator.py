@@ -117,7 +117,7 @@ def generateSupremeJson(supremeData):
             
             failedLinks=[]
             
-            for link in links[:5]:
+            for link in links[5:10]:
                 output = generateOutput(link, applyLink)
                 if(output):
 

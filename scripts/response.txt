@@ -1,37 +1,18 @@
-I'll help you review the provided output format requirements for the e-Office system, specifically for using Digital Signature Certificate (DSC) in e-Office.
-
-**Output Requirements:**
-
-1. **JSON Object**: Return only a valid, properly formatted JSON object.
-2. **No Explanations**: Do not include explanations, notes, or markdown formatting.
-3. **Verification**: Verify the output matches all requirements before submitting.
-4. **Mandatory Fields**: Double-check that all mandatory fields are populated according to rules.
-5. **JSON Escaping**: Ensure the JSON is properly escaped and valid for direct parsing.
-6. **Top-Level Keys**: The output MUST ONLY contain the specified top-level keys in the JSON, with the following value types:
-	* `name`: string
-	* `date_of_notification`: date (YYYY-MM-DD format)
-	* `date_of_commencement`: date (YYYY-MM-DD format)
-	* `end_date`: date (YYYY-MM-DD format)
-	* `apply_link`: URL or string
-	* `event_type`: one of the following values: ("Exam", "Result", "AdmitCard")
-	* `document_links`: array of URLs or strings
-
-**Example Output:**
-
-```json
-{
-  "name": "Shravan Kumar",
-  "date_of_notification": "2022-02-15",
-  "date_of_commencement": "2022-01-25",
-  "end_date": "2022-03-20",
-  "apply_link": "https://example.com/apply",
-  "event_type": "Exam",
-  "document_links": [
-    "https://example.com/document1.pdf",
-    "https://example.com/document2.docx"
-  ],
-  "details": "This is a test document."
-}
-```
-
-**Note:** Make sure to check the output for all mandatory fields, proper formatting, and JSON escaping before submitting it. Verify that the top-level keys are present in the correct format, and the `event_type` value is one of the specified options.
+ {
+        "name": "Fraudulent Appointment Letters Notice",
+        "date_of_notification": "2024-10-08",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://portal-psc.ap.gov.in/Default",
+        "event_type": "Result",
+        "document_links": [
+            "https://psc.ap.gov.in/Documents/NotificationDocuments/fraudulentappointmentletterswebnote_08102024.pdf"
+        ],
+        "details": {
+            "verification_contact": "appschelpdesk@gqmail.com",
+            "phone_number": "0866-2527821",
+            "verification_url": "https://sc.ap.gov.in",
+            "local_police_complaint": "A complaint has lodged in the local police station.",
+            "legal_action": "Legal action will be taken against individuals found involved in creating or circulating these fraudulent appointment letters."
+        }
+    }
