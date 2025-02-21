@@ -117,37 +117,82 @@ def generateOutput(pdf_link, apply_link):
         
         empty_object = {}
         
-        user_prompt = f"""
-            You are an AI tasked with extracting structured information from unstructured text. Given a raw text extracted from a PDF, you must generate a JSON object that strictly follows a predefined reference structure.all the keys in that reference structure must be there.  
+        # user_prompt = f"""
+        #     You are an AI tasked with extracting structured information from unstructured text. Given a raw text extracted from a PDF, you must generate a JSON object that strictly follows a predefined reference structure.all the keys in that reference structure must be there.  
             
+        #     Reference JSON structure:
+        #     {basic_structure}
+            
+        #     Instructions:
+        #     Extract relevant information from the provided raw text.
+        #     Fill in all predefined keys with values obtained from the raw text.
+        #     If certain information is missing from the raw text, leave it as an empty string (""), empty list ([]), empty object ({empty_object}), or null as appropriate,.
+        #     The "details" key is optional and should contain any additional structured information that is relevant but does not fit into other predefined keys.
+            
+        #     Raw Text:
+        #     {raw_text}
+            
+        #     Add {pdf_link} in document_links and {apply_link} in apply_link.
+        #     apply_link must contain a single string.
+        #     Event Type should be either "Exam", "Result" or "AdmitCard" only.
+        #     document_links is an array of simple strings and not json objects.
+        #     Name key should not be empty. Extract a valid name from rawtext.
+        #     Date_of_notification, date_of_commencement and end_date should not be null or empty until no date is specified. 
+        #     Make sure that date is correct. 
+        #     Don't provide wrong information and date.
+        #     Only relevant information extracted from raw text should be considered while creating the json. 
+        #     If couldn't find a correct date, leave it empty. 
+        #     If date_of_notification is not present, set it to {date.today()}
+        #     Only consider those events which are currently active or upcoming as per the date {date.today()}.
+            
+        #     Generate a well-formed JSON object based on the above guidelines. The keys: name, date_of_notification, date_of_commencement, end_date, apply_link, event_type and document_links are mandatory. Any other data should be described under details key only. Don't create separate key for that data at top level. Ensure correct formatting and structure.
+        # """
+        
+        user_prompt = f"""
+            You are an expert data extraction AI specialized in parsing PDF documents into structured JSON. Your task is to extract precise information from raw text while strictly adhering to the required output format.
+
             Reference JSON structure:
             {basic_structure}
-            
-            Instructions:
-            Extract relevant information from the provided raw text.
-            Fill in all predefined keys with values obtained from the raw text.
-            If certain information is missing from the raw text, leave it as an empty string (""), empty list ([]), empty object ({empty_object}), or null as appropriate,.
-            The "details" key is optional and should contain any additional structured information that is relevant but does not fit into other predefined keys.
-            
-            Raw Text:
+
+            STRICT EXTRACTION RULES:
+            1. MANDATORY FIELDS - These fields MUST be populated with accurate data or default values:
+            - name: Extract the Title or Subject from the raw text. If unclear, use the organization/institution name.
+            - date_of_notification: Use the exact publication/notification date in YYYY-MM-DD format. If absent, use {date.today()}.
+            - date_of_commencement: Extract the start date in YYYY-MM-DD format. If absent, use empty string.
+            - end_date: Extract the deadline/closing date in YYYY-MM-DD format. If absent, use empty string.
+            - apply_link: Always use exactly {apply_link} - no modifications.
+            - event_type: Classify ONLY as "Exam", "Result", or "AdmitCard" based on document content.
+            - document_links: Always include {pdf_link} as the first element. Add any additional document links found.
+
+            2. DATE VALIDATION:
+            - All dates must be in YYYY-MM-DD format
+            - Verify logical date progression (notification ≤ commencement ≤ end_date)
+            - Only include events that are active or upcoming as of {date.today()}
+            - If a date appears invalid or inconsistent, leave as empty string rather than guessing
+
+            3. CONTENT GUIDELINES:
+            - document_links must be an array of simple strings, not objects
+            - Do not create additional top-level keys beyond those in the reference structure
+            - Place any supplementary information in the "details" object
+            - Empty values should be "" (strings), [] (arrays), or (objects) as appropriate
+            - Never return null values except where explicitly permitted in the reference structure
+
+            4. MANDATORY OUTPUT JSON FORMAT:
+            - Structure must be same as reference json structure.
+            - Keys: "name", "date_of_notification", "date_of_commencement", "end_date", "apply_link", "event_type" and "document_links" must be present with specified conditions.
+            - Additional information must be in json object nested under the "details" key.
+
+
+            Raw Text to Process:
             {raw_text}
-            
-            Add {pdf_link} in document_links and {apply_link} in apply_link.
-            apply_link must contain a single string.
-            Event Type should be either "Exam", "Result" or "AdmitCard" only.
-            document_links is an array of simple strings and not json objects.
-            Name key should not be empty. Extract a valid name from rawtext.
-            Date_of_notification, date_of_commencement and end_date should not be null or empty until no date is specified. 
-            Make sure that date is correct. 
-            Don't provide wrong information and date.
-            Only relevant information extracted from raw text should be considered while creating the json. 
-            If couldn't find a correct date, leave it empty. 
-            If date_of_notification is not present, set it to {date.today()}
-            Only consider those events which are currently active or upcoming as per the date {date.today()}.
-            
-            Generate a well-formed JSON object based on the above guidelines. The keys: name, date_of_notification, date_of_commencement, end_date, apply_link, event_type and document_links are mandatory. Any other data should be described under details key only. Don't create separate key for that data at top level. Ensure correct formatting and structure.
-        """
-        
+
+            OUTPUT REQUIREMENTS:
+            - Return ONLY a valid, properly formatted JSON object
+            - Do not include explanations, notes, or markdown formatting
+            - Verify the output matches all requirements before submitting
+            - Double-check that all mandatory fields are populated according to rules
+            - Ensure the JSON is properly escaped and valid for direct parsing
+            """
         
         # call_ollama_api(user_prompt)
         return call_ollama_api(user_prompt)
