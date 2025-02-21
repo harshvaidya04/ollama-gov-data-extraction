@@ -120,27 +120,5 @@
             "languages": "{Agriculture / Animal Husbandry & Veterinary Science / Anthropology / Botany / Chemistry / Civil Engineering / Commerce & Accountancy / Economics / Electrical Engineering / Geography / Geology / History / Law / Management / Mathematics / Mechanical Engineering / Medical Science / Philosophy / Physics / Political Science & International Relations / Psychology / Public Administration / Sociology / Statistics / Zoology / Literature of any one of the following languages: Assamese / Bengali / Bodo / Dogri / Gujarati / Hindi / Kannada / Kashmiri / Konkani / Maithilli / Malayalam / Manipuri / Marathi / Nepali / Odia / Punjabi / Sanskrit / Santhali / Sindhi / Tamil / Telugu / Urdu / English}",
             "paper": "{Paper-l No Paper, Paper-lll, Paper-IV, Paper-V, Paper-A, Paper-B, Paper-VI, Paper-VIl}"
         }
-    },
-    {
-        "name": "",
-        "date_of_notification": "",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "",
-        "event_type": "Exam",
-        "document_links": [
-            ""
-        ],
-        "details": {
-            "exam_name": "",
-            "exam_description": "",
-            "examination_date": "",
-            "examination_time": "",
-            "examination_center": "",
-            "exam_type": "",
-            "exam_fees": "",
-            "exam_duration": "",
-            "exam_schedule": ""
-        }
     }
 ]

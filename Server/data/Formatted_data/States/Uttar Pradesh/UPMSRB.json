@@ -67,9 +67,6 @@
         "apply_link": "",
         "event_type": "AdmitCard",
         "document_links": [
-            {
-                "url": ""
-            }
         ],
         "details": {
             "title": "National Health Mission Details"

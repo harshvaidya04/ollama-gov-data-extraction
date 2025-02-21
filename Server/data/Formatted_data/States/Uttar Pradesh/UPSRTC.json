@@ -1,23 +1,5 @@
 [
     {
-        "name": "Vishwabhuja Pandey Saini",
-        "date_of_notification": "2025-02-21",
-        "date_of_commencement": "",
-        "end_date": "2025-03-08",
-        "apply_link": "https://upsrtc.up.gov.in/",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsrtc.up.gov.in/site/writereaddata/UploadNews/pdf/C_202502191701264288.pdf"
-        ],
-        "details": {
-            "Notification Date": "2025-02-21",
-            "Start Date": "19 February 2025",
-            "End Date": "8 March 2025",
-            "Application Link": "https://upsrtc.up.gov.in/",
-            "Exam Type": "Bachelor of Engineering in Computer Science and Engineering"
-        }
-    },
-    {
         "name": "UPSRTC Exam",
         "date_of_notification": "2025-02-21",
         "date_of_commencement": "2025-02-17",
@@ -32,44 +14,5 @@
             "url": "https://upsrtc.up.gov.in/",
             "description": "Exam for UPSRTC"
         }
-    },
-    {
-        "name": "AZAMGARH-RANDOM-3",
-        "date_of_notification": null,
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": null,
-        "event_type": null,
-        "document_links": [
-            {
-                "type": "OBC MERIT LIST",
-                "name": "Other Documents",
-                "passport": null,
-                "cert_size": null,
-                "photo": null
-            }
-        ],
-        "details": []
-    },
-    {
-        "name": "PRAVIN KUMAR / AMIT SOLANKI",
-        "date_of_notification": "10/1/1999 500 | Sh i 4",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": null,
-        "event_type": "Exam",
-        "document_links": [
-            {
-                "name": "CE Scanned with OKEN Scanner"
-            }
-        ],
-        "details": [
-            "1631321 peat",
-            "163131339972",
-            "PRASHANT KUMAR /|163132695120",
-            "163132550630",
-            "RISHABH KUMAR | /163132556951",
-            "amar singh"
-        ]
     }
 ]

@@ -73,41 +73,5 @@
             "important_instructions": "Candidates are advised to read carefully the 'Important Instructions' appended with the e-Admit Card.",
             "candidate_requirements": "Candidates are required to carry along their e-Admit Card, Photo ID card, and other specified items at the allotted venue."
         }
-    },
-    {
-        "name": "Nuclear Reactor Physics Exam",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-03-01",
-        "end_date": "2023-04-15",
-        "apply_link": "https://www.example.com/apply-now",
-        "event_type": "Exam",
-        "document_links": [
-            "https://example.com/syllabus.pdf",
-            "https://example.com/faculty-list.pdf"
-        ],
-        "details": {
-            "exam_description": "This exam covers the principles of nuclear reactor physics.",
-            "examtopics": [
-                "Nuclear Reactor Design",
-                "Thermohydraulics",
-                "Reactor Safety Analysis"
-            ]
-        }
-    },
-    {
-        "name": "Irrigation Engineering Examination",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-03-01",
-        "end_date": "2023-03-31",
-        "apply_link": "https://exam.link",
-        "event_type": "Exam",
-        "document_links": [
-            "https://doc1.link",
-            "https://doc2.link"
-        ],
-        "details": {
-            "subject": "Irrigation Engineering",
-            "description": "Examination for Irrigation Engineering"
-        }
     }
 ]

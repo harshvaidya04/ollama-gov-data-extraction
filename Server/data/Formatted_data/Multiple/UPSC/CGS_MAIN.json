@@ -1,63 +1,5 @@
 [
     {
-        "name": "Groundwater Exploration and Management",
-        "date_of_notification": "2023-03-15",
-        "date_of_commencement": "2023-02-20",
-        "end_date": "2023-03-31",
-        "apply_link": "https://example.com/exam-link",
-        "event_type": "Exam",
-        "document_links": [
-            "SGSE-O-HDG/65.pdf",
-            "SGSE-O-HDG/65-2.pdf",
-            "SGSE-O-HDG/65-3.pdf",
-            "SGSE-O-HDG/65-4.pdf"
-        ],
-        "details": {
-            "exam_questions": [
-                "What is the difference between natural and artificial recharge?",
-                "How does freshwater occur in coastal regions?",
-                "Explain how sodium is important in irrigation water classification?"
-            ],
-            "answers": [
-                "Natural recharge occurs when precipitation infiltrates into the soil, while artificial recharge involves the injection of treated wastewater or other water sources into the aquifer.",
-                "Freshwater can occur in coastal regions through a combination of precipitation, evaporation, and infiltration from estuaries and rivers.",
-                "Sodium is important in irrigation water classification as it affects crop growth, soil health, and water quality."
-            ],
-            "additional_info": {
-                "water_table_depth": 20,
-                "specific_yield": 0.01
-            }
-        }
-    },
-    {
-        "name": "Geological Examination",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-03-01",
-        "end_date": "2023-04-30",
-        "apply_link": "https://example.com/geology-examination-application",
-        "event_type": "Exam",
-        "document_links": [
-            "https://example.com/geology-examination-guide.pdf",
-            "https://example.com/geology-examination-questions.docx"
-        ],
-        "details": {
-            "question1": {
-                "type": "multiple-choice",
-                "options": [
-                    "A",
-                    "B",
-                    "C",
-                    "D"
-                ],
-                "answer": "A"
-            },
-            "question2": {
-                "type": "short-answer",
-                "prompt": "Describe the process of plate tectonics."
-            }
-        }
-    },
-    {
         "name": "Geological Examination and Research",
         "date_of_notification": "2022-01-01",
         "date_of_commencement": "2022-06-01",
@@ -113,32 +55,5 @@
                 "exam_time": "10:00 AM"
             }
         }
-    },
-    {
-        "name": "Geological Exploration Examination",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-03-01",
-        "end_date": "2023-04-15",
-        "apply_link": "https://example.com/exam-link",
-        "event_type": "Exam",
-        "document_links": [
-            "https://example.com/document1.pdf",
-            "https://example.com/document2.pdf"
-        ],
-        "details": {
-            "question1": "What is geological exploration?",
-            "answer1": "The process of identifying and extracting natural resources from the Earth's crust."
-        },
-        "question2": "What are the different stages of mineral exploration?"
-    },
-    {
-        "name": "",
-        "date_of_notification": "",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "",
-        "event_type": "",
-        "document_links": [],
-        "details": {}
     }
 ]
