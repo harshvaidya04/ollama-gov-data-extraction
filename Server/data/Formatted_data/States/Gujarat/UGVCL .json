@@ -1,0 +1,125 @@
+[
+    {
+        "name": "Exam Code - U1ALO",
+        "date_of_notification": "2024-02-21",
+        "date_of_commencement": "",
+        "end_date": "2024-02-24",
+        "apply_link": "https://www.ugvcl.com/recadvt",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ugvcl.com/public/uploads/5/ INSTRUCTIONS TO CANDIDATES - ASSISTANT LAW OFFICER.pdf"
+        ],
+        "details": {
+            "test_description": "Multiple Choice Questions (MCQ). Each question carries 01 mark and there shall be no negative marking.",
+            "instructions": "All questions shall be answered on OMR sheet only. Candidates are advised not to fold, wrinkle, or tear the OMR sheet under any circumstances."
+        }
+    },
+    {
+        "name": "Gujarat Urja Vikas Nigam Limited",
+        "date_of_notification": "2022-01-01",
+        "date_of_commencement": "2022-04-01",
+        "end_date": "2023-03-31",
+        "apply_link": "https://www.guvnl.com/employment-opportunities",
+        "event_type": "Appointment of Liaison Officers in GUVNL & subsidiary companies as per the Rights of Persons with Disabilities Act - 2016",
+        "document_links": [
+            "https://www.guvnl.com/policy-documents"
+        ],
+        "details": "Gujarat Urja Vikas Nigam Limited, Vadodara, has appointed Liaison Officers for the rights of persons with disabilities as per the Rights of Persons with Disabilities Act - 2016."
+    },
+    {
+        "name": "Assistant Law Officer",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.ugvcl.com/recadvt",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ugvcl.com/public/uploads/1711782524.pdf"
+        ],
+        "details": {
+            "Regd. & Corporate Office": "Visnagar Road, MEHSANA - 384 001 (North Gujarat)",
+            "Telephone": "(02762) 222080-81",
+            "Fax": "(02762) 223574",
+            "Website": "www.ugvcl.com",
+            "e-mail": "corporate@ugvcl.com"
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "24/07/2023",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://example.com/application",
+        "event_type": "Exam",
+        "document_links": [
+            {
+                "link": "https://example.com/certificates",
+                "file_name": "Certificates.pdf"
+            },
+            {
+                "link": "https://example.com/degree_cert",
+                "file_name": "Degree_Certificate.pdf"
+            }
+        ],
+        "details": {
+            "application_form": [
+                {
+                    "document_type": "Basic Degree",
+                    "duration": "10 years",
+                    "university": "Gujarat University",
+                    "passing_year": "2015"
+                },
+                {
+                    "document_type": "CA / ICWA",
+                    "duration": "6 months",
+                    "institution": "Institute of Chartered Accountants of India",
+                    "passing_year": "2020"
+                }
+            ],
+            "experience": [
+                {
+                    "organization_name": "Gujarat State Electricity Corporation Ltd.",
+                    "designation": "Junior Engineer",
+                    "gross_pay": "50000",
+                    "employment_date": "01/01/2015",
+                    "leaving_date": null
+                },
+                {
+                    "organization_name": "Private Company XYZ",
+                    "designation": "Accountant",
+                    "gross_pay": "60000",
+                    "employment_date": "01/06/2020",
+                    "leaving_date": null
+                }
+            ],
+            "other_details": [
+                {
+                    "document_type": "Caste Certificate",
+                    "institution": "Gujarat State Government",
+                    "file_name": "Caste_Certificate.pdf"
+                },
+                {
+                    "document_type": "No Objection Certificate",
+                    "institution": "Present Employer",
+                    "file_name": "NOC_Present_Employer.pdf"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UGVCL Exam Admit Card",
+        "date_of_notification": "2003-04-06",
+        "date_of_commencement": "2025-02-21",
+        "end_date": "",
+        "apply_link": "https://www.ugvcl.com/recadvt",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ugvcl.com/public/uploads/1711790484.pdf"
+        ],
+        "details": {
+            "Objectives": "The UG Vellore Engineering College Ltd, Chennai (UrvCL) is conducting the 5th UG Annual Convocation and 20th convocation of PG Admissions.",
+            "Duration": "2 days",
+            "Address": "Tirusulam, Vandalur, Chennaipet, Tamil Nadu - 600067"
+        }
+    }
+]

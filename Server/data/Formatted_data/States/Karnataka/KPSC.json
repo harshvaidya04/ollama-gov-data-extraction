@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Fiscal Policy Institute Refresher Course",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-30",
+        "apply_link": "https://fiscalpolicy.institute/refresher-course-application/",
+        "event_type": "Refresher Course",
+        "document_links": [
+            "https://fiscalpolicy.institute/course-materials.pdf",
+            "https://fiscalpolicy.institute/rules-regulations.pdf"
+        ],
+        "details": {
+            "Module1": {
+                "Module Title": "Public Finance and Financial Management",
+                "Duration": "One week"
+            },
+            "Module2": {
+                "Module Title": "Financial management of Public Sector Undertakings (PSUs)",
+                "Duration": "One week"
+            },
+            "Module3": {
+                "Module Title": "Project Financing",
+                "Duration": "One week"
+            }
+        }
+    },
+    {
+        "name": "Karnataka Civil Services (Recruitment to the posts of Stenographers and Typists) Rules. 1987",
+        "date_of_notification": "6/4/1987",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.kar.nic.in/",
+        "event_type": "Exam",
+        "document_links": [],
+        "details": {
+            "description": "Recruitment rules for Stenographers and Typists in Karnataka State",
+            "rules": [
+                {
+                    "name": "Senior Shorthand Examination",
+                    "qualification": [
+                        "Senior Shorthand Examination in English or Kannada",
+                        "Diploma in Secretarial Practice with English or Kannada as optional subject"
+                    ]
+                },
+                {
+                    "name": "Junior Typewriting Examination",
+                    "qualification": [
+                        "Junior Typewriting Examination in Kannada"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Karnataka Public Service Commission",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-30",
+        "apply_link": "https://kpsc.kar.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://kpsc.kar.nic.in/KPSC%20Exam%20Pattern.pdf"
+        ],
+        "details": {
+            "Method of recruitment": "Written Main Examination and Interview",
+            "Minimum qualification": "28 years, B.Sc Forestry or Science graduate"
+        }
+    },
+    {
+        "name": "ACCOUNTS BRANCH-I",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.kpsc.kar.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.kpsc.kar.nic.in/pdf/accounts branch.pdf"
+        ],
+        "details": {
+            "org_function": "The Particulars of its organization, functions and duties:",
+            "职责内容": "Matters relating to salary and supplementary bills of Hon’ ble Chairman and Members, Gazetted Officers/Officials/ Head of the legal Cell.",
+            "other_details": "Please refer to the original document for detailed information."
+        }
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Andhra Pradesh Public Service Commission: Hyderabad",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "Exam",
+        "document_links": [
+            {
+                "title": "Group-I Services (Notfn No.15/2011 & 18/2011) - Curative Petition filed before the Hon’ble Supreme Court.",
+                "url": "https://www.appsc.gov.in/group-i-services-curative-petition-filed-before-honble-supreme-court"
+            },
+            {
+                "title": "Group-II Services (Notfn. No.10/99) _",
+                "url": "https://www.appsc.gov.in/group-ii-services-notfn-no-10-99"
+            }
+        ],
+        "details": [
+            "The Commission noted the decisions.",
+            "Scrutiny committee may be formed with the following Officers:– 1. Deputy Secretary (Confidential) 2. Deputy Secretary (Exams) 3. Assistant Secretary (Legal).",
+            "Action also be taken to notify in the A.P.Gazettee.",
+            "The Commission desires to computerize all the activities of the Commission and recruitments and departmental tests by obtaining detailed proposal from APOnline."
+        ]
+    },
+    {
+        "name": "AdmitCard",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-15",
+        "apply_link": "https://www.example.com/apply",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://www.example.com/admitcard.pdf",
+            "https://www.example.com/document-link2.pdf"
+        ],
+        "details": "This is a sample admit card for exam purposes only."
+    },
+    {
+        "name": "Huan Vea da",
+        "date_of_notification": "2024-07-23",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://example.com/applying",
+        "event_type": "Exam",
+        "document_links": [
+            {
+                "key": "Hall Ticket Number",
+                "value": "123456789"
+            },
+            {
+                "key": "Education Qualifications",
+                "value": "SADAREM Certificate Number: 122468"
+            }
+        ],
+        "details": {
+            "Address Details": {
+                "PresentiCorrespondence Address Details": {
+                    "FlatHouse No.": "2",
+                    "Street/Village": "fest fat",
+                    "TownDistrict": "Kadapa",
+                    "Pin Code": "518001"
+                },
+                "Permanent Address Details": {
+                    "FlatHouse No.": "2",
+                    "Street/Village": "fest fat",
+                    "TownDistrict": "Kadapa",
+                    "State": "",
+                    "Pin Code": "2018001"
+                }
+            },
+            "Education Qualifications": {
+                "Type of Study": "Regular Study",
+                "School Name": "Kurnool test school",
+                "Year Of Passing": [
+                    "4th Class Kurnaol test acreol 2008",
+                    "6th Class Kureol test scrcol 2007"
+                ],
+                "X Standard Details": {
+                    "District": "Kumool",
+                    "School Name": "Kurnool test school",
+                    "Board": "",
+                    "Date of Pass": "March.2011 Percentage of Marks/Grade: 7B",
+                    "College Name": [
+                        {
+                            "Hall Ticket Number": "123456789",
+                            "Date of Pass": "September-1978"
+                        },
+                        {
+                            "Hall Ticket Number": "$555555",
+                            "Date of Pass": "April.975"
+                        }
+                    ]
+                },
+                "Post Graduation": {
+                    "University": "Srikakulam University",
+                    "College Name 1 testelg Specialization": "ece",
+                    "Date of Acquiring": "Aprilt966 Hall Ticket Number: 33933"
+                }
+            }
+        }
+    },
+    {
+        "name": "Departmental OTPR Reprint",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://psc.ap.gov.in/Departmental-OTPR-Reprint",
+        "event_type": "Exam",
+        "document_links": [],
+        "details": {
+            "title": "Departmental OTPR Reprint",
+            "description": "Reprint of Departmental OTPR"
+        }
+    },
+    {
+        "name": "VIJAYAWADA",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://portal-psc.ap.gov.in/Default",
+        "event_type": "Exam",
+        "document_links": [
+            "https://psc.ap.gov.in/Documents/PresentCommission/Secretaryandotherhigherofficial_07012025.pdf"
+        ],
+        "details": {
+            "S.No": 1,
+            "NAME OF THE OFFICER": "Sri. I. NARASIMHA MURTHY",
+            "DESIGNATION": "SECRETARY(FAC)"
+        }
+    }
+]

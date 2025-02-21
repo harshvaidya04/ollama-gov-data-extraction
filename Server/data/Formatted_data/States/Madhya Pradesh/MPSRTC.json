@@ -1,0 +1,67 @@
+[
+    {
+        "name": "afis erat (ay)",
+        "date_of_notification": "2015-02-21",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://transport.mp.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://transport.mp.gov.in/sites/default/files/documents/Yearly_Work_Plan.pdf"
+        ],
+        "details": {
+            "additional_info": "afis erat (ay) related information"
+        }
+    },
+    {
+        "name": "Driving School",
+        "date_of_notification": "2022-01-01",
+        "date_of_commencement": "2022-01-15",
+        "end_date": "2022-12-31",
+        "apply_link": "https://driveingschool.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://driveingschool.com/documents/1.pdf",
+            "https://driveingschool.com/documents/2.pdf"
+        ],
+        "details": {
+            "About": "Driving School Instructors teach students motor vehicle operation, road rules and safe driving practices.",
+            "Instructor/Trainner": {
+                "Education Level": "High school diploma or its GED equivalent",
+                "Licensure": "Valid state driver's license and state driving instructor license required",
+                "Experience": "2-5 years of driving experience may be necessary for instructor licensure"
+            },
+            "Scope of Work": "Vehicle Driving, Training vehicles, Smart Classes, Service Training Center",
+            "Infrastructure Requirement": {
+                "Vehicle Required": [
+                    "LMV (CAR)",
+                    "LGV (Light goods vehicle)",
+                    "MGV (Medium goods vehicle)",
+                    "HGV (Heavy goods vehicle) BUS AND TRUCK"
+                ],
+                "Driving Training Simulator": "CV-DTS Delivers a fully customizable training experience with reconfigurable cabs & incorporating actual vehicle controls, gauges, switches, etc.",
+                "Training vehicles": [
+                    "Driving Training School"
+                ]
+            },
+            "Training Capacity": "800-1000 Trainee per month",
+            "Dorms and Dining for Drivers": "Driving Training School"
+        }
+    },
+    {
+        "name": "BIA",
+        "date_of_notification": "2025-02-21",
+        "date_of_commencement": "",
+        "end_date": "2026-01-31",
+        "apply_link": "https://transport.mp.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://transport.mp.gov.in/sites/default/files/documents/Work_Plan_For_10_Year.pdf"
+        ],
+        "details": {
+            "Eligibility Criteria": "Eligible candidates should have a valid driving license and possess a minimum of two years of experience in the driving field.",
+            "Exam Format": "The exam will be conducted in multiple cities across India, with a duration of 2 hours. The exam format will include both theoretical and practical questions.",
+            "Examination Venue": "Examinations will be held at designated centers across the country."
+        }
+    }
+]

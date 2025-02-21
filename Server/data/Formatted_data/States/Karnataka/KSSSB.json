@@ -1,0 +1,128 @@
+[
+    {
+        "name": "",
+        "date_of_notification": "14.02.2025",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": null,
+        "event_type": "Result",
+        "document_links": [],
+        "details": []
+    },
+    {
+        "name": "SSC(KKR) Notification",
+        "date_of_notification": "13/02/2025",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://ssc.nic.in/",
+        "event_type": "Notification",
+        "document_links": [
+            "https://ssc.nic.in/kkr/notice- notification.pdf"
+        ],
+        "details": "Tentative list of provisionally eligible candidates for SSC KKR Examination 2024."
+    },
+    {
+        "name": "TENTATIVE LIST OF PROVISIONALLY ELIGIBLE CANDIDATES",
+        "date_of_notification": "13/02/2025",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "Result",
+        "document_links": [],
+        "details": [
+            {
+                "S_": "1",
+                "name": "Samir Kumar Kar",
+                "Cat": "UR",
+                "Status": "Eligible"
+            },
+            {
+                "S_": "2",
+                "name": "Pratiksha Kandulna",
+                "Cat": "ST",
+                "Status": "Eligible"
+            },
+            {
+                "S_": "3",
+                "name": "Supriya Dwivedi",
+                "Cat": "EWS",
+                "Status": "Eligible"
+            },
+            {
+                "S_": "4",
+                "name": "Raj Kumar Kamal",
+                "Cat": "OBC",
+                "Status": "Eligible"
+            }
+        ]
+    },
+    {
+        "name": "Selections",
+        "date_of_notification": "2023-05-14T14:30:00.000Z",
+        "date_of_commencement": "2023-03-21T19:30:00.000Z",
+        "end_date": "Not Specified",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Result",
+        "document_links": [
+            "https://example.com/result.pdf",
+            "https://example.com/selections.pdf"
+        ],
+        "details": {
+            "Category": "Selection Results",
+            "Status": "Not Specified"
+        }
+    },
+    {
+        "name": "Library and Information Assistant in NMNH",
+        "date_of_notification": "13/02/2025",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://ssckkr.ssc.gov.in/adselpost-ad-12345.pdf",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://ssckkr.ssc.gov.in/adselpost-ad-12345.pdf"
+        ],
+        "details": {
+            "Tentative List of Provisionally Eligible Candidates": [
+                {
+                    "Roll No": "2423013158",
+                    "Name": "Amit Kumar",
+                    "cat": "SC",
+                    "Status of Eligibility": "Eligible as per RRs"
+                },
+                {
+                    "Roll No": "5423034387",
+                    "Name": "Amit Kumar Joshia",
+                    "cat": "sc",
+                    "Status of Eligibility": "Eligible as per RRs"
+                },
+                {
+                    "Roll No": "5423036869",
+                    "Name": "Gaurav Kumar",
+                    "cat": "sc",
+                    "Status of Eligibility": "Eligible as per RRs"
+                },
+                {
+                    "Roll No": "5423039285",
+                    "Name": "Bijendra Pal Singh",
+                    "cat": "sc",
+                    "Status of Eligibility": "Eligible as per RRs"
+                }
+            ],
+            "Tentative List of Ineligible Candidates": [
+                {
+                    "Roll No": "1423075089",
+                    "Name": "Aman Kumar Mahto",
+                    "cat": "sc",
+                    "Reason for Ineligibility": "No experience & Marksheet of B.lib & nf Sc obtained after 18.03.2024"
+                },
+                {
+                    "Roll No": "5423000938",
+                    "Name": "Ajeet Singh Rathour",
+                    "cat": "sc",
+                    "Reason for Ineligibility": "Requisite documents not uploaded in web portal"
+                }
+            ]
+        }
+    }
+]

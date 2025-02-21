@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Chairman, Punjab School Education Board",
+        "date_of_notification": "2024-09-27",
+        "date_of_commencement": "",
+        "end_date": "2027-02-22",
+        "apply_link": "https://www.pseb.ac.in/vacancies",
+        "event_type": "Exam",
+        "document_links": [
+            "https://psebfiles.s3.ap-south-1.amazonaws.com/uploads/1726030405_chairmanAppointment.pdf"
+        ],
+        "details": {
+            "Application Form": [
+                "Post Applied For",
+                "Name of Applicant",
+                "Father's/Husband Name",
+                "Date of Birth",
+                "Nationality",
+                "Gender",
+                "Marital Status",
+                "Category",
+                "Postal Address",
+                "Email Id and Mobile No",
+                "Permanent Address",
+                "Academic Qualification",
+                "Position Held",
+                "Experience",
+                "Training/Project Details/ Research/Publish work etc.",
+                "Co-curricular and extra Co-curricular / other achievement activities, if any"
+            ],
+            "Declaration": [
+                "do hereby declare that all statements made in this application are true, complete and correct to the best of my knowledge and belief."
+            ]
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": ""
+    },
+    {
+        "name": "Preliminary Examination",
+        "date_of_notification": "02/06/2023",
+        "date_of_commencement": "28/03/2023",
+        "end_date": "10/06/2023",
+        "apply_link": "",
+        "event_type": "Exam",
+        "document_links": [
+            {
+                "url": "https://example.com/audio-clip-1.mp3"
+            },
+            {
+                "url": "https://example.com/audio-clip-2.mp3"
+            }
+        ],
+        "details": {
+            "Listening Test": {
+                "audio_clip_1": true,
+                "audio_clip_2": false,
+                "listening_practice_sheet": true
+            },
+            "Speaking Test": {
+                "picture": true,
+                "sentence_structure": true,
+                "pronunciation": false,
+                "expression": false
+            },
+            "Pre-Board/eaH udthmr": [
+                {
+                    "title": "Book Bank",
+                    "content": ""
+                }
+            ],
+            "Heads fret fed wcte ots fafonret": [
+                {
+                    "title": "Notebook/Assignments/Participation in Tests",
+                    "content": ""
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ruakdas € an Ht Ras fA Uimrsdt a at 3 aa Sa Utimrset Uttor e for 3st 5S 2 ute",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": null,
+        "event_type": "AdmitCard",
+        "document_links": [],
+        "details": ""
+    }
+]

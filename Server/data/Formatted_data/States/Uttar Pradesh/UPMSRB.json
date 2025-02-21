@@ -1,0 +1,99 @@
+[
+    {
+        "name": "COVID-2019",
+        "date_of_notification": "2023-03-01",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-30",
+        "apply_link": "https://www.up.gov.in/index.php?lang=eng",
+        "event_type": "STANDARD TREATMENT PROTOCOL FOR ASYMPTOMATIC / MILD SYMPTOMATIC COVID CASES",
+        "document_links": [
+            "https://www.up.gov.in/standard-treatment-protocol-covid-19",
+            "https://covid19.gov.in/covid-19-standard-treatment-guidelines"
+        ],
+        "details": {
+            "protocol": [
+                {
+                    "medication": "Tab Paracetamol 650 Mg Three times Daily (Patients with body weight more than 50 Kg, if Temperature is More than 100°F , Not required if no Fever)",
+                    "dosage": "500 mg",
+                    "duration": "5 days"
+                },
+                {
+                    "medication": "Tab Ivermectin 200 Micrograms/ Kg/ Day (One 12 Mg Tablet for adults) once daily after dinner X for 5 days",
+                    "dosage": "12 mg",
+                    "duration": "5 days"
+                },
+                {
+                    "medication": "Cap Doxycycline 100 Mg Twice daily for adults (Not for pregnant ladies or Lactating mothers and children under 12 years of age )",
+                    "dosage": "100 mg",
+                    "duration": "5 days"
+                },
+                {
+                    "medication": "Tab Azithromycin 10 mg / Kg/ Day , 500 mg for adults, Once daily X for 5 days (For pregnant ladies or Lactating mothers and Children under 12 years of age )",
+                    "dosage": "500 mg",
+                    "duration": "5 days"
+                },
+                {
+                    "medication": "Tab Vitamin C 500 Mg One Tablet Thrice Daily for adults X for 10 Days",
+                    "dosage": "500 mg",
+                    "duration": "10 days"
+                },
+                {
+                    "medication": "Tab Zinc 50 Mg 1 tab Twice Daily for adults X for 10 days",
+                    "dosage": "50 mg",
+                    "duration": "10 days"
+                },
+                {
+                    "medication": "Tab / Cap B- Complex Once Daily for adults X for 10 days",
+                    "dosage": "",
+                    "duration": "10 days"
+                },
+                {
+                    "medication": "Vitamin D3 60000 Units for adults Once in a week, with water or milk for 3 weeks.",
+                    "dosage": "60000 units",
+                    "duration": "3 weeks"
+                }
+            ],
+            "notes": [
+                "Note : Ivermectin and Doxycycline will not be given to pregnant and lactating ladies and children under 12 years of age. Use Azithromycin in these cases.",
+                "DISCLAIMER : The purpose of this slide is to let the treating physician know about Standard treatment protocol, as there is a lot of confusion and many unauthenticated and incorrect protocols are circulating on social media."
+            ]
+        }
+    },
+    {
+        "name": "National Health Mission",
+        "date_of_notification": "2021-01-01",
+        "date_of_commencement": "2005-06-01",
+        "end_date": "2012-12-31",
+        "apply_link": "",
+        "event_type": "AdmitCard",
+        "document_links": [
+            {
+                "url": ""
+            }
+        ],
+        "details": {
+            "title": "National Health Mission Details"
+        }
+    },
+    {
+        "name": "Sammelan | Total Number of participants",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upnrhm.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upnrhm.gov.in/Uploads/NHMInitiatives/FPInitiative.pdf"
+        ],
+        "details": {
+            "Year | Shagun Kit distributed": true,
+            "Sammelan | Total Number of participants": [
+                "2017-18: 68052",
+                "2018-19: 357717",
+                "2019-20: 290955",
+                "2020-21: 236153",
+                "2021-22: 326753"
+            ]
+        }
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Madhya Pradesh State Cooperative Bank",
+        "date_of_notification": "2022-09-01",
+        "date_of_commencement": "2022-10-01",
+        "end_date": "2023-03-31",
+        "apply_link": "https://www.mpstatecoopbank.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.mpstatecoopbank.com/documents/exam-form.pdf",
+            "https://www.mpstatecoopbank.com/documents/id-proof.pdf"
+        ],
+        "details": {
+            "sector": "Processing",
+            "name_of_society": "PrathmikVanopajSahakari Samiti Mydt.",
+            "address": "Rehti, Sehore",
+            "registration_date": "1988-11-16",
+            "member_count": 536,
+            "chief_executive": "Suresh Chand Yadav"
+        }
+    },
+    {
+        "name": "Invalid Output",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": null,
+        "event_type": null,
+        "document_links": null,
+        "details": null
+    },
+    {
+        "name": "COVID-19 Test Notification",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-15",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Result",
+        "document_links": [
+            {
+                "link": "https://example.com/result.pdf",
+                "type": "PDF"
+            },
+            {
+                "link": "https://example.com/certificate.jpg",
+                "type": "Image"
+            }
+        ],
+        "details": "COVID-19 Test Result Notification"
+    },
+    {
+        "name": "farg malo —16",
+        "date_of_notification": "2024-12-01",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://cooperatives.mp.gov.in/hi",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cooperatives.mp.gov.in/sites/default/files/Name and Degignation.pdf"
+        ],
+        "details": {
+            "Title": "farg malo —16",
+            "Description": "SAT UMBRO GT A ac cssssnenesenee aU. ale Yea sift"
+        }
+    }
+]

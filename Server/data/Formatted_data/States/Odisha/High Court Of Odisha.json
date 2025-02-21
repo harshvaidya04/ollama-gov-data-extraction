@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Formation of High Court of Orissa",
+        "date_of_notification": "1943-12-31",
+        "date_of_commencement": "",
+        "end_date": "1948-07-26",
+        "apply_link": "https://orissahighcourt.nic.in/recruitment-corner/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://orissahighcourt.nic.in/history.pdf"
+        ],
+        "details": {
+            "context": "Historical perspective of the formation of High Court of Orissa, with details on the colonial era and the establishment of the Patna High Court in circuit at Cuttack, and the eventual creation of a separate High Court for Orissa."
+        }
+    },
+    {
+        "name": "Notification",
+        "date_of_notification": "2023-03-15",
+        "date_of_commencement": "2023-04-01",
+        "end_date": "2023-06-30",
+        "apply_link": "https://www.example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            {
+                "link": "https://www.example.com/exam-doc1.pdf",
+                "type": "pdf"
+            },
+            {
+                "link": "https://www.example.com/exam-doc2.pdf",
+                "type": "pdf"
+            }
+        ],
+        "details": {
+            "exam_name": "OSSC Exam",
+            "exam_date": "2023-04-15"
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": ""
+    },
+    {
+        "name": "High Court of Orissa Rules",
+        "date_of_notification": "2022-07-02",
+        "date_of_commencement": "2022-10-01",
+        "end_date": "2023-09-30",
+        "apply_link": "https://highcourtodisha.nic.in/",
+        "event_type": "Rule",
+        "document_links": [
+            "https://highcourtodisha.nic.in/uploaded-documents/High_Court_of_Orissa_Rules.pdf"
+        ],
+        "details": "Rules for the High Court of Orissa"
+    },
+    {
+        "name": "Court Manager Examination",
+        "date_of_notification": "2023-02-20",
+        "date_of_commencement": "2023-03-01",
+        "end_date": "2023-04-15",
+        "apply_link": "https://odisha.gov.in/recruitment/court-manager-examination",
+        "event_type": "Exam",
+        "document_links": [
+            {
+                "link": "https://odisha.gov.in/recruitment/court-manager-examination/annexure-a.pdf"
+            },
+            {
+                "link": "https://odisha.gov.in/recruitment/court-manager-examination/annexure-b.pdf"
+            }
+        ],
+        "details": "Recruitment Examination for Court Manager position"
+    }
+]

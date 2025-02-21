@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Government of India",
+        "date_of_notification": "2024-03-01",
+        "date_of_commencement": "2023-09-01",
+        "end_date": "2025-08-31",
+        "apply_link": "https://www.ssb.gov.in/recruitment/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ssb.gov.in/uploadfile/2024/05/22/15/6.pdf",
+            "https://www.ssb.gov.in/uploadfile/2024/05/22/15/7/1.pdf"
+        ],
+        "details": {
+            "Eligibility": "See the notification for details.",
+            "Qualifying Marks": "Minimum qualifying marks will be 40% for Gen/OBC and 35% for ST/SC/PWD candidates."
+        }
+    },
+    {
+        "name": "Tach HAT & Has 18-0, As AM, sorerara W selfs ee",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": null,
+        "event_type": null,
+        "document_links": [
+            null
+        ],
+        "details": null
+    },
+    {
+        "name": "Test Admit Card",
+        "date_of_notification": "2024-01-15",
+        "date_of_commencement": "2024-02-20",
+        "end_date": "2024-03-15",
+        "apply_link": "https://example.com/apply",
+        "event_type": "AdmitCard",
+        "document_links": [
+            {
+                "link": "https://example.com/admit-card.pdf",
+                "file_name": "admit_card.pdf"
+            },
+            {
+                "link": "https://example.com/verification.pdf",
+                "file_name": "verification.pdf"
+            }
+        ],
+        "details": {
+            "test_type": "Online Exam",
+            "duration": "2 hours",
+            "number_of_questions": "100",
+            "subject": "Mathematics and Science"
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": ""
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Madhya Pradesh Housing and Infrastructure Development Board",
+        "date_of_notification": "2017-06-26",
+        "date_of_commencement": "",
+        "end_date": "2025-02-21",
+        "apply_link": "https://mphousing.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mphousing.in/pdf/GSTFile/GSTIN_23AAALM0488N1ZS.pdf"
+        ],
+        "details": {
+            "Registration Details under Existing Law": "",
+            "TIN under Value Added Tax": "",
+            "Address of Principal Place of Business": "C block 3rd floor, Paryavas Bhavan, Mother Tersa Road, Bhopal, Bhopal, Madhya Pradesh, 462011",
+            "Date of Liability": "07/03/2018",
+            "Period of Validity": "From 07/03/2018 |To",
+            "ie Type of Registration": "",
+            "Tax Deductor": "",
+            "Particulars of Approving Authority": "Madhya Pradesh Goods and Services Tax Act, 2017",
+            "Signature": "",
+            "Date of issue of Certificate": "09/03/2018"
+        }
+    },
+    {
+        "name": "Tax Deduction under GST",
+        "date_of_notification": "2023-03-20",
+        "date_of_commencement": "2020-07-01",
+        "end_date": "2023-12-31",
+        "apply_link": "https://www.gov.in/gst",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://www.gov.in/gst/forms/gstr-7.pdf",
+            "https://www.gov.in/gst/portal/user/login"
+        ],
+        "details": {
+            "deduction_percentage": "2%",
+            "deduction_form": "GSTR-7",
+            "detection_date": "5 days after crediting amount to government",
+            "refund_provisions": "Excess amount can be claimed as refund",
+            "tax_return_due_date": "10 days from end of month"
+        }
+    },
+    {
+        "name": "NEW officer posting List",
+        "date_of_notification": [
+            "01/2021",
+            "07/2021",
+            "09/2024"
+        ],
+        "date_of_commencement": [
+            "04/2008",
+            "05/2015",
+            "02/2019",
+            "03/2019",
+            "06/2019"
+        ],
+        "end_date": [
+            "08/2017",
+            "09/2024"
+        ],
+        "apply_link": [],
+        "event_type": [
+            "Event1",
+            "Event2",
+            "AdmitCard"
+        ],
+        "document_links": []
+    }
+]

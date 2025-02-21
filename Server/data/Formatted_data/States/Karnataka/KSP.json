@@ -1,0 +1,36 @@
+[
+    {
+        "name": "RTI Application Details",
+        "date_of_notification": "2022-02-25",
+        "date_of_commencement": "2072-02-25",
+        "end_date": "2050-02-25",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://example.com/document1.pdf",
+            "https://example.com/document2.pdf"
+        ],
+        "details": "This is a sample RTI application details."
+    },
+    {
+        "name": "Financial Analyst Recruitment",
+        "date_of_notification": "2024-12-16",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://cid.bangalore.gov.in/applications",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://cid.bangalore.gov.in/documenets"
+        ],
+        "details": {
+            "job_title": "Financial Analyst",
+            "contract_duration": "1 year",
+            "salary": "consolidated",
+            "benefits": "TDS only",
+            "terms_and_conditions": [
+                "one month prior notice for resignation",
+                "termination after one month notice or salary in lieu"
+            ]
+        }
+    }
+]
