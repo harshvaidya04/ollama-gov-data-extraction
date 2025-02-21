@@ -29,23 +29,6 @@
         }
     },
     {
-        "name": "Dr.(Smt./Kum)",
-        "date_of_notification": null,
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": null,
-        "event_type": "Application",
-        "document_links": [],
-        "details": {
-            "post_name": "JRD/SRD(NON-DNB)",
-            "address": {
-                "for_correspondence": "",
-                "permanent_address": ""
-            },
-            "marital_status": "Married / Single / Widower / Widow"
-        }
-    },
-    {
         "name": "BARCOPES Exams",
         "date_of_notification": "Jan. 2, 2025* Launch of Online Application Portal",
         "date_of_commencement": "",
