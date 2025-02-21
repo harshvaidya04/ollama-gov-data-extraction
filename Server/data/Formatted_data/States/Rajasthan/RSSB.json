@@ -32,31 +32,5 @@
             "Description": "Details about the admission process.",
             "Venue": "RajKaj Ref No.: 13645509 (St Sti. sere)"
         }
-    },
-    {
-        "name": "YAT Pern wt 2023",
-        "date_of_notification": "",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "",
-        "event_type": "",
-        "document_links": [],
-        "details": ""
-    },
-    {
-        "name": "Festa",
-        "date_of_notification": "2024-10-01",
-        "date_of_commencement": "2025.02.1 38:29 IST",
-        "end_date": "2025.02.01",
-        "apply_link": "https://t58.rssb.gov.in/ST/ST. / TARE. / 2024/",
-        "event_type": "AdmitCard",
-        "document_links": [
-            "https://t58.rssb.gov.in/"
-        ],
-        "details": {
-            "RajKaj Ref No.:": "13519362",
-            "Sfest siRery (HORIZONTAL RESERVATION)": "Rarer aad Ore sepe frat",
-            "Lv (D&HH) (OL,Dw, Aav) GEN sc ST": "Rata 04 04 04 19 01 16 05"
-        }
     }
 ]
