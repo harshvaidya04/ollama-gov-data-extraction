@@ -1,94 +1,13 @@
-<<<<<<< HEAD
 {
-        "name": "Fraudulent Appointment Letters Notice",
-        "date_of_notification": "2024-10-08",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://portal-psc.ap.gov.in/Default",
-        "event_type": "Result",
-        "document_links": [
-            "https://psc.ap.gov.in/Documents/NotificationDocuments/fraudulentappointmentletterswebnote_08102024.pdf"
-        ],
-        "details": {
-            "verification_contact": "appschelpdesk@gqmail.com",
-            "phone_number": "0866-2527821",
-            "verification_url": "https://sc.ap.gov.in",
-            "local_police_complaint": "A complaint has lodged in the local police station.",
-            "legal_action": "Legal action will be taken against individuals found involved in creating or circulating these fraudulent appointment letters."
-        }
-    }
-=======
-{
-    "method": "Blow-in method"
-}
-
-
-150:
-{
-    "method": "Natural method"
-}
-
-
-148:
-{
-    "type_of_soil": {
-        "0": "Silt",
-        "1": "Clay",
-        "2": "Sand"
-    },
-    "method_of_tunneling": [
-        "Cut-and-Cover method"
-    ]
-}
-
-
-147:
-{
-    "statement": [
-        "1. An entire section of the tunnel is tackled at one time.",
-        "3. It is suitable for unstable rocks."
-    ]
-}
-
-
-146:
-{
-    "size_of_tunnel": {
-        "0": "Circular",
-        "1": "Elliptical",
-        "2": "Horseshoe"
-    },
-    "purpose_of_tunnel": [
-        "Water and sewage mains",
-        "Roads and Railways"
-    ]
-}
-
-
-145:
-{
-    "method": "Blow-out method"
-}
-
-
-144:
-{
-    "factor": {
-        "0": "Lateral distribution factor"
-    }
-}
-
-
-149:
-{
-    "method": "Cut-and-Cover method"
-}
-
- 
-
-148:
-{
-    "type_of_soil": 2,
-    "method_of_tunneling": 3
-}
->>>>>>> 72922e2eb312c2e48868e39848fe0224ace5877d
+     "name": "Rapid Detection Kit for COVID-19",
+     "date_of_notification": "2025-02-24", // Since no specific date is provided in the text, defaulting to this date
+     "event_type": "Exam", // Based on the context of the provided text, it seems like an event or a project announcement
+     "apply_link": "https://www.barc.gov.in/careers/recruitment.html",
+     "details": {
+       "description": "Development of a second type kit which can immobilize monoclonal antibodies and specifically detect the particular antigen of SARS-CoV-2 virus.",
+       "ongoing_project": true // Based on the text, it seems like this is an ongoing project
+     },
+     "document_links": [
+       "https://www.barc.gov.in/publications/bulletin-final-compact.pdf"
+     ]
+   }
