@@ -8,6 +8,7 @@ import { dirname } from 'path';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+const processedFiles=[];
 
 export const createEventType = async (req, res) => {
     try {
@@ -66,6 +67,9 @@ export const createOrUpdateEventTypes = async (eventTypes) => {
 
 export const createOrUpdateEvent = async (event, parent_organizationId) => {
     try {
+        if (event.event_type !== 'Exam' && event.event_type !== 'AdmitCard' && event.event_type !== 'Result') {
+            event.event_type = 'Exam';
+        }
         const newEvent = new Event({
             name: event.name,
             date_of_notification: event.date_of_notification,
@@ -142,6 +146,12 @@ export const addAllEvents = async () => {
             {$set:{lastUpdated:Date.now()}},
             {new:true});
 
+            for (const filePath of processedFiles) {
+                // fs.writeFileSync(filePath, '', 'utf8');
+                console.log(`File ${filePath} cleared successfully.`);
+            }
+            processedFiles.length = 0; // Reset the array after cleari
+
     }catch(error){
         console.log(`Error in addAllEvents: ${error.message}`);
 
@@ -204,8 +214,10 @@ export const processFile=async (filePath,fileName,dirName)=>{
             }
         }
 
-        fs.writeFileSync(filePath, '', 'utf8'); 
-        console.log(`File ${fileName} cleared successfully.`);
+        // fs.writeFileSync(filePath, '', 'utf8'); 
+        // console.log(`File ${fileName} cleared successfully.`);
+
+        processedFiles.push(filePath);
         
     }catch(error){
         console.log(`Error in processFile: ${error.message}`);
