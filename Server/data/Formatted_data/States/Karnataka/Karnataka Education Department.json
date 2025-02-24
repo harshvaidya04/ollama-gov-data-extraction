@@ -1,0 +1,44 @@
+[
+    {
+        "name": "RTI Application Management System",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://schooleducation.karnataka.gov.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ceg.karnataka.gov.in/assets/front/pdf/rti manual/RTI Manual English.pdf"
+        ]
+    },
+    {
+        "name": "Chikkanayakanahalli Tehasildar",
+        "date_of_notification": "2022-02-25",
+        "apply_link": "https://schooleducation.karnataka.gov.in/en",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://ceg.karnataka.gov.in/assets/front/pdf/rti manual/RTI Manual English.pdf"
+        ],
+        "details": {
+            "Date_of_commencement": "",
+            "End_date": ""
+        }
+    },
+    {
+        "name": "Karnataka School Education",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://schooleducation.karnataka.gov.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "Exam Form",
+            "Admit Card",
+            "Result"
+        ],
+        "details": {
+            "exam_info": "Karnataka School Education Board Exams will be conducted from March 2025.",
+            "admit_card_info": "Admit cards for the exams will be available on the school website starting from February 2025.",
+            "result_info": "Results for the exams will be announced in April 2025."
+        }
+    }
+]

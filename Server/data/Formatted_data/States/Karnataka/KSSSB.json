@@ -1,0 +1,59 @@
+[
+    {
+        "name": "SSC(KKR) Exam",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.ssckkr.kar.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            " KK10124.pdf"
+        ]
+    },
+    {
+        "name": "SSC(KKR) Exam Admit Card/Result",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "2024-08-05",
+        "end_date": "",
+        "apply_link": "https://www.ssckkr.kar.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "KKR Admit Card KK12224.pdf",
+            "SSC KKR Eligibility Criteria"
+        ],
+        "details": {
+            "Eligibility Criteria": {
+                "Status on Eligibility": [
+                    "Provisionally Eligible",
+                    "Ineligible"
+                ]
+            },
+            "Grievances/representations": {
+                "Email ID": "adselpost.kkr.ssc@gov.in",
+                "Deadline": "2025-02-23 05:00 PM"
+            }
+        }
+    },
+    {
+        "name": "SSC(KKR) Exam Result & Ineligible List",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "10 March, 2025 (6:00 PM)",
+        "apply_link": "https://www.ssckkr.kar.nic.in/",
+        "event_type": "Result",
+        "document_links": [
+            "KKR12324.pdf"
+        ]
+    },
+    {
+        "name": "SSC Junior Clerk Recruitment",
+        "date_of_notification": "2024-12-24",
+        "date_of_commencement": "2025-01-15",
+        "end_date": "2025-03-31",
+        "apply_link": "https://www.ssckkr.kar.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ssckkr.kar.nic.in/WebUpload_PH_XI 2023.pdf"
+        ]
+    }
+]

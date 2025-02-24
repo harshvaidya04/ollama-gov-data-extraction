@@ -92,7 +92,7 @@ def generateSupremeJson(supremeData):
     # state
     states = supremeData['state']
 
-    for state in states:
+    for state in states[5:]:
         stateName = state['name']
         orgs = state['organizations']
         

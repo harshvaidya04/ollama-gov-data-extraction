@@ -18,6 +18,7 @@ def download_pdf(url):
     if response.status_code == 200:
         return response.content
     else:
+        print("failed to download pdf")
         raise Exception(f"Failed to download PDF, status code: {response.status_code}")
 
 def extract_text_from_pdf(pdf_url):
@@ -43,6 +44,7 @@ def extract_text_from_pdf(pdf_url):
 
         return extracted_text
     except Exception:
+        print("failed to extract text")
         raise Exception(f"Failed to extract text")
 
 if __name__ == '__main__':

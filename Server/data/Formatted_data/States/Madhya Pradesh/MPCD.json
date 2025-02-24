@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Cooperatives Award",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://cooperatives.mp.gov.in/hi",
+        "event_type": "Exam",
+        "document_links": [
+            "Section/IT/Award Report.pdf",
+            "https://cooperatives.mp.gov.in/sites/default/files/documents/Dept."
+        ]
+    },
+    {
+        "name": "National Cooperative Policy 2016",
+        "date_of_notification": "2020-09-30",
+        "date_of_commencement": "2021-02-01",
+        "end_date": "",
+        "apply_link": "https://cooperatives.mp.gov.in/hi",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://cooperatives.mp.gov.in/sites/default/files/documents/Dept. upload/Nagrik suchna/Cooperative Pol_11zon.pdf"
+        ],
+        "details": {
+            "Description": "National Cooperative Policy 2016 was notified by Ministry of Cooperation, Government of India on September 30, 2020.",
+            "Objective": "To promote cooperative farming and rural development.",
+            "Key Features": "Promoting cooperation in agriculture, rural employment, and social welfare."
+        }
+    },
+    {
+        "name": "National Rural Livelihood Mission",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "2011-03-01",
+        "end_date": "2020-12-31",
+        "apply_link": "https://cooperatives.mp.gov.in/hi",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cooperatives.mp.gov.in/sites/default/files/RTI 25 Bindu_compressed.pdf"
+        ]
+    }
+]

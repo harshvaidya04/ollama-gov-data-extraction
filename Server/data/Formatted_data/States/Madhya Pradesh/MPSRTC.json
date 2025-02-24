@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Driving Training School",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://transport.mp.gov.in/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "GuidelineDrivingTrainingschool18092020.pdf"
+        ],
+        "details": {
+            "infrastructure_requirement": "Minimum 8 to 9 acres of land is required to set up a RDTC-Cum-SDC with various Infrastructure facilities as under: (6 acres for track and 2-3 acres for classes/Hostels/ office/ etc )",
+            "vehicle_required": [
+                {
+                    "type": "LMV (CAR)",
+                    "amount": ""
+                },
+                {
+                    "type": "LGV (Light goods vehicle)",
+                    "amount": ""
+                },
+                {
+                    "type": "MGV (Medium goods vehicle )",
+                    "amount": ""
+                },
+                {
+                    "type": "HGV (Heavy goods vehicle) BUS AND TRUCK",
+                    "amount": ""
+                }
+            ],
+            "instructor_trainner": {
+                "education_level": "High school diploma or its GED equivalent; no degree required",
+                "licensure": "Valid state driver's license and state driving instructor license required",
+                "experience": "2-5 years of driving experience may be necessary for instructor licensure; some employers prefer applicants with teaching experience",
+                "key_skills": "Communication, patience, teaching ability, listening skills, compassion; knowledge of motor vehicle operation and safety"
+            },
+            "training_capacity": "800-1000 Trainee per month",
+            "dorms_and_dining_for_drivers": "",
+            "fire_fighting_training": ""
+        }
+    }
+]

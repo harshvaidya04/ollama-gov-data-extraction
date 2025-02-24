@@ -1,0 +1,26 @@
+[
+    {
+        "name": "MP Police Information Security Awareness",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.mppolice.gov.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "Information-Security-Awareness.pdf",
+            "Exam Instructions"
+        ]
+    },
+    {
+        "name": "National Payment System",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.mppolice.gov.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cms.rbi.org.in/",
+            "https://mppolice.gov.in/sites/default/files/Beaware-modus-operendi-Financial-Fraudsters.pdf"
+        ]
+    }
+]

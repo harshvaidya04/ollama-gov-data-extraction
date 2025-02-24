@@ -22,6 +22,7 @@ def generateOutput(pdf_link, apply_link):
         # call_ollama_api(user_prompt)
         return call_ollama_api(user_prompt)
     except Exception:
+        print("exception in o/p generation")
         return False
 
 def call_ollama_api(prompt, output_file="output.json"):

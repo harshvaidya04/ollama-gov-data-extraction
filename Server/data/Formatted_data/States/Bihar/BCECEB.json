@@ -35,5 +35,20 @@
         "document_links": [
             "https://bceceboard.bihar.gov.in/pdf_Pros/PROS_3SR24.pdf"
         ]
+    },
+    {
+        "name": "BCECE PGMAC Admit Card",
+        "date_of_notification": "2024-12-31",
+        "date_of_commencement": "2025-02-24",
+        "end_date": "2025-03-15",
+        "apply_link": "https://bceceboard.bihar.gov.in/AdmitCardPGMAC",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "PROS_PGMAC24.pdf"
+        ],
+        "details": {
+            "Exam Details": "The Bihar Combined Engineering College Entrance Test (BCECE) is conducted by the BCECE Board. The exam is for admission to the Polytechnic courses in various engineering colleges of Bihar.",
+            "Eligibility Criteria": "The candidate must be a resident of Bihar and must have passed the 12th standard examination from any recognized board."
+        }
     }
 ]
