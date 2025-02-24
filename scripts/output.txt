@@ -1,94 +1,11 @@
-<<<<<<< HEAD
 {
-        "name": "Fraudulent Appointment Letters Notice",
-        "date_of_notification": "2024-10-08",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://portal-psc.ap.gov.in/Default",
-        "event_type": "Result",
-        "document_links": [
-            "https://psc.ap.gov.in/Documents/NotificationDocuments/fraudulentappointmentletterswebnote_08102024.pdf"
-        ],
-        "details": {
-            "verification_contact": "appschelpdesk@gqmail.com",
-            "phone_number": "0866-2527821",
-            "verification_url": "https://sc.ap.gov.in",
-            "local_police_complaint": "A complaint has lodged in the local police station.",
-            "legal_action": "Legal action will be taken against individuals found involved in creating or circulating these fraudulent appointment letters."
-        }
-    }
-=======
-{
-    "method": "Blow-in method"
-}
-
-
-150:
-{
-    "method": "Natural method"
-}
-
-
-148:
-{
-    "type_of_soil": {
-        "0": "Silt",
-        "1": "Clay",
-        "2": "Sand"
-    },
-    "method_of_tunneling": [
-        "Cut-and-Cover method"
+    "name": "Bihar Combined Entrance Competitive Examination Board",
+    "date_of_notification": "2025-02-24",
+    "date_of_commencement": null,
+    "end_date": null,
+    "apply_link": "https://bceceboard.bihar.gov.in/",
+    "event_type": "Exam",
+    "document_links": [
+        "https://bceceboard.bihar.gov.in/pdf_Pros/PROS_3SR24.pdf"
     ]
 }
-
-
-147:
-{
-    "statement": [
-        "1. An entire section of the tunnel is tackled at one time.",
-        "3. It is suitable for unstable rocks."
-    ]
-}
-
-
-146:
-{
-    "size_of_tunnel": {
-        "0": "Circular",
-        "1": "Elliptical",
-        "2": "Horseshoe"
-    },
-    "purpose_of_tunnel": [
-        "Water and sewage mains",
-        "Roads and Railways"
-    ]
-}
-
-
-145:
-{
-    "method": "Blow-out method"
-}
-
-
-144:
-{
-    "factor": {
-        "0": "Lateral distribution factor"
-    }
-}
-
-
-149:
-{
-    "method": "Cut-and-Cover method"
-}
-
- 
-
-148:
-{
-    "type_of_soil": 2,
-    "method_of_tunneling": 3
-}
->>>>>>> 72922e2eb312c2e48868e39848fe0224ace5877d

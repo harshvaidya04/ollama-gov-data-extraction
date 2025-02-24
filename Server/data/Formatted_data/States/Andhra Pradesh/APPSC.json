@@ -1,128 +1,125 @@
 [
     {
-        "name": "Andhra Pradesh Public Service Commission: Hyderabad",
-        "date_of_notification": "2025-02-21",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "",
+        "name": "APPSSC Meeting Minutes",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://portal-psc.ap.gov.in/Default",
         "event_type": "Exam",
         "document_links": [
-            {
-                "title": "Group-I Services (Notfn No.15/2011 & 18/2011) - Curative Petition filed before the Hon’ble Supreme Court.",
-                "url": "https://www.appsc.gov.in/group-i-services-curative-petition-filed-before-honble-supreme-court"
-            },
-            {
-                "title": "Group-II Services (Notfn. No.10/99) _",
-                "url": "https://www.appsc.gov.in/group-ii-services-notfn-no-10-99"
-            }
+            "https://psc.ap.gov.in/Documents/MISCELLANEOUS/645.pdf"
         ],
-        "details": [
-            "The Commission noted the decisions.",
-            "Scrutiny committee may be formed with the following Officers:– 1. Deputy Secretary (Confidential) 2. Deputy Secretary (Exams) 3. Assistant Secretary (Legal).",
-            "Action also be taken to notify in the A.P.Gazettee.",
-            "The Commission desires to computerize all the activities of the Commission and recruitments and departmental tests by obtaining detailed proposal from APOnline."
-        ]
-    },
-   
-    {
-        "name": "Departmental OTPR Reprint",
-        "date_of_notification": "",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://psc.ap.gov.in/Departmental-OTPR-Reprint",
-        "event_type": "Exam",
-        "document_links": [],
         "details": {
-            "title": "Departmental OTPR Reprint",
-            "description": "Reprint of Departmental OTPR"
+            "Present": [
+                {
+                    "name": "Prof.P.Udaya Bhaskar",
+                    "position": "----- ...., Chairman"
+                },
+                {
+                    "name": "SriG.S.SeetharamaRaju",
+                    "position": "--...... Member"
+                },
+                {
+                    "name": "Dr. Mohd. Ali Rafat, IAS.,(Retd)",
+                    "position": "... Member"
+                },
+                {
+                    "name": "Sri A.Giridhar,IAS.",
+                    "position": ""
+                },
+                {
+                    "name": "Principal Secretary KKK",
+                    "position": ""
+                }
+            ],
+            "Confirmation": [
+                {
+                    "type": "Minutes of the meeting held on 28/05/2015",
+                    "confirmed": true
+                },
+                {
+                    "type": "Action taken on decisions of the previous meeting",
+                    "reviewed": true
+                }
+            ],
+            "Disciplinary Actions": [
+                {
+                    "case": "Sri K. Naga Kumar, Deputy Secretary (Retd)",
+                    "action": "Initiation of disciplinary action - Reg."
+                },
+                {
+                    "case": "Group-I Services (Notfn No.15/2011 & 18/2011) - Curative Petition filed before the Hon’ble Supreme Court",
+                    "status": "pursued vigorously"
+                },
+                {
+                    "case": "Kum. Rajani, AMVI Candidate - Implementation of Tribunal orders",
+                    "status": "completed"
+                }
+            ],
+            "Implementation": [
+                {
+                    "item": "Departmental Tests",
+                    "status": "implemented with care"
+                },
+                {
+                    "item": "Revision of syllabus",
+                    "status": "put up for consideration"
+                },
+                {
+                    "item": "Presentation on computerization of the functions of APPSC",
+                    "status": "planned"
+                }
+            ],
+            "Other Items": [
+                {
+                    "item": "Sri Shaik_Shameem Saheb, Jr.Asst.",
+                    "resolution": "reinstated by reviving earlier order with stoppage of one increment with cumulative effect"
+                },
+                {
+                    "item": "Departmental Tests",
+                    "status": "implemented with necessary care"
+                }
+            ]
         }
     },
     {
-        "name": "VIJAYAWADA",
-        "date_of_notification": "2025-02-21",
+        "name": "PSC AP Recruitment",
+        "details": {
+            "date_of_notification": "2024-12-15",
+            "date_of_commencement": "2025-01-01",
+            "end_date": "2025-02-24",
+            "apply_link": "https://psc.ap.gov.in/Documents/General faq.pdf",
+            "event_type": "Exam",
+            "document_links": [
+                "General Faq PDF",
+                "PSC AP Recruitment Guidelines"
+            ]
+        }
+    },
+    {
+        "name": "APPSC Direct Recruitment OTPR User Manual",
+        "date_of_notification": "2025-02-24",
         "date_of_commencement": "",
         "end_date": "",
         "apply_link": "https://portal-psc.ap.gov.in/Default",
         "event_type": "Exam",
         "document_links": [
-            "https://psc.ap.gov.in/Documents/PresentCommission/Secretaryandotherhigherofficial_07012025.pdf"
-        ],
-        "details": {
-            "S.No": 1,
-            "NAME OF THE OFFICER": "Sri. I. NARASIMHA MURTHY",
-            "DESIGNATION": "SECRETARY(FAC)"
-        }
+            "https://psc.ap.gov.in/UserManuals/DirectRecruitmentOTPRUserManual.pdf"
+        ]
     },
     {
-        "name": "Others OTPR RePrint",
-        "date_of_notification": "19/07/2024",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://psc.ap.gov.in/OthersOTPReprint",
-        "event_type": "Hall Ticket Reprint",
-        "document_links": [
-            {
-                "name": "Hall Ticket RePrint PDF",
-                "link": "https://pdf.example.com/hall-ticket-reprint.pdf"
-            },
-            {
-                "name": "Others OTPR RePrint Form",
-                "link": "https://form.example.com/others-otpr-reprint-form.pdf"
-            }
-        ],
-        "details": "RePrint of Others OTPR for Departmental Tests and Computer Proficiency Tests"
-    },
-    {
-        "name": "APPSC Examination, May 2024 Session",
-        "date_of_notification": "19/07/2024",
-        "date_of_commencement": "To be announced",
-        "end_date": "To be announced",
+        "name": "Andhra Pradesh Public Service Commission (APPSC)",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
         "apply_link": "https://psc.ap.gov.in",
         "event_type": "AdmitCard",
         "document_links": [
-            "https://psc.ap.gov.in/downloads/hall_ticket_may_2024"
+            "UserManuals/DeptOTPRUserManual.pdf"
         ],
         "details": {
-            "reprint_link": "https://psc.ap.gov.in/others-otpr-reprint",
-            "contact_number": "0866-2527820"
-        }
-    },
-    {
-        "name": "NOTIFICATION NON GAZETTED POSTS LIMITED RECRUITMENT",
-        "date_of_notification": "13/04/2019",
-        "date_of_commencement": "9/05/2019",
-        "end_date": "[ Post wise Fee Payment Closed ]",
-        "apply_link": "www.psc.ap.gov.in",
-        "event_type": "Exam",
-        "document_links": {
-            "application_form": "Check Payment Status",
-            "admit_card": null,
-            "result": null
-        },
-        "details": {
-            "post_name": "Non Gazetted Posts",
-            "vacancies": null,
-            "eligibility_criteria": null,
-            "selection_process": null,
-            "important_dates": null
-        }
-    },
-    {
-        "name": "Fraudulent Appointment Letters Notice",
-        "date_of_notification": "2024-10-08",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://portal-psc.ap.gov.in/Default",
-        "event_type": "Result",
-        "document_links": [
-            "https://psc.ap.gov.in/Documents/NotificationDocuments/fraudulentappointmentletterswebnote_08102024.pdf"
-        ],
-        "details": {
-            "verification_contact": "appschelpdesk@gqmail.com",
-            "phone_number": "0866-2527821",
-            "verification_url": "https://sc.ap.gov.in",
-            "local_police_complaint": "A complaint has lodged in the local police station.",
-            "legal_action": "Legal action will be taken against individuals found involved in creating or circulating these fraudulent appointment letters."
+            "description": "The APPSC Departmental OTPR Reprint page provides candidates with the opportunity to reprint their admit cards for departmental tests.",
+            "purpose": "To facilitate candidates in retrieving their admit cards for upcoming departmental tests."
         }
     }
 ]

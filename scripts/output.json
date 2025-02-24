@@ -1,21 +1,11 @@
-<<<<<<< HEAD
 {
-    "name": "Fraudulent Appointment Letters Notice",
-    "date_of_notification": "2024-10-08",
-    "date_of_commencement": "",
-    "end_date": "",
-    "apply_link": "https://portal-psc.ap.gov.in/Default",
-    "event_type": "Result",
+    "name": "Bihar Combined Entrance Competitive Examination Board",
+    "date_of_notification": "2025-02-24",
+    "date_of_commencement": null,
+    "end_date": null,
+    "apply_link": "https://bceceboard.bihar.gov.in/",
+    "event_type": "Exam",
     "document_links": [
-        "https://psc.ap.gov.in/Documents/NotificationDocuments/fraudulentappointmentletterswebnote_08102024.pdf"
-    ],
-    "details": {
-        "verification_contact": "appschelpdesk@gqmail.com",
-        "phone_number": "0866-2527821",
-        "verification_url": "https://sc.ap.gov.in",
-        "local_police_complaint": "A complaint has lodged in the local police station.",
-        "legal_action": "Legal action will be taken against individuals found involved in creating or circulating these fraudulent appointment letters."
-    }
+        "https://bceceboard.bihar.gov.in/pdf_Pros/PROS_3SR24.pdf"
+    ]
 }
-=======
->>>>>>> 72922e2eb312c2e48868e39848fe0224ace5877d

@@ -1,60 +1,39 @@
 [
     {
-        "name": "BIHAR COMBINED ENTRANCE COMPETITIVE EXAMINATION BOARD",
-        "date_of_notification": "",
-        "date_of_commencement": "",
-        "end_date": "",
+        "name": "Bihar Combined Entrance Competitive Examination (BCECE)",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "2023-05-01",
+        "end_date": "2023-07-31",
         "apply_link": "https://bceceboard.bihar.gov.in/",
         "event_type": "Exam",
         "document_links": [
-            "https://bceceboard.bihar.gov.in/pdf_Web/ExamSummary.pdf"
+            "BCECE Board Exam Notification PDF",
+            "BCECE Admission Form PDF"
         ],
         "details": {
-            "Examination Courses": [
-                "ING Medical One paper with two parts",
-                "PG Dental Part A",
-                "PG Aurvedic Rass",
-                "Math",
-                "PGMAT",
-                "ITICAT (08.04.2012) ITI Institutions (For admissions to different Trades.) One paper with 3 section |General science Total 150 question",
-                "DECE [LE] (08.04.2012) Engg. Diploma Institution (for admission in 2nd year) One paper with 3 section |Chemistry Total 150 question",
-                "BCECE (1* Stage) (22.04.2012)",
-                "DCECE (PE/PNE/PMD/PM/H M) (05.05.2012) and (06.05.2012)",
-                "BCECE [LE] (06.05.2012)"
-            ],
-            "Courses for which examination is conducted": [
-                "Same as BCECE Ist Stage",
-                "Engg. Diploma level Institution",
-                "For admission to non Engg.",
-                "Diploma level women Institution",
-                "For dresser Courses"
-            ],
-            "Number of question": [
-                "90 question",
-                "150 question",
-                "100 question",
-                "150 question"
-            ],
-            "Paper Details": [
-                "(i) PE/PN (HM)",
-                "(ii) PMD (iii) PM (iv)",
-                "Physics, Chemistry",
-                "Physics, Mathematics, Biology",
-                "Hindi, English, General Knowledge",
-                "English, Mathematics"
-            ]
+            "description": "The BCECE examination is conducted annually by the Bihar Combined Entrance Competitive Examination Board (BCECEB). The examination is open to candidates who have completed their 12th class and are seeking admission to undergraduate programs in various fields such as engineering, pharmacy, agriculture, and others. The examination consists of multiple-choice questions and other types of questions. The exam dates for the BCECE examination are usually announced in May each year."
         }
     },
     {
-        "name": "Super Specialization in [Related Course] (2025)",
-        "date_of_notification": "February 20, 2023",
-        "date_of_commencement": "March 1, 2023",
-        "end_date": "December 31, 2024",
-        "apply_link": "https://www.nbe.gov.in/exams/Eligibility-exam.php",
+        "name": "Bihar School Examination Council (BSEBC) Senior Secondary (SR) Exam",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "2025-03-01",
+        "end_date": "2025-04-30",
+        "apply_link": "https://bceceboard.bihar.gov.in/",
         "event_type": "Exam",
         "document_links": [
-            "https://www.nbe.gov.in/Documents/NBEMarksSheet.pdf"
-        ],
-        "details": "For all foreign graduates, marks awarded in NBE conducted eligibility exam (FDST) are to be used for calculation for all purposes. Marks of his Degree will not be considered."
+            "https://bceceboard.bihar.gov.in/pdf_Pros/PROS_SR25.pdf"
+        ]
+    },
+    {
+        "name": "Bihar Combined Entrance Competitive Examination Board",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bceceboard.bihar.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bceceboard.bihar.gov.in/pdf_Pros/PROS_3SR24.pdf"
+        ]
     }
 ]
