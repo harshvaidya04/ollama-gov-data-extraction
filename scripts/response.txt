@@ -1,13 +1,18 @@
  {
-     "name": "Rapid Detection Kit for COVID-19",
-     "date_of_notification": "2025-02-24", // Since no specific date is provided in the text, defaulting to this date
-     "event_type": "Exam", // Based on the context of the provided text, it seems like an event or a project announcement
-     "apply_link": "https://www.barc.gov.in/careers/recruitment.html",
-     "details": {
-       "description": "Development of a second type kit which can immobilize monoclonal antibodies and specifically detect the particular antigen of SARS-CoV-2 virus.",
-       "ongoing_project": true // Based on the text, it seems like this is an ongoing project
-     },
-     "document_links": [
-       "https://www.barc.gov.in/publications/bulletin-final-compact.pdf"
-     ]
-   }
+      "name": "Administrative Vacancies Notification - ICMR-RMRCSVP",
+      "date_of_notification": "2025-02-24", // If not provided in the raw text, set it to this default date
+      "date_of_commencement": null, // Leave it empty if not provided in the raw text
+      "end_date": null, // Leave it empty if not provided in the raw text
+      "apply_link": "https://www.icmr.gov.in/employment-opportunities",
+      "event_type": "AdmitCard", // Based on the context of the provided raw text, set this to "Exam" or "Result" if applicable, otherwise use "AdmitCard" as a default value
+      "details": {
+        "Tel": "+91-3192-251158 | 251043",
+        "Fax": "+91-3192-251163 (Director's Office)",
+        "email": ["rmrcicmr-pb@gov.in", "directorrmrc@gmail.com", "acormrcpb.org@gmail.com", "aormrcpb@gmail.com"],
+        "website": "www.rmrc.res.in",
+        "address": "Post Bag No. 13, Dollygunj, Sri Vijaya Puram - 744 103\nAndaman & Nicobar Islands, India"
+      },
+      "document_links": [
+        "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1740027488_admnvacancynotificationicmr-rmrcsvp.pdf"
+      ]
+    }

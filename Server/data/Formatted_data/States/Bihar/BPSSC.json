@@ -1,72 +1,47 @@
 [
     {
-        "name": "Bihar Board Examination",
-        "date_of_notification": "2023-02-01",
-        "date_of_commencement": "2023-03-15",
-        "end_date": "2023-06-30",
-        "apply_link": "https://www.biharboard.ac.in/",
+        "name": "Bihar Police Staff Selection Commission",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bpssc.bihar.gov.in/",
         "event_type": "Exam",
         "document_links": [
-            "https://www.biharboard.ac.in/exam/admission-admission-forms-2023.pdf"
-        ],
-        "details": {
-            "exam_type": "Class 10th and 12th Board Examination",
-            "subjects": [
-                "English, Hindi, Math, Science"
-            ],
-            "Exam Venue": "Patna and other centers in Bihar"
-        }
+            "https://bpssc.bihar.gov.in/Notices/Centre%20list%20with%20Roll%20number%20on%20website.pdf"
+        ]
     },
     {
-        "name": "Invalid Applications",
-        "date_of_notification": "2023-02-20",
-        "date_of_commencement": "2023-02-20",
-        "end_date": "2023-02-25",
-        "apply_link": "https://bpsc.bihar.gov.in",
-        "event_type": "Result",
+        "name": "BPSSC Admit Card No. 01/2024 (ASI Steno)",
+        "date_of_notification": "24-02-2025",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bpssc.bihar.gov.in/",
+        "event_type": "AdmitCard",
         "document_links": [
-            {
-                "type": "application",
-                "link": "https://bpsc.bihar.gov.in/"
-            },
-            {
-                "type": "pdf",
-                "link": "https://bpsc.bihar.gov.in/documents.pdf"
-            }
-        ],
-        "details": {
-            "B. Application Form Cancelled by Applicant": [
-                {
-                    "name": "Application Number",
-                    "value": ""
-                },
-                {
-                    "name": "Candidate Name",
-                    "value": ""
-                },
-                {
-                    "name": "Father's Name",
-                    "value": ""
-                }
-            ],
-            "C. Rejected Applications due to Multiple Applications/Unidentifiable Photo": [
-                {
-                    "name": "Application Number",
-                    "value": "74119392"
-                },
-                {
-                    "name": "Candidate Name",
-                    "value": ""
-                },
-                {
-                    "name": "Father's Name",
-                    "value": ""
-                },
-                {
-                    "name": "Reason",
-                    "value": "REJECTED DUE TO MULTIPLE APPLICATIONS"
-                }
-            ]
-        }
+            "Notice e-Admit Card on Website.pdf"
+        ]
+    },
+    {
+        "name": "BPSSC Advt.No 01/2024 for the Post of STENO ASI OF BIHAR POLICE",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bpssc.bihar.gov.in/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://bpssc.bihar.gov.in/Notices/04-02-2025.pdf"
+        ]
+    },
+    {
+        "name": "BPSSC Steno ASI Recruitment",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bpssc.bihar.gov.in/Advts/Advt. No.-01-2024-Steno ASI.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bpssc.bihar.gov.in/",
+            "https://bpssc.bihar.gov.in/Advts/Advt. No.-01-2024-Steno ASI.pdf"
+        ]
     }
 ]

@@ -1,40 +1,45 @@
 [
     {
-        "events": [
-            {
-                "name": "Extract name from raw text",
-                "date_of_notification": "2025-02-24",
-                "date_of_commencement": "Leave it empty if not specified",
-                "end_date": " ",
-                "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
-                "event_type": "Exam",
-                "details": {
-                    "description": "Detailed information about the event"
-                }
-            },
-            {
-                "name": "Extract name from raw text",
-                "date_of_notification": "2022-10-03",
-                "date_of_commencement": "",
-                "end_date": "Leave it empty if not specified",
-                "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
-                "event_type": "AdmitCard",
-                "details": {
-                    "description": "Detailed information about the event"
-                }
-            },
-            {
-                "name": "Extract name from raw text",
-                "date_of_notification": "",
-                "date_of_commencement": "2023-01-01",
-                "end_date": "2023-05-31",
-                "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
-                "event_type": "Result",
-                "details": {
-                    "description": "Detailed information about the event"
-                }
-            }
-        ],
+        "name": "IIT Foundation Course",
+        "date_of_notification": "2025-03-15",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "2025-06-30",
+        "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
+        "event_type": "Exam",
+        "details": {
+            "description": "The IIT Foundation Course is open for students aiming to prepare for the JEE Advanced examination. The course will be conducted online.",
+            "eligibility": "Students who have passed class 10th are eligible to apply.",
+            "duration": "Three months",
+            "certificate": "Certificate of completion will be provided."
+        },
+        "document_links": [
+            "https://www.iift.ac.in/iift/NIRF_2025.pdf"
+        ]
+    },
+    {
+        "name": "Faculty Recruitment 2024",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "2024-12-01",
+        "end_date": "2024-12-31",
+        "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
+        "event_type": "Exam",
+        "details": {
+            "event": "Faculty Recruitment for various posts",
+            "positions": [
+                "Assistant Professor",
+                "Associate Professor",
+                "Professor"
+            ],
+            "subjects": [
+                "Computer Science",
+                "Mathematics",
+                "Physics",
+                "Chemistry",
+                "Biology",
+                "English",
+                "Hindi"
+            ]
+        },
         "document_links": [
             "https://www.iift.ac.in/iift/NIRF_2024.pdf"
         ]

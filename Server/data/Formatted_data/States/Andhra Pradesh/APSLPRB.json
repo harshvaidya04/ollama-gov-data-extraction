@@ -1,70 +1,54 @@
 [
     {
-        "name": "State of Andhra Pradesh",
-        "date_of_notification": "2022-01-01",
-        "date_of_commencement": "2022-02-01",
-        "end_date": "2022-03-31",
-        "apply_link": "https://www.andhrapradesh.gov.in/apply-now",
+        "name": "Andhra Pradesh Public Service Commission",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://slprb.ap.gov.in/UI/recruitments",
         "event_type": "Exam",
         "document_links": [
-            "https://www.andhrapradesh.gov.in/documents",
-            "https://www.andhrapradesh.gov.in/apply-now"
-        ],
-        "details": {
-            "examination_name": "State School Examinations",
-            "examination_date": "2022-04-01 - 2022-05-31",
-            "examination_centre": "State of Andhra Pradesh"
-        }
+            "https://slprb.ap.gov.in/PDFS/SLPRB_AP_PC_Notification.pdf"
+        ]
     },
     {
-        "name": "STATE LEVEL POLICE RECRUITMENT BOARD",
-        "date_of_notification": "2022-12-23",
+        "name": "Andhra Pradesh Police Recruitment Board",
+        "date_of_notification": "2025-02-24",
         "date_of_commencement": "",
-        "end_date": "2023-01-07",
+        "end_date": "",
         "apply_link": "https://slprb.ap.gov.in/UI/recruitments",
         "event_type": "Exam",
         "document_links": [
             "https://slprb.ap.gov.in/PDFS/Amendment.pdf"
         ],
         "details": {
-            "Re. No.": "161/SLPRB/Rect.2/2022-1",
-            "Date of Amendment": "23.12.2022",
-            "Changes Made": "Consequent to raising of upper age limit by 2 years for the ongoing recruitment of Stipendiary Cadet Trainee Police Constables (SCT PCs) (Civil / APSP) vide G.O. Ms. No, 155 of General Administration ((SER.A) Department. dt. 23-12-2022",
-            "Chairman": "Manish Kumar Sinha IPS"
+            "board": "State Level Police Recruitment Board",
+            "state": "Andhra Pradesh",
+            "district": "Mangalagiri, Guntur District"
         }
     },
     {
-        "name": "State Level Police Recruitment Board, Andhra Pradesh",
-        "date_of_notification": "2022-12-27",
-        "date_of_commencement": "",
+        "name": "State Level Police Sub-Inspector (SI) Examination",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "2024-10-31",
         "end_date": "",
         "apply_link": "https://slprb.ap.gov.in/UI/recruitments",
         "event_type": "Exam",
         "document_links": [
-            "https://slprb.ap.gov.in/PDFS/Amendment_SI.pdf"
+            "SLPRB_AP_SI_ Notification.pdf"
         ],
         "details": {
-            "Re.No.163/SLPRB/Rect.1/2022-1": "Consequent to raising of upper age limit by 2 years for the ongoing recruitment of Stipendiary Cadet Trainee Sub Inspectors of Police (SCT SIs) (Civil) (Men & Women),"
-        }
-    },
-    {
-        "name": "STATE LEVEL POLICE RECRUITMENT BOARD ANDHRA PRADESH",
-        "date_of_notification": "2023-12-19",
-        "date_of_commencement": "",
-        "end_date": "2025-02-21",
-        "apply_link": "https://slprb.ap.gov.in/UI/recruitments",
-        "event_type": "Exam",
-        "document_links": [
-            "https://slprb.ap.gov.in/PDFS/Amendment Notification 2022.pdf"
-        ],
-        "details": {
-            "post_name": "SCT Sub-Inspector of Police (Civil) (Men & Women)",
-            "post_code_no_13": "96",
-            "total_posts_sct_si_civil_men_women": "315",
-            "total_post_code_no_13_sct_rsis_apsp_men": "96",
-            "slno_name_unit_no_of_posts": "Post code No. 13",
-            "name_of_unit_oc_ews_exser_bc_a_bc_b_bc_c_bc_d_bc_e_sc_st_total": "APSP (Men)",
-            "vacancy_type": "Direct Recruitment Vacancies for the post of SCT SIs (Civil) (Men & Women) and SCT RSIs (APSP) (Men)"
+            "examination_body": "Andhra Pradesh State Police Department",
+            "eligibility": "The candidate should be a citizen of India and must have completed the minimum age limit (21 years) and maximum age limit (35 years).",
+            "exam_date": "",
+            "paper_type": "OMR based online exam",
+            "subject_areas": [
+                "General Knowledge",
+                "Mathematics",
+                "Reasoning"
+            ],
+            "number_of_posts": 200,
+            "salary_range": "Rs. 15600 - Rs. 25000 (Per Month)",
+            "job_role": "Sub-Inspector"
         }
     }
 ]

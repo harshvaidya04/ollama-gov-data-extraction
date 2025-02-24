@@ -1,19 +1,77 @@
 [
     {
-        "name": "Joint Entrance Examination (Main) - 2025",
-        "date_of_notification": "2025-03-01",
-        "date_of_commencement": "2025-04-01",
-        "end_date": "2025-04-30",
-        "apply_link": "https://jeemain.nta.nic.in/",
+        "name": "Joint Entrance Examination (Main) 2025",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://jeemain.ta.nic.in/",
         "event_type": "Exam",
         "details": {
-            "description": "Joint Entrance Examination (Main) is conducted for admission to various engineering colleges in India.",
-            "instructions": [
-                "Candidates must fill the application form online at the official website.",
-                "The admit card will be available on the official website from the second week of March 2025.",
-                "Candidates are required to bring their admit card and a valid photo ID proof to the examination center.",
-                "Mobile phones, calculators, and other electronic devices are not allowed in the examination hall.",
-                "Candidates must fill out the OMR sheet carefully and completely."
+            "description": "National level engineering entrance exam conducted by the National Testing Agency (NTA) for admission to various engineering colleges across India.",
+            "events": [
+                {
+                    "name": "Online Application Starts",
+                    "date_of_notification": null,
+                    "date_of_commencement": null,
+                    "end_date": null,
+                    "details": {
+                        "description": "Candidates can start filling out the application form online."
+                    }
+                },
+                {
+                    "name": "Online Application Ends",
+                    "date_of_notification": null,
+                    "date_of_commencement": null,
+                    "end_date": null,
+                    "details": {
+                        "description": "Last date for filling out the application form online."
+                    }
+                },
+                {
+                    "name": "Exam Date Announced",
+                    "date_of_notification": null,
+                    "date_of_commencement": null,
+                    "end_date": null,
+                    "details": {
+                        "description": "The dates for the exam will be announced by NTA."
+                    }
+                },
+                {
+                    "name": "Admit Card Download Starts",
+                    "date_of_notification": null,
+                    "date_of_commencement": null,
+                    "end_date": null,
+                    "details": {
+                        "description": "Candidates can download their admit cards from the NTA website."
+                    }
+                },
+                {
+                    "name": "Exam",
+                    "date_of_notification": null,
+                    "date_of_commencement": null,
+                    "end_date": null,
+                    "details": {
+                        "description": "The main engineering entrance exam conducted by NTA."
+                    }
+                },
+                {
+                    "name": "Result Declaration",
+                    "date_of_notification": null,
+                    "date_of_commencement": null,
+                    "end_date": null,
+                    "details": {
+                        "description": "The results of the exam will be declared on the NTA website."
+                    }
+                },
+                {
+                    "name": "Counselling",
+                    "date_of_notification": null,
+                    "date_of_commencement": null,
+                    "end_date": null,
+                    "details": {
+                        "description": "The counselling process for admission to engineering colleges will begin."
+                    }
+                }
             ]
         },
         "document_links": [
@@ -21,31 +79,41 @@
         ]
     },
     {
-        "name": "JEE Main 2025 Session 1 (January)",
+        "name": "JEE (Main) 2025 Session 1",
         "date_of_notification": "2025-02-24",
-        "date_of_commencement": "",
-        "end_date": "",
+        "date_of_commencement": "Not Specified",
+        "end_date": "Not Specified",
         "apply_link": "https://jeemain.nta.nic.in/",
         "event_type": "Exam",
-        "document_links": [
-            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025020474.pdf"
-        ],
         "details": {
-            "Procedure for Challenge of Answer Key": [
-                "Please go to the website https://jeemain.nta.nic.in/",
-                "Click ‘Challenge (s) regarding Answer Key’.",
-                "...",
-                "See the Question IDs in the below sequential order for JEE (Main) — 2025 Session 1 (January 2025)",
-                "The ID next to the question under the column ‘Correct Option’ stands for the most appropriate Answer Key by NTA.",
-                "If you wish to challenge this option, you may use any one or more of the Option IDs given in the next four columns by clicking the check box",
-                "...",
-                "Upload supporting documents for which you can select ‘Choose File and Upload (all documents to be put in a single PDF file).",
-                "After clicking your desired option, scroll down and ‘Save your claim’ and move on to the next screen.",
-                "You will see a display of all the Option IDs you have challenged.",
-                "Click on ‘Save your claim and Pay Fee finally’.",
-                "Select the Mode of Payment and Pay a non-refundable processing fee @ % 200/- for each question challenged. Make payment through Debit / Credit Card / Net Banking.",
-                "Helpline Number: +941 1-40759000, e-mail: jeemain@nta.nicin"
-            ]
-        }
+            "description": "Prestigious Engineering Entrance Examination conducted by National Testing Agency (NTA). Session 1 of JEE (Main) 2025.",
+            "rules_and_regulations": "Important Advisory and Instructions to the candidates for JEE (Main) - 2025 included in the Admit Card.",
+            "important_dates": {
+                "application_start_date": "Not Specified",
+                "application_end_date": "Not Specified",
+                "exam_date": "Not Specified"
+            },
+            "eligibility_criteria": "As per the guidelines set by the NTA and the Ministry of Education, Government of India.",
+            "exam_structure": {
+                "duration": "3 hours",
+                "subjects": [
+                    "Physics",
+                    "Chemistry",
+                    "Mathematics"
+                ],
+                "bio-break_restrictions": [
+                    "No bio-breaks allowed during the first hour and the last half an hour before the end of the examination."
+                ],
+                "frisking_and_biometric_attendance": [
+                    "Candidates were frisked, and biometric attendance was taken at entry.",
+                    "Candidates were frisked, and biometric attendance was taken again on entry from the bio-break/toilets break."
+                ]
+            },
+            "question_paper_display": "Question Paper and recorded responses along with the Answer Key displayed on the website for verification by examinees.",
+            "answer_key_verification": "After verification by the Subject Experts, the Revised Answer Keys were published on the website."
+        },
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025021158.pdf"
+        ]
     }
 ]
