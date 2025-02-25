@@ -1,0 +1,39 @@
+[
+    {
+        "name": "COVID-19 Standard Treatment Protocol",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upnrhm.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upnrhm.gov.in/assets/site-files/protocol.pdf"
+        ]
+    },
+    {
+        "name": "Uttar Pradesh National Rural Health Mission",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "2003-04-01",
+        "end_date": "",
+        "apply_link": "https://upnrhm.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upnrhm.gov.in/assets/site-files/Mission-Document.pdf"
+        ],
+        "details": {
+            "Mission Objective": "To improve the health status of rural population through integrated and community-based approach.",
+            "Key Programs": "National Rural Health Mission, Janani Suraksha Yojana (JSY), National Maternity Benefit Bill",
+            "Target Outcomes": [
+                "Infant Mortality Rate reduced to 30/1000 live births",
+                "Maternal Mortality Ratio reduced to 100/100,000",
+                "Total Fertility Rate reduced to 2.1",
+                "Malaria mortality reduction rate 50% upto 2010, additional 10% by 2012"
+            ],
+            "Key Initiatives": [
+                "Establishment of District Health Mission Society (DHMS)",
+                "Implementation of Accredited Social Health Activist (ASHA) program",
+                "Establishment of Community Health Centers"
+            ]
+        }
+    }
+]

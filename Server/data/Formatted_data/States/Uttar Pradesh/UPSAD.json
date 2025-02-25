@@ -1,0 +1,47 @@
+[
+    {
+        "name": "UP Agri Pardarshi",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upagripardarshi.gov.in/DynamicPages/Circular-hi.aspx#",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upagripardarshi.gov.in/MediaGallery/PPTACPMeeting_compressed.pdf"
+        ],
+        "details": {
+            "Description": "UP Agri Pardarshi Exam Notification and Circulars.",
+            "Event Details": "Please find the details of UP Agri Pardarshi exam, notification, circulars, etc.",
+            "Important Dates": "2025-02-24 (Date of Notification), 2025-03-01 (Date of Commencement), 2025-04-15 (End Date)"
+        }
+    },
+    {
+        "name": "UPA Graduate Pardarshi",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upagripardarshi.gov.in/DynamicPages/Circular-hi.aspx#",
+        "event_type": "Exam",
+        "document_links": [
+            "AB_2688.pdf"
+        ],
+        "details": {
+            "url": "https://upagripardarshi.gov.in/MediaGallery/AB_2688.pdf"
+        }
+    },
+    {
+        "name": "WAM Meet",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upagripardarshi.gov.in/DynamicPages/Circular-hi.aspx",
+        "document_links": [
+            "Pramotion",
+            "Circular-hi"
+        ],
+        "details": {
+            "event_type": "Exam",
+            "event_description": ""
+        }
+    }
+]

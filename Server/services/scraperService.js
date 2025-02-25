@@ -3,6 +3,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 import { dirname } from "path";
 import { createDb } from "../controller/dbController.js";
+import { addAllEvents } from "../controller/eventController.js";
 
 // Fix "__dirname" in ES Modules
 const __filename = fileURLToPath(import.meta.url);
@@ -25,7 +26,8 @@ export  const runScraper = async () => {
 
         pythonProcess.on("close", (code) => {
             console.log(`✅ Python script finished with exit code ${code}`);
-            createDb();
+            // createDb();
+            addAllEvents();
             resolve();
         });
 

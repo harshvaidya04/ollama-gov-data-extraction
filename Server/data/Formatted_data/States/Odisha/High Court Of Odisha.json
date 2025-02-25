@@ -1,0 +1,49 @@
+[
+    {
+        "name": "High Court of Odisha",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://orissahighcourt.nic.in/recruitment-corner/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://orissahighcourt.nic.in/uploads/rules/efiling/eFiling_High_Court.pdf"
+        ]
+    },
+    {
+        "name": "eFiling in District Courts of Odisha",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://orissahighcourt.nic.in/recruitment-corner/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "eFiling_District_Courts.pdf"
+        ]
+    },
+    {
+        "name": "High Court of Orissa Live Streaming Rules 2021",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://orissahighcourt.nic.in/recruitment-corner/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://orissahighcourt.nic.in/live_streaming_2021.pdf"
+        ]
+    },
+    {
+        "name": "Court Manager Recruitment Examination",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://orissahighcourt.nic.in/recruitment-corner/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://orissahighcourt.nic.in/cmrules2020.pdf"
+        ],
+        "details": {
+            "description": "The Recruitment Examination for the post of Court Manager shall be conducted in two phases, namely (1) Written Examination & Computer Application Test (Practical) and (2) Interview & Project Report. The topic for the project report shall be notified by the Commission at the time of declaration of the result of the written examinations."
+        }
+    }
+]

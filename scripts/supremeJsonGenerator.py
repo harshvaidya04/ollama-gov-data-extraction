@@ -30,9 +30,81 @@ def generateSupremeJson(supremeData):
     # central
     orgs = supremeData["central"]
 
-    for org in orgs[12:]:
-    # for org in orgs[7:]:
-        if(org["name"] != "UPSC"):
+    # for org in orgs:
+    # # for org in orgs[7:]:
+    #     if(org["name"] != "UPSC"):
+    #         organization = org["name"]
+    #         applyLink = org["applyLink"]
+    #         links = org["links"]
+
+    #         file_path = f"../Server/data/Formatted_data/Central/{organization}.json"
+    #         if(not os.path.exists(file_path)):
+    #             with open(file_path,'a') as f:
+    #                 pass
+
+    #         failedLinks=[]
+    #         for link in links[:5]:
+                
+                
+                
+    #             output = generateOutput(link, applyLink)
+    #             if(output):
+                    
+                    
+
+    #                 # Step 1: Check if file exists and read existing data
+    #                 if os.path.exists(file_path):
+    #                     with open(file_path, "r", encoding="utf-8") as f:
+    #                         try:
+    #                             existingEvents = json.load(f)  # Load existing JSON data
+    #                             if not isinstance(existingEvents, list):  # Ensure it's a list
+    #                                 existingEvents = []
+    #                         except json.JSONDecodeError:
+    #                             existingEvents = []  # If JSON is corrupted or empty, reset it to an empty list
+    #                 else:
+    #                     existingEvents = []  # If file doesn't exist, start with an empty list
+
+    #                 # Step 2: Append new events to the list
+    #                 existingEvents.append(output)
+
+    #                 # Step 3: Write back the updated list to the file
+    #                 with open(file_path, "w", encoding="utf-8") as f:
+    #                     json.dump(existingEvents, f, ensure_ascii=False, indent=4)
+                        
+    #             else:
+    #                 failedLinks.append(link)
+            
+    #         failedObject = {
+    #             "name": organization,
+    #             "applyLink": applyLink,
+    #             "links": failedLinks
+    #         }
+            
+    #         SupremeFailedData["central"].append(failedObject)        
+    #         with open ('../scripts/SupremeFailedLinksTemp.json','w',encoding='utf-8') as f:
+    #             json.dump(SupremeFailedData,f)
+            
+    #         print("stored in",organization)
+
+    # print("Central done")
+
+
+    # state
+    states = supremeData['state']
+
+    for state in states[5:]:
+        stateName = state['name']
+        orgs = state['organizations']
+        
+        if(not os.path.exists(f'../Server/data/Formatted_data/States/{stateName}')):
+            os.mkdir(f'../Server/data/Formatted_data/States/{stateName}')
+        
+        failedState = {
+            "name": stateName,
+            "organizations": []
+        }
+        
+        for org in orgs:
             organization = org["name"]
             applyLink = org["applyLink"]
             links = org["links"]

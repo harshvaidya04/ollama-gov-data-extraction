@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Karnataka Judiciary Case Types",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://karnatakajudiciary.kar.nic.in/newwebsite/main_notify.php?p=106&stateNM=",
+        "event_type": "",
+        "document_links": [
+            "https://karnatakajudiciary.kar.nic.in/newwebsite/pdfs/casetypes.pdf"
+        ],
+        "details": {
+            "Case Types": {
+                "Exam": [
+                    {
+                        "name": "WPHC Habeas Corpus Writ Petition",
+                        "event_type": "Exam"
+                    },
+                    {
+                        "name": "Habeas",
+                        "event_type": "Exam"
+                    }
+                ],
+                "Result": [],
+                "AdmitCard": []
+            }
+        }
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Phishing Campaign Alert",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://itmission.kerala.gov.in/sites/default/files/Guidelines/cert-k alert.pdf",
+        "event_type": "Alert",
+        "document_links": [
+            "https://keralapolice.gov.in/page/notification"
+        ],
+        "details": {
+            "phishing_urls": [
+                "hxxps://loveindiamail.000webhostapp[.]com",
+                "hxxps://email-gov.in/indexi[.]php",
+                "hxxps://safebrowsingindia.000webhostapp[.]com/secure.html",
+                "hxxps://emalegovin.000webhostapp[.]com/secure.html",
+                "hxxps://email.gov.in.mailgovin[.]Jcom"
+            ],
+            "attack_method": "Spoofing",
+            "malware_content": "Malware-containing emails",
+            "pretext": "Email attachments and links",
+            "best_practices": [
+                "Verify URL in address bar",
+                "Do not open attachments or click on suspicious URLs",
+                "Exercise caution when opening email attachments"
+            ]
+        }
+    },
+    {
+        "name": "CERT-K Alert",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://itmission.kerala.gov.in/sites/default/files/Guidelines/cert-k alert.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://keralapolice.gov.in/page/notification"
+        ],
+        "details": {
+            "Phishing Campaign Targeting Users of email.gov.in": "The Indian Computer Emergency Response Team (CERT-In) has issued an alert on a “Phishing Campaign Targeting Users of NICs email service for Government of India”.",
+            "Attack Method": "A phishing campaign targeting users of NICs email service for Government of India. The campaign involves fraudulent websites spoofing the email.gov.in homepage.",
+            "Examples of Phishing URLs": [
+                "hxxps://loveindiamail.000webhostapp[.]com",
+                "hxxps://email-gov.in/indexi[.]com"
+            ],
+            "Best Practices": [
+                "Always ensure that the URL in the address bar is exactly https://email.gov.in whenever you are entering your credentials for the website.",
+                "Do not open attachments in unsolicited e-mails, even if they come from people in your contact list."
+            ]
+        }
+    },
+    {
+        "name": " Kerala Government Properties to be Filed Entry into Service Form",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://keralapolice.gov.in/page/notification",
+        "event_type": "Exam",
+        "document_links": [
+            "https://keralapolice.gov.in/storage/pages/custom/table/table-vZa0s3W9I2VHsRDx5tiIqHCJX.pdf"
+        ],
+        "details": {
+            "permanent_employee_number": "Permanent Employee Number (PEN)",
+            "permanent_account_number": "Permanent Account Number (PAN)",
+            "permanent_residential_address": "7jAddress",
+            "present_residential_address": "",
+            "date_of_entry_into_service": "[10",
+            "present_pay": "a= a oe",
+            "present_office": "13|Appointing Authority a:",
+            "details_of_movable_properties": {
+                "in_own_name": {
+                    "bank_accounts": [
+                        "jin own name"
+                    ]
+                },
+                "in_the_name_of_spouse": {
+                    "bank_accounts": [
+                        "a ey"
+                    ]
+                }
+            },
+            "other_investments": {
+                "debts_and_other_liabilities": "if any in Public sector/Private sector/Co-operative",
+                "financial_institutions": "in own name/in the name of spouse"
+            },
+            "details_of_business_activities": {
+                "type_of_business": "",
+                "location": "",
+                "annual_turn_over": "",
+                "liabilities": ""
+            }
+        }
+    },
+    {
+        "name": "Kerala Police",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://keralapolice.gov.in/storage/pages/custom/table/sbnuAqzkkwzqMop1CTvIqZPoz.pdf",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://keralapolice.gov.in/page/notification"
+        ],
+        "details": {
+            "Description of the event": "Kerala Police Admit Card for SPC Project",
+            "Event Description": "Apply for SPC Project at Kerala Police",
+            "Notification Date": "2025-02-24",
+            "Commencement Date": "",
+            "End Date": "",
+            "SHO Report": "To be sent by SHO within 5 days of receiving the filled-up copy of the application.",
+            "District Nodal Officer (SPC, Project) Remarks": "Brief remarks from District Nodal Officer to be sent along with the application."
+        }
+    }
+]

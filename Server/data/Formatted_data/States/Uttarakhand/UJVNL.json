@@ -1,0 +1,81 @@
+[
+    {
+        "name": "UJVNL",
+        "date_of_notification": "2024-12-20",
+        "date_of_commencement": "2025-02-24",
+        "end_date": "",
+        "apply_link": "https://ujvnl.com/recruitments.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ujvnl.com/document/1723190384_credentials_for_ujvnl_site.pdf"
+        ],
+        "details": {
+            "total_SHPs": 146.62,
+            "Grand Total": 3350.03,
+            "Pathri": 88.2,
+            "Mohd.Pur": 27.43,
+            "Other SHPs": 31.0
+        }
+    },
+    {
+        "name": "Uttarakhand State Forest Corporation Limited",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://ujvnl.com/recruitments.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ujvnl.com/document/1701776526_final_moa_aoa_amended_v2.pdf"
+        ],
+        "details": {
+            "type": "Company Registration",
+            "description": "Registration of Uttarakhand State Forest Corporation Limited under Companies Act, 2013.",
+            "share_details": [
+                {
+                    "name": "Puran Chand Sharma",
+                    "number_of_equity_shares": 500,
+                    "address": "39/1 Vasant Vihar, Dehradun Service",
+                    "occupation": "LA.S."
+                },
+                {
+                    "name": "Raghunandan Singh Tolia",
+                    "number_of_equity_shares": "",
+                    "address": "5, Tilak Road, Dehradun Service"
+                },
+                {
+                    "name": "Raj Kishore Verma",
+                    "number_of_equity_shares": 500,
+                    "address": "Jakhhan, Rajpur Road, Dehradun Service"
+                }
+            ]
+        }
+    },
+    {
+        "name": "UJVNL Citizen Charter",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "2023-02-24",
+        "end_date": "2025-03-01",
+        "apply_link": "https://ujvnl.com/recruitments.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ujvnl.com/document/revised-citizen-charter-dt28-6-21-672021.pdf"
+        ]
+    },
+    {
+        "name": "SOP Guidelines for e-Office",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://ujvnl.com/recruitments.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ujvnl.com/document/1699254207_sop_guidelines_for_e-office_7.2.0.pdf"
+        ],
+        "details": {
+            "description": "Please refer to the SOP guidelines for e-Office",
+            "version": "7.2.0",
+            "language": "English",
+            "author": "Mantos Kur Oj"
+        }
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Bihar School Examination Commission (BSEB)",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://btsc.bihar.gov.in/index.php/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://btsc.bihar.gov.in/sites/default/files/2025-02/01-2025_0.pdf"
+        ],
+        "details": {
+            "description": "Bihar School Examination Commission (BSEB) is responsible for conducting school examinations in Bihar, India.",
+            "purpose": "To conduct annual examinations for schools in Bihar and provide a platform for students to showcase their skills."
+        }
+    },
+    {
+        "name": "Bihar School Examination Board",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://btsc.bihar.gov.in/index.php/",
+        "event_type": "Result",
+        "document_links": [
+            "https://btsc.bihar.gov.in/sites/default/files/2024-08/विज्ञापन संo-37_2023_Result_0.pdf"
+        ]
+    }
+]

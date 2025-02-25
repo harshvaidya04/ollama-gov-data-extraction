@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Uttar Pradesh Higher Education Service Commission",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://uphesc.org/en",
+        "event_type": "Result",
+        "document_links": [
+            "SodaPDF-merged-Merging-Result.pdf"
+        ]
+    },
+    {
+        "name": "UphESC Result",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://uphesc.org/site/writereaddata/UploadedPressRelease/pdf/C_201608071131364560.pdf",
+        "event_type": "Result",
+        "document_links": [
+            "Exam Schedule",
+            "Admit Card"
+        ]
+    },
+    {
+        "name": "UPHESC Exam",
+        "date_of_notification": null,
+        "date_of_commencement": "2025-02-24",
+        "end_date": null,
+        "apply_link": "https://uphesc.org/site/writereaddata/UploadNews/pdf/C_202411091536488173.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://uphesc.org/site/writereaddata/UploadNews/pdf/C_202411091536488173.pdf",
+            "https://uphesc.org/en"
+        ]
+    },
+    {
+        "name": "UPHESC Exam",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://uphesc.org/en",
+        "event_type": "Exam",
+        "document_links": [
+            "C_202411091534265717.pdf"
+        ]
+    }
+]
