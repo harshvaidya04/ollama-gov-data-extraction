@@ -1,0 +1,57 @@
+[
+    {
+        "name": "UPSC ESE Preliminary Examination, 2024",
+        "date_of_notification": "24 Feb 2025",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "Notif-ESEP-24-engl-060923.pdf"
+        ]
+    },
+    {
+        "name": "UPSC Engineering Services Preliminary Examination, 2024",
+        "date_of_notification": "24-02-2024",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/QP-EnggServcPrelExam-24-GENERAL-STUDIES-AND-ENGINEERING-APTITUDE-190224.pdf"
+        ]
+    },
+    {
+        "name": "UPSC Engineering Services Preliminary Examination",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20(%20Preliminary%29%20Examination,%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/QP-EnggServcPrelExam-24-ELECTRICAL-ENGINEERING-190224.pdf"
+        ]
+    },
+    {
+        "name": "Mechanical Engineering Preliminary Examination",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "QP-EnggServcPrelExam-24-MECHANICAL-ENGINEERING-190224.pdf"
+        ]
+    },
+    {
+        "name": "UPSC Engineering Services Preliminary Examination, 2024",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "QP-EnggServcPrelExam-24-CIVIL-ENGINEERING-190224.pdf"
+        ]
+    }
+]

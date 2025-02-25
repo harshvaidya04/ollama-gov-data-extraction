@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Union Public Service Commission",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/PressNote-IFSM-24-Engl-111124.pdf"
+        ],
+        "details": {
+            "exam_date": "24th November, 2024 (Sunday) all over India",
+            "e_admit_card_upload_date": "14 November, 2024",
+            "entry_closure_time": "30 minutes prior to commencement of Examination",
+            "banned_items": "valuables/costly items, mobile phones, smart/digital watches, other IT gadgets, books, bags etc.",
+            "allowed_items_inside_venue": "e-Admit Card, pen, pencil, identity proof, copies of self-photographs (whichever applicable) and any other items as specified in the Instructions of the e-Admit Card",
+            "disciplinary_action": "Cancellation of candidature of candidate, filing of FIR/police complaint against the candidate, prohibition from appearing in subsequent Session(s)/day(s) of the Examination"
+        }
+    },
+    {
+        "name": "Indian Forest Service (Main) Examination, 2024",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURAL-ENGINEERING-PAPER-II-021224.pdf"
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Combined Geo-Scientist (Preliminary) Examination, 2024",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20(%20Preliminary)%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/Notif-CombGenstPrlmExam-24-200923.pdf"
+        ]
+    },
+    {
+        "name": "UPSC Chemistry Preliminary Examination",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "2025-03-01",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20%28Preliminary%29%20Examination,%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "QP-CGeoScnstPrelExam-24-CHEMISTRY-190224.pdf"
+        ],
+        "details": {
+            "Organization": "University of Delhi",
+            "Eligibility Criteria": "Bachelor's degree in any discipline with at least 55% marks (50% for SC/ST/OBC)",
+            "Exam Format": "Multiple Choice Questions and Short Answer Questions",
+            "Application Process": "Online application through UPSC website"
+        }
+    },
+    {
+        "name": "Combined Geo-Scientist Preliminary Examination, 2024",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "2024-01-01",
+        "end_date": "2024-03-31",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20(%20Preliminary%29%20Examination,%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "QP-CGeoScnstPrelExam-24-GEOLOGY_HYDROGEOLOGY-190224.pdf"
+        ]
+    },
+    {
+        "name": "Combined Geo-Scientist (Preliminary) Examination, 2024",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20(%E2%80%9CPreliminary%29%20Examination,%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "QP-CGeoScnstPrelExam-24-GEOPHYSICS-PAPER-190224.pdf"
+        ]
+    },
+    {
+        "name": "Combined Geo-Scientist (Preliminary) Examination, 2024",
+        "date_of_notification": "24 Feb 2024",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20%28Preliminary%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "QP-CGeoScnstPrelExam-24-GENERAL-STUDIES-200224r.pdf"
+        ]
+    }
+]
