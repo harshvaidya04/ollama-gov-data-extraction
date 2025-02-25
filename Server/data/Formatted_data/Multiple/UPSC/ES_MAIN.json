@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Civil Engineering Paper I",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20(%20Main%29%20Examination,%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "QP-ESEM-24-CIVIL-ENGINEERING-PAPER-I-240624.pdf"
+        ]
+    },
+    {
+        "name": "UPSC Civil Engineering Paper-II",
+        "date_of_notification": "2024-12-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/sites/default/files/QP-ESEM-24-CIVIL-ENGINEERING-PAPER-II-240624.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/examinations/Engineering%20Services%20%28Main%29%20Examination,%202024"
+        ],
+        "details": {
+            "Exam Details": "The UPSC Civil Engineering Paper-II is an engineering service examination held by the Union Public Service Commission.",
+            "Exam Format": "Multiple choice questions and subjective questions",
+            "Exam Duration": "Three hours",
+            "Exam Topics": "Civil Engineering, including structural engineering, geotechnical engineering, transportation engineering, and urban planning."
+        }
+    },
+    {
+        "name": "UPSC Mechanical Engineering Examination",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "Not specified",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20%28Main%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "QP-ESEM-24-MECHANICAL-ENGINEERING-PAPER-I-240624.pdf"
+        ]
+    },
+    {
+        "name": "MECHANICAL ENGINEERING PAPER-II",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/sites/default/files/QP-ESEM-24-MECHANICAL-ENGINEERING-PAPER-II-240624.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/examinations/Engineering%20Services%20(%20Main%29%20Examination,%202024"
+        ]
+    },
+    {
+        "name": "UPSC ESE Main Examination",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20(Main)%20Examination,%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/QP-ESEM-24-ELECTRICAL-ENGINEERING-PAPER-I-240624.pdf"
+        ]
+    }
+]

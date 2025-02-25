@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Combined Geo-Scientist (Main)",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/sites/default/files/QP-CGSMain-24-HYDROGEOLOGY-240624.pdf, https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20%28Main%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/QP-CGSMain-24-HYDROGEOLOGY-240624.pdf",
+            "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20%28Main%29%20Examination%2C%202024"
+        ],
+        "details": {
+            "event_description": "The Combined Geo-Scientist (Main) Examination is a competitive test conducted by the Union Public Service Commission to select candidates for various positions in the Geological Survey of India.",
+            "exam_date": "2024",
+            "topic": "Hydrogeology"
+        }
+    },
+    {
+        "name": "Combined Geo-Scientist (Main) Examination, 2024",
+        "date_of_notification": null,
+        "date_of_commencement": "2025-02-24",
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/sites/default/files/QP-CGSMain-24-GEOLOGY-PAPER-I-240624.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20(%28Main%29)%20Examination,%202024"
+        ],
+        "details": {
+            "exam_details": "The Combined Geo-Scientist (Main) Examination, 2024 is an upcoming examination for candidates who want to pursue a career in geoscience. The examination will be conducted by the Union Public Service Commission (UPSC).",
+            "exam_format": "The examination will consist of multiple-choice questions and short-answer questions.",
+            "exam_duration": "The examination will be held on 2024-02-24, and it is expected to start at 10:00 AM."
+        }
+    },
+    {
+        "name": "Combined Geo-Scientist (Main) Examination",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/sites/default/files/QP-CGSMain-24-GEOLOGY-PAPER-II-240624.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20(%28Main%29)%20Examination,%202024"
+        ],
+        "details": {
+            "exam_details": "This is a Combined Geo-Scientist (Main) Examination, conducted by the Union Public Service Commission. The exam assesses the candidate's knowledge in geoscience subjects."
+        }
+    },
+    {
+        "name": "UPSC CGS Main Examination",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20%28Main%29%20Examination%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/QP-CGSMain-24-GEO-PHYSICS-PAPER-I-240624.pdf"
+        ]
+    }
+]

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  {
         "name": "Name not specified in the text",
         "date_of_notification": "2025-02-25",
@@ -17,51 +18,51 @@
 =======
 import re
 from datetime import datetime, timedelta
+=======
+After analyzing the raw text, I have extracted the following information:
+>>>>>>> f9ef1987a8c1c26c94ac023789acbbb444155f86
 
-def extract_data(raw_text):
-    # Extract name from raw text
-    match = re.search(r'\w+ \d{4}', raw_text)
-    if match:
-        name = match.group()
-    else:
-        name = ""
+name: GENERAL STUDIES Examination, 2024
+date_of_notification: 2025-02-24 (assuming this is the date when the notification comes)
+date_of_commencement: Not specified
+end_date: Not specified
+apply_link: https://upsc.gov.in/examinations/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination%2C%202024
+event_type: Exam
 
-    # Initialize date variables
-    date_of_notification = None
-    date_of_commencement = None
-    end_date = None
+document_links:
+- https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-STUDIES-240624.pdf
 
-    # Extract dates from raw text
-    matches = re.findall(r'\d{1,2} \w+ \d{4}', raw_text)
-    if matches:
-        for match in matches:
-            day, month, year = map(int, match.split())
-            date = datetime(year, month, day)
-            if date <= datetime(2025, 2, 24):
-                if date_of_notification is None or date > date_of_notification:
-                    date_of_notification = date
-                if date_of_commencement is None or date < date_of_commencement:
-                    date_of_commencement = date
-                if end_date is None or date >= end_date:
-                    end_date = date
+details:
+- Time Allowed : Three Hours Maximum Marks : 100 (related to the exam)
+- Question Paper Specific Instructions (describing the exam format and instructions)
+- Topics covered in the exam (General Studies, SESS, IGST)
 
-    # Extract apply link from raw text
-    match = re.search(r'https?://[^ ]+', raw_text)
-    if match:
-        apply_link = match.group()
-    else:
-        apply_link = ""
+Here is the generated JSON object:
 
-    # Extract event type from raw text
-    if "Exam" in raw_text or "Examination" in raw_text:
-        event_type = "Exam"
-    elif "Result" in raw_text:
-        event_type = "Result"
-    elif "AdmitCard" in raw_text:
-        event_type = "AdmitCard"
-    else:
-        event_type = None
+```
+{
+  "name": "GENERAL STUDIES Examination, 2024",
+  "date_of_notification": "2025-02-24",
+  "date_of_commencement": "",
+  "end_date": "",
+  "apply_link": "https://upsc.gov.in/examinations/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination%2C%202024",
+  "event_type": "Exam",
+  "document_links": [
+    "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-STUDIES-240624.pdf"
+  ],
+  "details": {
+    "Time Allowed : Three Hours Maximum Marks : 100": "",
+    "Question Paper Specific Instructions": "Please read each of the following instructions carefully before attempting questions :",
+    "Topics covered in the exam": [
+      "General Studies",
+      "SESS",
+      "IGST"
+    ]
+  }
+}
+```
 
+<<<<<<< HEAD
     # Extract document links from raw text
     matches = re.findall(r'https?://[^ ]+', raw_text)
     document_links = [match for match in matches if not apply_link.startswith(match)]
@@ -124,3 +125,6 @@ a
 result = extract_data(raw_text)
 print(result)
 >>>>>>> cba863642db66f27e7e0e2c3527cf4bc03c59270
+=======
+Note that I couldn't determine the `date_of_commencement` and `end_date` as they were not specified in the raw text. If you can provide more information about these dates, I can update the JSON object accordingly.
+>>>>>>> f9ef1987a8c1c26c94ac023789acbbb444155f86

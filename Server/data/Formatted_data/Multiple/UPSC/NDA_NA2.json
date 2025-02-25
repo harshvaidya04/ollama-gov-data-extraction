@@ -1,0 +1,51 @@
+[
+    {
+        "name": "National Defence Academy and Naval Academy Examination (II), 2024",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "2025-03-01",
+        "end_date": "2025-04-30",
+        "apply_link": "https://upsc.gov.in/examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/FF-NDA-NA-II-24-engl-200624.pdf"
+        ]
+    },
+    {
+        "name": "National Defence Academy & Naval Academy Examination (II), 2024",
+        "date_of_notification": "24-02-2025",
+        "date_of_commencement": "01-09-2024",
+        "end_date": null,
+        "apply_link": "https://upsconline.nic.in",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/PressNote-NDA-NA-Exam-II-2024-Engl-230824.pdf",
+            "https://upsc.gov.in/examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29,%202024"
+        ]
+    },
+    {
+        "name": "General Ability Test",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/sites/default/files/QP-NDA-NA-II-24-GENERAL-ABILITY-TEST-020924.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/examinations/National Defence Academy and Naval Academy Examination (II), 2024"
+        ]
+    },
+    {
+        "name": "NDA/NA II Mathematics Exam",
+        "date_of_notification": "2024-12-02",
+        "date_of_commencement": "2025-01-24",
+        "end_date": "2025-03-16",
+        "apply_link": "https://upsc.gov.in/examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29%2C%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/QP-NDA-NA-II-24-MATHEMATICS-020924.pdf"
+        ],
+        "details": {
+            "Time Allowed": "Two Hours and Thirty Minutes",
+            "Maximum Marks": "300"
+        }
+    }
+]

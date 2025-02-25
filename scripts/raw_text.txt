@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 FORMAT OF EXPERIENCE CERTIFICATE
 (ON LETTER HEAD OF THE BANK/FI/COMPANY/EMPLOYER)
 
@@ -28,42 +29,99 @@ Authority on the letterhead of the Company /Organization and a copy of appointme
 letter from the said Company /Organization should be attached.
 =======
 wate 2197 / Homo 2025
+=======
+|E.S/1.S.S. Examination, 2024
+GENERAL STUDIES
+>>>>>>> f9ef1987a8c1c26c94ac023789acbbb444155f86
 
-11 fersrfeet | 1
+Time Allowed : Three Hours Maximum Marks : 100
 
-3 werent Ag o2 aye Aline Hl oraerHa F) ve H organ fs arr set Ger wea,
-ara vd saa waht frat fread & —
+Question Paper Specific Instructions
 
-Qualification:- BCA or MCA/B.Tech or M.Tech,in Computer Science or Information Technology.
-Job Analysis:- Data Handling, Data Analysis with Interpretation and Result Preparation as per
+Please read each of the following instructions carefully before attempting
+questions :
 
-reservation criteria of Uttarakhand Govt.
+There are FOUR questions and all are to be attempted.
+Candidates should attempt questions/parts as per the instructions given in the questions.
+The number of marks carried by a question/part is indicated against it.
 
-Job Description:- Knowledge, Understanding and skill of:-
-1) Data preparation, classification, editing, presentation and analysis etc.
-2) Different types of sampling design, statistical tool using, interpretation indecision making and
+Candidates are required to write clear, legible and concise answers and to adhere to word
+limits, wherever indicated. Failure to adhere to word limits may be penalized. The answers
+must be written within the space provided in the Question-cum-Answer Booklet.
 
-drawing inferences,
-3) Result preparation with respect to different types of vertical and horizontal reservation
+Any page or portion of the page left blank in the Question-cum-Answer Booklet must be
+clearly struck off.
 
-allocation as per requisition of various deparments of UK. Govt.
-4) Preference allocation of post in different Govt. Departments of UK with multicadre post.
+Answers must be written in ENGLISH only.
 
-5) Software application preparation as per requirement of Commission.
-Experience:- 1- At least 4 years experience in Software Design & Development, Testing, auditing and
+Qi. Answer all of the following (in not more than 200 words each) : 5x§=25
+(a) | Why did the Harappan civilization degenerate and finally collapse ?
 
-implementation. 2- Database design, optimization, querying and backup.
+(b) Why, of all the janapadas, did Magadha alone come into prominence and
 
-wrgex UR a tat uf ws S o1 at & fore arf vd Bark smatr fea 4
-soar a ue amt & asf A aft fen a ore | vad Vasil eg ware uRsata ea
-ann wd waa—ara wy fraarpe gfe ot arr) aera Vasil Sg amqeret foear GAT SPT |
+become the seat of a powerful monarchy ?
+(c) What was Akbar’s attitude towards women ?
 
-Va Fe Sg aq va, waa HT Wh UTAGNI savas wail G wer feats 10 Are, 2025
-WH saga ST BY sAa controllerexamuksssc@gmail.com W VfFe fear GAT arava z | dq
-a MencHr 8g yaw B serra Hera TTT |
+(d) Do you agree that the formation of the Indian National Congress was in
 
-—Sd—
-afer |
+the air even if AO. Hume had not taken any initiative ?
+
+(e) What is the significance of the Rowlatt Satyagraha of 1919 ?
+
+SGSE-A-GST 1
 
 >>>>>>> cba863642db66f27e7e0e2c3527cf4bc03c59270
+
+EE” —h
+
+Q2. Answer all of the following (in not more than 200 words each) : §x5=25
+
+(a) What are the severe weather events and climate extremes associated
+with El-Nifo ?
+
+(b) . Which factors justify India’s significant potential for solar energy ?
+
+(c) Whyis the distribution of industries in India highly uneven ? Explain
+with relevant examples.
+
+(d) “Agriculture is an environment-dependent activity.” Discuss.
+
+(e) Examine the beneficial outcomes stemming from India’s National River
+Linking Project.
+
+Q3. Answer all of the following (in not more than 200 words each) : 5x5=25
+(a) Doo you think that realization of the benefits of the potential
+
+demographic dividend that India is expected to experience roughly after
+2025, is automatic ? Give reasons in support of your answer.
+
+(b) The major objective of our national planning is to reduce regional
+inequality and to ensure palanced growth. Why does India fail to achieve
+this goal ?
+
+(c) What are the factors influencing the declining trend in female workforce
+participation in India ?
+
+(d) What are the major objectives of Ayushman Bharat — National Health
+Protection Mission which was launched in September 2018 by the
+Government of India?
+
+(e) What are the emerging issues raised by some states in India in the
+context of fiscal federalism ? Express your view in this context.
+
+Q4. Answer all of the following (in not more than 200 words each) : 5x5=25
+(a) “Prime Minister is the nucleus of the Indian Political System.” Discuss.
+(b) Critically examine the idea of “One Nation, One Election” in India.
+
+(c) Explain the discretionary powers of the President of India.
+
+(d) Describe the constitutional provisions regarding the Finance
+Commission of India and explain its functions.
+
+(e) Give justification for India’s claim for permanent membership of the
+United Nations Security Council.
+
+SGSE-A-GST 2
+
+TT
 
