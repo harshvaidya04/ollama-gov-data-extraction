@@ -30,7 +30,7 @@ def generateSupremeJson(supremeData):
     # central
     orgs = supremeData["central"]
 
-    for org in orgs[9:]:
+    for org in orgs[12:]:
     # for org in orgs[7:]:
         if(org["name"] != "UPSC"):
             organization = org["name"]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "URDU Assistant Professor",
+        "date_of_notification": "2025-02-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://ncert.nic.in/vacancies.php?ln=en",
+        "event_type": "AdmitCard",
+        "details": {
+            "rawtext": "The candidate must meet the eligibility criteria and produce the testimonials which he/she possesses as on last date of submission of application i.e. 27.08.2024, In case the candidate is employed in a Govt./PSU, and has not sent the application through proper channel, she/he must submit the written permission or ‘No Objection Certificate’ from the employer permitting to appear in the interview. In the absence of such document, the candidate will not be allowed to appear in the interview and no travelling allowance will be paid.",
+            "event_details": {
+                "location": null,
+                "interview_date": null,
+                "selection_committee": null,
+                "travel_allowance": "The interview letter downloaded by the candidate will be collected and retained by the NCERT on the date of interview. The council will pay travelling expenses online for claiming 3rd AC train fare to-and-fro (except Rajdhani, Vande Bharat, Tejas Shatabadi, Duronto trains etc.) or actual fare, whichever is less.",
+                "power_point_presentation": "As a part of the interview, you may present your work done in the last 3-5 years in the concerned subject area, in the form of Power Point Presentation. The Power Point Presentation should not be more than 5 minutes time and for your presentation you should bring your own Pen drive/Hard dics.",
+                "net_exemption_certificate": "You are also required to bring NET exemption certificate from the University concerned in original."
+            },
+            "document_links": [
+                "https://ncert.nic.in/pdf/announcement/vacancies/URDU_Assistant_Professor_13_02.pdf"
+            ]
+        }
+    },
+    {
+        "name": "Screening of Application for the posis mentioned in Annexure-I",
+        "date_of_notification": "2025-02-13",
+        "date_of_commencement": "",
+        "end_date": "2025-02-19",
+        "apply_link": "https://ncert.nic.in/vacancies.php?ln=en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ncert.nic.in/pdf/announcement/vacancies/academicvacancy/R-I_Advt-174_Notice8-13-02.pdf"
+        ],
+        "details": {
+            "Location": "Sri Aurobindo Marg, New Delhi - 110016",
+            "Recruitment Portal": "ncertrec.samarth.edu.in_",
+            "Representation Email": "advtl74ncert@gmail.com"
+        }
+    },
+    {
+        "name": "Cancellation of Candidature for Senior SC UR",
+        "date_of_notification": "2025-02-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://ncert.nic.in/vacancies.php?ln=en",
+        "event_type": "Result",
+        "document_links": [
+            "https://ncert.nic.in/pdf/announcement/vacancies/nonacademicvacancy/SLA_5687-5689_18-02-25.pdf"
+        ],
+        "details": {
+            "candidate": "Mr. Ajay Kumar",
+            "application_number": "CNCN106594",
+            "reason": "He is not able to join the post.",
+            "competent_authority": "Under Secretary, Non-Academic"
+        }
+    }
+]

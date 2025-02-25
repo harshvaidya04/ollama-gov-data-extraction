@@ -1,18 +1,15 @@
 {
-      "name": "Administrative Vacancies Notification - ICMR-RMRCSVP",
-      "date_of_notification": "2025-02-24", // If not provided in the raw text, set it to this default date
-      "date_of_commencement": null, // Leave it empty if not provided in the raw text
-      "end_date": null, // Leave it empty if not provided in the raw text
-      "apply_link": "https://www.icmr.gov.in/employment-opportunities",
-      "event_type": "AdmitCard", // Based on the context of the provided raw text, set this to "Exam" or "Result" if applicable, otherwise use "AdmitCard" as a default value
-      "details": {
-        "Tel": "+91-3192-251158 | 251043",
-        "Fax": "+91-3192-251163 (Director's Office)",
-        "email": ["rmrcicmr-pb@gov.in", "directorrmrc@gmail.com", "acormrcpb.org@gmail.com", "aormrcpb@gmail.com"],
-        "website": "www.rmrc.res.in",
-        "address": "Post Bag No. 13, Dollygunj, Sri Vijaya Puram - 744 103\nAndaman & Nicobar Islands, India"
-      },
-      "document_links": [
-        "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1740027488_admnvacancynotificationicmr-rmrcsvp.pdf"
-      ]
+        "name": "Name not specified in the text",
+        "date_of_notification": "2025-02-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://sbi.co.in/web/careers/current-openings",
+        "event_type": "",
+        "document_links": ["https://sbi.co.in/documents/77530/43947057/310724-FORMAT_EXPERIENCE+CERT.pdf"],
+        "details": {
+            "event": "Experience Certificate",
+            "location": "The location is not specified in the text",
+            "date_of_joining": ". 2.2.0... eee ee eee (Date of joining from raw text)",
+            "designation": ".........-..000020000ee (Designation / Post held from raw text)"
+        }
     }
