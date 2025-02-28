@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Indian Oil Corporation Limited (IOCL) - Natural Gas Opportunities",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://iocl.com/latest-job-opening",
+        "event_type": "Exam",
+        "details": {
+            "Event Description": "Information about Natural Gas opportunities by Indian Oil Corporation Limited (IOCL)",
+            "Job Roles": [
+                "Pipeline Projects",
+                "LNG Terminal Operations",
+                "CGD Network Development"
+            ],
+            "Location": [
+                "East Coast",
+                "West Coast",
+                "North East",
+                "Jammu & Kashmir"
+            ],
+            "Documents": [
+                "https://iocl.com/download/NaturalGas_Brochure.pdf"
+            ]
+        },
+        "document_links": [
+            "https://iocl.com/download/NaturalGas_Brochure.pdf"
+        ]
+    },
+    {
+        "name": "Indian Oil Corporation Limited Natural Gas Brochure",
+        "date_of_notification": "2025-02-25",
+        "event_type": "Brochure",
+        "apply_link": "https://iocl.com/latest-job-opening",
+        "document_links": [
+            "https://iocl.com/download/NaturalGas_Brochure.pdf"
+        ],
+        "details": {
+            "Description": "Information about Indian Oil Corporation Limited's Natural Gas operations and services.",
+            "Additional Info": "Contains details about LNG terminals, gas pipelines, City Gas Distribution (CGD) networks, and more."
+        }
+    },
+    {
+        "name": "Holiday Listing/ De-listing of Vendors/ Contractors",
+        "date_of_notification": "2025-02-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://iocl.com/latest-job-opening",
+        "event_type": "Result",
+        "details": {
+            "description": "Intimation of placement on Holiday List and debarment from entering into any contracts with Indian Oil Corporation Lid. for a period of oo... months’ effective from the date hereof and be removed from the list of approved Vendors/ Contractors."
+        },
+        "document_links": [
+            "https://iocl.com/uploads/holiday2023.pdf"
+        ]
+    }
+]

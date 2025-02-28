@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Model Notification",
+        "date_of_notification": "2025-02-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://indiapostgdsonline.gov.in/",
+        "event_type": "Exam",
+        "details": {
+            "Description": "Details about the exam",
+            "Eligibility Criteria": "Criteria for eligibility",
+            "Selection Process": "Process of selection"
+        },
+        "document_links": [
+            "https://indiapostgdsonline.cept.gov.in/Notifications1/Model_Notification.pdf"
+        ]
+    }
+]

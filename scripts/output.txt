@@ -1,3 +1,85 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+{
+        "name": "Name not specified in the text",
+        "date_of_notification": "2025-02-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://sbi.co.in/web/careers/current-openings",
+        "event_type": "",
+        "document_links": ["https://sbi.co.in/documents/77530/43947057/310724-FORMAT_EXPERIENCE+CERT.pdf"],
+        "details": {
+            "event": "Experience Certificate",
+            "location": "The location is not specified in the text",
+            "date_of_joining": ". 2.2.0... eee ee eee (Date of joining from raw text)",
+            "designation": ".........-..000020000ee (Designation / Post held from raw text)"
+        }
+=======
+{4}', raw_text)
+    if match:
+        name = match.group()
+    else:
+        name = ""
+
+    # Initialize date variables
+    date_of_notification = None
+    date_of_commencement = None
+    end_date = None
+
+    # Extract dates from raw text
+    matches = re.findall(r'\d{1,2} \w+ \d{4}', raw_text)
+    if matches:
+        for match in matches:
+            day, month, year = map(int, match.split())
+            date = datetime(year, month, day)
+            if date <= datetime(2025, 2, 24):
+                if date_of_notification is None or date > date_of_notification:
+                    date_of_notification = date
+                if date_of_commencement is None or date < date_of_commencement:
+                    date_of_commencement = date
+                if end_date is None or date >= end_date:
+                    end_date = date
+
+    # Extract apply link from raw text
+    match = re.search(r'https?://[^ ]+', raw_text)
+    if match:
+        apply_link = match.group()
+    else:
+        apply_link = ""
+
+    # Extract event type from raw text
+    if "Exam" in raw_text or "Examination" in raw_text:
+        event_type = "Exam"
+    elif "Result" in raw_text:
+        event_type = "Result"
+    elif "AdmitCard" in raw_text:
+        event_type = "AdmitCard"
+    else:
+        event_type = None
+
+    # Extract document links from raw text
+    matches = re.findall(r'https?://[^ ]+', raw_text)
+    document_links = [match for match in matches if not apply_link.startswith(match)]
+
+    # If no dates are found, set default values
+    if date_of_notification is None:
+        date_of_notification = datetime(2025, 2, 24).date()
+    if date_of_commencement is None:
+        date_of_commencement = date_of_notification
+    if end_date is None:
+        end_date = datetime(2025, 12, 31).date()
+
+    return {
+        "name": name,
+        "date_of_notification": str(date_of_notification) if date_of_notification else "",
+        "date_of_commencement": str(date_of_commencement) if date_of_commencement else "",
+        "end_date": str(end_date) if end_date else "",
+        "apply_link": apply_link,
+        "event_type": event_type,
+        "document_links": document_links
+>>>>>>> cba863642db66f27e7e0e2c3527cf4bc03c59270
+    }
+=======
 {
   "name": "GENERAL STUDIES Examination, 2024",
   "date_of_notification": "2025-02-24",
@@ -18,3 +100,4 @@
     ]
   }
 }
+>>>>>>> f9ef1987a8c1c26c94ac023789acbbb444155f86

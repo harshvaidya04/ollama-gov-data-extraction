@@ -957,8 +957,146 @@
 "description": "Online Job Application System (OJAS) is a portal managed by the Gujarat government for online applications, recruitment notifications, and exam details for various government jobs in Gujarat state. It provides services such as application submission, hall ticket download, and result announcements.",
 "category": "Public Services",
 "parent_organization": "Gujarat"
-}
-
-
+},
+  {
+    "name": "Andhra Pradesh Teacher Eligibility Test",
+    "abbreviation": "APTET",
+    "description": "A state-level examination conducted by the Government of Andhra Pradesh to assess the eligibility of candidates for teaching positions in primary and upper primary schools.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Andhra Pradesh"
+  },
+  {
+    "name": "Andhra Pradesh Engineering, Agriculture, and Medical Common Entrance Test",
+    "abbreviation": "APEAMCET",
+    "description": "A state-level entrance exam conducted by APSCHE for admission into engineering, agriculture, and medical courses in Andhra Pradesh.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Andhra Pradesh"
+  },
+  {
+    "name": "National Testing Agency",
+    "abbreviation": "NTA",
+    "description": "An autonomous organization under the Ministry of Education, Government of India, responsible for conducting various national-level entrance examinations.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Central"
+  },
+  {
+    "name": "Gujarat Teacher Eligibility Test",
+    "abbreviation": "GTET",
+    "description": "A state-level exam conducted in Gujarat to determine the eligibility of candidates for teaching positions in primary and upper primary schools.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Gujarat"
+  },
+  {
+    "name": "Gujarat Subordinate Service Selection Board",
+    "abbreviation": "GSSSB",
+    "description": "A government organization in Gujarat responsible for conducting recruitment exams for various subordinate posts.",
+    "category": "Public Services",
+    "parent_organization": "Gujarat"
+  },
+  {
+    "name": "Haryana State Technical Education Society",
+    "abbreviation": "HSTES",
+    "description": "An organization under the Department of Technical Education, Government of Haryana, responsible for conducting admissions for technical courses.",
+    "category": "Technical",
+    "parent_organization": "Haryana"
+  },
+  {
+    "name": "Himachal Pradesh Combined Pre-Medical Test",
+    "abbreviation": "HPCPMT",
+    "description": "A former state-level entrance exam for MBBS and BDS courses in Himachal Pradesh, replaced by NEET.",
+    "category": "Medical",
+    "parent_organization": "Himachal Pradesh"
+  },
+  {
+    "name": "Maharashtra Teacher Eligibility Test",
+    "abbreviation": "MAHATET",
+    "description": "A state-level examination conducted by MSCE to assess the eligibility of candidates for teaching positions in Maharashtra.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Maharashtra"
+  },
+  {
+    "name": "Maharashtra Police",
+    "abbreviation": "Maharashtra Police",
+    "description": "The law enforcement agency responsible for maintaining law and order in Maharashtra.",
+    "category": "Public Services",
+    "parent_organization": "Maharashtra"
+  },
+  {
+    "name": "Maharashtra Common Entrance Test",
+    "abbreviation": "MHTCET",
+    "description": "A state-level entrance exam conducted for admission to engineering, pharmacy, and agriculture courses in Maharashtra.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Maharashtra"
+  },
+  {
+    "name": "Maharashtra State Eligibility Test",
+    "abbreviation": "MHSET",
+    "description": "A state-level eligibility test for Assistant Professor recruitment in Maharashtra and Goa.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Maharashtra"
+  },
+  {
+    "name": "Odisha Teacher Eligibility Test",
+    "abbreviation": "OTET",
+    "description": "A state-level examination to assess the eligibility of candidates for teaching positions in Odisha.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Odisha"
+  },
+  {
+    "name": "Odisha Joint Entrance Examination",
+    "abbreviation": "OJEE",
+    "description": "A state-level entrance exam for admission into various undergraduate and postgraduate courses in Odisha.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Odisha"
+  },
+  {
+    "name": "Punjab State Teacher Eligibility Test",
+    "abbreviation": "PSTET",
+    "description": "A state-level eligibility test for teaching positions in Punjab.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Punjab"
+  },
+  {
+    "name": "Punjab State Power Corporation Limited",
+    "abbreviation": "PSPCL",
+    "description": "The electricity generation and distribution company of Punjab.",
+    "category": "Technical",
+    "parent_organization": "Punjab"
+  },
+  {
+    "name": "Punjab State Cooperative Bank",
+    "abbreviation": "PSCB",
+    "description": "A cooperative bank providing banking and financial services in Punjab.",
+    "category": "Banking Finance",
+    "parent_organization": "Punjab"
+  },
+  {
+    "name": "Rajasthan Subordinate and Ministerial Services Selection Board",
+    "abbreviation": "RSMSSB",
+    "description": "A recruitment board responsible for selecting candidates for non-gazetted posts in Rajasthan.",
+    "category": "Public Services",
+    "parent_organization": "Rajasthan"
+  },
+  {
+    "name": "Teachers Recruitment Board",
+    "abbreviation": "TRB",
+    "description": "A recruitment body conducting teacher recruitment exams in states like Tamil Nadu and Tripura.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Tamil Nadu"
+  },
+  {
+    "name": "Uttar Pradesh Joint Entrance Examination",
+    "abbreviation": "UPJEE",
+    "description": "A state-level entrance exam for admission into diploma courses in polytechnic institutions in Uttar Pradesh.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Uttar Pradesh"
+  },
+  {
+    "name": "Uttarakhand Teacher Eligibility Test",
+    "abbreviation": "UTET",
+    "description": "A state-level examination to assess the eligibility of candidates for teaching positions in Uttarakhand.",
+    "category": "Higher Education Specialized Exams",
+    "parent_organization": "Uttarakhand"
+  }
 ]
 

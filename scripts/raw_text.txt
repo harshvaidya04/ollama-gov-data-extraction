@@ -1,5 +1,38 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+FORMAT OF EXPERIENCE CERTIFICATE
+(ON LETTER HEAD OF THE BANK/FI/COMPANY/EMPLOYER)
+
+This is to certify that Shri / Smt. / Ms. joined
+the
+
+services of this organization as.............-..000020000ee (Designation / Post
+held) on... . 2.2.0... eee ee eee (Date of joining). The details of his / her
+
+employment with us are as under:
+
+Nature of duties performed
+; (Clearly define the duties relating
+Period . . : F
+Period To Designation to the post applied for as
+From . ; F
+mentioned in the recruitment
+notification)
+Name .........2.0:0cceceeeeeeee eens
+Designation and Department.................::::::::eee
+Rubber Stamp
+Date:
+Place:
+
+Note: The certificate on the above format should be issued by the Competent
+Authority on the letterhead of the Company /Organization and a copy of appointment
+letter from the said Company /Organization should be attached.
+=======
+wate 2197 / Homo 2025
+=======
 |E.S/1.S.S. Examination, 2024
 GENERAL STUDIES
+>>>>>>> f9ef1987a8c1c26c94ac023789acbbb444155f86
 
 Time Allowed : Three Hours Maximum Marks : 100
 
@@ -37,6 +70,7 @@ the air even if AO. Hume had not taken any initiative ?
 
 SGSE-A-GST 1
 
+>>>>>>> cba863642db66f27e7e0e2c3527cf4bc03c59270
 
 EE” —h
 
