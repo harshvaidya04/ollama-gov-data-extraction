@@ -4,7 +4,7 @@ from supremeJsonGenerator import initializeSupremeJsonGenerator
 def initMaster():
     # generateSupremeLinks()
     # print("Links Scraped")
-    initializeSupremeJsonGenerator()
+    # initializeSupremeJsonGenerator()
     print("JSON GENERATION COMPLETE")
 print("GG")
 initMaster()
