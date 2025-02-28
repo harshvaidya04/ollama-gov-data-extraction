@@ -1097,6 +1097,22 @@
     "description": "A state-level examination to assess the eligibility of candidates for teaching positions in Uttarakhand.",
     "category": "Higher Education Specialized Exams",
     "parent_organization": "Uttarakhand"
+  },
+  {
+    "name": "Himachal Pradesh Teacher Eligibility Test",
+    "abbreviation": "HPTET",
+    "description": "HPTET is a state-level examination conducted by the Himachal Pradesh Board of School Education (HPBOSE) to assess the eligibility of candidates for teaching positions in primary (Classes 1–5) and upper primary (Classes 6–8) schools in Himachal Pradesh. Qualifying HPTET is mandatory for aspiring teachers in government and private schools within the state.",
+"category": "Higher Education Specialized Exams",
+    "parent_organization": "Himachal Pradesh"
+  },
+  {
+    "name": "Gujarat Common Entrance Test",
+    "abbreviation": "GUJCET",
+    "description": "GUJCET is a state-level entrance exam conducted by the Gujarat Secondary and Higher Secondary Education Board (GSEB) for admission into engineering and pharmacy courses in various colleges and universities across Gujarat. The exam is based on the Gujarat Board syllabus for Class 11 and 12.",
+"category": "Higher Education Specialized Exams",
+    "parent_organization": "Gujarat"
+    
   }
+
 ]
 
