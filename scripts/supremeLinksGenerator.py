@@ -9,30 +9,30 @@ def generateSupremeLinks():
         "central":[]
     }
 
-    # # reading existing data
-    # with open("documentLinksSupreme.json",'r', encoding='utf-8') as f:
-    #     supremeData = json.load(f)
+    # reading existing data
+    with open("documentLinksSupreme.json",'r', encoding='utf-8') as f:
+        supremeData = json.load(f)
 
 
     # Central
 
-    print("Extracting central")
-    centralData = []
-    with open("../Server/data/LinksData/Central/Central.csv", 'r', encoding='utf-8') as f:
-        centralData = f.read().split('\n')[1:]
+    # print("Extracting central")
+    # centralData = []
+    # with open("../Server/data/LinksData/Central/Central.csv", 'r', encoding='utf-8') as f:
+    #     centralData = f.read().split('\n')[1:]
         
-    for cd in centralData:
-        data = cd.split(',')
-        websiteName = data[0]
-        websiteLink = data[1]
-        newState = {}
-        links = get_document_links(url=websiteLink)
-        newState["name"]=websiteName
-        newState["applyLink"]=websiteLink
-        newState["links"]=links
-        supremeData["central"].append(newState)
+    # for cd in centralData:
+    #     data = cd.split(',')
+    #     websiteName = data[0]
+    #     websiteLink = data[1]
+    #     newState = {}
+    #     links = get_document_links(url=websiteLink)
+    #     newState["name"]=websiteName
+    #     newState["applyLink"]=websiteLink
+    #     newState["links"]=links
+    #     supremeData["central"].append(newState)
         
-    print("Central done")
+    # print("Central done")
 
 
     # UPSC
@@ -67,37 +67,37 @@ def generateSupremeLinks():
 
     # State
 
-    print("State start")
-    states = os.listdir('../Server/data/LinksData/States')
+    # print("State start")
+    # states = os.listdir('../Server/data/LinksData/States')
 
-    for state in states:   
-        newState = {}
-        stateName = state.split('.')[0]    
-        newState["name"]=stateName
-        newState["organizations"]=[]
+    # for state in states:   
+    #     newState = {}
+    #     stateName = state.split('.')[0]    
+    #     newState["name"]=stateName
+    #     newState["organizations"]=[]
         
-        stateOrganizations=[]
-        with open(f"../Server/data/LinksData/States/{state}",'r', encoding='utf-8') as f:
-            stateOrganizations = f.read().split("\n")[1:]
+    #     stateOrganizations=[]
+    #     with open(f"../Server/data/LinksData/States/{state}",'r', encoding='utf-8') as f:
+    #         stateOrganizations = f.read().split("\n")[1:]
             
-        for so in stateOrganizations:
-            data = so.split(',')
-            orgName = data[0]
-            orgWebsite = data[1]
+    #     for so in stateOrganizations:
+    #         data = so.split(',')
+    #         orgName = data[0]
+    #         orgWebsite = data[1]
             
-            links = get_document_links(orgWebsite)
+    #         links = get_document_links(orgWebsite)
             
-            newOrg = {}
-            newOrg["name"] = orgName
-            newOrg["applyLink"] = orgWebsite
-            newOrg["links"] = links
+    #         newOrg = {}
+    #         newOrg["name"] = orgName
+    #         newOrg["applyLink"] = orgWebsite
+    #         newOrg["links"] = links
             
-            newState["organizations"].append(newOrg)    
+    #         newState["organizations"].append(newOrg)    
 
-        supremeData["state"].append(newState)
-        print(state, "done")
+    #     supremeData["state"].append(newState)
+    #     print(state, "done")
         
-    print("States done")        
+    # print("States done")        
 
         
     with open("../scripts/documentLinksSupreme.json","w") as f:

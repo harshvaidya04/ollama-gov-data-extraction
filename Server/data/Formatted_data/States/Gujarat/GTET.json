@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Gyan Sadhana Merit Scholarship Exam",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "2025-05-31",
+        "apply_link": "https://www.sebexam.org/",
+        "event_type": "Exam",
+        "document_links": [
+        ]
+    },
+    {
+        "name": "NMMS 2024-25 Exam",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.sebexam.org/AdvertiseFiles/2025/nmms-2024-25 set-a eng.medium qp_022025.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.sebexam.org/"
+        ],
+        "details": {
+            "Examination Type": "Written Exam",
+            "Exam Duration": "2 hours",
+            "Subjects": [
+                "Mathematics",
+                "Science"
+            ],
+            "Eligibility Criteria": "Class VI to Class X students"
+        }
+    },
+    {
+        "name": "SEB Exam",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.sebexam.org/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.sebexam.org/AdvertiseFiles/2025/nmms-2024-25 set-a guj. medium qp_022025.pdf"
+        ]
+    }
+]

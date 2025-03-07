@@ -1,0 +1,72 @@
+[
+    {
+        "name": "EAPCET (Engineering Admissions Process Common Entrance Test)",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2025-05-01",
+        "end_date": "",
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2024_Syllabus_Engineering.pdf",
+        "event_type": "Exam",
+        "document_links": [
+        ]
+    },
+    {
+        "name": "EAPCET",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2025-05-01",
+        "end_date": "",
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2024_Syllabus_Agriculture_and_Pharmacy.pdf",
+        "event_type": "Exam",
+        "document_links": [
+        ]
+    },
+    {
+        "name": "AP EAPCET - 2024",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2024-05-16",
+        "end_date": "2024-05-23",
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2024_Notification_V2.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2024_Notification_V2.pdf",
+            "https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx"
+        ],
+        "details": {
+            "Stream Dates": "Engineering (E) Rs.600/- Rs.550/- Rs.500/-\nAgriculture (A) To oe tNoy a0 eM Rs.600/- Rs.550/- Rs.500/\nE&A (Both Streams) Rs. 1200/- Rs. 1100/- | Rs. 1000/-\nImportant Dates for Online Application Process\nCommencement of Last Date for Submission Downloading of Hall Tickets\nApplication Submission without Late Fee from the Website\nThe Registration Fee may be paid through payment gateway/credit/ debit/net banking\nLast Date for Submission of Online Application wi",
+            "Registration Fee": "Rs.500/- 30.04.2024 Rs.1000/- 05.05.2024 Rs.5000/- 10.05.2024 Rs.10000/- 12.05.2024"
+        }
+    },
+    {
+        "name": "Andhra Pradesh Engineering, Agriculture and Medical Councils (AP EAMCET)",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2024_UserGuide.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx"
+        ],
+        "details": {
+            "Application Process": "The application process is typically open from January to February of each year.",
+            "Examination Details": "The examination is usually held in April of each year.",
+            "Eligibility Criteria": "The eligibility criteria for AP EAMCET include qualifying marks in the entrance test and meeting certain academic requirements.",
+            "Exam Format": "The exam format typically includes multiple-choice questions and short-answer questions.",
+            "Test Centers": "The test centers are usually located in various cities across Andhra Pradesh, including Hyderabad, Guntur, and Vijayawada."
+        }
+    },
+    {
+        "name": "APEAPCET 2024",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2024-05-04",
+        "end_date": "2024-05-06",
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2024_Corrections.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2024_Corrections.pdf",
+            "https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx"
+        ],
+        "details": {
+            "description": "Engineering, Agriculture and Pharmacy Common Entrance Test conducted by Jawaharlal Nehru Technological University Kakinada.",
+            "correction_instructions": "Corrections related to CATEGORY-1 items will be done at CONVENER, AP EAPCET-2024 Office, subject to thorough Verification of the Valid Documents and Approval by the Committee. Corrections related to CATEGORY-2 in the Filled in Online Application Form should be done by the candidate during the permitted period (04.05.2024 to 06.05.2024) only."
+        }
+    }
+]

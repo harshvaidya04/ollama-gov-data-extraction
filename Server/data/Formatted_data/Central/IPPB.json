@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Government Disability Certificate",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.ippbonline.com/web/ippb/current-openings",
+        "event_type": "Result",
+        "document_links": [
+            "https://www.ippbonline.com/documents/20133/133019/1740805288805.pdf"
+        ]
+    },
+    {
+        "name": "Disability Certificate",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.ippbonline.com/documents/20133/133019/1740805290092.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ippbonline.com/web/ippb/current-openings"
+        ],
+        "details": {
+            "description": "A document for disabled individuals to prove their disability.",
+            "format": "PDF",
+            "purpose": "To provide evidence of disability for various purposes such as employment, education, and government benefits."
+        }
+    },
+    {
+        "name": "Disability Certificate Form",
+        "date_of_notification": "2025-03-06T00:00:00+08:30",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.ippbonline.com/web/ippb/current-openings",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ippbonline.com/documents/20133/133019/1736427021443.pdf"
+        ],
+        "details": {
+            "description": "Disability Certificate Form for Government Hospitals",
+            "version": "",
+            "author": ""
+        }
+    },
+    {
+        "name": "IPOB Exam",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.ippbonline.com/web/ippb/current-openings",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ippbonline.com/documents/20133/133019/1736427022121.pdf"
+        ]
+    },
+    {
+        "name": "IPB Online Exam Details",
+        "date_of_notification": "2025-03-06T00:00:00Z",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.ippbonline.com/web/ippb/current-openings",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ippbonline.com/documents/20133/133019/1734713719340.pdf"
+        ]
+    }
+]

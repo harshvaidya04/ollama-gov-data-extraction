@@ -1,0 +1,69 @@
+[
+    {
+        "name": "JEE Main Exam",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012056.pdf"
+        ],
+        "details": {
+            "exam_type": "Objective Type",
+            "test_duration": "Three Hours",
+            "total_questions": 50,
+            "drawing_test": true,
+            "subject_areas": [
+                "Physics",
+                "Chemistry",
+                "Mathematics"
+            ]
+        }
+    },
+    {
+        "name": "JEE (Main) 2025",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2025-02-23",
+        "end_date": "",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/20250223100.pdf"
+        ]
+    },
+    {
+        "name": "National Technical University Examination",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2025-02-23",
+        "end_date": "2025-04-30",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025022236.pdf"
+        ],
+        "details": {
+            "examination_type": "Online",
+            "exam_date": "2025-05-15",
+            "time_duration": "3 hours",
+            "subject_areas": [
+                "Mathematics",
+                "Science",
+                "Engineering"
+            ],
+            "application_deadline": "2025-03-31"
+        }
+    },
+    {
+        "name": "National Testing Agency",
+        "date_of_notification": "2025-02-15",
+        "date_of_commencement": "2025-02-15",
+        "end_date": "2025-02-16",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025021573.pdf"
+        ],
+        "details": {}
+    }
+]

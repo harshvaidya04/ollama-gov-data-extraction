@@ -36,7 +36,7 @@ def extract_exam_page_links(content_array):
             link = soup.find("a")["href"]
 
             if not link.startswith("http"):
-                link = "https://upsc.gov.in/" + quote(link)
+                link = "https://upsc.gov.in/" + (link)
             exam_page_links.append(link)
 
     return exam_page_links

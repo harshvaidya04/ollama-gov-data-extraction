@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Mahapolice Vishesh Seva Padak",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.mahapolice.gov.in/police-recruitment/",
+        "event_type": "Exam",
+        "document_links": [
+            "Vishesh Seva Padak.pdf",
+            "Police Recruitment"
+        ],
+        "details": {
+            "About Vishesh Seva Padak": "The Mahapolice Vishesh Seva Padak is a prestigious award given to exceptional individuals in the field of policing.",
+            "Eligibility Criteria": "The eligibility criteria for the Mahapolice Vishesh Seva Padak are as follows: The candidate should be a citizen of India, aged between 18-40 years, and have a bachelor's degree from a recognized university."
+        }
+    },
+    {
+        "name": "Maharashtra Police Recruitment",
+        "event_type": "Exam",
+        "apply_link": "https://www.mahapolice.gov.in/police-recruitment/",
+        "document_links": [
+            "https://www.mahapolice.gov.in/uploads/1cfbbddc5a4b004894b7045176a85d8b.pdf"
+        ],
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "details": {
+            "last_updated": "Nov 28, 2020",
+            "developer_contact": {
+                "National Informatics Center": ""
+            },
+            "secure_authentication_tools": [
+                "IMAP as a service",
+                "Apply country policy"
+            ]
+        }
+    }
+]

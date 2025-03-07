@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Gujarat Common Entrance Test",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://gujcet.gseb.org/",
+        "event_type": "Exam",
+        "document_links": [
+        ]
+    },
+    {
+        "name": "Gujarat Class 10th State Board Examination",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "2025-07-31",
+        "apply_link": "https://gujcet.gseb.org/",
+        "event_type": "Exam",
+        "document_links": [
+        ],
+        "details": {
+            "exam_dates": [
+                "2025-04-01 to 2025-07-31"
+            ],
+            "exam_centers": [
+                "Ahmedabad, Vadodara, Surat, Rajkot"
+            ],
+            "duration": "3 hours",
+            "questions": "100 questions"
+        }
+    },
+    {
+        "name": "Gujarat University Entrance Test",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "2025-05-31",
+        "apply_link": "https://gujcet.gseb.org/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://gujcet.gseb.org/Instructions/ENGLISH_INSTRUCTION.pdf"
+        ]
+    },
+    {
+        "name": "Gujarat Secondary Education Board",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2024-11-15",
+        "end_date": "2026-01-31",
+        "apply_link": "https://gujcet.gseb.org/",
+        "event_type": "Exam",
+        "document_links": [
+        ]
+    }
+]

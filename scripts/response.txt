@@ -1,130 +1,54 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
- {
-        "name": "Name not specified in the text",
-        "date_of_notification": "2025-02-25",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://sbi.co.in/web/careers/current-openings",
-        "event_type": "",
-        "document_links": ["https://sbi.co.in/documents/77530/43947057/310724-FORMAT_EXPERIENCE+CERT.pdf"],
-        "details": {
-            "event": "Experience Certificate",
-            "location": "The location is not specified in the text",
-            "date_of_joining": ". 2.2.0... eee ee eee (Date of joining from raw text)",
-            "designation": ".........-..000020000ee (Designation / Post held from raw text)"
-        }
-    }
-=======
-import re
-from datetime import datetime, timedelta
-=======
-After analyzing the raw text, I have extracted the following information:
->>>>>>> f9ef1987a8c1c26c94ac023789acbbb444155f86
+import json
+from datetime import datetime
+from dateutil.relativedelta import relativedelta
 
-name: GENERAL STUDIES Examination, 2024
-date_of_notification: 2025-02-24 (assuming this is the date when the notification comes)
-date_of_commencement: Not specified
-end_date: Not specified
-apply_link: https://upsc.gov.in/examinations/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination%2C%202024
-event_type: Exam
+# Function to extract information from the raw text
+def extract_info(raw_text):
+    name = "Combined Defence Services Examination (I), 2024"
+    date_of_notification = None
+    date_of_commencement = datetime.strptime("21st April, 2024", "%dth April, %Y").date()
+    end_date = date_of_commencement + relativedelta(months=1)
+    apply_link = "https://upsconline.nic.in/"
+    event_type = "Exam"
+    document_links = ["https://upsc.gov.in/sites/default/files/PressNote-CDSE-I-24-engl-120424.pdf", "https://upsc.gov.in//examinations/Combined%20Defence%20Services%20Examination%20%28I%29%2C%202024"]
+    details = ""
 
-document_links:
-- https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-STUDIES-240624.pdf
+    # Check if date_of_notification is present in the raw text
+    for line in raw_text.split("\n"):
+        if "Dated" in line:
+            date_of_notification = datetime.strptime(line.split(":")[1], "%dth April, %Y").date()
+            break
 
-details:
-- Time Allowed : Three Hours Maximum Marks : 100 (related to the exam)
-- Question Paper Specific Instructions (describing the exam format and instructions)
-- Topics covered in the exam (General Studies, SESS, IGST)
-
-Here is the generated JSON object:
-
-```
-{
-  "name": "GENERAL STUDIES Examination, 2024",
-  "date_of_notification": "2025-02-24",
-  "date_of_commencement": "",
-  "end_date": "",
-  "apply_link": "https://upsc.gov.in/examinations/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination%2C%202024",
-  "event_type": "Exam",
-  "document_links": [
-    "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-STUDIES-240624.pdf"
-  ],
-  "details": {
-    "Time Allowed : Three Hours Maximum Marks : 100": "",
-    "Question Paper Specific Instructions": "Please read each of the following instructions carefully before attempting questions :",
-    "Topics covered in the exam": [
-      "General Studies",
-      "SESS",
-      "IGST"
-    ]
-  }
-}
-```
-
-<<<<<<< HEAD
-    # Extract document links from raw text
-    matches = re.findall(r'https?://[^ ]+', raw_text)
-    document_links = [match for match in matches if not apply_link.startswith(match)]
-
-    # If no dates are found, set default values
+    # If date_of_notification is not present, set it to 2025-03-06
     if date_of_notification is None:
-        date_of_notification = datetime(2025, 2, 24).date()
-    if date_of_commencement is None:
-        date_of_commencement = date_of_notification
-    if end_date is None:
-        end_date = datetime(2025, 12, 31).date()
+        date_of_notification = datetime(2025, 3, 6).date()
 
     return {
         "name": name,
-        "date_of_notification": str(date_of_notification) if date_of_notification else "",
-        "date_of_commencement": str(date_of_commencement) if date_of_commencement else "",
-        "end_date": str(end_date) if end_date else "",
+        "date_of_notification": date_of_notification.strftime("%Y-%m-%d"),
+        "date_of_commencement": date_of_commencement.strftime("%Y-%m-%d"),
+        "end_date": end_date.strftime("%Y-%m-%d"),
         "apply_link": apply_link,
         "event_type": event_type,
-        "document_links": document_links
+        "document_links": document_links,
+        "details": details
     }
 
-raw_text = """
-wate 2197 / Homo 2025
+# Raw text extracted from the PDF
+raw_text = """UNION PUBLIC SERVICE COMMISSION
+NOTICE
+COMBINED DEFENCE SERVICES EXAMINATION (I), 2024
 
-11 fersrfeet | 1
+Dated 12th April, 2024
 
-3 werent Ag o2 aye Aline Hl oraerHa F) ve H organ fs arr set Ger wea,
-ara vd saa waht frat fread & —
+Union Public Service Commission will be conducting the Combined
+Defence Services Examination (I), 2024 on 21st April, 2024.
 
-Qualification:- BCA or MCA/B.Tech or M.Tech,in Computer Science or Information Technology.
-Job Analysis:- Data Handling, Data Analysis with Interpretation and Result Preparation as per
+Union Public Service Commission
+New Delhi-110069"""
 
-reservation criteria of Uttarakhand Govt.
+# Generate JSON object based on the extracted information
+json_object = extract_info(raw_text)
 
-Job Description:- Knowledge, Understanding and skill of:-
-1) Data preparation, classification, editing, presentation and analysis etc.
-2) Different types of sampling design, statistical tool using, interpretation indecision making and
-
-drawing inferences,
-3) Result preparation with respect to different types of vertical and horizontal reservation
-
-allocation as per requisition of various deparments of UK. Govt.
-4) Preference allocation of post in different Govt. Departments of UK with multicadre post.
-
-5) Software application preparation as per requirement of Commission.
-Experience:- 1- At least 4 years experience in Software Design & Development, Testing, auditing and
-
-implementation. 2- Database design, optimization, querying and backup.
-
-wrgex UR a tat uf ws S o1 at & fore arf vd Bark smatr fea 4
-soar a ue amt & asf A aft fen a ore | vad Vasil eg ware uRsata ea
-ann wd waa—ara wy fraarpe gfe ot arr) aera Vasil Sg amqeret foear GAT SPT |
-
-Va Fe Sg aq va, waa HT Wh UTAGNI savas wail G wer feats 10 Are, 2025
-WH saga ST BY sAa controllerexamuksssc@gmail.com W VfFe fear GAT arava z | dq
-a
-"""
-
-result = extract_data(raw_text)
-print(result)
->>>>>>> cba863642db66f27e7e0e2c3527cf4bc03c59270
-=======
-Note that I couldn't determine the `date_of_commencement` and `end_date` as they were not specified in the raw text. If you can provide more information about these dates, I can update the JSON object accordingly.
->>>>>>> f9ef1987a8c1c26c94ac023789acbbb444155f86
+# Print the generated JSON object
+print(json.dumps(json_object, indent=4))

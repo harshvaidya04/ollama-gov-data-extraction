@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Himachal Pradesh Board of Secondary Education",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "http://hpbose.org/Admin/Upload/HPBoSE.Affiliation.List.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "http://hpbose.org/CurrentRecruitments.aspx"
+        ],
+        "details": {
+            "affiliative_status": null,
+            "school_code": null
+        }
+    },
+    {
+        "name": "Terms & Conditions for Center Creation (Private Schools)",
+        "date_of_notification": "",
+        "date_of_commencement": "2025-01-01",
+        "end_date": "2025-07-31",
+        "apply_link": "http://hpbose.org/Admin/Upload/Noti.SOS.T.C.30.09.2024.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "http://hpbose.org/Admin/Upload/Noti.SOS.T.C.30.09.2024.pdf",
+            "http://hpbose.org/CurrentRecruitments.aspx"
+        ],
+        "details": {
+            "description": "This is a detailed description of the terms and conditions for center creation in private schools.",
+            "fees": "Center Creation Fee: ₹ 7000/-, Short Candidate Fee: ₹ 3000/- per center or as prescribed by the Board from time to time."
+        }
+    }
+]

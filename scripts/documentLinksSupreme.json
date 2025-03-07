@@ -5319,98 +5319,363 @@
       "organizations": [
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Combined%2520Medical%2520Services%2520Examination%252C%25202025",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202025",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-CAPF-25-Engl-050325.pdf",
+            "https://upsc.gov.in/sites/default/files/Instructions-CAPF-25-Engl-050325.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Indian%2520Economic%2520Service%2520-%2520Indian%2520Statistical%2520Service%2520Examination%252C%25202025",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Combined%20Medical%20Services%20Examination%2C%202025",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-CMSE-2025-Engl-190225.pdf",
+            "https://upsc.gov.in/sites/default/files/Instructions-CMSE-2025-Engl-190225.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Indian%2520Forest%2520Service%2520%2528Preliminary%2529%2520Examination%252C%25202025%2520through%2520CS%2528P%2529%2520Examination%25202025",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination%2C%202025",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-IES-ISS-Exam-2025-English-120225.pdf",
+            "https://upsc.gov.in/sites/default/files/Istructions-IES-ISS-Exam-2025-English-120225.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Civil%2520Services%2520%2528Preliminary%2529%2520Examination%252C%25202025",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Indian%20Forest%20Service%20%28Preliminary%29%20Examination%2C%202025%20through%20CS%28P%29%20Examination%202025",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/RevNotif-IFSP-2025-Engl-220125.pdf",
+            "https://upsc.gov.in/sites/default/files/Notification-Instructions-CSP-IFSP-2025-Engl-220125_1.pdf",
+            "https://upsc.gov.in/sites/default/files/Ticker-Notice-CSP-25-Engl-13022025R_0.pdf",
+            "https://upsc.gov.in/sites/default/files/Corrigendum-IFSP-25-Engli-310125.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Combined%2520Defence%2520Services%2520Examination%2520%2528I%2529%252C%25202024%2520%2528OTA%2529",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202025",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-CSP-2025-Engl-220125.pdf",
+            "https://upsc.gov.in/sites/default/files/Notification-Instructions-CSP-IFSP-2025-Engl-220125.pdf",
+            "https://upsc.gov.in/sites/default/files/Ticker-Notice-CSP-25-Engl-13022025R_1.pdf",
+            "https://upsc.gov.in/sites/default/files/Corrigendum-CSP-25-Engl-310125.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/National%2520Defence%2520Academy%2520and%2520Naval%2520Academy%2520Examination%2520%2528I%2529%252C%25202025",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Combined%20Defence%20Services%20Examination%20%28I%29%2C%202024%20%28OTA%29",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/FR-CDSE-I-24-OTA-Engl-070125.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Combined%2520Defence%2520Services%2520Examination%2520%2528I%2529%252C%25202025",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28I%29%2C%202025",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notific-NDA-NA-I-2025-Engl-11122024F.pdf",
+            "https://upsc.gov.in/sites/default/files/FictFee-NDA-NA-I-2025-Engl-140125.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/CISF%2520AC%2528EXE%2529%2520LDCE-2025",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Combined%20Defence%20Services%20Examination%20%28I%29%2C%202025",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notifi-CDSE-I-2025-Engl-11122024F.pdf",
+            "https://upsc.gov.in/sites/default/files/FF-CDSE-I-2025-Engl-14012025.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Combined%2520Section%2520Officer%2520%2528Grade-B%2529%2520LDCE%252C%25202024",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/CISF%20AC%28EXE%29%20LDCE-2025",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-CISF-AC-EXE-LDCE-25-Engl-041224.pdf",
+            "https://upsc.gov.in/sites/default/files/AddendumNotice-CISF-25-Engl-050325.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Engineering%2520Services%2520%2528Preliminary%2529%2520Examination%252C%25202025",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Combined%20Section%20Officer%20%28Grade-B%29%20LDCE%2C%202024",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-Instr-CSO-GrB-LDCE-24-Engl-131124.pdf",
+            "https://upsc.gov.in/sites/default/files/Instructions-SO-LDCE-24-Engl-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/TimeTable-SO-LDCE-2024-Eng-171224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-I-130125.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-ProcedurePractice-Categories-I-and-VIII-130125.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-ProcedurePracticeCategory-II-130125.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-Procedure-Practice-Category-III-130125.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-ProcedurePracticeCategory-X-130125.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-III-NOTING-DRAFTING-PRECIS-WRITING-130125.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Combined%2520Geo-Scientist%2520%2528Preliminary%2529%2520Examination%252C%25202025",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202025",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-ESEP-25-Engl-031024R.pdf",
+            "https://upsc.gov.in/sites/default/files/TT-ESEP-25-Engl-061124.pdf",
+            "https://upsc.gov.in/sites/default/files/Noti_ESEP_2025_Eng_10102024.pdf",
+            "https://upsc.gov.in/sites/default/files/PressReleaseESEP-2025-Engl-181024.pdf",
+            "https://upsc.gov.in/sites/default/files/Addendum-ESEP-2025-Engl-181024R.pdf",
+            "https://upsc.gov.in/sites/default/files/FF-ESEP-25-Engl-101224.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Indian%2520Forest%2520Service%2520%2528Main%2529%2520Examination%252C%25202024",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Combined%20Geo-Scientist%20%28Preliminary%29%20Examination%2C%202025",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-CGSPE-25-English-04092024_0.pdf",
+            "https://upsc.gov.in/sites/default/files/FF-CGeoScnstPrlmExam-25-Engli-071024.pdf",
+            "https://upsc.gov.in/sites/default/files/e-AC-Notice-GeoScnstPre-25-Engl-310125.pdf",
+            "https://upsc.gov.in/sites/default/files/TT-CGeoScnstPreExam-25-Engl-071124.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-GENERAL-STUDIES-PAPER-I-100225.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-CHEMISTRY-PAPER-II-100225.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-GEOLOGY-HYDROGEOLOGY-PAPER-II-100225.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-GEOPHYSICS-PAPER-II-100225.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Civil%2520Services%2520%2528Main%2529%2520Examination%252C%25202024",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202024",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/ImpNotice-IFSM-24-DAF-I-Engl-270824.pdf",
+            "https://upsc.gov.in/sites/default/files/TT-IFSM-Engl-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/PressNote-IFSM-24-Engl-111124.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURAL-ENGINEERING-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURAL-ENGINEERING-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURE-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURE-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ANIMAL-HUSBANDRY-VETERINARY-SCIENCE-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ANIMAL-HUSBANDRY-VETERINARY-SCIENCE-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-BOTANY-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-BOTANY-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMICAL-ENGINEERING-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMICAL-ENGINEERING-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMISTRY-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMISTRY-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CIVIL-ENGINEERING-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CIVIL-ENGINEERING-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-FORESTRY-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-FORESTRY-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GENERAL-ENGLISH-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GENERAL-KNOWLEDGE-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GEOLOGY-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GEOLOGY-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MATHEMATICS-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MATHEMATICS-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MECHANICAL-ENGINEERING-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MECHANICAL-ENGINEERING-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-PHYSICS-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-PHYSICS-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-STATISTICS-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-STATISTICS-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ZOOLOGY-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ZOOLOGY-PAPER-II-021224.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-IFSM-24-NameList-Engl-140125.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-IFSM-24-Engl-130125.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/National%2520Defence%2520Academy%2520and%2520Naval%2520Academy%2520Examination%2520%2528II%2529%252C%25202024",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Civil%20Services%20%28Main%29%20Examination%2C%202024",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/DAF-I-Notice-CSME-2024-engl-030724.pdf",
+            "https://upsc.gov.in/sites/default/files/TT-CSM-24-engl-090824.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_ESSAY_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_I_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_II_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_III_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_IV_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Assa_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Beng_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Bodo_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Eng_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Guj_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Hn_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Kann_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mait_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mala_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mara_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Nepa_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Odia_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Pun_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Snk_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Sind_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Tamil_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Telu_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Urdu_Comp_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Assa_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Assa_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Beng_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Beng_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Eng_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Eng_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Guj_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Guj_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Hn_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Hn_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Kann_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Kann_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mait_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mait_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mala_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mala_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mani_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mani_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mara_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mara_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Odia_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Odia_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Pun_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Pun_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Sind_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Sind_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Snk_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Snk_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Tam_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Tam_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Telu_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Telu_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Urdu_P_I_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Urdu_P_II_Lite_03102024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-AGRICULTURE-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-AGRICULTURE-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANIM-HUSB-VET-SCIENCE-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANIM-HUSB-VET-SCIENCE-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANTHROPOLOGY-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANTHROPOLOGY-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-BOTANY-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-BOTANY-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-CHEMISTRY-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-CHEMISTRY-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-CIVIL-ENGINEERING-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-CIVIL-ENGINEERING-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-COMMERCE-AND-ACCOUNTANCY-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-COMMERCE-AND-ACCOUNTANCY-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-ECONOMICS-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-ECONOMICS-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-ELECTRICAL-ENGINEERING-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-ELECTRICAL-ENGINEERING-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOGRAPHY-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOGRAPHY-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOLOGY-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOLOGY-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-HISTORY-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-HISTORY-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-LAW-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-LAW-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-MANAGEMENT-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-MANAGEMENT-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-MATHEMATICS-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-MATHEMATICS-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-MECHANICAL-ENGINEERING-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-MECHANICAL-ENGINEERING-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-MEDICAL-SCIENCE-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-MEDICAL-SCIENCE-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHILOSOPHY-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHILOSOPHY-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHYSICS-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHYSICS-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-POLITICAL-SCIENCE-INTERNL -REL-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-POLITICAL-SCIENCE-INTERNL -REL-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-PSYCHOLOGY-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-PSYCHOLOGY-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-PUBLIC-ADMINISTRATION-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-PUBLIC-ADMINISTRATION-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-SOCIOLOGY-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-SOCIOLOGY-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-STATISTICS-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-STATISTICS-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-ZOOLOGY-PAPER-I-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSM-24-ZOOLOGY-PAPER-II-031024.pdf",
+            "https://upsc.gov.in/sites/default/files/CSM_2024_Intv_Eng_20122024.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-CSM-24-NameList-Engl-091224.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-CSM-24-RollList-Engl-091224.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Combined%2520Defence%2520Services%2520Examination%2520%2528II%2529%252C%25202024",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29%2C%202024",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-NDA-II-2024-engl-150524F.pdf",
+            "https://upsc.gov.in/sites/default/files/FF-NDA-NA-II-24-engl-200624.pdf",
+            "https://upsc.gov.in/sites/default/files/PressNote-NDA-NA-Exam-II-2024-Engl-230824.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-NDA-NA-II-24-GENERAL-ABILITY-TEST-020924.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-NDA-NA-II-24-MATHEMATICS-020924.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-NDA-NA-II-2024-Roll-Engl-200924.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-NDA-NA-II-2024-NameList-Engl-23092024.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Central%2520Armed%2520Police%2520Forces%2520%2528ACs%2529%2520Examination%252C%25202024",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Combined%20Defence%20Services%20Examination%20%28II%29%2C%202024",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-CDS-II-2024-engl-150524.pdf",
+            "https://upsc.gov.in/sites/default/files/FictFee-CDSE-II-24-engl-190624.pdf",
+            "https://upsc.gov.in/sites/default/files/PressNote-CDSE-II-24-engl-230824.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CDSE-II-24-ENGLISH-020924.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CDSE-II-24-GENERAL-KNOWLEDGE-020924.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CDSE-II-24-ELEMENTARY-MATHEMATICS-020924.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-CDSE-II-2024-Roll-Engl-200924.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-CDSE-II-2024-NameList-Engl-230924.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Indian%2520Forest%2520Service%2520%2528Preliminary%2529%2520Examination%252C%25202024%2520through%2520CS%2528P%2529%2520Examination%25202024",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202024",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/CAPF_AC_Exam_2024_ExamNotif_Eng_24042024.pdf",
+            "https://upsc.gov.in/sites/default/files/CAPF_AC_2024_FictFee_Eng_30052024.pdf",
+            "https://upsc.gov.in/sites/default/files/PressNote-CAPF-24-engl-260724.pdf",
+            "https://upsc.gov.in/sites/default/files/TT-CAPF-24-engl-250624.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CAPF_2024_GEN-ABILITY-AND-INTELLI_05082024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CAPF_2024_GS-ESSAY-AND-COMP_05082024.pdf",
+            "https://upsc.gov.in/sites/default/files/DAF-Notice-CAPF-24-Engl-071024.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-CAPF-2024-Roll-Engl-240924.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-CAPF-24-NameList-Engl-081024.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Civil%2520Services%2520%2528Preliminary%2529%2520Examination%252C%25202024",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Indian%20Forest%20Service%20%28Preliminary%29%20Examination%2C%202024%20through%20CS%28P%29%20Examination%202024",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-IFSP-24-engl-140224.pdf",
+            "https://upsc.gov.in/sites/default/files/IFoSP_2024_WR_Eng_01072024.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-NameList-IFSP-24-engl-190724.pdf"
+          ]
         },
         {
           "name": "UPSC",
-          "applyLink": "https://upsc.gov.in//examinations/Combined%2520Defence%2520Services%2520Examination%2520%2528I%2529%252C%25202024",
-          "links": []
+          "applyLink": "https://upsc.gov.in//examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202024",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-CSP-24-engl-140224.pdf",
+            "https://upsc.gov.in/sites/default/files/FictFee-CSP-24-English-080424.pdf",
+            "https://upsc.gov.in/sites/default/files/ImpNotice-PressRelease-CSP-24-engl-050424.pdf",
+            "https://upsc.gov.in/sites/default/files/PressNote-CSP-24-engli-070624.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSP-24-GENERAL-STUDIES-PAPER-I-180624.pdf",
+            "https://upsc.gov.in/sites/default/files/QP-CSP-24-GENERAL-STUDIES-PAPER-II-180624.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-CSP-24-RollList-Engl-010724.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-CSP-24-NameList-engl-190724.pdf"
+          ]
+        },
+        {
+          "name": "UPSC",
+          "applyLink": "https://upsc.gov.in//examinations/Combined%20Defence%20Services%20Examination%20%28I%29%2C%202024",
+          "links": [
+            "https://upsc.gov.in/sites/default/files/Notif-CDS-I-2024-Eng-20122023.pdf",
+            "https://upsc.gov.in/sites/default/files/FF-CDSE-I-24-engl-290124.pdf",
+            "https://upsc.gov.in/sites/default/files/PressNote-CDSE-I-24-engl-120424.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CDSI2024_ELEMENTARY-MATHEMATICS_22042024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CDSI2024_ENGLISH_22042024.pdf",
+            "https://upsc.gov.in/sites/default/files/QP_CDSI2024_GENERAL-KNOWLEDGE_22042024.pdf",
+            "https://upsc.gov.in/sites/default/files/WR-CDSE-I-24-engl-090524.pdf",
+            "https://upsc.gov.in/sites/default/files/CDSI_2024_WR_Name_31072024.pdf",
+            "https://upsc.gov.in/sites/default/files/FR-CDSE-I-2024-Engl-211024.pdf",
+            "https://upsc.gov.in/sites/default/files/AnsKey-CDS-I-2024-ElementaryMaths-13012025.pdf",
+            "https://upsc.gov.in/sites/default/files/AnsKey-CDS-I-2024-English-130125.pdf",
+            "https://upsc.gov.in/sites/default/files/AnsKey-CDS-I-2024-GeneralKnowledge-130125.pdf",
+            "https://upsc.gov.in/sites/default/files/CutOff-CDSE-I-24-Engl-130125.pdf",
+            "https://upsc.gov.in/sites/default/files/MksRcdCndts-CDSE-I-24-Engl-130125.pdf"
+          ]
         }
       ]
     }

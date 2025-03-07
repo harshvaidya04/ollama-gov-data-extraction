@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Tamil Nadu Uniformed Services Recruitment Board",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.tnusrb.tn.gov.in/index.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.tnusrb.tn.gov.in/pdfs/JR2023_PET_Addl_list-1.pdf",
+            "https://www.tnusrb.tn.gov.in"
+        ]
+    },
+    {
+        "name": "TNUSRB Joint Recruitment Board",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.tnusrb.tn.gov.in/index.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.tnusrb.tn.gov.in/pdfs/JR_23_FINAL_PROV_SELECT_LIST.pdf"
+        ]
+    },
+    {
+        "name": "Tamil Nadu State Rural Banks Exam",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "2025-03-06",
+        "apply_link": "https://www.tnusrb.tn.gov.in/index.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.tnusrb.tn.gov.in/pdfs/JR_23_CUTOFF_FINAL.pdf"
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "name": "National Testing Agency",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://nta.ac.in/NoticeBoardArchive",
+        "event_type": "Exam",
+        "document_links": [
+        ]
+    },
+    {
+        "name": "UGC-NET December 2018",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "9th December 2018",
+        "end_date": "23rd December 2018",
+        "apply_link": "https://nta.ac.in/Exam/UGC-NET-Dec-2018.html",
+        "event_type": "Exam",
+        "document_links": [
+            "https://nta.ac.in/Download/AboutCBT.pdf"
+        ]
+    },
+    {
+        "name": "National Eligibility-cum-Entrance Test (NEET (UG)) - 2025",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2025-09-11",
+        "end_date": "2025-11-11",
+        "apply_link": "https://neet.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://nta.ac.in/Download/Notice/Notice_20250306151224.pdf",
+            "https://nta.ac.in/NoticeBoardArchive"
+        ],
+        "details": {
+            "description": "A public notice for correction in particulars for the National Eligibility-cum-Entrance Test (NEET (UG)) - 2025 examination.",
+            "deadline": "The window for corrections shall be available till 11 March 2025 (up to 11:50 P.M.).",
+            "fees": "In cases where changes affect the fee amount, candidates will be charged any excess fee accordingly. Please note that any excess payments made will not be refunded.",
+            "contact_info": "For further clarification related to NEET (UG) - 2025, the candidates can also contact helpdesk in person or at 011-40759000/011-69227700 or email at neetug2025@nta.ac.in."
+        }
+    }
+]

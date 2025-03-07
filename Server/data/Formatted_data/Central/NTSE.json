@@ -1,0 +1,67 @@
+[
+    {
+        "name": "NCERT Vacancies",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://ncert.nic.in/vacancies.php?ln=en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ncert.nic.in/pdf/announcement/vacancies/academicvacancy/List_Tentative_PGTeacher_03_03_25.pdf"
+        ],
+        "details": {
+            "Event Description": "NCERT Vacancies for PG Teachers"
+        }
+    },
+    {
+        "name": "Interview Notice: Associate Professor, Vocational Education - Commerce Accountancy",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2024-08-27",
+        "end_date": "",
+        "apply_link": "https://ncert.nic.in/vacancies.php?ln=en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ncert.nic.in/pdf/announcement/vacancies/academicvacancy/Interview_Notice_Schedule_Associate_Professor-Vocational_Edu-Commerce_Accountancy.pdf"
+        ],
+        "details": {
+            "Eligibility Criteria": "The candidate must meet the eligibility criteria and produce the testimonials which he/she possesses as on last date of submission of application i.e. 27.08.2024.",
+            "Required Documents": "Please produce the following documents/testimonials in support for your candidature: One set of self-attested photocopies of certificates in support of information filled in by you in your online application. Original degree, diplomas and other certificates of qualifications, experience certificates, matriculation/equivalent certificates in support of declaration of age, caste certificates with regard to claim for relaxations under any category as provided by the Govt. of India/NCERT and undertaking as per Annexure-III of the Advertisement.",
+            "Interview Process": "As a part of the interview, you may present your work done in the last 3-5 years in the concerned subject area, in the form of Power Point Presentation. The Power Point Presentation should not be more than 5 minutes time and for your presentation you should bring your own Pen drive/Hard dics."
+        }
+    },
+    {
+        "name": "Office Management/Stenography Associate Professor",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://ncert.nic.in/vacancies.php?ln=en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ncert.nic.in/pdf/announcement/vacancies/academicvacancy/Office_Mangagment_Stenography_Assoc_Prof.pdf"
+        ],
+        "details": {
+            "venue": "Conference Room, First Floor, Zakir Hussain Khand, NCERT, Sri Aurobindo Marg, New Delhi-110016",
+            "traveling_expenses": "AC train fare to-and-fro (except Rajdhani Vande Bharat, Tejas Shatabadi, Durunto trains etc. or actual fare, whichever is less) will be paid to non-local candidates on production of Railway/Bus Tickets."
+        }
+    },
+    {
+        "name": "Store Keeper",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2025-05-03",
+        "end_date": "2025-06-30",
+        "apply_link": "https://ncert.nic.in/vacancies.php?ln=en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ncert.nic.in/pdf/announcement/vacancies/nonacademicvacancy/Store_Keeper_GrII_4517-4522_05_03_25.pdf"
+        ],
+        "details": {
+            "exam_duration": "1 hour",
+            "marks_per_question": {
+                "objective": 10,
+                "descriptive": 20
+            },
+            "weightage": "80% for written test and 20% for personal interview",
+            "qualifying_marks": "40% for SC/ST/OBC/LW/cir ferently abled candidates"
+        }
+    }
+]

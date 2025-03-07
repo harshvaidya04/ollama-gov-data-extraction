@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Punjab Police Officers",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://punjabpolice.gov.in/RecruitmentsMain.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "https://punjabpolice.gov.in/writereaddata/UploadFiles/OtherFiles/TeleListOfficers.pdf"
+        ],
+        "details": {
+            "Shameer Verma": {
+                "position": "SP/Excise and Taxation PTL"
+            },
+            "Puneet Singh": {
+                "position": "DSP/ Excise and Taxation"
+            }
+        }
+    },
+    {
+        "name": "Punjab Police Department",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://punjabpolice.gov.in/RecruitmentsMain.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "TeleListOfficers.pdf",
+            "Other Files"
+        ],
+        "details": {
+            "description": "Punjab Police Recruitment Notice",
+            "url": "",
+            "category": "Recruitment"
+        }
+    },
+    {
+        "name": "Punjab Police Recruitment",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://punjabpolice.gov.in/RecruitmentsMain.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "https://punjabpolice.gov.in/writereaddata/UploadFiles/OtherFiles/List.pdf"
+        ],
+        "details": {
+            "description": "Punjab Police Recruitment Exam Details",
+            "notes": "Please check the official website for more information."
+        }
+    },
+    {
+        "name": "COVID-19 Control Room",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2020-07-11",
+        "end_date": "2020-07-25",
+        "apply_link": "https://punjabpolice.gov.in/RecruitmentsMain.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "https://punjabpolice.gov.in/writereaddata/UploadFiles/OtherFiles/14daysquarantine.pdf"
+        ],
+        "details": {
+            "location": "Office of PSDM, SCO No. 149-152, 2nd Floor, Sector-17C Chandigarh",
+            "contact_email": "sccr.pb2020@gmail.com",
+            "recipient_groups": [
+                "Deputy Commissioners in the State of Punjab",
+                "Chief Secretary to Govt. of Punjab",
+                "Director General of Police",
+                "ACS health to Govt. of Punjab",
+                "PStoCM Punjab",
+                "DIPR to Govt. of Punjab",
+                "AIL CP's and SSP's in the state of Punjab"
+            ]
+        }
+    },
+    {
+        "name": [
+            "Police Officers",
+            {
+                "Name": "Inspector General of Police"
+            },
+            "Special DGP"
+        ],
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://punjabpolice.gov.in/RecruitmentsMain.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "https://punjabpolice.gov.in/PDFViwer.aspx?pdfFileName=~/writereaddata/UploadFiles/OtherFiles/TeleListOfficers.pdf"
+        ],
+        "details": {
+            "Inspector General of Police": {
+                "Details": {
+                    "Inspector General of Police": [
+                        "Inspector General of Police, Punjab and Chandigarh",
+                        "Heads the Punjab Police, an organization responsible for maintaining law and order in the Indian state of Punjab."
+                    ]
+                }
+            },
+            "Special DGP": {
+                "Details": {
+                    "Special DGP": [
+                        "The Special DG Punjab is a senior-most position created in 2018 under Section 24 of the Punjab Police (Establishment and Miscellaneous) Act, 2007",
+                        "The first holder of this post was Commissioner of Police Punjab Inderbir Singh"
+                    ]
+                }
+            },
+            "Special DGP (awaiting posting)": {
+                "Details": {
+                    "Varinder Kumar": [
+                        "Awaiting posting in Punjab"
+                    ]
+                }
+            }
+        }
+    }
+]

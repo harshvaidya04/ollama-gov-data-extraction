@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Uttarakhand Subordinate Service Selection Commission",
+        "date_of_notification": "2023-11-30",
+        "date_of_commencement": "2024-01-10",
+        "end_date": "",
+        "apply_link": "https://sssc.uk.gov.in/files/04march.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://sssc.uk.gov.in/pages/display/122-releases%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF--%E0%A4%AC%E0%A4%82%E0%A4%A6%E0%A5%80%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%95",
+            "https://sssc.uk.gov.in/files/04march.pdf"
+        ]
+    },
+    {
+        "name": "SSSC Uttar Pradesh Examination Notification",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://sssc.uk.gov.in/files/03march.pdf",
+        "event_type": "Result",
+        "document_links": [
+            "SSSC Uttar Pradesh Examination Notification"
+        ],
+        "details": {
+            "Description": "The Uttar Pradesh Subordinate Service Selection Commission (UPSSC) has announced the examination schedule and result for the upcoming exams. The notification provides details about the application process, exam dates, and eligibility criteria.",
+            "Event Type Details": "The event type is 'Result' as it pertains to the announcement of examination results by UPSSC."
+        }
+    },
+    {
+        "name": "GATI",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://sssc.uk.gov.in/files/DocScanner_28-Feb-2025_4-41_pm.pdf, https://sssc.uk.gov.in/pages/display/122-releases()",
+        "event_type": "Exam",
+        "document_links": [
+            "GATI—9520991172",
+            "WhatsApp No- 9520991174",
+            "WeM335 / 2024-25 eG: feats 2% weatt, 2025",
+            "fost 1",
+            "Sarees yfera_ ome & vet 8g feria 28.02.2025 wy aratfera water aerat weer"
+        ],
+        "details": {
+            "exam_details": [
+                {
+                    "exam_date": "24.02.2025",
+                    "exam_type": "Warfert"
+                },
+                {
+                    "exam_date": "21.02.2025",
+                    "exam_type": "Bat oy FH stor Gert & fH fais"
+                },
+                {
+                    "exam_date": "03.03.2025",
+                    "exam_type": "Rod gies asa, wea, feet Weare"
+                },
+                {
+                    "exam_date": "05.03.2025",
+                    "exam_type": "s. [aire | Rod gee oss, Hees arses, Ue) Tear"
+                }
+            ]
+        }
+    }
+]

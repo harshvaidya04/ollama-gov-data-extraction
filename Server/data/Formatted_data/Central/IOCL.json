@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Indian Oil Corporation Limited",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://iocl.com/latest-job-opening",
+        "event_type": "Exam",
+        "document_links": [
+            "https://iocl.com/download/NaturalGas_Brochure.pdf"
+        ]
+    },
+    {
+        "name": "Konark Sun Temple",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://iocl.com/download/IOF-Arkakshetra_Eng.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://iocl.com/latest-job-opening"
+        ],
+        "details": {
+            "Description": "The Konark Sun Temple is a magnificent temple complex built in the 13th century AD. The temple features intricate sculptures and architecture, making it one of Odisha's most famous tourist attractions."
+        }
+    },
+    {
+        "name": "Holiday Listing Guidelines",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://iocl.com/latest-job-opening",
+        "event_type": "Exam",
+        "document_links": [
+            "https://iocl.com/uploads/holiday2023.pdf"
+        ],
+        "details": {
+            "description": "Holiday Listing Guidelines for Indian Oil Corporation Ltd.",
+            "notes": ""
+        }
+    }
+]
