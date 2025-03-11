@@ -75,13 +75,7 @@
         }
     },
     {
-        "name": [
-            "Police Officers",
-            {
-                "Name": "Inspector General of Police"
-            },
-            "Special DGP"
-        ],
+        "name": "Inspector General of Police",
         "date_of_notification": "2025-03-06",
         "date_of_commencement": "",
         "end_date": "",

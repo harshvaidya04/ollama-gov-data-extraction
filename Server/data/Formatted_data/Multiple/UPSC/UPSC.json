@@ -507,16 +507,6 @@
         }
     },
     {
-        "name": "",
-        "date_of_notification": "",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "",
-        "event_type": "",
-        "document_links": [],
-        "details": {}
-    },
-    {
         "name": "UPSC Combined Defence Services Examination (II), 2024",
         "date_of_notification": "2025-03-06",
         "date_of_commencement": null,
@@ -603,9 +593,7 @@
         "date_of_notification": "2025-03-06",
         "date_of_commencement": null,
         "end_date": "2024-12-31",
-        "apply_link": [
-            "https://upsc.gov.in/sites/default/files/Notif-IFSP-24-engl-140224.pdf"
-        ],
+        "apply_link": "https://upsc.gov.in/sites/default/files/Notif-IFSP-24-engl-140224.pdf",
         "event_type": "Exam",
         "document_links": [
             "https://upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Preliminary%29%20Examination%2C%202024%20through%20CS%28P%29%20Examination%202024"

@@ -132,9 +132,9 @@ export const addEventFunction = async (updates) => {
 
 export const addAllEvents = async () => {
     try{
-        await Organization.updateMany({},{$set:{events:[]}});
-        await EventType.updateMany({},{$set:{events:[]}});
-        await Event.deleteMany({});
+        // await Organization.updateMany({},{$set:{events:[]}});
+        // await EventType.updateMany({},{$set:{events:[]}});
+        // await Event.deleteMany({});
 
         const formattedDataPath=path.resolve(__dirname,`../data/Formatted_data`);
         console.log("processing data from: ",formattedDataPath);

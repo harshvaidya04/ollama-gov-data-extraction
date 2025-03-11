@@ -27,8 +27,8 @@ export  const runScraper = async () => {
         pythonProcess.on("close", (code) => {
             console.log(`✅ Python script finished with exit code ${code}`);
             // createDb();
-            // addAllEvents();
-            // resolve();
+            addAllEvents();
+            resolve();
         });
 
         pythonProcess.on("error", (err) => {
