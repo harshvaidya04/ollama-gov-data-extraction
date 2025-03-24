@@ -1,0 +1,44 @@
+[
+    {
+        "name": "UJVNL Company",
+        "date_of_notification": "2021-11-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://ujvnl.com/recruitments.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ujvnl.com/document/1701776526_final_moa_aoa_amended_v2.pdf"
+        ],
+        "details": {
+            "type": "Company Memorandum and Association",
+            "description": "Formed on February 11th, 2001 by 8 subscribers in Dehradun, Uttarakhand."
+        }
+    },
+    {
+        "name": "Citizen Charter",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": "",
+        "end_date": "2025-03-24",
+        "apply_link": "https://ujvnl.com/recruitments.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ujvnl.com/document/revised-citizen-charter-dt28-6-21-672021.pdf"
+        ]
+    },
+    {
+        "name": "Shravan Kumar",
+        "date_of_notification": "2023-02-15",
+        "date_of_commencement": "2022-01-01",
+        "end_date": "2024-12-31",
+        "apply_link": "https://example.com/apply",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ujvnl.com/document/1699254207_sop_guidelines_for_e-office_7.2.0.pdf"
+        ],
+        "details": {
+            "valid_name": "Shravan Kumar",
+            "date_of_commencement_date": "2022-01-01",
+            "event_type_description": "Exam for e-Office"
+        }
+    }
+]

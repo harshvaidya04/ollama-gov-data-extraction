@@ -1,54 +1,28 @@
-import json
-from datetime import datetime
-from dateutil.relativedelta import relativedelta
-
-# Function to extract information from the raw text
-def extract_info(raw_text):
-    name = "Combined Defence Services Examination (I), 2024"
-    date_of_notification = None
-    date_of_commencement = datetime.strptime("21st April, 2024", "%dth April, %Y").date()
-    end_date = date_of_commencement + relativedelta(months=1)
-    apply_link = "https://upsconline.nic.in/"
-    event_type = "Exam"
-    document_links = ["https://upsc.gov.in/sites/default/files/PressNote-CDSE-I-24-engl-120424.pdf", "https://upsc.gov.in//examinations/Combined%20Defence%20Services%20Examination%20%28I%29%2C%202024"]
-    details = ""
-
-    # Check if date_of_notification is present in the raw text
-    for line in raw_text.split("\n"):
-        if "Dated" in line:
-            date_of_notification = datetime.strptime(line.split(":")[1], "%dth April, %Y").date()
-            break
-
-    # If date_of_notification is not present, set it to 2025-03-06
-    if date_of_notification is None:
-        date_of_notification = datetime(2025, 3, 6).date()
-
-    return {
-        "name": name,
-        "date_of_notification": date_of_notification.strftime("%Y-%m-%d"),
-        "date_of_commencement": date_of_commencement.strftime("%Y-%m-%d"),
-        "end_date": end_date.strftime("%Y-%m-%d"),
-        "apply_link": apply_link,
-        "event_type": event_type,
-        "document_links": document_links,
-        "details": details
-    }
-
-# Raw text extracted from the PDF
-raw_text = """UNION PUBLIC SERVICE COMMISSION
-NOTICE
-COMBINED DEFENCE SERVICES EXAMINATION (I), 2024
-
-Dated 12th April, 2024
-
-Union Public Service Commission will be conducting the Combined
-Defence Services Examination (I), 2024 on 21st April, 2024.
-
-Union Public Service Commission
-New Delhi-110069"""
-
-# Generate JSON object based on the extracted information
-json_object = extract_info(raw_text)
-
-# Print the generated JSON object
-print(json.dumps(json_object, indent=4))
+Here is the JSON object extracted from the provided raw text:
+```
+{
+  "name": "Civil Services (Preliminary) Examination, 2024",
+  "date_of_notification": "2025-03-24",
+  "date_of_commencement": "2024-06-16",
+  "end_date": "",
+  "apply_link": "https://upsc.gov.in/examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202024",
+  "event_type": "Exam",
+  "document_links": [
+    "https://upsc.gov.in/sites/default/files/PressNote-CSP-24-engli-070624.pdf"
+  ],
+  "details": {
+    "venue": "",
+    "instructions": "Candidates are advised to download their e-Admit Cards and take a printout. e-Admit Card must be preserved till the declaration of the final results of the Civil Services Examination, 2024.",
+    "items_not_allowed_inside_venue": [
+      "valuables/costly items",
+      "mobile phones",
+      "smart/digital watches",
+      "other IT gadgets",
+      "books",
+      "bags"
+    ],
+    "disciplinary_action": "Cancellation of candidature, filing of FIR/police complaint against the candidate, prohibition from appearing in subsequent Session(s)/day(s) of the Examination."
+  }
+}
+```
+Note that I had to make some assumptions about the formatting and structure of the raw text, as it was not perfectly organized. Additionally, I extracted the date_of_commencement from the text, but it is not explicitly stated whether this is the exact start date or just a notification date. If you have more information about the actual start date, please let me know.

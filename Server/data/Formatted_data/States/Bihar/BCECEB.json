@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Bihar Combined Entrance Competitive Examination (BCECE)",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bceceboard.bihar.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "GazatPDF.pdf"
+        ],
+        "details": {
+            "exam_dates": "To be announced",
+            "exam_center": "Multiple locations in Bihar",
+            "exam_duration": "3 hours",
+            "exam_type": "Multiple Choice Questions"
+        }
+    },
+    {
+        "name": "Bihar Combined Entrance Competitive Examination Board",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": "",
+        "end_date": "2025-05-11",
+        "apply_link": "https://bceceboard.bihar.gov.in",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bceceboard.bihar.gov.in/pdf_Pros/PROS_DLE25.pdf"
+        ]
+    },
+    {
+        "name": "Bihar State Eligibility Test (SET) for Senior Research Fellowship",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "2025-04-30",
+        "apply_link": "https://bceceboard.bihar.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bceceboard.bihar.gov.in/pdf_Pros/PROS_SR25.pdf"
+        ],
+        "details": {
+            " Eligibility Criteria": "Candidates who have passed with grace marks, only actual marks obtained by the candidates shall be counted.",
+            "Recognition of Institutes": "Recognized or permitted Institutes / Colleges are to be treated similarly.",
+            "Joining Service": "If a candidate has joined service (i.e. is in BHS) before last date of receipt of application, he is to be considered as BHS for all purposes.",
+            "Result Declaration": "Result declared after last date of receipt of application will not be entertained. Last date of the month on which examination was held is to be treated as date of passing."
+        }
+    }
+]

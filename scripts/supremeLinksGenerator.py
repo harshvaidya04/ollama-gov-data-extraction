@@ -55,6 +55,7 @@ def generateSupremeLinks():
         newRecord = {}
         
         links = get_document_links(url=websiteLink)
+        # print(links)
         newRecord["name"]=data[0]
         newRecord["applyLink"]=websiteLink
         newRecord["links"]=links

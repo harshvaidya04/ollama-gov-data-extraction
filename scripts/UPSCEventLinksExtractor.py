@@ -5,18 +5,25 @@ import csv
 
 def extract_raw_html(url):
     # Fetch the content of the page
-    response = requests.get(url)
+    headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+    }
     
-    if response.status_code != 200:
-        print("Failed to retrieve the webpage")
-        return None
+    response = requests.get(url, headers=headers, allow_redirects=True)
+    
+    # print(response.text)
+    
+    # if response.status_code != 200:
+    #     print("Failed to retrieve the webpage")
+    #     return None
     
     return response.text
 
 def scrape_data(url, class_name=None, id_name=None):
     
     raw_text = extract_raw_html(url)
-
+    if(not raw_text):
+        return None
     # Parse the HTML content
     soup = BeautifulSoup(raw_text, 'html.parser')
     

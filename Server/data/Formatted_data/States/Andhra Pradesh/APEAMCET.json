@@ -1,0 +1,59 @@
+[
+    {
+        "name": "EAPCET",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Syllabus_Engineering.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "EAPCET Syllabus Engineering",
+            "EAPCET Notification"
+        ]
+    },
+    {
+        "name": "EAPCET 2025",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Syllabus_Agriculture_and_Pharmacy.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "EAPCET Application Form",
+            "EAPCET Syllabus",
+            "EAPCET Exam Dates"
+        ],
+        "details": {
+            "Description": "Examination of Andhra Pradesh Common Entrance Test for admission to PG programmes in Agriculture and Pharmacy.",
+            "Eligibility Criteria": "The eligibility criteria for EAPCET is as follows: A candidate should have a degree from a recognized university in the respective stream. The candidate should also have a minimum percentage of marks in the qualifying examination.",
+            "Exam Fee": "The exam fee for EAPCET is as follows: For general category candidates, the exam fee is Rs 700. For SC/ST candidates, the exam fee is Rs 500. For BC category candidates, the exam fee is Rs 600."
+        }
+    },
+    {
+        "name": "APEAPCET 2025",
+        "date_of_notification": "2023-03-24",
+        "date_of_commencement": "",
+        "end_date": "2025-08-05",
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Corrections.pdf, https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Corrections.pdf",
+            "https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx"
+        ]
+    },
+    {
+        "name": "AP EAPCET -— 2025",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_CBT_FAQs.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_CBT_FAQs.pdf"
+        ],
+        "details": {
+            "url": "https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx",
+            "description": "FAQs for AP EAMCET 2025 CBT"
+        }
+    }
+]

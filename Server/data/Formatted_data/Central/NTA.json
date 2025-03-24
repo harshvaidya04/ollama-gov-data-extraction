@@ -1,0 +1,83 @@
+[
+    {
+        "name": "National Testing Agency Extended Notification",
+        "date_of_notification": "2025-03-22",
+        "date_of_commencement": "2025-03-24",
+        "end_date": "2025-06-01",
+        "apply_link": "https://cuet.nta.nic.in",
+        "event_type": "Exam",
+        "document_links": [
+            "https://nta.ac.in/Download/Notice/Notice_20250322175559.pdf",
+            "https://nta.ac.in/NoticeBoardArchive"
+        ],
+        "details": {
+            "Organization": "An Autonomous Organization under the Department of Higher Education, Ministry of Education, Government of India",
+            "Website": [
+                "https://nta.ac.in",
+                "https://cuet.nta.nic.in"
+            ]
+        }
+    },
+    {
+        "name": "Common University Entrance Test (CUET) (UG) - 2025",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": "2025-03-01",
+        "end_date": "2025-06-01",
+        "apply_link": "https://nta.ac.in/NoticeBoardArchive",
+        "event_type": "Exam",
+        "document_links": [
+            "https://nta.ac.in/Download/Notice/Notice_20250321124412.pdf"
+        ],
+        "details": {
+            "Organization": "National Testing Agency",
+            "Address": "Department of Higher Education, Ministry of Education, Government of India",
+            "Phone Number": "+91-11-40759000",
+            "Email": "cuet-ug@nta.ac.in",
+            "Website": "https://nta.ac.in/"
+        }
+    },
+    {
+        "name": "Stage-II Exam of High Court of Gujarat Recruitment Drive-2024",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://exams.nta.ac.in/HCG/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://nta.ac.in/Download/Notice/Notice_20250317181903.pdf",
+            "https://nta.ac.in/NoticeBoardArchive"
+        ],
+        "details": {
+            "subject": "Release of Admit Card for Stage-II Exam",
+            "instructions": [
+                "The Admit Cards is issued provisionally to the candidates, subject to fulfillment of the eligibility condition.",
+                "Kindly note that for each post the Roll Number and Admit Card will be different."
+            ],
+            "note": [
+                "Admit Card will not be sent by post.",
+                "Issue of Admit Card, however, will not necessarily mean acceptance of eligibility which shall be further scrutinized at subsequent stages of the recruitment process."
+            ]
+        }
+    },
+    {
+        "name": "National Testing Agency Joint Entrance Examination (Main)-2025 Session-2",
+        "date_of_notification": "20 March 2025",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://nta.ac.in/Download/Notice/Notice_20250320152327.pdf",
+            "https://jeemain.nta.nic.in/"
+        ],
+        "details": {
+            "Organization": "National Testing Agency (An Autonomous Organization under the Department of Higher Education Ministry of Education, Government of India)",
+            "Examination City Intimation Slip URL": "https://jeemain.nta.nic.in/",
+            "Contact Information": "011-40759000 or jeemain@nta.ac.in",
+            "Official Website": [
+                "www.nta.ac.in",
+                "https://jeemain.nta.nic.in/"
+            ]
+        }
+    }
+]

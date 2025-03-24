@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Natural Gas Brochure",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://iocl.com/latest-job-opening",
+        "event_type": "Exam",
+        "document_links": [
+            "https://iocl.com/download/NaturalGas_Brochure.pdf"
+        ]
+    },
+    {
+        "name": "Konark Sun Temple Exhibition",
+        "date_of_notification": "01.04.2018",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://iocl.com/latest-job-opening",
+        "event_type": "Exam",
+        "document_links": [
+            "https://iocl.com/download/IOF-Arkakshetra_Eng.pdf"
+        ],
+        "details": {
+            "description": "A 15-minute animation movie depicting the mythology and history of the Sun Temple of Konark in a specially designed, air-conditioned auditorium.",
+            "gallery_descriptions": [
+                "Medieval engineering concepts of the Sun Temple of Konark and various other Sun temples of Odisha and India, with historical interpretation and archive literature",
+                "Scale models of the original Sun Temple of Konark and its current state",
+                "Various sculpture models inspired by the wealth of architectural specimens in the Sun Temple complex"
+            ],
+            "available_services": [
+                "Parking facilities for cars (¥ 20/- for 2 hours) and two and three-wheeler (% 10/-for 2 hours)",
+                "Parking facilities for tourist buses (¥ 50/- for 2 hours)",
+                "Cafeteria (operated by Kamat Group of Hotels)"
+            ],
+            "facilities": [
+                "Luggage Room / Babycare Centre",
+                "Wheelchair facility (free-of-cost for visitors to the Interpretation Centre)"
+            ]
+        }
+    },
+    {
+        "name": "Indian Oil Corporation Ltd. Holiday Listing",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://iocl.com/latest-job-opening",
+        "event_type": "Exam",
+        "document_links": [
+            "https://iocl.com/uploads/holiday2023.pdf"
+        ]
+    }
+]
