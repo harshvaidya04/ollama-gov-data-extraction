@@ -945,19 +945,19 @@
     "parent_organization": "Rajasthan"
   },
   {
-  "name": "Rajasthan State Livelihoods Development Corporation (RSLDC)",
-  "abbreviation": "RSLDC",
-  "description": "Rajasthan State Livelihoods Development Corporation (RSLDC) is an initiative by the Government of Rajasthan aimed at providing employment and skill development opportunities to the youth of Rajasthan through various training and livelihood programs.",
-  "category": "Public Services",
-  "parent_organization": "Rajasthan"
-},
-{
-"name": "Online Job Application System",
-"abbreviation": "OJAS",
-"description": "Online Job Application System (OJAS) is a portal managed by the Gujarat government for online applications, recruitment notifications, and exam details for various government jobs in Gujarat state. It provides services such as application submission, hall ticket download, and result announcements.",
-"category": "Public Services",
-"parent_organization": "Gujarat"
-},
+    "name": "Rajasthan State Livelihoods Development Corporation (RSLDC)",
+    "abbreviation": "RSLDC",
+    "description": "Rajasthan State Livelihoods Development Corporation (RSLDC) is an initiative by the Government of Rajasthan aimed at providing employment and skill development opportunities to the youth of Rajasthan through various training and livelihood programs.",
+    "category": "Public Services",
+    "parent_organization": "Rajasthan"
+  },
+  {
+    "name": "Online Job Application System",
+    "abbreviation": "OJAS",
+    "description": "Online Job Application System (OJAS) is a portal managed by the Gujarat government for online applications, recruitment notifications, and exam details for various government jobs in Gujarat state. It provides services such as application submission, hall ticket download, and result announcements.",
+    "category": "Public Services",
+    "parent_organization": "Gujarat"
+  },
   {
     "name": "Andhra Pradesh Teacher Eligibility Test",
     "abbreviation": "APTET",
@@ -1102,17 +1102,14 @@
     "name": "Himachal Pradesh Teacher Eligibility Test",
     "abbreviation": "HPTET",
     "description": "HPTET is a state-level examination conducted by the Himachal Pradesh Board of School Education (HPBOSE) to assess the eligibility of candidates for teaching positions in primary (Classes 1–5) and upper primary (Classes 6–8) schools in Himachal Pradesh. Qualifying HPTET is mandatory for aspiring teachers in government and private schools within the state.",
-"category": "Higher Education Specialized Exams",
+    "category": "Higher Education Specialized Exams",
     "parent_organization": "Himachal Pradesh"
   },
   {
     "name": "Gujarat Common Entrance Test",
     "abbreviation": "GUJCET",
     "description": "GUJCET is a state-level entrance exam conducted by the Gujarat Secondary and Higher Secondary Education Board (GSEB) for admission into engineering and pharmacy courses in various colleges and universities across Gujarat. The exam is based on the Gujarat Board syllabus for Class 11 and 12.",
-"category": "Higher Education Specialized Exams",
+    "category": "Higher Education Specialized Exams",
     "parent_organization": "Gujarat"
-    
   }
-
 ]
-
