@@ -42,14 +42,14 @@ def get_document_links(url):
         decoded_link = unquote(full_link)
         cleaned_link = clean_unicode_characters(decoded_link)
         
-        try:
-            response = requests.get(cleaned_link)
-            print(cleaned_link)
-            print("😭😭😭")
-            print(response.headers)
-            print("🛐🛐🛐🛐🛐🛐🛐🛐🛐")
-        except Exception:
-            print("frgbrg")
+        # try:
+        #     response = requests.get(cleaned_link)
+        #     print(cleaned_link)
+        #     print("😭😭😭")
+        #     print(response.headers)
+        #     print("🛐🛐🛐🛐🛐🛐🛐🛐🛐")
+        # except Exception:
+        #     print("frgbrg")
         
         links.append(cleaned_link)
 
