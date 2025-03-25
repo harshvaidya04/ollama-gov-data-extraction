@@ -1,706 +1,171 @@
 [
     {
-        "name": "Central Armed Police Forces (CAPF) Examination, 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
+        "name": "Addendum to CISF AC (EXE) LDCE, 2025",
+        "date_of_notification": "2024-12-04",
+        "date_of_commencement": "2025-01-05",
         "end_date": "2025-03-24",
-        "apply_link": "https://upsc.gov.in/examinations/Central%20Armed%20Police%20Forces%20%C2%(C3%A8s)%20Examination,%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "Notif-CAPF-25-Engl-050325.pdf",
-            "https://upsc.gov.in/sites/default/files/Notif-CAPF-25-Engl-050325.pdf"
-        ]
-    },
-    {
-        "name": "Central Armed Police Forces (CAPF) Examination, 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Instructions-CAPF-25-Engl-050325.pdf"
-        ]
-    },
-    {
-        "name": "Combined Medical Services Examination 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Combined%20Medical%20Services%20Examination%2C%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Notif-CMSE-2025-Engl-190225.pdf"
-        ]
-    },
-    {
-        "name": "Combined Medical Services Examination, 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Combined%20Medical%20Services%20Examination%2C%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Instructions-CMSE-2025-Engl-190225.pdf"
-        ]
-    },
-    {
-        "name": "Indian Economic Service - Indian Statistical Service Examination, 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "2025-03-24",
-        "apply_link": "https://upsc.gov.in/examinations/Indian%20Economic%20Service-%20Indian%20Statistical%20Service%20Examination%2C%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Notif-IES-ISS-Exam-2025-English-120225.pdf"
-        ]
-    },
-    {
-        "name": "UPSC Indian Economic Service/Indian Statistical Service Examination, 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Indian%20Economic%20Service-%20Indian%20Statistical%20Service%20Examination,%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Istructions-IES-ISS-Exam-2025-English-120225.pdf"
-        ]
-    },
-    {
-        "name": "Indian Economic Service/Indian Statistical Service Examination, 2025",
-        "date_of_notification": "17/03/2025",
-        "date_of_commencement": "2025-03-24",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination,%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/FF-IES-ISS-2025-Engl-180325.pdf"
-        ],
-        "details": {
-            "rejected_candidates": [
-                "2513071532 PUNIT KUMAR",
-                "2515743409 MOHD IRSHAD",
-                "2513073820 PUNIT KUMAR",
-                "2513380837 SHAKTAWAT",
-                "2514812117 MANTOSH KUMAR"
-            ],
-            "bank_fees": [
-                "Rs.200/-"
-            ],
-            "appeal_process": "Appeal against rejection, if any, may be made along with the documentary evidence sent to the Commission by speed post OR by hand only",
-            "documents_required": [
-                "Bank pay-in slip (in original)",
-                "Debit/ Credit Card Statement or Bank Account Statement"
-            ],
-            "comission_contacts": {
-                "name": "Shri Ajay Joshi Under Secretary (E.XIII)"
-            }
-        }
-    },
-    {
-        "name": "Certificate of Disability",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://upsc.gov.in/sites/default/files/Notification-Instructions-CSP-IFSP-2025-Engl-220125_1.pdf https://upsc.gov.in//examinations/Indian%20Forest%20Service%28Preliminary%29%20Examination,%202025%20through%20CS(P)%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Notification-Instructions-CSP-IFSP-2025-Engl-220125_1.pdf",
-            "https://upsc.gov.in//examinations/Indian%20Forest%20Service%28Preliminary%29%20Examination,%202025%20through%20CS(P)%202025"
-        ],
-        "details": {
-            "url": "https://upsc.gov.in/",
-            "title": "UPSC Exams and Notifications",
-            "description": "The official website of the Union Public Service Commission (UPSC) for examination and notification information."
-        }
-    },
-    {
-        "name": "Notice for Aspirants/Candidates of CS(P)-2025 & IFoS(P)-2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2025-04-01",
-        "end_date": "2025-06-30",
-        "apply_link": "https://upsc.gov.in/sites/default/files/Ticker-Notice-CSP-25-Engl-13022025R_0.pdf, https://upsc.gov.in//examinations/Indian%20Forest%20Service%20%28Preliminary%29%20Examination%2C%202025%20through%20CS%28P%29%20Examination%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "Matriculation Certificate",
-            "Aadhar Card or PAN Card or Passport or Driving License",
-            "Recent passport size photograph",
-            "Undertaking in TESCHDE TOME"
-        ],
-        "details": {
-            "changes made to OTR profile": "The following entries in the OTR profile have been made editable until the final submission of application and thereafter during the correction window.",
-            "eligibility for PwBD candidates": "Eligible PwBD candidates, who wish to seek assistance of 'own scribe' in the CS(Prelims), will have to mandatorily provide the details of the 'own scribe' for CS(Prelim) Exam."
-        }
-    },
-    {
-        "name": "Corrigendum to Indian Forest Service Examination, 2025",
-        "date_of_notification": "2204-01-20",
-        "date_of_commencement": "2025-02-18",
-        "end_date": "2025-03-24",
-        "apply_link": "https://upsc.gov.in/sites/default/files/Corrigendum-IFSP-25-Engli-310125.pdf",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Corrigendum-IFSP-25-Engli-310125.pdf",
-            "https://upsc.gov.in//examinations/Indian%20Forest%20Service%20%28Preliminary%29%20Examination%2C%202025%20through%20CS%28P%29%20Examination%202025"
-        ],
-        "details": {
-            "changes_to_notice": "The changes to the Notice of Indian Forest Service Examination, 2025 published on 02 February 2025 are hereby made in Para 2.1 & 5(c) regarding Modification in OTR Profile (Registration):",
-            "candidate_can_make_changes": "In case, the candidate wants to effect any change in his/her OTR Profile (Registration), it shall be allowed only once in the lifetime after the registration at OTR platform.",
-            "modification_last_date": "The last date of modification of OTR Profile (Registration) would be 18.02.2025."
-        }
-    },
-    {
-        "name": "Certificate of Disability",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": "2025-12-31",
-        "apply_link": "https://upsc.gov.in/examinations/Civil%20Services%20(Preliminary)%20Examination%2C%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Notification-Instructions-CSP-IFSP-2025-Engl-220125.pdf"
-        ]
-    },
-    {
-        "name": "Civil Services Examination, 2025 & IFoS(P)-2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://upsc.gov.in//examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Ticker-Notice-CSP-25-Engl-13022025R_1.pdf"
-        ],
-        "details": {
-            "changes_made_to_one_time_registration": "The Commission has decided to make the following changes in the One-Time Registration (OTR) for filling up of the online application.",
-            "eligible_PwBD_candidates_can_seek_assistance_of_own_scribe": "Eligible PwBD candidates, who wish to seek assistance of ‘own scribe’ in the CS(Prelims), will have to mandatorily provide the details of the ‘own scribe’ for CS (Prelim) Exam.",
-            "candidates_who_have_lost_access_to_mobile_number_but_have_email_ID": "If a candidate has lost access to his/her registered mobile number but he/she has the access to his/her registered email ID, he/she can apply for change in the mobile number and in this case, an OTP will be sent to the registered email ID.",
-            "candidates_who_can_seek_assistance_of_own_scribe_for_CS_Main": "The PwBD candidates may update/provide details of the ‘own scribe’ during the window, which will be made available to the candidates after the declaration of the result of CS (Prelim) Exam."
-        }
-    },
-    {
-        "name": "Union Public Service Commission Examination Branch",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://upsc.gov.in/examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/FictFee-CSP-25-Engl-070325.pdf"
-        ]
-    },
-    {
-        "name": "National Defence Academy and Naval Academy Examination (I), 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28I%29,%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/FictFee-NDA-NA-I-2025-Engl-140125.pdf"
-        ]
-    },
-    {
-        "name": "CISF AC (EXE) LDCE-2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": null,
         "apply_link": "https://upsc.gov.in/examinations/CISF%20AC%28EXE%29%20LDCE-2025",
         "event_type": "Exam",
         "document_links": [
-            "https://upsc.gov.in/sites/default/files/Notif-CISF-AC-EXE-LDCE-25-Engl-041224.pdf"
+            "https://upsc.gov.in/sites/default/files/AddendumNotice-CISF-25-Engl-050325.pdf"
         ],
         "details": {
-            "description": "CISF AC (EXE) LDCE-2025 Examination",
-            "eligibility": null,
-            "selection_process": null
+            "Rule 3 Changes": "FOR READ ‘The candidates should have completed 4 years of regular service as on 1% January, 2025 in the rank of Sub Inspector (GD)/Inspector (GD) including the period of basic training and should have clean record of service till issue of offer of appointment.’ ‘The candidates should have completed 4 years of regular service as on 1% January of the year of the exam in the rank of Sub Inspector (GD)/Inspector (GD) including the period of basic training and should have clean record of service i.e. should not have been imposed with any minor punishment as mentioned in Rule-34 (vi-x) of CISF Rules, 2001 for last 4 years till issue of offer of appointment and / or any Major punishment under Rule-34(i-v) of CISF Rules, 2001 during the entire service.’"
         }
-    },
-    {
-        "name": "Combined Section Officer (Grade-B) LDCE, 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Combined%20Section%20Officer%20(%E2%80%93Grade-B%E2%80%9D)%20LDCE,%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Notif-Instr-CSO-GrB-LDCE-24-Engl-131124.pdf"
-        ]
-    },
-    {
-        "name": "Combined Section Officers’ (Grade B) Limited Departmental Competitive Examination, 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2024",
-        "end_date": "TBA",
-        "apply_link": "https://upsc.gov.in/examinations/Combined%20Section%20Officer%20%28Grade-B%29%20LDCE%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Instructions-SO-LDCE-24-Engl-021224.pdf"
-        ],
-        "details": {
-            "rules_for_submission": "Rule 4 of the Rules for the Combined Section Officers’ (Grade B) Limited Departmental Competitive Examination, 2024 categorically stipulates that the candidates will have to fill in the application form on-line on the UPSC web-site and hard copies of the same are to be routed through proper channel, to the Cadre Controlling Authorities of participating Services for verification/authentication and onward transmission to the Commission. The scrutiny of applications for deciding the eligibility of candidates, with reference to the stipulated eligibility conditions will be done by the CCAs concerned.",
-            "non_compliance_consequences": "Non-compliance may invite cancellation of the candidature of the candidate(s) concerned."
-        }
-    },
-    {
-        "name": "Combined Section Officer (Grade-B) LDCE, 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Combined%20Section%20Officer%20%28Grade-B%29%20LDCE%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-I-130125.pdf"
-        ]
-    },
-    {
-        "name": "UPSC Engineering Services (Preliminary) Examination, 2025",
-        "date_of_notification": "2024-12-24",
-        "date_of_commencement": null,
-        "end_date": "2025-03-24",
-        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Notif-ESEP-25-Engl-031024R.pdf"
-        ]
-    },
-    {
-        "name": "Engineering Services Examination, 2025",
-        "date_of_notification": "October 18, 2024",
-        "date_of_commencement": "September 18, 2024",
-        "end_date": "November 27, 2024",
-        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination,%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/PressReleaseESEP-2025-Engl-181024.pdf"
-        ],
-        "details": {
-            "Original Application Window Ends": "The original application window for ESE 2025 ended on October 8, 2024.",
-            "Correction Window Put On Hold": "The Commission put the opening of the correction window on hold due to the inclusion of IRMS in ESE 2025.",
-            "New Application Window Opens": "A new application window was opened from October 18, 2024, for new applicants and old applicants to make changes."
-        }
-    },
-    {
-        "name": "Engineering Services (Preliminary) Examination, 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination,%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "Addendum-ESEP-2025-Engl-181024R.pdf",
-            "https://upsc.gov.in/sites/default/files/Addendum-ESEP-2025-Engl-181024R.pdf"
-        ]
     },
     {
         "name": "Combined Geo-Scientist (Preliminary) Examination, 2025",
-        "date_of_notification": "2024-04-09",
+        "date_of_notification": "2024-10-07",
         "date_of_commencement": null,
         "end_date": null,
-        "apply_link": "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20(%C2%BDPreliminary%29%20Examination%2C%202025",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20(%C2%BFPreliminary)%20Examination,%202025",
         "event_type": "Exam",
         "document_links": [
-            "https://upsc.gov.in/sites/default/files/Notif-CGSPE-25-English-04092024_0.pdf"
+            "https://upsc.gov.in/sites/default/files/FF-CGeoScnstPrlmExam-25-Engli-071024.pdf"
+        ],
+        "details": {
+            "reason_for_rejection": "non-payment of Examination fee",
+            "rejection_date": "2024-09-04",
+            "appeal_process": "speed post OR by hand to Smt Uma Menon, Under Secretary, Union Public Service Commission"
+        }
+    },
+    {
+        "name": "Indian Forest Service (Main) Examination, 2024",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/examinations/Indian%20Forest%20Service%20(%20Main%29%20Examination,%202024",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURAL-ENGINEERING-PAPER-II-021224.pdf"
         ],
         "details": {
             "exam_date": null,
-            "center": null,
-            "subject": "Geology, Geomorphology, Geography",
-            "duration": null
+            "exam_center": null,
+            "examination_type": null
         }
     },
     {
-        "name": "Combined Geo-Scientist (Preliminary) Examination-2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2025-02-09",
-        "end_date": "2025-03-16",
-        "apply_link": "https://upsconline.gov.in/examinations/Combined%20Geo-Scientist%20%28Preliminary%29%20Examination%2C%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/e-AC-Notice-GeoScnstPre-25-Engl-310125.pdf"
-        ],
-        "details": {
-            "e-Admit Card": "The Commission has uploaded the e-Admit Cards for the convenience of the admitted candidates on its website.",
-            "Examination Venue": "Candidates are required to produce their e-Admit Card at the allotted Venue for appearing at the Examination."
-        }
-    },
-    {
-        "name": "Combined Geo-Scientist (Preliminary) Examination-2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2025-02-22",
-        "end_date": "2025-04-18",
-        "apply_link": "https://upsc.gov.in/sites/default/files/TT-CGeoScnstPreExam-25-Engl-071124.pdf",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in//examinations/Combined%20Geo-Scientist%20%28Preliminary%29%20Examination%2C%202025"
-        ],
-        "details": {
-            "time_table": "Date __and | Time Subject\nDay Paper-I (Code No.1)\n09.30 A.M. to General Studies [Common for all Streams]\n11.30 A.M.\nPaper-II [Code No.2] \n oo Stream specific subject Paper \nFebruary, | Stream Subject \n2025 Geologist Group ‘A’, Geology / \nSunday Scientist B Hydrogeology \n(Hydrogeology) Group\n02.00 P.M. to ‘A’ & Assistant \n04.00 P.M. Hydrogeologist Group‘B’\nGeophysicist Group ‘A’, Geophysics\nScientist ‘B’(Geophysics)\nGroup ‘A’& Assistant\nGeophysicist Group ‘B’\nChemist Group ‘A’, Chemistry\nScientist ‘B’(Chemical)\nGroup ‘A’ &Assistant \nChemist Group B"
-        }
-    },
-    {
-        "name": "Combined Geo-Scientist (Preliminary) Examination, 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
+        "name": "TIME TABLE FOR CIVIL SERVICES (MAIN EXAMINATION, 2024)",
+        "date_of_notification": "",
+        "date_of_commencement": "20.09.2024",
         "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Combined%20Geo-Scientist%20%28Preliminary%29%20Examination%2C%202025",
+        "apply_link": "https://upsc.gov.in/sites/default/files/TT-CSM-24-engl-090824.pdf",
         "event_type": "Exam",
         "document_links": [
-            "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-GENERAL-STUDIES-PAPER-I-100225.pdf"
-        ]
-    },
-    {
-        "name": "Indian Forest Service (Main) Examination, 2024",
-        "date_of_notification": "2024-08-23",
-        "date_of_commencement": "2024-08-27",
-        "end_date": "2024-09-05",
-        "apply_link": "https://upsc.gov.in/sites/default/files/ImpNotice-IFSM-24-DAF-I-Engl-270824.pdf, https://upsc.gov.in//examinations/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/ImpNotice-IFSM-24-DAF-I-Engl-270824.pdf",
-            "https://upsc.gov.in//examinations/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202024"
-        ]
-    },
-    {
-        "name": "Civil Services (Main) Examination, 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2024-07-03",
-        "end_date": "2024-07-12",
-        "apply_link": "https://upsconline.nic.in",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/DAF-I-Notice-CSME-2024-engl-030724.pdf",
-            "https://upsc.gov.in//examinations/Civil%20Services%20(%28Main%29)%20Examination,%202024"
+            "https://upsc.gov.in//examinations/Civil%20Services%20%28Main%29%20Examination%2C%202024"
         ],
         "details": {
-            "description": "Result of the Civil Services (Preliminary) Examination, 2024 held on 16.06.2024 has been declared on 01.07.2024."
+            "Time Table": "Date(Day) Forenoon Session Afternoon Session\n9:00 A.M. to 12:00 Noon 2:30 P.M. to 5:30 P.M.\n(1) (2) (3)\n20.09.2024 Paper-l No Paper\n(Friday) Essay\n21.09.2024 Paper-ll Paper-lll\n(Saturday) General Studies-I General Studies-Il\n22.09.2024 Paper-IV Paper-V\n(Sunday) General Studies-Ill General Studies-IV",
+            "Exam Dates": "28.09.2024 Paper-A Paper-B\n(Saturday) Indian Language English\n{Assamese / Bengali / Bodo / Dogri/\nGujarati / Hindi / Kannada / Kashmiri /\nKonkani / Maithilli 7 Malayalam /\nManipuri / Marathi / Nepali / Odia /\nPunjabi / Sanskrit /  Santhali\n(Devanagari / Olchiki Script)/ Sindhi\n(Devanagari / Arabic Script) / Tamil /\nTelugu / Urdu}"
         }
     },
     {
-        "name": "Civil Services (Main) Examination, 2024",
+        "name": "Civil Services (Preliminary) Examination, 2024",
         "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Civil%20Services%20%28Main%29%20Examination,%202024",
+        "date_of_commencement": "2024-02-14",
+        "end_date": "2024-04-15",
+        "apply_link": "https://upsc.gov.in//examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202024",
         "event_type": "Exam",
         "document_links": [
-            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_ESSAY_03102024.pdf"
+            "https://upsc.gov.in/sites/default/files/FictFee-CSP-24-English-080424.pdf"
         ],
         "details": {
-            "word_limit": "1000 — 1200 words each",
-            "section_topics": [
-                "SECTION A",
-                "PHKM-G-ESSY 1",
-                "we B",
-                "PHKM-G-ESSY 2",
-                "we B",
-                "PHKM-G-ESSY 3"
-            ],
-            "instructions": "Please read each of the following instructions carefully before attempting questions : ... Any page or portion of the page left blank in the Question-cum-Answer (QCA) Booklet must be clearly struck off..."
+            "reason_for_rejection": "Applications rejected due to non-payment of fee.",
+            "additional_information": "Candidates are advised to appeal against rejection within 10 days with the required documentary evidence."
         }
     },
     {
-        "name": "UPSC General Studies Exam",
-        "date_of_notification": "2025-03-24",
+        "name": "Combined Defence Service Examination (I), 2025",
+        "date_of_notification": "14.01.2025",
         "date_of_commencement": null,
         "end_date": null,
-        "apply_link": "https://upsc.gov.in/examinations/Civil%20Services%20%28Main%29%20Examination%2C%202024",
+        "apply_link": "https://upsc.gov.in/sites/default/files/FF-CDSE-I-2025-Engl-14012025.pdf",
         "event_type": "Exam",
         "document_links": [
-            "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_I_03102024.pdf"
-        ]
-    },
-    {
-        "name": "UPSC Exam",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://upsc.gov.in/examinations/Civil%20Services%20%28Main%29%20Examination%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "QP_CSM_2024_GenStud_II_03102024.pdf"
-        ]
-    },
-    {
-        "name": "National Defence Academy and Naval Academy Examination (II), 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29,%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/FF-NDA-NA-II-24-engl-200624.pdf"
+            "https://upsc.gov.in/sites/default/files/FF-CDSE-I-2025-Engl-14012025.pdf",
+            "https://upsc.gov.in//examinations/Combined%20Defence%20Services%20Examination%20%28I%29,%202025"
         ],
         "details": {
-            "description": "National Defence Academy and Naval Academy Examination (II), 2024",
-            "application_date": "",
-            "exam_date": "",
-            "duration": "",
-            "application_window": ""
+            "reason_for_rejection": "rejected due to non-payment of fee - regarding.",
+            "appeal_instructions": "Appeal against rejection, if any, may be made along with the documentary evidence sent to the Commission by speed post OR by hand only to Shri R.S. Sharma, Under Secretary (CDS)/C,"
         }
     },
     {
-        "name": "National Defence Academy & Naval Academy Examination (II), 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2024-09-01",
-        "end_date": "2024-12-31",
-        "apply_link": "https://upsconline.nic.in",
+        "name": "Combined Defence Service Examination (I), 2025",
+        "date_of_notification": "14.01.2025",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28I%29,%202025",
         "event_type": "Exam",
         "document_links": [
-            "https://upsc.gov.in/sites/default/files/PressNote-NDA-NA-Exam-II-2024-Engl-230824.pdf",
-            "https://upsc.gov.in/examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29%2C%202024"
-        ]
+            "https://upsc.gov.in/sites/default/files/FF-CDSE-I-2025-Engl-14012025.pdf"
+        ],
+        "details": {
+            "notification_reason": "rejected due to non-payment of fee - regarding.",
+            "appeal_process": "Appeals against rejection may be made along with documentary evidence sent to the Commission by speed post OR by hand only to Shri R.S. Sharma, Under Secretary (CDS)/C, Union Public Service Commission",
+            "bank_pay_inslip_required": true,
+            "card_statement_required": true
+        }
     },
     {
-        "name": "National Defence Academy and Naval Academy Examination (II), 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2024-04-01",
-        "end_date": "2024-05-31",
-        "apply_link": "https://upsc.gov.in/examinations/National Defence Academy and Naval Academy Examination (II), 2024",
+        "name": "Combined SO LDCE, 2024",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upsc.gov.in/sites/default/files/TimeTable-SO-LDCE-2024-Eng-171224.pdf",
         "event_type": "Exam",
         "document_links": [
-            "https://upsc.gov.in/sites/default/files/QP-NDA-NA-II-24-GENERAL-ABILITY-TEST-020924.pdf"
-        ]
-    },
-    {
-        "name": "SURN-B-MTH Test Booklet Series",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/sites/default/files/QP-NDA-NA-II-24-MATHEMATICS-020924.pdf",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/examinations/National Defence Academy and Naval Academy Examination (II), 2024"
-        ]
+            "https://upsc.gov.in//examinations/Combined%20Section%20Officer%20%28Grade-B%29%20LDCE%2C%202024"
+        ],
+        "details": {
+            "description": "Time Table for Combined SO LDCE, 2024",
+            "subjects": [
+                "General Studies & General",
+                "Procedure and Practice in the Govt.",
+                "Noting and Drafting"
+            ]
+        }
     },
     {
         "name": "Combined Defence Services Examination (II), 2024",
-        "date_of_notification": "234 August, 2024",
-        "date_of_commencement": "01 September, 2024",
+        "date_of_notification": "19.06.2024",
+        "date_of_commencement": null,
         "end_date": null,
-        "apply_link": "https://upsconline.nic.in/miscellaneous/ExamApplications/",
+        "apply_link": "https://upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28II%29,%202024",
         "event_type": "Exam",
         "document_links": [
-            "https://upsc.gov.in/sites/default/files/PressNote-CDSE-II-24-engl-230824.pdf",
-            "https://upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28II%29,%202024"
+            "https://upsc.gov.in/sites/default/files/FictFee-CDSE-II-24-engl-190624.pdf"
         ],
         "details": {
-            "Venue": "various Centres/Venues all over India",
-            "Exam Sessions": "09:00 AM to 11:00 AM (English Paper), 12:00 Noon to 02:00 PM (General Knowledge Paper) and 03:00 PM to 05:00 PM (Elementary Mathematics Paper)",
-            "Entry Closure": "30 minutes prior to the commencement of the Examination in each Session",
-            "Banned Items": "valuables/costly items, mobile phones, smart/digital watches, other IT gadgets, books, bags etc.",
-            "Allowed Items": "e-Admit Card, pen, pencil, identity proof, photographs"
+            "applicants": "6 applicants whose names are mentioned in Annexure for CDS Examination (II), 2024",
+            "rejection_reason": "non-payment of fee",
+            "appeal_procedure": "Appeal against rejection, if any, may be made, along with the documentary evidence, to the Commission either by speed post OR by hand only addressed to Sh. R.S. Sharma, Under Secretary (CDS), Union Public Service Commission, Room No. 416, Ayog Sachivalaya Building."
         }
     },
     {
-        "name": "UPSC Combined Defence Services Examination (II), 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "2025-05-31",
-        "apply_link": "https://upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20(%2024)%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/QP-CDSE-II-24-ENGLISH-020924.pdf"
-        ]
-    },
-    {
-        "name": "RAKU-S-GKL Test Booklet Series",
+        "name": "Agricultural Engineering Paper-I",
         "date_of_notification": "2025-03-24",
         "date_of_commencement": "2025-03-24",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20(%C2%AE)%202024",
+        "end_date": "2025-04-01",
+        "apply_link": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURAL-ENGINEERING-PAPER-I-021224.pdf, https://upsc.gov.in/examinations/Indian Forest Service (Main) Examination, 2024",
         "event_type": "Exam",
         "document_links": [
-            "https://upsc.gov.in/sites/default/files/QP-CDSE-II-24-GENERAL-KNOWLEDGE-020924.pdf"
+            "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURAL-ENGINEERING-PAPER-I-021224.pdf",
+            "https://upsc.gov.in/examinations/Indian Forest Service (Main) Examination, 2024"
         ],
         "details": {
-            "instructions": "Please note that it is the candidate’s responsibility to encode and fill in the Roll Number and Test Booklet Series A, B, C or D carefully and without any omission or discrepancy at the appropriate places in the OMR Answer Sheet. Any omission/discrepancy will render the Answer Sheet liable for rejection.",
-            "penalty": "THERE WILL BE PENALTY FOR WRONG ANSWERS MARKED BY A CANDIDATE IN THE OBJECTIVE TYPE QUESTION PAPERS. (i) There are four alternatives for the answer to every question. For each question for which a wrong answer has been given by the candidate, one-third of the marks assigned to that question will be deducted as penalty. (ii) If a candidate gives more than one answer, it will be treated as a wrong answer even if one of the given answers happens to be correct and there will be same penalty as above to that question. (iii) If a question is left blank, i.e., no answer is given by the candidate, there will be no penalty for that question.",
-            "test_booklet": {
-                "items": 120,
-                "answersheet": {
-                    "instructions": "You have to mark all your responses ONLY on the separate Answer Sheet provided. See directions in the Answer Sheet."
-                }
-            }
-        }
-    },
-    {
-        "name": "Central Armed Police Forces (CAPF) Examination, 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Central%20Armed%20Police%20Forces%20(%28ACs%29)%20Examination%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/CAPF_AC_Exam_2024_ExamNotif_Eng_24042024.pdf"
-        ]
-    },
-    {
-        "name": "Central Armed Police Forces (Asstt. Commandants) Exam, 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2024-04-24",
-        "end_date": "2024-05-22",
-        "apply_link": "https://upsc.gov.in/examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/CAPF_AC_2024_FictFee_Eng_30052024.pdf"
-        ],
-        "details": {
-            "reason_for_rejection": "Applications rejected due to non-payment of Examination fee.",
-            "appeal_procedure": "Appeals against rejection may be made within 10 days along with documentary evidence.",
-            "documentary_evidence_required": [
-                "System generated challan (in original), copy of debit/credit card statement or Bank account statement as the case may be."
-            ]
-        }
-    },
-    {
-        "name": "Central Armed Police Forces (Assistant Commandants) Examination-2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2024-08-04",
-        "end_date": "2024-08-04",
-        "apply_link": "https://upsconline.nic.in/examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/PressNote-CAPF-24-engl-260724.pdf"
-        ],
-        "details": {
-            "examination_dates": "The Examination will be held on August 4, 2024 (Sunday) all over India.",
-            "e_admit_card_upload": "The Commission has uploaded the e-Admit Card for the convenience of the admitted candidates on its website https://upsconline.nic.in.",
-            "venue_rules": "Candidates are advised to carry along the Photo ID Card, whose number is mentioned in the e-Admit Card, for appearing at each Session of the Examination."
-        }
-    },
-    {
-        "name": "UPSC Exams",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Preliminary%29%20Examination%2C%202024%20through%20CS%28P%29%20Examination%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Notif-IFSP-24-engl-140224.pdf"
-        ]
-    },
-    {
-        "name": "Indian Forest Service Preliminary Examination, 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Preliminary%29%20Examination%2C%202024%20through%20CS%28P%29%20Examination%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/IFoSP_2024_WR_Eng_01072024.pdf"
-        ]
-    },
-    {
-        "name": "Civil Services (Preliminary) Examination, 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/ImpNotice-PressRelease-CSP-24-engl-050424.pdf"
-        ]
-    },
-    {
-        "name": "Kerala Public Service Commission - General Studies Paper-I",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://upsc.gov.in/examinations/Civil%20Services%20%28Preliminary%29%20Examination,%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/QP-CSP-24-GENERAL-STUDIES-PAPER-I-180624.pdf"
-        ]
-    },
-    {
-        "name": "Corrigendum to Civil Services Examination, 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://upsc.gov.in//examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Corrigendum-CSP-25-Engl-310125.pdf"
-        ],
-        "details": {
-            "issued_by": "Himanshu Kumar",
-            "position": "Joint Secretary (Examination)",
-            "description": "Changes to the Notice of CSE, 2025 published on January 24, 2025."
-        }
-    },
-    {
-        "name": "Rescheduling of Engineering Services Examination 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2024-10-09",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/sites/default/files/Noti_ESEP_2025_Eng_10102024.pdf https://upsc.gov.in//examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202025",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/Noti_ESEP_2025_Eng_10102024.pdf",
-            "https://upsc.gov.in//examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202025"
-        ],
-        "details": {
-            "services": [
-                "Civil",
-                "Electrical",
-                "Mechanical",
-                "Signal & Telecommunication",
-                "Stores Sub-cadres"
-            ]
-        }
-    },
-    {
-        "name": "Indian Forest Service (Main) Examination, 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2024-11-24",
-        "end_date": "2024-12-31",
-        "apply_link": "https://upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/PressNote-IFSM-24-Engl-111124.pdf"
-        ],
-        "details": {
-            "Venue Details": "The examination will be held from 09:00 AM to 12:00 PM and 02:30 PM to 05:30 PM.",
-            "Banned Items": "Candidates are not allowed to enter the examination premises with any valuables/costly items, mobile phones, smart/digital watches, other IT gadgets, books, bags etc."
-        }
-    },
-    {
-        "name": "CENTRAL ARMED POLICE FORCES (ACs) EXAM, 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2024-04-08",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/sites/default/files/TT-CAPF-24-engl-250624.pdf, https://upsc.gov.in//examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/TT-CAPF-24-engl-250624.pdf",
-            "https://upsc.gov.in//examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202024"
-        ],
-        "details": {
-            "time_table": "Date and Day Time Subject\nPaper — I (Code No. 01)\n10:00 AM General Ability and to Intelligence\n04.08.2024 12:00 PM\n(Sunday) Paper — II (Code No. 02)\n02:00 PM General Studies, Essay to and Comprehension"
-        }
-    },
-    {
-        "name": "Civil Services (Preliminary) Examination, 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2024-06-16",
-        "end_date": "",
-        "apply_link": "https://upsc.gov.in/examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202024",
-        "event_type": "Exam",
-        "document_links": [
-            "https://upsc.gov.in/sites/default/files/PressNote-CSP-24-engli-070624.pdf"
-        ],
-        "details": {
-            "venue": "",
-            "instructions": "Candidates are advised to download their e-Admit Cards and take a printout. e-Admit Card must be preserved till the declaration of the final results of the Civil Services Examination, 2024.",
-            "items_not_allowed_inside_venue": [
-                "valuables/costly items",
-                "mobile phones",
-                "smart/digital watches",
-                "other IT gadgets",
-                "books",
-                "bags"
+            "exam_type": "Written Exam",
+            "duration": "3 hours",
+            "subject_areas": [
+                "Agricultural Engineering",
+                "Soil and Water Resources"
             ],
-            "disciplinary_action": "Cancellation of candidature, filing of FIR/police complaint against the candidate, prohibition from appearing in subsequent Session(s)/day(s) of the Examination."
+            "topics": [
+                "Crop Irrigation Systems",
+                "Soil Conservation Methods",
+                "Water Harvesting Techniques"
+            ]
         }
     }
 ]

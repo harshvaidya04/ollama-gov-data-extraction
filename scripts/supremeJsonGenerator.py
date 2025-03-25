@@ -5,18 +5,18 @@ import os
 # generateOutput("https://psc.ap.gov.in/Documents/NotificationDocuments/Admitcard_172024_23012025.pdf")
 
     
-# global supremeData
-# global SupremeFailedData
-# supremeData = {}
+global supremeData
+global SupremeFailedData
+supremeData = {}
 
 
-    # with open ('SupremeFailedLinksTemp.json','r',encoding='utf-8') as f:
-    #     try:
-    #         SupremeFailedDataTemp = json.load(f)
-    #         if isinstance(SupremeFailedDataTemp,dict):
-    #             SupremeFailedData = SupremeFailedDataTemp
-    #     except Exception:
-    #         pass
+with open ('SupremeFailedLinks.json','r',encoding='utf-8') as f:
+    try:
+        SupremeFailedDataTemp = json.load(f)
+        if isinstance(SupremeFailedDataTemp,dict):
+            SupremeFailedData = SupremeFailedDataTemp
+    except Exception:
+        pass
 
 
     
@@ -28,65 +28,75 @@ def generateSupremeJson(supremeData):
     
     
     # central
-    orgs = supremeData["central"]
+    # orgs = supremeData["central"]
 
-    for org in orgs:
-    # for org in orgs[7:]:
-        if(org["name"] != "UPSC"):
-            organization = org["name"]
-            applyLink = org["applyLink"]
-            links = org["links"]
+    # for org in orgs:
+    # # for org in orgs[7:]:
+    #     if(org["name"] != "UPSC"):
+    #         organization = org["name"]
+    #         applyLink = org["applyLink"]
+    #         links = org["links"]
 
-            file_path = f"../Server/data/Formatted_data/Central/{organization}.json"
-            if(not os.path.exists(file_path)):
-                with open(file_path,'a') as f:
-                    pass
+    #         file_path = f"../Server/data/Formatted_data/Central/{organization}.json"
+    #         if(not os.path.exists(file_path)):
+    #             with open(file_path,'a') as f:
+    #                 pass
 
-            failedLinks=[]
-            for link in links[:5]:
+    #         failedLinks=[]
+            
+    #         successCount=0
+    #         for link in set(links):
                 
                 
-                
-                output = generateOutput(link, applyLink)
-                if(output):
+    #             output = generateOutput(link, applyLink)
+    #             if(output==1):
+    #                 failedLinks.append(link)
+    #             elif(output==0):
+    #                 continue
+    #             elif(output):
                     
                     
 
-                    # Step 1: Check if file exists and read existing data
-                    if os.path.exists(file_path):
-                        with open(file_path, "r", encoding="utf-8") as f:
-                            try:
-                                existingEvents = json.load(f)  # Load existing JSON data
-                                if not isinstance(existingEvents, list):  # Ensure it's a list
-                                    existingEvents = []
-                            except json.JSONDecodeError:
-                                existingEvents = []  # If JSON is corrupted or empty, reset it to an empty list
-                    else:
-                        existingEvents = []  # If file doesn't exist, start with an empty list
+    #                 # Step 1: Check if file exists and read existing data
+    #                 if os.path.exists(file_path):
+    #                     with open(file_path, "r", encoding="utf-8") as f:
+    #                         try:
+    #                             existingEvents = json.load(f)  # Load existing JSON data
+    #                             if not isinstance(existingEvents, list):  # Ensure it's a list
+    #                                 existingEvents = []
+    #                         except json.JSONDecodeError:
+    #                             existingEvents = []  # If JSON is corrupted or empty, reset it to an empty list
+    #                 else:
+    #                     existingEvents = []  # If file doesn't exist, start with an empty list
 
-                    # Step 2: Append new events to the list
-                    existingEvents.append(output)
+    #                 # Step 2: Append new events to the list
+    #                 existingEvents.append(output)
 
-                    # Step 3: Write back the updated list to the file
-                    with open(file_path, "w", encoding="utf-8") as f:
-                        json.dump(existingEvents, f, ensure_ascii=False, indent=4)
+    #                 # Step 3: Write back the updated list to the file
+    #                 with open(file_path, "w", encoding="utf-8") as f:
+    #                     json.dump(existingEvents, f, ensure_ascii=False, indent=4)
                         
-                else:
-                    failedLinks.append(link)
+    #                 successCount+=1
+                    
+    #                 if(successCount==5):
+    #                     break
+                        
+    #             else:
+    #                 failedLinks.append(link)
             
-            failedObject = {
-                "name": organization,
-                "applyLink": applyLink,
-                "links": failedLinks
-            }
+    #         failedObject = {
+    #             "name": organization,
+    #             "applyLink": applyLink,
+    #             "links": failedLinks
+    #         }
             
-            SupremeFailedData["central"].append(failedObject)        
-            with open ('../scripts/SupremeFailedLinksTemp.json','w',encoding='utf-8') as f:
-                json.dump(SupremeFailedData,f)
+    #         SupremeFailedData["central"].append(failedObject)        
+    #         with open ('../scripts/SupremeFailedLinksTemp.json','w',encoding='utf-8') as f:
+    #             json.dump(SupremeFailedData,f)
             
-            print("stored in",organization)
+    #         print("stored in",organization)
 
-    print("Central done")
+    # print("Central done")
 
 
     # state
@@ -117,9 +127,14 @@ def generateSupremeJson(supremeData):
             
             failedLinks=[]
             
-            for link in links[:5]:
+            successCount=0
+            for link in set(links):
                 output = generateOutput(link, applyLink)
-                if(output):
+                if(output==1):
+                    failedLinks.append(link)
+                elif(output==0):
+                    continue
+                elif(output):
 
                     os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
@@ -140,6 +155,9 @@ def generateSupremeJson(supremeData):
                         json.dump(existingEvents, f, ensure_ascii=False, indent=4)
                         
                         
+                    successCount+=1
+                    if(successCount==5):
+                        break
                 else:
                     failedLinks.append(link)
             
@@ -191,9 +209,15 @@ def generateSupremeJson(supremeData):
                 pass
 
         failedLinks=[]
-        for link in links[:5]:
+        
+        successCount=0
+        for link in set(links):
             output = generateOutput(link, applyLink)
-            if(output):
+            if(output==1):
+                failedLinks.append(link)
+            elif(output==0):
+                continue
+            elif(output):
 
                 os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
@@ -213,6 +237,9 @@ def generateSupremeJson(supremeData):
                 with open(file_path, "w", encoding="utf-8") as f:
                     json.dump(existingEvents, f, ensure_ascii=False, indent=4)
                 
+                successCount+=1
+                if(successCount==5):
+                    break
             else:
                 failedLinks.append(link)
             
@@ -243,7 +270,7 @@ def generateSupremeJson(supremeData):
         
 if __name__ == '__main__':
     
-    with open("../scripts/documentLinksSupreme.json",'r', encoding='utf-8') as f:
+    with open("../scripts/documentUpdatedLinksSupreme.json",'r', encoding='utf-8') as f:
         supremeData = json.load(f)
     
         

@@ -64,5 +64,32 @@
                 }
             ]
         }
+    },
+    {
+        "name": "Director, Indian Council of Medical Research",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.icmr.gov.in/employment-opportunities",
+        "event_type": "Exam",
+        "document_links": [
+            "Recruitment/1742809283_advertisementvacanciesofdirectorshindi.pdf"
+        ]
+    },
+    {
+        "name": "Scientist-C Recruitment",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1742809091_finaladvrcn-sc-c02m-sc-c02nm.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.icmr.gov.in/employment-opportunities"
+        ],
+        "details": {
+            "description": "Scientist-C Recruitment",
+            "advice": "",
+            "important": ""
+        }
     }
 ]

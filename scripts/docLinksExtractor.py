@@ -36,11 +36,22 @@ def get_document_links(url):
 
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href']
-        if any(href.lower().endswith(ext) for ext in document_extensions):
-            full_link = urljoin(url, href)
-            decoded_link = unquote(full_link)
-            cleaned_link = clean_unicode_characters(decoded_link)
-            links.append(cleaned_link)
+        # if any(href.lower().endswith(ext) for ext in document_extensions):
+        
+        full_link = urljoin(url, href)
+        decoded_link = unquote(full_link)
+        cleaned_link = clean_unicode_characters(decoded_link)
+        
+        try:
+            response = requests.get(cleaned_link)
+            print(cleaned_link)
+            print("😭😭😭")
+            print(response.headers)
+            print("🛐🛐🛐🛐🛐🛐🛐🛐🛐")
+        except Exception:
+            print("frgbrg")
+        
+        links.append(cleaned_link)
 
     return links
 
@@ -54,7 +65,7 @@ def save_links_to_file(links, filename="document_links.txt"):
         print(f"Error writing to file: {e}")
 
 if __name__ == "__main__":
-    website_url = "https://upsc.gov.in/examinations/Engineering%20Services%20(Preliminary)%20Examination,%202024"
+    website_url = "https://sbi.co.in/web/careers/current-openings"
     document_links = get_document_links(website_url)
 
     if document_links:

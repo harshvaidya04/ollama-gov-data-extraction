@@ -44,7 +44,7 @@ def extract_text_from_pdf(pdf_url):
 
         return extracted_text
     except Exception:
-        print("failed to extract text")
+        # print("failed to extract text")
         raise Exception(f"Failed to extract text")
 
 if __name__ == '__main__':

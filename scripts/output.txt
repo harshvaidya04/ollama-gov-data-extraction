@@ -1,24 +1,20 @@
 {
-  "name": "Civil Services (Preliminary) Examination, 2024",
-  "date_of_notification": "2025-03-24",
-  "date_of_commencement": "2024-06-16",
-  "end_date": "",
-  "apply_link": "https://upsc.gov.in/examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202024",
-  "event_type": "Exam",
-  "document_links": [
-    "https://upsc.gov.in/sites/default/files/PressNote-CSP-24-engli-070624.pdf"
-  ],
-  "details": {
-    "venue": "",
-    "instructions": "Candidates are advised to download their e-Admit Cards and take a printout. e-Admit Card must be preserved till the declaration of the final results of the Civil Services Examination, 2024.",
-    "items_not_allowed_inside_venue": [
-      "valuables/costly items",
-      "mobile phones",
-      "smart/digital watches",
-      "other IT gadgets",
-      "books",
-      "bags"
+    "name": "Jabalpur Division Bench - Larger (After DB) Daily Cause List",
+    "date_of_notification": "2025-03-25",
+    "date_of_commencement": "",
+    "end_date": "",
+    "apply_link": "https://mphc.gov.in/PDF/web_pdf/LU/Causelist dt. 11-12-2020",
+    "event_type": "Exam",
+    "document_links": [
+        "https://mphc.gov.in/PDF/web_pdf/LU/Causelist dt. 11-12-2020"
     ],
-    "disciplinary_action": "Cancellation of candidature, filing of FIR/police complaint against the candidate, prohibition from appearing in subsequent Session(s)/day(s) of the Examination."
-  }
+    "details": {
+        "court_name": "HIGH COURT OF MADHYA PRADESH : JABALPUR",
+        "hearings": [
+            {
+                "case_number": "05189/2020",
+                "petitioner_respondent": "PRAHLAD CHOUDHARY, THE STATE OF MADHYA ADVOCATE GENERAL"
+            }
+        ]
+    }
 }

@@ -16,14 +16,17 @@ def generateOutput(pdf_link, apply_link):
             f.write(raw_text)
         
         print("raw text extracted")
-        
-        user_prompt = prompt.prompt4(raw_text,pdf_link,apply_link)
-         
-        # call_ollama_api(user_prompt)
-        return call_ollama_api(user_prompt)
+        try:
+            user_prompt = prompt.prompt4(raw_text,pdf_link,apply_link)
+            
+            # call_ollama_api(user_prompt)
+            return call_ollama_api(user_prompt)
+        except Exception:
+            print("exception in o/p generation")
+            return 1
     except Exception:
-        print("exception in o/p generation")
-        return False
+        print("Raw text extraction failed")
+        return 0
 
 def call_ollama_api(prompt, output_file="output.json"):
     url = "http://localhost:11434/api/generate"

@@ -76,7 +76,7 @@ def generateSupremeUpdatedLinks():
         if(len(newLinks) > 0):
             for org in existingSupremeData['central']:
                 if org['name']=='UPSC':
-                    org["links"].extend(newLinks)
+                    org["organizations"][idx]["links"].extend(newLinks)
                 
             newLinksFilePaths.append(f'data\\Fomatted_data\\Multiple\\UPSC\\{websiteName}.json')
         

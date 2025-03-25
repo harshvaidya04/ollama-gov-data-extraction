@@ -1,54 +1,18 @@
 [
     {
-        "name": "PSPCL Recruitment",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2024-12-22",
-        "end_date": "",
-        "apply_link": "https://www.pspcl.in/Recruitment",
-        "event_type": "Exam",
-        "document_links": [
-            "https://www.pspcl.in/Otherlinks/DetailedAdvertisement24122024.pdf"
-        ]
-    },
-    {
-        "name": "Advertisement for Director/Finance in Punjab State Power Corporation Limited",
-        "date_of_notification": "2025-03-24",
+        "name": "Chairman-cum-Managing Director in Punjab State Power Corporation Limited (PSPCL) at Patiala",
+        "date_of_notification": "2024-09-24",
         "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://www.pspcl.in/Recruitment",
+        "end_date": "null",
+        "apply_link": "https://www.pspcl.in/media/pdf/10000/CMDDir_Adv_corrigendum.pdf, https://www.pspcl.in/Recruitment",
         "event_type": "Exam",
         "document_links": [
-            "https://www.pspcl.in/Otherlinks/Director17092024.pdf"
+            "https://www.pspcl.in/media/pdf/10000/CMDDir_Adv_corrigendum.pdf",
+            "https://www.pspcl.in/Recruitment"
         ],
         "details": {
-            "Eligibility Criteria": {
-                "Basic Qualification": "Basic Chartered Accountant or Cost Accountant (ICWA)",
-                "Age Limit": "Minimum age 50 years at the time of appointment",
-                "Experience Requirements": "At least twenty-five (25) years of experience in Finance/Accounts"
-            },
-            "Appointment Process": {
-                "Application Submission": "Applications, neatly typed in English and duly signed, along with copies of certificates/documents as proof of age, essential qualifications, and experience in the prescribed format",
-                "Selection Process": "Based on merit and preference for candidates having worked in a position equivalent to SE/CE in Regulatory Affairs and Commercial matters"
-            },
-            "Tenure": {
-                "Appointment Period": "Initially for a period of two years which can be further extended for three more years",
-                "Disqualification": "Disqualified if not been disqualified under Section 164 or any other relevant sections of the Indian Companies Act, 2013"
-            }
-        }
-    },
-    {
-        "name": "Exam",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://www.pspcl.in/Recruitment",
-        "event_type": "Exam",
-        "document_links": [
-            "https://www.pspcl.in/Otherlinks/DOC20240909WA0013neww.pdf"
-        ],
-        "details": {
-            "post": "The post of Director is open for applicants from the Public Sector Enterprise (PSE), Central Government, Armed Forces of the Union, and All India Services.",
-            "eligibility": "Applicants must have a degree in engineering or technology from a recognized university and have at least 25 years of experience in a managerial or executive position."
+            "type_of_post": "Chairman-cum-Managing Director",
+            "scale": "HAG Scale of Rs.182200-224100"
         }
     }
 ]
