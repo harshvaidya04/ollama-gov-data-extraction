@@ -12,6 +12,7 @@
             "Admission Tickets/Call Letters"
         ],
         "details": {
+<<<<<<< HEAD
             "STEP-I": {
                 "description": "Commencement of Step-I processes and remittance of application fee through online mode"
             },
@@ -20,6 +21,91 @@
             },
             "Admission Tickets/Call Letters": {
                 "description": "Download Admission Tickets/Call Letters from the link 'STEP-III' on the recruitment portal www.hckrecruitment.nic.in."
+=======
+            "description": "The Judicial Test (Higher) Examination, 2015 is a written examination conducted by the High Court of Kerala for candidates who have been in regular service of the court and have completed their law degree from any recognized university in Kerala."
+        }
+    },
+    {
+        "name": "Kerala High Court Recruitment",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2023-01-01",
+        "end_date": "",
+        "apply_link": "https://hckrecruitment.keralacourts.in/hckrecruitment//Recruitment/viewPdfnotiold?token=notification_TO_General28_02_2019_08_09_10, https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/notifications",
+        "event_type": "Exam",
+        "document_links": [
+            "OTYaLl & oqyakll",
+            "Oqoktl mvadgeflesosrs GoaMIM GG!",
+            "Bal ONLI UA GOErI1aH any GPS.",
+            "* BIOOAQ. AG A) G1. aly' ERS OIA QOq|SM OaQpUrdaMlad oqyas- Il eslempaucd",
+            "MAMIMIGAM Cosas ANI2ail @ocn (ee@IWe''29/03/2019) entapae avverdaancw'oaiagersm@reny"
+        ]
+    },
+    {
+        "name": "High Court Office Procedure Test",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://hckrecruitment.keralacourts.in/hckrecruitment//Recruitment/viewPdfnotiold?token=notification_OPT_Examination01_07_2021_08_22_40",
+        "event_type": "Exam",
+        "document_links": [
+            "https://hckrecruitment.keralacourts.in/hckrecruitment//Recruitment/viewPdfnotiold?token=notification_OPT_Examination01_07_2021_08_22_40",
+            "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/notifications"
+        ]
+    },
+    {
+        "name": "Kerala Judicial Service Examination",
+        "date_of_notification": "2023-01-01",
+        "date_of_commencement": "2023-02-01",
+        "end_date": "2023-03-17",
+        "apply_link": "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/notifications",
+        "event_type": "Exam",
+        "document_links": [
+            "notification_MUNSIFF_NCA25_01_2023_06_52_46"
+        ]
+    },
+    {
+        "name": "Kerala High Court Recruitment",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2023-09-20",
+        "end_date": "2023-10-19",
+        "apply_link": "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/viewspdfnotiold?token=notification_CLERASST_General18_09_2023_09_48_13&Event_Type=Exam",
+        "event_type": "Exam",
+        "document_links": [
+            "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/viewPdfnotiold",
+            "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/notifications"
+        ]
+    },
+    {
+        "name": "KERALA STATE HIGHER JUDICIAL SERVICE EXAMINATION",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2024-02-25",
+        "end_date": "2024-04-02",
+        "apply_link": 
+            "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/notifications",
+        "event_type": "Exam",
+        "document_links": [
+            "https://hckrecruitment.nic.in/hckrecruitment//Recruitment/viewPdfnotiold?token=notification_DJ_NCA25_02_2014_12_35_33"
+        ]
+    },
+    {
+        "name": "Kerala High Court Recruitment",
+        "date_of_notification": "2023-07-26",
+        "date_of_commencement": "2023-08-20",
+        "end_date": "2023-09-06",
+        "apply_link": "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/viewPdfnotiold?token=notification_ASST_General12_11_2018_06_50_27",
+        "event_type": "Exam",
+        "document_links": [
+            "https://hckrecruitment.keralacourts.in/hckrecruitment/",
+            "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/notifications"
+        ],
+        "details": {
+            "Eligibility Criteria": "See the official notification for details.",
+            "Application Process": "Apply online through the provided link.",
+            "Steps to Apply": "1. Log in to the recruitment portal, 2. Fill up the application form, 3. Upload required documents, 4. Pay application fee.",
+            "Contact Information": {
+                "Phone Number": "0484 - 2562235 & 2562958",
+                "Working Hours": "(10 a.m. and 4.30 p.m.)"
+>>>>>>> dc15a875a65b1732c21f1808534f562988126322
             }
         }
     },

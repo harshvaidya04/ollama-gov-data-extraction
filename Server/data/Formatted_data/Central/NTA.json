@@ -19,9 +19,15 @@
         "date_of_notification": "05.01.2022",
         "date_of_commencement": null,
         "end_date": null,
+<<<<<<< HEAD
         "apply_link": [
             "https://iift.nta.nic.in"
         ],
+=======
+        "apply_link": 
+            "https://nta.ac.in/NoticeBoardArchive",
+
+>>>>>>> dc15a875a65b1732c21f1808534f562988126322
         "event_type": "Exam",
         "document_links": [
             "https://nta.ac.in/Download/Notice/Notice_20220106165005.pdf",

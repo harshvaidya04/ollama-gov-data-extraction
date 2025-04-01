@@ -1111,5 +1111,40 @@
     "description": "GUJCET is a state-level entrance exam conducted by the Gujarat Secondary and Higher Secondary Education Board (GSEB) for admission into engineering and pharmacy courses in various colleges and universities across Gujarat. The exam is based on the Gujarat Board syllabus for Class 11 and 12.",
     "category": "Higher Education Specialized Exams",
     "parent_organization": "Gujarat"
-  }
+  },
+  {
+    "name": "Indian Rare Earths Limited",
+    "abbreviation": "IREL",
+    "description": "A recruitment drive conducted by Indian Rare Earths (IREL) for 30 executive-level positions across various domains, including finance, HR, engineering, and business development. Candidates with relevant educational qualifications such as B.Tech/B.E, CA, MBA, and M.Sc can apply. The selection process involves a written test and/or personal interview.",
+    "category": "Technical",
+    "parent_organization": "Central"
+},
+{
+    "name": "Indian Army",
+    "abbreviation": "Indian Army",
+    "description": "The Indian Army is the land-based branch of the Indian Armed Forces, responsible for maintaining national security and defending the country's borders. It conducts recruitment drives for various ranks, including officers, soldiers, and technical personnel, through exams like NDA, CDS, and direct entries. The selection process typically includes written exams, physical tests, medical evaluations, and personal interviews.",
+    "category": "Defense",
+    "parent_organization": "Central"
+},
+{
+    "name": "Indian Navy",
+    "abbreviation": "Indian Navy",
+    "description": "The Indian Navy is the naval branch of the Indian Armed Forces, tasked with safeguarding maritime interests and national security at sea. It recruits personnel for various roles, including officers, sailors, and technical staff, through entry schemes like NDA, CDS, and direct recruitment. Selection involves written exams, physical fitness tests, medical evaluations, and interviews.",
+    "category": "Defense",
+    "parent_organization": "Central"
+},
+{
+    "name": "Indian Air Force",
+    "abbreviation": "Indian Air Force",
+    "description": "The Indian Air Force (IAF) is responsible for securing Indian airspace and conducting aerial warfare during conflicts. It offers recruitment opportunities for pilots, ground duty officers, and airmen through exams like AFCAT, NDA, and CDS. The selection process includes written exams, aptitude tests, medical evaluations, and physical assessments.",
+    "category": "Defense",
+    "parent_organization": "Central"
+},
+{
+    "name": "Engineering Projects India Limited",
+    "abbreviation": "EPIL",
+    "description": "A recruitment drive conducted by Engineering Projects India Limited (EPIL) for 48 managerial positions across various domains, including engineering, legal, finance, and management. Candidates with qualifications such as B.Tech/B.E, LLB, CA, and MBA/PGDM can apply online. The selection process involves a written test and/or personal interview.",
+    "category": "Technical",
+    "parent_organization": "Central"
+}
 ]

@@ -4,9 +4,9 @@ from UPSCEventLinksExtractor import extract_UPSC_links
 
 def initMaster():
     # extract_UPSC_links()
-    generateSupremeLinks()
+    # generateSupremeLinks()
     print("Links Scraped")
-    initializeSupremeJsonGenerator()
+    # initializeSupremeJsonGenerator()
     print("JSON GENERATION COMPLETE")
     print("GG")
 print("GG")
