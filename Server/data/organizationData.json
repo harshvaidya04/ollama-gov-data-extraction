@@ -1160,5 +1160,13 @@
   "description": "The National Bank for Financing Infrastructure and Development (NaBFID) is a financial institution established to provide long-term financial assistance for infrastructure projects. The recruitment drive is for 4 officer-level positions. Eligible candidates with a Diploma, Post Graduate qualification, or CA can apply. The selection process involves interviews and document verification.",
   "category": "Banking Finance",
   "parent_organization": "Central"
+},
+{
+  "name": "North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences",
+  "abbreviation": "NEIGRIHMS",
+  "description": "The North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences (NEIGRIHMS), based in Shillong, Meghalaya, is a leading healthcare and educational institute in northeastern India. It is renowned for providing advanced medical services, quality education in medicine and nursing, and fostering research. It stands as a symbol of excellence, dedicated to improving healthcare in the region.",
+  "category": "Medical",
+  "parent_organization": "Central"
 }
+
 ]
