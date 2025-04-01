@@ -1,0 +1,64 @@
+[
+    {
+        "name": "National Eligibility-cum-Entrance Test (NEET (UG)) - 2025",
+        "date_of_notification": "2025-03-06",
+        "date_of_commencement": "2025-05-04",
+        "end_date": "2025-11-11",
+        "apply_link": "https://neet.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2025/03/2025030619.pdf"
+        ],
+        "details": {
+            "examination_mode": "Pen & Paper mode (offline)",
+            "exam_centers": "Various centers in India and abroad",
+            "correction_window": "09-11 March 2025",
+            "deadline_for_corrections": "11 March 2025 (up to 11:50 P.M.)"
+        }
+    },
+    {
+        "name": "National Eligibility cum Entrance Test (UG) - 2025",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2025-02-07",
+        "end_date": "2025-03-07",
+        "apply_link": "https://nta.ac.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2025/03/2025030596.pdf"
+        ],
+        "details": {
+            "description": "The National Testing Agency (NTA) will be conducting the National Eligibility cum Entrance Test (UG) - 2025 on May 4, 2025 (Sunday), from 02:00 P.M. to 05:00 P.M. (Indian Standard Time).",
+            "exam_mode": "Pen & Paper mode (offline)",
+            "centers": "various centers in India and abroad",
+            "registration_process": "commenced on February 7, 2025, and will close on March 7, 2025"
+        }
+    },
+    {
+        "name": "NEET (UG)-2025",
+        "date_of_notification": "25 January 2025",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://neet.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2025/01/20250125100.pdf"
+        ],
+        "details": {
+            "Organization": "National Medical Commission",
+            "Assessment Type": "Excelience in Assessment",
+            "Last Updated": "Director wad XH / Helpline Number: +91-11-40759000, e-mail: neetug2025@nta.ac.in"
+        }
+    },
+    {
+        "name": "National Medical Commission",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "",
+        "apply_link": "https://neet.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "Add https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2025/02/2025020745.pdf in document_links",
+            "https://neet.nta.nic.in/"
+        ]
+    }
+]

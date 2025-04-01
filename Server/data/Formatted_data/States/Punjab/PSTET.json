@@ -1,0 +1,91 @@
+[
+    {
+        "name": "PSTET Guidelines",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://pstet.pseb.ac.in/Index.Html",
+        "event_type": "Exam",
+        "document_links": [
+            "Guidelines for Scriber.pdf",
+            "Guidelines for scribe.pdf"
+        ],
+        "details": {
+            "Last Date of Form Submission": "15-04-2025",
+            "Admit Card Availability": "25-05-2025",
+            "Exam Date": "15-06-2025"
+        }
+    },
+    {
+        "name": "Guidelines for PSTET",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://pstet.pseb.ac.in/Index.Html",
+        "event_type": "Exam",
+        "document_links": [
+            "https://pstet.pseb.ac.in/DownloadDoc/Guidelines-for-PSTET.pdf"
+        ],
+        "details": {
+            "eligibility_criteria": "Any resident of India can appear in the paper of PSTET. The following persons shall be eligible for appearing in the TET: Any person who has acquired the academic and professional qualifications specified in the NCTE Notification dated 23rd August 2010. Any person who is pursuing any of the teacher education courses (recognized by the NCTE or the RCI, as the case may be) specified in the NCTE Notification dated 23rd August 2010.",
+            "fees_structure": "Registration Fee (Non-refundable and Non-transferable): General/OBC (only for Punjab) - ₹1000/- Paper I - ₹1000/-. Paper II - ₹2000/- SC/ST/Differently Abled (only for Punjab) - ₹600/-. Ex-Servicemen - ₹ NIL NIL NIL. Other states (for all categories) - ₹1000/- ₹1000/- ₹2000/- If dependent of Ex-servicemen, then the fee shall be paid as per categories listed above to which he/she belongs.",
+            "application_process": "A candidate can register his/her email Id and Mobile No. only once. After successful registration, candidate shall login using email id and proceed to next step to fill Basic Details, Upload Photo/Signature, Fill Academic Details, Fill Test Details, Candidate Preview & Fee, and finally pay the fee.",
+            "eligibility": "A candidate can apply in one category only. A candidate may apply for both Paper I and Paper II, subject to fulfilment of Educational Qualifications and Eligibility criteria as prescribed by NCTE from time to time."
+        }
+    },
+    {
+        "name": "Punjab TET 2025 Notification",
+        "date_of_notification": "26-02-2020",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://pstet.pseb.ac.in/EligibilityDoc/Punjab-Government-Gazette-26-feb-2020-Extraordinary.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "Punjab-Government-Gazette-26-feb-2020-Extraordinary.pdf"
+        ]
+    },
+    {
+        "name": "Syllabus For TET",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://pstet.pseb.ac.in/DownloadDoc/Syllabus-for-all-subjects.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "Syllabus for TET",
+            "TET Syllabus",
+            "PSEB TET Syllabus"
+        ],
+        "details": {
+            "Subjects": [
+                "Knowledge Of Musical Terms: Laya, Alankar, Aroh, Avroh, Pakad, Vadi S, a as Samvadi Swar, Vivadi Swar, Anuvadi Swar, Varjit Swar, adarshak sel Shudh Swar, Komal Swar, Teevra Swar",
+                "Explain The Following Gayan Shailies: Dhamar, Dhrupad, Khyal (Drut And Vilambit), Thumri, Tarana, Tappa, Geet, Lok-Geet, Bhajan, Shabad"
+            ],
+            "Instruments": [
+                "Detailed Study Of The Following Instruments: Tanpura, Tabla, Sitar, Harmonium",
+                "Biographical Sketches And Contributions Towards Music Of The Following Musicians: Tansen, Ust. Faiyaz Khan, Pandit Bhimsen Joshi, Ustad Bade Ghulam Ali Khan Sahib, Ustad Allaudin Khan Sahib, Pandit Ravi Shankar"
+            ],
+            "Ragas": [
+                "Detailed Knowledge Of Ragas In Indian Classical Music: Bhupali, Kalyan, Khamaj, Bhairav, Bhairavi, Des, Vrindavani Sarang, Alahiya Bilaval, Malkauns, Bageshri"
+            ],
+            "Talas": [
+                "Detailed Knowledge Of Talas In Indian Classical Music: Dadra, Roopak, Teevra, Kehrwa, Shaptal, Sooltal, Ektal, Chautal, Dhamar, Deepchandi, Teental, Tilwada"
+            ]
+        }
+    },
+    {
+        "name": "NCTE (Determination of Minimum Qualifications for Recruitment of Teachers in Schools) Regulations, 2001",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "2021-04-11",
+        "end_date": "2025-09-04",
+        "apply_link": "https://pstet.pseb.ac.in/EligibilityDoc/NCTE-Guidelines-23-aug-2010.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://pstet.pseb.ac.in/Index.Html"
+        ],
+        "details": {
+            "published_by": "Member-Secy HASIB AHMAD",
+            "published_location": "Printed by dhe Manager, Government of India Press, Ring Road, Mayapuri, New Delhi-110004 and Published by the Controller of Publications, Delhi-110054."
+        }
+    }
+]

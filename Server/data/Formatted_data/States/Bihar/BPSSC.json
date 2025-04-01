@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Bihar Police Sub-Inspector Steno Typist Exam 2024",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2024-12-14",
+        "end_date": "2024-12-21",
+        "apply_link": "https://bpssc.bihar.gov.in/Advts/Advt. No.-01-2024-Steno ASI.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bpssc.bihar.gov.in/"
+        ]
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": {}
+    },
+    {
+        "name": "Bihar Public Service Commission (BPSC) SASI",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bpssc.bihar.gov.in/Advts/Advt-01-2018-SASI.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bpssc.bihar.gov.in/",
+            "https://bpssc.bihar.gov.in/Advts/Advt-01-2018-SASI.pdf"
+        ]
+    },
+    {
+        "name": "Bihar Public Service Commission",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bpssc.bihar.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bpssc.bihar.gov.in/Advts/Advt-01-2019-SI-SGT-ASJ.pdf"
+        ]
+    },
+    {
+        "name": "Bihar Public Service Commission",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bpssc.bihar.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "Notice-01-19-09-2019.pdf"
+        ],
+        "details": {
+            "Examination Details": {
+                "Type of Examination": "Preliminary and Main Written Examinations for the post of State Service Officers",
+                "Number of Vacancies": "136",
+                "Exam Dates": "October 2019"
+            },
+            "Notification Details": {
+                "Subject": "Recruitment to State Service Officers",
+                "Eligibility Criteria": "Age, Education, and Experience"
+            }
+        }
+    }
+]

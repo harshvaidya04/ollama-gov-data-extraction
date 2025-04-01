@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Bihar Medical Council Exam 2024",
+        "date_of_notification": "25 March 2025",
+        "date_of_commencement": "01 April 2024",
+        "end_date": "31 March 2025",
+        "apply_link": "https://state.bihar.gov.in/pad/cache/1/Smart City/PROFILE/ilovepdf_merged (1).pdf",
+        "event_type": "Exam",
+        "details": {
+            "description": "Bihar Medical Council Exam 2024"
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": {}
+    },
+    {
+        "name": "Rajpal Abhibhashan",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://state.bihar.gov.in/pad/cache/2/10-Mar-23/SHOW_DOCS/Rajpal Abhibhashan- 03-02-2023.pdf",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://state.bihar.gov.in/energy/SectionInformation.html?editForm&rowId=3958"
+        ]
+    }
+]

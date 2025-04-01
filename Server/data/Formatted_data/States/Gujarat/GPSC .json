@@ -1,0 +1,76 @@
+[
+    {
+        "name": "GPSC (Gujarat Public Service Commission) Exam",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "2025-04-10",
+        "apply_link": "https://gpsc.gujarat.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "IN-CLDD-060325C.pdf"
+        ],
+        "details": {
+            "Eligibility Criteria": "See official website for details.",
+            "Examination Centres": "Refer to the official website for examination centres.",
+            "Selection Process": "Merit-based selection.",
+            "Exam Pattern": "Multiple Choice Questions (MCQs)",
+            "Application Fee": " Refer to the official website for application fee details."
+        }
+    },
+    {
+        "name": "Lecturer in Diploma in Engineering or Technology",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://gpsc.gujarat.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "RR-205_-_232.pdf"
+        ],
+        "details": {
+            "description": "Recruitment Rules for Lecturer in Diploma in Engineering or Technology in the Government Polytechnics, Class-II"
+        }
+    },
+    {
+        "name": "Gujarat Public Service Commission (GPSC) Examination",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://gpsc.gujarat.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "SY-SD-DD-GSS.pdf"
+        ],
+        "details": {
+            "exam_name": "GPSC Examination",
+            "examination_type": "Written Exam",
+            "test_city": "",
+            "duration": "",
+            "subject": "",
+            "category": "",
+            "minimum_qualifying_marks": ""
+        }
+    },
+    {
+        "name": "SLBM-51-126-2024-25",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://gpsc.gujarat.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/SLBM-51-126-2024-25.pdf"
+        ]
+    },
+    {
+        "name": "Gram Sevak Recruitment Examination",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "2025-05-31",
+        "apply_link": "https://gpsc.gujarat.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/131-239-202425-WSCA-270225.pdf"
+        ]
+    }
+]

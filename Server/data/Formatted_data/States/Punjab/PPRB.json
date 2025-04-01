@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Exemption from 14 days mandatory home quarantine",
+        "date_of_notification": "11.07.2020",
+        "date_of_commencement": "11.07.2020",
+        "end_date": "11/07/2020",
+        "apply_link": "https://punjabpolice.gov.in/RecruitmentsMain.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "https://punjabpolice.gov.in/writereaddata/UploadFiles/OtherFiles/14daysquarantine.pdf"
+        ],
+        "details": {
+            "description": "This is a description of the exemption from 14 days mandatory home quarantine. It explains the precautions that need to be followed while staying in Punjab state.",
+            "link_to_annexure_1": "https://punjabpolice.gov.in/writereaddata/UploadFiles/OtherFiles/14daysquarantine.pdf"
+        }
+    },
+    {
+        "name": "Punjab Police Recruitment Information",
+        "details": {
+            "Event Type": "Exam",
+            "document_links": [
+                "https://punjabpolice.gov.in/writereaddata/UploadFiles/OtherFiles/TeleListOfficers.pdf",
+                "https://punjabpolice.gov.in/RecruitmentsMain.aspx"
+            ],
+            "date_of_notification": "2025-03-27",
+            "date_of_commencement": "",
+            "end_date": "",
+            "apply_link": "https://punjabpolice.gov.in/RecruitmentsMain.aspx",
+            "event_type": "Exam",
+            "details": {
+                "Name of Event": "Punjab Police Recruitment Exam"
+            }
+        }
+    },
+    {
+        "name": "Punjab Police Recruitment Information",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://punjabpolice.gov.in/RecruitmentsMain.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "https://punjabpolice.gov.in/writereaddata/UploadFiles/OtherFiles/List.pdf"
+        ],
+        "details": {
+            "description": "Punjab Police Recruitment Information",
+            "last_updated": "2025-03-27"
+        }
+    }
+]

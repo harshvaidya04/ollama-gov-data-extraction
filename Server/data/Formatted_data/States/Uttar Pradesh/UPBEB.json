@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Uttar Pradesh Board of Secondary Education",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": {
+            "first_term": "2024-09-15",
+            "second_term": "2024-12-17"
+        },
+        "end_date": {
+            "first_term": "2024-11-14",
+            "second_term": "2024-01-24"
+        },
+        "apply_link": "https://updeled.gov.in/",
+        "event_type": "Result",
+        "document_links": [
+            "Phase 2 Exam Results",
+            "BISEUP 10th Class Result 2024"
+        ]
+    },
+    {
+        "name": "Uttar Pradesh Diploma in Elementary Education (DELED) Exam",
+        "date_of_notification": "2023-10-27",
+        "date_of_commencement": "",
+        "end_date": "2025-03-27",
+        "apply_link": "https://updeled.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "DELEDGO_09092024.pdf"
+        ]
+    },
+    {
+        "name": "Uttarakhand Public Service Commission",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": "2025-04-30",
+        "apply_link": "https://updeled.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "Press_Release_Phase_1_24122024.pdf"
+        ],
+        "details": {
+            "Exam Schedule": "The exam schedule is as follows: Paper I - March 28, 2025; Paper II - April 1, 2025; Paper III - April 8, 2025; Paper IV - April 15, 2025",
+            "Venue": "The exams will be held at various centers across Uttarakhand"
+        }
+    },
+    {
+        "name": "Uttarakhand Public Service Commission (UKPSC) Exam",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://updeled.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "Press_Release.pdf",
+            "Exam Pattern 2024.pdf"
+        ]
+    }
+]

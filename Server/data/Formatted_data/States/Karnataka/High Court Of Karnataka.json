@@ -1,0 +1,92 @@
+[
+    {
+        "name": "High Court of Karnataka",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://karnatakajudiciary.kar.nic.in/newwebsite/main_notify.php?p=106&stateNM=",
+        "event_type": "Exam",
+        "document_links": [
+            "https://karnatakajudiciary.kar.nic.in/newwebsite/dailyNotifications/dharwad/dnotfn.pdf"
+        ],
+        "details": {
+            "Chief Justice": "Hon'ble The Chief Justice Saraswati Vishnu Kosandar",
+            "Registrar (Judicial)": "Sd/- Saraswati Vishnu Kosandar"
+        }
+    },
+    {
+        "name": "Karnataka Judiciary Case Types",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://karnatakajudiciary.kar.nic.in/newwebsite/main_notify.php?p=106&stateNM=",
+        "event_type": "",
+        "document_links": [
+            "casetypes.pdf",
+            "WPC-2021.pdf"
+        ],
+        "details": {
+            "Cases": [
+                {
+                    "name": "Criminal Cases",
+                    "description": "Criminal cases are the ones where a person is accused of committing a crime and is being tried in court."
+                },
+                {
+                    "name": "Civil Cases",
+                    "description": "Civil cases are the ones where two or more parties are involved in a dispute and are trying to resolve it through the courts."
+                }
+            ],
+            "Writ Petitions": [
+                {
+                    "name": "Habeas Corpus Writ Petition",
+                    "description": "A writ petition is a type of court petition that is used to challenge the legality or constitutionality of a law or government action."
+                },
+                {
+                    "name": "WPC - 2021",
+                    "description": ""
+                }
+            ],
+            "Administrative Tribunals": [
+                {
+                    "name": "Karnataka Administrative Tribunal",
+                    "description": "The Karnataka Administrative Tribunal is a quasi-judicial body that hears appeals against decisions made by government agencies."
+                },
+                {
+                    "name": "Central Administrative Tribunal",
+                    "description": "The Central Administrative Tribunal is a quasi-judicial body that hears appeals against decisions made by central government agencies."
+                }
+            ],
+            "Other": [
+                {
+                    "name": "Tax/Excise Cases",
+                    "description": "Cases related to tax and excise, including appeals and disputes over tax assessments or exemptions."
+                },
+                {
+                    "name": "Motor Vehicle Cases",
+                    "description": "Cases related to motor vehicles, including accidents, insurance claims, and disputes over vehicle ownership or registration."
+                }
+            ]
+        }
+    },
+    {
+        "name": "High Court of Karnataka, Bengaluru",
+        "date_of_notification": "2021-08-24",
+        "date_of_commencement": "2021-08-24",
+        "end_date": "2021-08-24",
+        "apply_link": "https://karnatakajudiciary.kar.nic.in/newwebsite/main_notify.php?p=106&stateNM=",
+        "event_type": "Exam",
+        "document_links": [
+            "https://karnatakajudiciary.kar.nic.in/newwebsite/pdfs/rti-notfn-23082021.pdf"
+        ],
+        "details": {
+            "notification": "NOTIFICATION",
+            "re-designation": "The High Court of Karnataka hereby re-designate the following officers as the State Public Information Officer and the First Appellate Authority.",
+            "officers": [
+                "Principal Bench High Court - (Protocol and Establishment Hospitality)",
+                "Karnataka, D ntrR os _ Registrar",
+                "Dharwad Bench, cee. reiserar General,"
+            ],
+            "registrar_general": "T.G.SHIVASHANKARE GOWDA"
+        }
+    }
+]

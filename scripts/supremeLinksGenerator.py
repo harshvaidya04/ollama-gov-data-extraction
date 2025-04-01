@@ -10,8 +10,8 @@ def generateSupremeLinks():
     }
 
     # reading existing data
-    with open("documentLinksSupreme.json",'r', encoding='utf-8') as f:
-        supremeData = json.load(f)
+    # with open("documentLinksSupreme.json",'r', encoding='utf-8') as f:
+    #     supremeData = json.load(f)
 
 
     # Central
@@ -24,6 +24,10 @@ def generateSupremeLinks():
     for cd in centralData:
         data = cd.split(',')
         websiteName = data[0]
+        
+        if(not data[1]):
+            continue
+        
         websiteLink = data[1]
         newState = {}
         links = get_document_links(url=websiteLink)
@@ -50,6 +54,10 @@ def generateSupremeLinks():
     for ud in UPSCData:
         data = ud.split(',')
         websiteName = data[0]
+        
+        if(not data[1]):
+            continue
+        
         websiteLink = data[1]
         
         newRecord = {}
@@ -84,6 +92,10 @@ def generateSupremeLinks():
         for so in stateOrganizations:
             data = so.split(',')
             orgName = data[0]
+            
+            if(not data[1]):
+                continue
+        
             orgWebsite = data[1]
             
             links = get_document_links(orgWebsite)

@@ -1,0 +1,52 @@
+[
+    {
+        "name": "BARC Recruitment",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.barc.gov.in/careers/vacancy3.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.barc.gov.in/careers/recruitment.html"
+        ],
+        "details": {
+            "Description": "BARC Recruitment Details",
+            "Event Type": "Job Vacancies",
+            "Location": "India",
+            "Industry": "Research and Development",
+            "Category": "Careers",
+            "Age Limit": null,
+            "Qualifications": null,
+            "Experience": null,
+            "Application Instructions": null
+        }
+    },
+    {
+        "name": "BARC Recruitment",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.barc.gov.in/careers/vacancy5.pdf",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://www.barc.gov.in/careers/recruitment.html"
+        ],
+        "details": {
+            "Description": "BARC Recruitment Notification and Details",
+            "Application Process": "Online Application Submission",
+            "Selection Criteria": "Written Test and Interview",
+            "Eligibility Conditions": "Age Limit, Educational Qualification, Experience Requirements"
+        }
+    },
+    {
+        "name": "COVID-19 Testing and Detection",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.barc.gov.in/careers/recruitment.html",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.barc.gov.in/publications/bulletin-final-compact.pdf"
+        ]
+    }
+]

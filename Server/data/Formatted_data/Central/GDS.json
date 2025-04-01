@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Kerala PSC",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "",
+        "apply_link": "https://indiapostgdsonline.cept.gov.in/DocVerList_1_Jan2025/Kerala_DV_List1.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "Kerala PSC Exam Notification PDF",
+            "Kerala PSC Exam Form PDF"
+        ]
+    },
+    {
+        "name": "Annexure-IV",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://indiapostgdsonline.cept.gov.in/Notifications1/ANNEXURE-IV.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://indiapostgdsonline.cept.gov.in/Notifications1/ANNEXURE-IV.pdf",
+            "https://indiapostgdsonline.gov.in/"
+        ],
+        "details": {
+            "servant": "Gramin Dak Sevak",
+            "relationship": "son/daughter/wife"
+        }
+    },
+    {
+        "name": "West Bengal Department of Posts",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://indiapostgdsonline.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://indiapostgdsonline.cept.gov.in/DocVerList_1_Jan2025/WestBengal_DV_List1.pdf"
+        ]
+    },
+    {
+        "name": "Haryana Exam/Result/DV List",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://indiapostgdsonline.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://indiapostgdsonline.cept.gov.in/DocVerList_1_Jan2025/Haryana_DV_List1.pdf"
+        ],
+        "details": {
+            "notification_sent": true,
+            "exam_type": "State Exam",
+            "test_duration": "2 hours",
+            "exam_date_range": [
+                "2025-04-01",
+                "2025-05-31"
+            ]
+        }
+    },
+    {
+        "name": "Maharashtra Post Office Document Verification",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://indiapostgdsonline.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://indiapostgdsonline.cept.gov.in/DocVerList_1_Jan2025/Maharashtra_DV_List1.pdf"
+        ],
+        "details": {
+            "description": "Document verification process for Maharashtra Post Office",
+            "event_status": null
+        }
+    }
+]

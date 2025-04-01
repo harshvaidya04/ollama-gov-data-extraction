@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Madhyamik Chitrakam Pariksha",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2025-03-26",
+        "end_date": "",
+        "apply_link": "https://www.sebexam.org/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.sebexam.org/AdvertiseFiles/2025/માધ્યમિક ચિત્રકામ પરિક્ષા_032025.pdf"
+        ]
+    },
+    {
+        "name": "D.L.Ed.",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.sebexam.org/AdvertiseFiles/2025/ડી.એલ.એડ. પરીક્ષા ૨૦૨૪-૨૫ જાહેરનામું_012025.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.sebexam.org/",
+            "https://www.sebexam.org/AdvertiseFiles/2025/ડી.એલ.એડ. પરીક્ષા ૨૦૨૪-૨૫ જાહેરનામું_012025.pdf"
+        ]
+    },
+    {
+        "name": "Mathematics Exam",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2024-11-15",
+        "end_date": "2025-01-31",
+        "apply_link": "https://www.sebexam.org/",
+        "event_type": "Exam",
+        "document_links": [
+            "Exam-Instructions.pdf",
+            "Study-Material.pdf",
+            "AdmitCard.pdf"
+        ],
+        "details": {
+            "Examination Type": "Multiple Choice Questions (MCQs)",
+            "Number of Papers": 2,
+            "Language Options": [
+                "English",
+                "Hindi"
+            ],
+            "Total Marks": 200,
+            "Duration": "3 Hours",
+            "Exam Centre": "Various Centres across India"
+        }
+    },
+    {
+        "name": "SEB Exam",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "",
+        "apply_link": "https://www.sebexam.org/",
+        "event_type": "Exam",
+        "document_links": [
+            "AdvertiseFiles/2024/Mukhymantri_jnanseetu_Merit_Scholarship_Yojana_Tharaav_012024.pdf"
+        ],
+        "details": {
+            "Description": "SEB Exam scholarship program for meritorious students.",
+            "Eligibility Criteria": "Students with good academic records can apply."
+        }
+    },
+    {
+        "name": "General Knowledge",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.sebexam.org/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.sebexam.org/AdvertiseFiles/2024/general knowledge qp_082024.pdf"
+        ],
+        "details": {
+            "Exam Details": {
+                "Type": "General Knowledge Exam",
+                "Format": "Online",
+                "Duration": "120 minutes",
+                "Number of Questions": "100",
+                "Medium": "English"
+            },
+            "Other Events": {}
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Rajasthan University of Technology and Engineering Admissions",
+        "date_of_notification": "2024-03-20",
+        "date_of_commencement": null,
+        "end_date": "2025-03-31",
+        "apply_link": "https://ubse.uk.gov.in/files/102_0001.pdf, https://ubse.uk.gov.in/pages/display/90-departmental-exam--utet",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ubse.uk.gov.in/files/102_0001.pdf",
+            "https://ubse.uk.gov.in/pages/display/90-departmental-exam--utet"
+        ]
+    },
+    {
+        "name": " Uttarakhand Board of Secondary Education",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "2025-06-30",
+        "apply_link": "https://ubse.uk.gov.in/files/Art_SC_list_1.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ubse.uk.gov.in/pages/display/90-departmental-exam--utet"
+        ]
+    },
+    {
+        "name": "Uttarakhand Board of Secondary Education",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://ubse.uk.gov.in/files/DLEd_1st_Semenster_1.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "DLEAdmissionForm2024-25.pdf",
+            "UttarakhandBoardSecondaryEducationExamAdmissionProcedure-2023.pdf"
+        ]
+    },
+    {
+        "name": "UBSE Entrance Exam",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://ubse.uk.gov.in/files/RGNV_Entrance_Exam_Directions__Format_-_2023.pdf, https://ubse.uk.gov.in/pages/display/90-departmental-exam--utet",
+        "event_type": "Exam",
+        "document_links": [
+            "RGNV_Entrance_Exam_Directions__Format_-_2023.pdf",
+            "https://ubse.uk.gov.in/pages/display/90-departmental-exam--utet"
+        ]
+    },
+    {
+        "name": "RGNV Entrance Exam 2024",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "2024-03-17",
+        "end_date": "",
+        "apply_link": "https://ubse.uk.gov.in/files/106_0001.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ubse.uk.gov.in/pages/display/90-departmental-exam--utet"
+        ],
+        "details": {
+            "board_name": "BOARD OF SCHOOL EDUCATION UTTARAKHAND RAMNAGAR ( NAINITAL )",
+            "district": "106/Chamoli",
+            "exam_type": "Provisional Selection (Merit) List"
+        }
+    }
+]

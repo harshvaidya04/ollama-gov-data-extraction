@@ -1,0 +1,111 @@
+[
+    {
+        "name": "UGCET",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://cetonline.karnataka.gov.in/kea/",
+        "event_type": "Exam",
+        "document_links": [
+            "KEA_pressnotification_KANkannada.pdf",
+            "ugcet2025"
+        ],
+        "details": {
+            "exam_schedule": "April 16, 2025 - April 17, 2025",
+            "exam_centres": [
+                "DMZ"
+            ],
+            "exam_duration": 3,
+            "exam_type": "Online",
+            "exam_syllabus": [
+                {
+                    "subject": "Physics",
+                    "marks": 60
+                },
+                {
+                    "subject": "Chemistry",
+                    "marks": 60
+                },
+                {
+                    "subject": "Mathematics",
+                    "marks": 60
+                },
+                {
+                    "subject": "Biology",
+                    "marks": 60
+                }
+            ],
+            "exam_fee": {
+                "General": 1500,
+                "SC/ST/OBC": 1000
+            }
+        }
+    },
+    {
+        "name": "KEA PGEET MEDICAL",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "2025-04-15",
+        "apply_link": "https://cetonline.karnataka.gov.in/kea/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cetonline.karnataka.gov.in/keawebentry456/pget2024/PGNEET_MEDICAL_INSTRUCTION&SCHEDULE_12032025kannada.pdf"
+        ],
+        "details": {
+            "caution_deposit": {
+                "date": "13-03-2025 to 19-03-2025",
+                "amount": "₹5,00,000/-",
+                "time": [
+                    "11.00 am to 1.00 pm",
+                    "4.00 pm"
+                ]
+            },
+            "counselling": {
+                "rounds": [
+                    "Stray Vacancy Round",
+                    "Round - 2 (B.Y.J.T.C.)",
+                    "Round - 3 (PES Institute of Medical Sciences & Research Centre)",
+                    "Round - 4 (B.S. Mahaveera College of Nursing)"
+                ],
+                "cancellation_penalty": {
+                    "medical_clinical_degree": "₹18,00,000/-"
+                }
+            },
+            "exam_schedule": {
+                "done": true,
+                "exam_date": ""
+            }
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": [],
+        "event_type": "",
+        "document_links": []
+    },
+    {
+        "name": " Karnataka CET (Common Entrance Test) Exams 2024",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://cetonline.karnataka.gov.in/kea/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cetonline.karnataka.gov.in/keawebentry456/manpower/forthcom_exams_2024kannada.pdf"
+        ]
+    },
+    {
+        "name": "Karnataka CET Online",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://cetonline.karnataka.gov.in/kea/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cetonline.karnataka.gov.in/keawebentry456/klc2024/BellTimingsKLCkannada.pdf"
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": {}
+    },
+    {
+        "name": "Tamil Nadu Public Service Commission",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.tnusrb.tn.gov.in/index.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.tnusrb.tn.gov.in/pdfs/JR_23_CUTOFF_FINAL.pdf"
+        ]
+    },
+    {
+        "name": "TNUSRB",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.tnusrb.tn.gov.in/index.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.tnusrb.tn.gov.in/pdfs/JR2023_PET_Addl_list-1.pdf"
+        ],
+        "details": {
+            "type": "Recruitment Exam for Fire & Rescue Services and Police",
+            "description": "TNUSRB is conducting an exam for Fire & Rescue Services and Police recruitment. The exam will be held on various dates and the results will be released soon."
+        }
+    },
+    {
+        "name": "Tamil Nadu Police Exam",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "",
+        "apply_link": "https://www.tnusrb.tn.gov.in/index.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.tnusrb.tn.gov.in/pdfs/Dept_Police.pdf"
+        ],
+        "details": {
+            "rotation_and_turn": "as per SCHEDULE - V (sections 27(e) and 40 (1)) of TAMIL NADU GOVERNANTS (CONDITIONS OF SERVICE) ACT, 2016.",
+            "exam_date": "",
+            "rotation": "as per SCHEDULE - V (sections 27(e) and 40 (1)) of TAMIL NADU GOVERNANTS (CONDITIONS OF SERVICE) ACT, 2016.",
+            "turn": "as per SCHEDULE - V (sections 27(e) and 40 (1)) of TAMIL NADU GOVERNANTS (CONDITIONS OF SERVICE) ACT, 2016."
+        }
+    },
+    {
+        "name": "Tamil Nadu Public Service Commission",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.tnusrb.tn.gov.in/index.php",
+        "event_type": "Exam",
+        "document_links": [
+            "OPEN_2.pdf"
+        ]
+    }
+]

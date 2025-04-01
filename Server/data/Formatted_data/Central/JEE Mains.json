@@ -1,0 +1,85 @@
+[
+    {
+        "name": "NTA JEE Main",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025022236.pdf"
+        ]
+    },
+    {
+        "name": "National Entrance Tests",
+        "date_of_notification": "10 January 2025",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025011231.pdf"
+        ],
+        "details": {
+            "Organization": "National Testing Agency Hata",
+            "Location": "India and abroad",
+            "Exam Name": "Joint Entrance Examination (Main)-2025 Session-1",
+            "Registration Deadline": null,
+            "Helpline Number": "+91-11-40759000"
+        }
+    },
+    {
+        "name": "JEE (Main)-2025 Session-2 Examination",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/03/2025031089.pdf"
+        ],
+        "details": {
+            "Description": "The National Testing Agency is conducting the Joint Entrance Examination (Main)—2025 Session-2 at different Centres located in various cities throughout the country and 15 cities outside India.",
+            "Helpline Number": "+91-11-40759000",
+            "Website": "www.nta.ac.in, https://jeemain.nta.nic.in/",
+            "Examination Schedule": "The schedule of examination for this session will be as follows: Paper | (B.E./B. Tech) First shift (09:00 A.M. to 12:00 Noon) and April 2025 Second Shift (03:00 P.M. to 06:00 P.M.)",
+            "Exams": ""
+        }
+    },
+    {
+        "name": "JEE Main 2025 Examination and Result Details",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": "2025-04-15",
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/02/2025021039.pdf"
+        ],
+        "details": {
+            "description": "The Joint Entrance Examination (Main) is a national-level entrance examination in India for admission to undergraduate engineering programs at various Indian Institutes of Technology and National Institutes of Technology.",
+            "location": "India",
+            "events": [
+                "Exam",
+                "Result",
+                "AdmitCard"
+            ]
+        }
+    },
+    {
+        "name": "National Entrance Test (NET)",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://jeemain.nta.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/01/2025012056.pdf"
+        ],
+        "details": {
+            "description": "National Entrance Test (NET) for admission to postgraduate programs in Indian universities and colleges.",
+            "subject": "Engineering",
+            "type": "Entrance Exam"
+        }
+    }
+]

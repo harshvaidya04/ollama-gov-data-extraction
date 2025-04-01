@@ -1,0 +1,75 @@
+[
+    {
+        "name": "RITES Recruitment Circular",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.rites.com/Upload/MediaGallery/PDF/3/circular-on_Re-engagement_of_Consultant637518631950095997.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.rites.com/Career"
+        ],
+        "details": {
+            "Description": "Circular on Re-engagement of Consultant"
+        }
+    },
+    {
+        "name": "RITES Ltd./Contract Policy Cell/Gurgaon",
+        "date_of_notification": "2024-12-19",
+        "date_of_commencement": "2024-12-19",
+        "end_date": "",
+        "apply_link": "https://www.rites.com/Upload/MediaGallery/PDF/3/OM-65-24-ImplementationIntegrityPact_pdf-2024-Dec-19-12-37-57.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.rites.com/Career"
+        ],
+        "details": {
+            "Additional Details": ""
+        }
+    },
+    {
+        "name": "RITES Recruitment FAQs",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.rites.com/Career",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.rites.com/Upload/MediaGallery/PDF/3/PERS-FAQS-061119637518589065467402.pdf"
+        ],
+        "details": {
+            "Contact Information": "For any query, candidates may send the same to our e-mail id rectt@rites.com",
+            "Query Format": "Name of candidate- Your name\nVC No- Vacancy code as advertised\nRegistration Number- Your registration number\nQuery — Details of query"
+        }
+    },
+    {
+        "name": "Vendor Assessment for GEM",
+        "date_of_notification": "",
+        "date_of_commencement": "2024-09-02",
+        "end_date": "2025-03-25",
+        "apply_link": "https://www.rites.com/Upload/MediaGallery/PDF/3/GeM-EscalationMatrixAug24_pdf-2024-Sep-02-16-58-6.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.rites.com/Upload/MediaGallery/PDF/3/GeM-EscalationMatrixAug24_pdf-2024-Sep-02-16-58-6.pdf",
+            "https://www.rites.com/Career"
+        ],
+        "details": {
+            "Contact Information": {
+                "Email Address": "gem.helpdesk@rites.com",
+                "Phone Number": "9667629900",
+                "Level 01": {
+                    "Name": "Mr. Ganesh K Ingole, Joint GM/Project Manager",
+                    "Number": "8600017722"
+                },
+                "Level 02": {
+                    "Name": "Mr. Sandeep Gupta, Joint GM/Project Director",
+                    "Number": "8800194055"
+                },
+                "Level 03": {
+                    "Name": "Mr. Sanjay Kumar, General Manager & SBU Head",
+                    "Number": "8826992650"
+                }
+            }
+        }
+    }
+]

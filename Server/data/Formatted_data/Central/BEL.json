@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Bharat Electronics Limited Citizen Charter",
+        "date_of_notification": "2023-01-16",
+        "date_of_commencement": null,
+        "end_date": "2025-03-25",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2023/01/Citizen-Charter-Website-Eng-16-08-202120210816225849564-1.pdf"
+        ]
+    },
+    {
+        "name": "MAKING FEE PAYMENT BY USING THE LINK PROVIDED",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/02/Instructions-for-making-payment-through-SBI-Collect.pdf",
+            "https://bel-india.in/job-notifications/"
+        ]
+    },
+    {
+        "name": "OBC Category Certificate",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/03/OBC-category-certificate.pdf"
+        ],
+        "details": {
+            "description": "A certificate issued by the Government of India to certify a person's OBC status.",
+            "eligibility criteria": "The certificate is issued based on the candidate's community and family background, as per the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989."
+        }
+    },
+    {
+        "name": "FTE Recruitment Examination",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2025-03-07",
+        "end_date": "2025-03-31",
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/03/Detailed-Advertisement-FTE.pdf"
+        ]
+    },
+    {
+        "name": "Annexure Form of Certificate to be Produced by Other Backward Classes Applying for Appointment to Posts under the Government of India",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bel-india.in/job-notifications/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bel-india.in/wp-content/uploads/2025/03/Prescribed-Format-for-OBC-NCL-Certificate.pdf"
+        ],
+        "details": {
+            "description": "This is a certificate to be produced by other backward classes applying for appointment to posts under the Government of India.",
+            "purpose": "The purpose of this certificate is to certify that Shri/Smt./Kumari son/daughter of ... belongs to the community recognized as a backward class under the Government of India."
+        }
+    }
+]

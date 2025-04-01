@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Uttar Pradesh Board of Secondary Education",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://sssc.uk.gov.in/files/19march25.pdf",
+        "event_type": "Result",
+        "document_links": [
+            "https://sssc.uk.gov.in/pages/display/122-releases%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF--%E0%A4%AC%E0%A4%82%E0%A4%A6%E0%A5%80%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%95"
+        ],
+        "details": {
+            "Type of Examination": null,
+            "Class/Board": "Class 10",
+            "Name of Board": "Uttar Pradesh Board of Secondary Education",
+            "Exam Name": "UPMEE",
+            "Examination Schedule": "2025-03-27",
+            "Application Window": null
+        }
+    },
+    {
+        "name": "SSSC UK",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://sssc.uk.gov.in/files/LT_ANS.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://sssc.uk.gov.in/pages/display/122-releases%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF--%E0%A4%AC%E0%A4%82%E0%A4%A6%E0%A5%80%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%95",
+            "https://sssc.uk.gov.in/files/LT_ANS.pdf"
+        ]
+    },
+    {
+        "name": "UTTARAKHAND SUBORDINATE SERVICE SELECTION COMMISSION",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://sssc.uk.gov.in/files/doc19july.pdf",
+        "event_type": "Result",
+        "document_links": [
+            "https://sssc.uk.gov.in/pages/display/122-releases",
+            "https://sssc.uk.gov.in"
+        ]
+    },
+    {
+        "name": "SSSC Recruitment Examination",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": [
+            "https://sssc.uk.gov.in/files/ameenscan_0001.pdf"
+        ],
+        "event_type": "Exam",
+        "document_links": [
+            "<a href=\"https://sssc.uk.gov.in/files/ameenscan_0001.pdf\">SSSC Recruitment Examination</a>"
+        ]
+    },
+    {
+        "name": "Uttarakhand Subordinate Service Selection Commission",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://sssc.uk.gov.in/files/LT_10_1.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://sssc.uk.gov.in/"
+        ],
+        "details": {
+            "url": "https://sssc.uk.gov.in/",
+            "description": "Uttarakhand Subordinate Service Selection Commission is responsible for conducting various recruitment exams in Uttarakhand."
+        }
+    }
+]

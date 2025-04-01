@@ -34,6 +34,8 @@ const EventSchema = new mongoose.Schema({
         type:String,
         enum:["Exam","AdmitCard","Result"]
     }
+},{
+    timestamps: true
 });
 
 const Event = mongoose.model('Event', EventSchema);

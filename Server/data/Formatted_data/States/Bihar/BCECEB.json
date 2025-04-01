@@ -1,26 +1,80 @@
 [
     {
-        "name": "Bihar Combined Entrance Competitive Examination Board",
+        "name": "BIHAR COMBINED ENTRANCE COMPETITIVE EXAMINATION BOARD",
         "date_of_notification": null,
         "date_of_commencement": null,
         "end_date": null,
         "apply_link": "https://bceceboard.bihar.gov.in/",
         "event_type": "Exam",
         "document_links": [
-            "https://bceceboard.bihar.gov.in/pdf_Web/ExamSummary.pdf"
+            "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC_2024-09.pdf"
         ],
         "details": {
-            "Examination Courses": "The examination is conducted for the courses listed below.",
-            "Number of Questions": "The number of questions varies depending on the course and stage.",
-            "Tentative Dates": "The tentative dates for the examinations are as follows:",
-            "List of Examinations": [
-                "BCECE (Ist Stage)",
-                "DCECE",
-                "BCECE [LE]"
+            "advt_no": "BCECEB(PGMAC)-2024/09",
+            "counselling_rounds": [
+                "Round-1 / Round-2 Counselling",
+                "Round-3 Counselling"
             ],
-            "Courses for which examination is conducted": "Same as BCECE Ist Stage",
-            "Engg. Diploma level Institution": "For admission to non Engg. Diploma level women Institutions.",
-            "Four paper with separate subjects": "4 Sets of Paper with 4 subjects each."
+            "verification_status": [
+                "Document Verification #1 FF z, ta Bt aeqe sre"
+            ],
+            "security_deposit": [
+                "Security Deposit # Forfeiture & a4 Resign #A",
+                "Resignation Slip",
+                "Security Deposit # Forfeiture aa & ae"
+            ],
+            "resignation_date": "2025-03-25",
+            "counselling_dates": [
+                "27.12.2024 (2.00 P.M.) to 29.12.2024",
+                "05.12.2024 at a1"
+            ]
         }
+    },
+    {
+        "name": "DCECE-2024",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bceceboard.bihar.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bceceboard.bihar.gov.in/pdf_Web/CHK_BIO_DC2024.pdf"
+        ]
+    },
+    {
+        "name": "DECE (LE)-2025",
+        "date_of_notification": "20.03.2025",
+        "date_of_commencement": "15.04.2025",
+        "end_date": "19.04.2025",
+        "apply_link": "https://bceceboard.bihar.gov.in/DECE-LE-2025/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DLE25_01.pdf"
+        ]
+    },
+    {
+        "name": "BCECE Board",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://bceceboard.bihar.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bceceboard.bihar.gov.in/pdf_Web/PGMAC2024_MERIT.pdf"
+        ],
+        "details": {
+            "description": "BCECE Board is responsible for conducting entrance exams for engineering and medical colleges in Bihar."
+        }
+    },
+    {
+        "name": "BCECE Board - PGAAC AYUSH [UNANI] Exam",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": "2025-04-30",
+        "apply_link": "https://bceceboard.bihar.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://bceceboard.bihar.gov.in/pdf_Web/PGAAC2024_SOCRANK.pdf"
+        ]
     }
 ]

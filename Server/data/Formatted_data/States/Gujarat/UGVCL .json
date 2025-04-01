@@ -1,0 +1,64 @@
+[
+    {
+        "name": "U1ALO Exam",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2024-02-24",
+        "end_date": "2024-02-24",
+        "apply_link": "https://www.ugvcl.com/recadvt",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ugvcl.com/public/uploads/5.",
+            "https://ugvcl.com/public/uploads/6."
+        ],
+        "details": {
+            "Bell Timings": "The test will be held on Saturday, February 24, 2024 from 11:00 AM to 01:00 PM. The test shall consist of 100 Multiple Choice Questions (MCQ).",
+            "Instructions": "Candidates must bring Admit Card, Blue/Black Ball Pen and any Photo I.D. Proof issued by the Government.",
+            "Malpractice": "Any candidate who is found either copying or receiving or giving assistance will be disqualified.",
+            "OMR Response Sheet": "All questions shall be answered on OMR sheet only."
+        }
+    },
+    {
+        "name": "Uttar Gujarat Vij Company Limited",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "",
+        "apply_link": "https://www.ugvcl.com/recadvt",
+        "event_type": "Exam",
+        "document_links": [
+            "Detailed Advertisement for Apprenticeship (BOAT) - Online.pdf",
+            "CIN - U407102GIJ2003SGC042906"
+        ],
+        "details": {
+            "description": "Uttar Gujarat Vij Company Limited is seeking candidates to fill up the apprenticeships for BOAT program. The candidates who are interested can apply online through the given link.",
+            "location": "Gujarat",
+            "eligibility_criteria": "The candidates must be between 18 and 30 years old, possess a bachelor's degree in any stream, and have a minimum of 60% marks in aggregate."
+        }
+    },
+    {
+        "name": "Gujarat Urja Vikas Nigam Limited Recruitment",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.ugvcl.com/recadvt",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ugvcl.com/public/uploads/1711783984.pdf"
+        ],
+        "details": {
+            "Job Title": "Engineering Trainee",
+            "Eligibility Criteria": "B.E/B.Tech in Electrical Engineering from a recognized university.",
+            "Selection Process": "Written Test and Interview."
+        }
+    },
+    {
+        "name": "General Manager (Finance) Recruitment",
+        "date_of_notification": "2024-07-24",
+        "date_of_commencement": null,
+        "end_date": "2025-03-26",
+        "apply_link": "https://www.ugvcl.com/recadvt",
+        "event_type": "Exam",
+        "document_links": [
+            "https://ugvcl.com/public/uploads/1711774623.pdf"
+        ]
+    }
+]

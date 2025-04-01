@@ -1,23 +1,17 @@
+Here is the extracted JSON object based on the provided guidelines:
+
 ```json
 {
-    "name": "Jabalpur Division Bench - Larger (After DB) Daily Cause List",
-    "date_of_notification": "2025-03-25",
-    "date_of_commencement": "",
-    "end_date": "",
-    "apply_link": "https://mphc.gov.in/PDF/web_pdf/LU/Causelist dt. 11-12-2020",
-    "event_type": "Exam",
-    "document_links": [
-        "https://mphc.gov.in/PDF/web_pdf/LU/Causelist dt. 11-12-2020"
-    ],
-    "details": {
-        "court_name": "HIGH COURT OF MADHYA PRADESH : JABALPUR",
-        "hearings": [
-            {
-                "case_number": "05189/2020",
-                "petitioner_respondent": "PRAHLAD CHOUDHARY, THE STATE OF MADHYA ADVOCATE GENERAL"
-            }
-        ]
-    }
+  "name": "Union Public Service Commission",
+  "date_of_notification": "2025-03-27",
+  "date_of_commencement": "Ist July, 2024 / 10 Ashadha, Saka 1946",
+  "end_date": "",
+  "apply_link": "https://upsc.gov.in/sites/default/files/WR-CSP-24-RollList-Engl-010724.pdf",
+  "event_type": "Exam",
+  "document_links": [
+    "https://upsc.gov.in/examinations/Civil%20Services%20%28Preliminary%29%20Examination,%202024"
+  ]
 }
 ```
-In the above JSON object, all required fields are filled with extracted data from raw text. The "details" field contains additional information that does not fit into other predefined keys.
+
+Note: The `end_date` field is left empty as it was not present in the raw text, and no date was specified. If a correct end date is found, it should be included accordingly.

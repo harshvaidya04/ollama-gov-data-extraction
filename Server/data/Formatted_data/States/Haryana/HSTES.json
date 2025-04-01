@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Diploma Courses for session 2024-25",
+        "date_of_notification": "2024-10-29",
+        "date_of_commencement": "2024-04-15",
+        "end_date": "2024-11-30",
+        "apply_link": "https://www.hstes.org.in/Documents/2023/Notifications/Keydates for Diploma Courses for the session 2024-25.pdf",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://www.hstes.org.in/",
+            "https://www.hstes.org.in/Documents/2023/Notifications/Keydates for Diploma Courses for the session 2024-25.pdf"
+        ],
+        "details": {
+            "Key Dates": "List of key dates related to diploma courses",
+            "Eligibility Criteria": "Eligibility criteria for diploma courses, including age, education, and other requirements.",
+            "Admission Process": "Step-by-step guide on how to apply for diploma courses, including online registration and document submission."
+        }
+    },
+    {
+        "name": "HSTES B.Tech Intake Notification",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.hstes.org.in/Documents/2023/Notifications/B.Tech. Intake (24-25).pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.hstes.org.in/"
+        ],
+        "details": {
+            "Details": {
+                "B.Tech Admissions": {
+                    "Eligibility Criteria": {
+                        "Qualification": "The candidate should have passed the 12th class examination with physics, chemistry and mathematics as subjects.",
+                        "Age Limit": "The candidate should not be more than 25 years old."
+                    },
+                    "Selection Process": {
+                        "Merit Based": "The selection will be based on merit."
+                    }
+                }
+            }
+        }
+    },
+    {
+        "name": "Haryana State Technical Education Society",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.hstes.org.in/Default",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.hstes.org.in/Documents/2023/Notifications/List of Govt. Aided Self Financing Institutions.pdf"
+        ]
+    },
+    {
+        "name": "Haryana State Technical Education Society",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "2025-03-26",
+        "apply_link": "https://www.hstes.org.in/Default",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.hstes.org.in/Documents/2023/Notifications/1442"
+        ],
+        "details": {
+            "Admission Process": "The admission process for BIS/B.Tech and other courses is open from August 9, 2024, to November 30, 2024. The online application form can be filled by students through the website of Haryana State Technical Education Society.",
+            "Eligibility Criteria": "The eligibility criteria for the admission process includes a minimum of 50% marks in the qualifying examination for candidates from Punjab and 45% marks for candidates from other states."
+        }
+    },
+    {
+        "name": "Institute Level Manual Counselling for Diploma Engg. and Diploma Engg. Lateral Entry courses",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2024-07-28",
+        "end_date": "2024-08-06",
+        "apply_link": "https://www.hstes.org.in/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://www.hstes.org.in/Documents/2023/Notifications/Important Instructions Regarding Institute Level Manual Counselling.pdf"
+        ]
+    }
+]

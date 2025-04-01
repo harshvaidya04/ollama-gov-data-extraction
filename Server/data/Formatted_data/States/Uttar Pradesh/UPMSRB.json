@@ -1,0 +1,51 @@
+[
+    {
+        "name": "COVID-19",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upnrhm.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upnrhm.gov.in/assets/site-files/protocol.pdf"
+        ],
+        "details": {
+            "treatment_protocol": {
+                "paracetamol": "500 mg three times daily",
+                "ivermectin": "200 micrograms/kg/day once daily after dinner for 5 days",
+                "doxycycline": "100 mg twice daily for adults (not for pregnant or lactating mothers)",
+                "azithromycin": "10 mg/kg/day, 500 mg for adults, once daily for 5 days"
+            },
+            "steam_inhalation": {
+                "frequency": "3-4 times daily"
+            },
+            "breathing_exercises": {
+                "duration": "40-50 minutes daily (if comfortable)"
+            },
+            "oxygen_saturation_monitoring": {
+                "frequency": "at least 4 times daily",
+                "saturation_threshold": "above 94%"
+            }
+        }
+    },
+    {
+        "name": "Uttar Pradesh NRHM Mission Document",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "2025-12-31",
+        "apply_link": "https://upnrhm.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upnrhm.gov.in/assets/site-files/Mission-Document.pdf"
+        ],
+        "details": {
+            "description": "Uttar Pradesh NRHM Mission Document",
+            "url": "https://upnrhm.gov.in/",
+            "mission_document": "Mission Document for Uttar Pradesh NRHM",
+            "application_process": "Online Application Available at the Given Link",
+            "eligibility_criteria": "Eligible Candidates will be informed via SMS/Email",
+            "exam_date": "",
+            "exam_time": ""
+        }
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Madhya Pradesh Krishi Vikas Parishad Exam Result Admit Card",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "2024-04-02",
+        "apply_link": "https://mpkrishi.mp.gov.in/hindisite_new/pdfs/2024/Ujjain_983_04_02_2025.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mpkrishi.mp.gov.in/Englishsite_New/indexEnglish_New.aspx"
+        ],
+        "details": {
+            "Notification Date": "Ujjain, Madhya Pradesh",
+            "Commencement of Exam": "To be announced soon",
+            "Exam Type": "Krishi Vikas Parishad Exam",
+            "Eligibility Criteria": "Students enrolled in MP Krishi Vikas Parishad programs",
+            "Application Process": "Online application available on the official website"
+        }
+    },
+    {
+        "name": "Madhya Pradesh Ration Card Update",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://mpkrishi.mp.gov.in/hindisite_New/pdfs/2024/RAEO_Niyukti_Adesh_2024_1695.pdf",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://mpkrishi.mp.gov.in/hindisite_New/pdfs/2024/RAEO_Niyukti_Adesh_2024_1695.pdf"
+        ],
+        "details": {
+            "description": "Madhya Pradesh Ration Card Update: Apply for Ration Card and get the latest updates",
+            "eligibility": "Citizens of Madhya Pradesh can apply for Ration Card",
+            "process": "Online application process available on official website",
+            "benefits": "Ration Card benefits include subsidized food, cashless transactions"
+        }
+    },
+    {
+        "name": "BTM Atma Scheme",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://mpkrishi.mp.gov.in/Englishsite_New/indexEnglish_New.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mpkrishi.mp.gov.in/hindisite_new/pdfs/2024/BTM_ATMA_Order_1152.pdf"
+        ]
+    },
+    {
+        "name": "PMU Implementation in Agriculture Sector",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://mpkrishi.mp.gov.in/hindisite_new/pdfs/2024/Publish_Document_IT_DPG PMU_inviatation.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mpkrishi.mp.gov.in/Englishsite_New/indexEnglish_New.aspx"
+        ],
+        "details": {
+            "Term of Reference for Consultancy Service": {
+                "Description": "Department of Farmers Welfare and Agriculture Development, Government of MP-Term of Reference for Consultancy Service",
+                "Annexure-II Proponent Information": {
+                    "Name of the Proponent": "",
+                    "Official address": "",
+                    "Name and contact Details of Authorized representative for this proposal": "",
+                    "Official Contact details (phone and email)": "",
+                    "Web Site Address": "",
+                    "Details of Incorporation": ""
+                },
+                "Annexure-III Covering Letter": {
+                    "To": "",
+                    "Subject": "",
+                    "Date": "2025-03-26",
+                    "Dear Sir/Madam": "",
+                    "We, the undersigned": "",
+                    "Proposal as per the requirements mentioned in the above referred Eol": "",
+                    "We hereby declare": "",
+                    "a)": "",
+                    "b)": "",
+                    "c)": "",
+                    "d)": "",
+                    "e)": ""
+                }
+            }
+        }
+    },
+    {
+        "name": "Chambal Examination, Result, Admit Card",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2024-04-02",
+        "end_date": "2025-04-30",
+        "apply_link": "https://mpkrishi.mp.gov.in/Englishsite_New/indexEnglish_New.aspx",
+        "event_type": "Exam, Result, AdmitCard",
+        "document_links": [
+            "https://mpkrishi.mp.gov.in/hindisite_new/pdfs/2024/Chambal_977_04_02_2025.pdf"
+        ],
+        "details": {
+            "Event Type": [
+                "Exam",
+                "Result",
+                "AdmitCard"
+            ],
+            "Document Links": [
+                "https://mpkrishi.mp.gov.in/hindisite_new/pdfs/2024/Chambal_977_04_02_2025.pdf",
+                "https://mpkrishi.mp.gov.in/hindisite_new/pdfs/2024/Chambal_977_04_02_2025.pdf"
+            ],
+            "Date of Notification": {
+                "value": "2025-03-26"
+            },
+            "Date of Commencement": {
+                "value": "2024-04-02",
+                "unit": "YYYY-MM-DD"
+            }
+        }
+    }
+]

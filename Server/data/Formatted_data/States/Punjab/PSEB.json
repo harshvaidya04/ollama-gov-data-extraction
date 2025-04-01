@@ -1,0 +1,73 @@
+[
+    {
+        "name": "PSEB Exam Date Sheet",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "2025-04-30",
+        "apply_link": "https://psebfiles.s3.ap-south-1.amazonaws.com/uploads/1736322131_12TH DATE SHEET.pdf https://www.pseb.ac.in/vacancies",
+        "event_type": "Exam",
+        "document_links": [
+            "https://psebfiles.s3.ap-south-1.amazonaws.com/uploads/1736322131_12TH DATE SHEET.pdf",
+            "https://www.pseb.ac.in/vacancies"
+        ]
+    },
+    {
+        "name": "PSEB Exam",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.pseb.ac.in/vacancies",
+        "event_type": "Exam",
+        "document_links": [
+            "12TH DATE SHEET.pdf",
+            "https://psebfiles.s3.ap-south-1.amazonaws.com/uploads/1736322449_12TH DATE SHEET.pdf"
+        ]
+    },
+    {
+        "name": "SAS Exam",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "2025-04-02",
+        "end_date": "2025-05-15",
+        "apply_link": "https://psebfiles.s3.ap-south-1.amazonaws.com/uploads/1735807744_Press Note 2025.pdf, https://www.pseb.ac.in/vacancies",
+        "event_type": "Exam",
+        "document_links": [
+            "https://psebfiles.s3.ap-south-1.amazonaws.com/uploads/1735807744_Press Note 2025.pdf",
+            "https://www.pseb.ac.in/vacancies"
+        ],
+        "details": {
+            "short_name": "SAS",
+            "description": "Secondary and Higher Secondary Examination of Punjab."
+        }
+    },
+    {
+        "name": "Exam",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.pseb.ac.in/vacancies",
+        "event_type": "Exam",
+        "document_links": [
+            "https://psebfiles.s3.ap-south-1.amazonaws.com/uploads/1738666094_Seeking permission to conduct a series of motivational talk in the tricity schools in the month of February 2025..pdf"
+        ],
+        "details": {
+            "Description": "Exam for the students",
+            "Purpose": "To inspire the students"
+        }
+    },
+    {
+        "name": "Punjab School Education Board (PSEB)",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.pseb.ac.in/vacancies",
+        "event_type": "Exam",
+        "document_links": [
+            "Instructions_merged[1].pdf",
+            "Vacancy Announcement"
+        ],
+        "details": {
+            "description": "PSEB Examination Details",
+            "additional_info": "To be announced shortly"
+        }
+    }
+]

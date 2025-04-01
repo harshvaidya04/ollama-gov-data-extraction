@@ -1,0 +1,65 @@
+[
+    {
+        "name": "CCTNS Hackathon and Cyber Challenge",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2023-06-10",
+        "end_date": "2023-06-13",
+        "apply_link": "https://keralapolice.gov.in/storage/pages/custom/table/table-qlM4idDkwQnq2Zj0X7Vqs8VnH.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://keralapolice.gov.in/page/notification"
+        ]
+    },
+    {
+        "name": "Government of Kerala",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://keralapolice.gov.in/page/notification",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://keralapolice.gov.in/storage/pages/custom/table/table-vZa0s3W9I2VHsRDx5tiIqHCJX.pdf"
+        ]
+    },
+    {
+        "name": "Notification for Mounted Police Constable / Mounted Police Warrier / Mounted Police Constable (Blacksmith) in Thiruvananthapuram City",
+        "date_of_notification": "2021-08-25",
+        "date_of_commencement": "2021-09-20",
+        "end_date": null,
+        "apply_link": "https://keralapolice.gov.in/storage/pages/custom/table/table-ZIG0mvX3IKDaYEoZNLwRHbNiR.pdf, https://keralapolice.gov.in/page/notification",
+        "event_type": "Notification",
+        "document_links": [
+            "https://keralapolice.gov.in/storage/pages/custom/table/table-ZIG0mvX3IKDaYEoZNLwRHbNiR.pdf",
+            "https://keralapolice.gov.in/page/notification"
+        ],
+        "details": {
+            "description": "Notification for Mounted Police Constable / Mounted Police Warrier / Mounted Police Constable (Blacksmith) in Thiruvananthapuram City. Eligibility criteria, application process and other details are provided in the notification.",
+            "url": "https://keralapolice.gov.in/storage/pages/custom/table/table-ZIG0mvX3IKDaYEoZNLwRHbNiR.pdf",
+            "contact": "Police Headquarters, Thiruvananthapuram"
+        }
+    },
+    {
+        "name": "KERALA POLICE D-DAD CENTRE",
+        "date_of_notification": "2023-01-29",
+        "date_of_commencement": "",
+        "end_date": "2025-03-26",
+        "apply_link": "https://keralapolice.gov.in/storage/pages/custom/table/table-CDr8FVJbeflEmTbKHdYVHS8pH.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://keralapolice.gov.in/page/notification"
+        ]
+    },
+    {
+        "name": "Kerala Police",
+        "date_of_notification": "2025-03-26",
+        "apply_link": "https://keralapolice.gov.in/page/notification",
+        "document_links": [
+            "custom/table/table-MeakAEJZC2FBf2m6aEcRuNDp9.pdf"
+        ],
+        "details": {
+            "event_type": "AdmitCard",
+            "date_of_commencement": "",
+            "end_date": ""
+        }
+    }
+]

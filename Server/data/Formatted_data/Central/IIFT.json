@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Online Weekend Programme in International Trade",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "2025-06-30",
+        "apply_link": "https://docs.iift.ac.in/Pilotweb/OCPEM/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://docs.iift.ac.in/Pilotweb/OCPITL/brochure.pdf",
+            "https://www.iift.ac.in/iift/view-all-updated.php"
+        ]
+    },
+    {
+        "name": "Executive Management Programme (CPEM) - Indian Institute of Foreign Trade",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.iift.ac.in/iift/view-all-updated.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://docs.iift.ac.in/Pilotweb/CPEM/brochure.pdf"
+        ],
+        "details": {
+            "Eligibility": "Graduation degree from recognized university or equivalent.",
+            "Duration": null,
+            "Format": "Full-time, Online",
+            "Schedule": "Campus Visit: Participants will be required to visit the campus to attend the classes during program. All classes are live and facilitate two-way interaction between participants and Faculty",
+            "Teaching Style": null,
+            "Assessment Methodology": "Regular Evaluation ensures that the participants has indeed, imbibed both the knowledge and its application."
+        }
+    },
+    {
+        "name": "Fee Payment Details",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://docs.iift.ac.in/pilotweb/odsohst/FeeDetails.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.iift.ac.in/iift/view-all-updated.php"
+        ],
+        "details": {
+            "Programme Fee": "211,800/- (Break-up: 10,000 + 18% GST)",
+            "Bank Details": {
+                "Beneficiary Name": "Indian Institute of Foreign Trade (IIFT)",
+                "Bank Name": "Indian Bank",
+                "Bank Address": "Mehrauli Institutional Area , Katwaria Sarai,New Delhi - 16",
+                "MICR": "110019018",
+                "IFSC": "IDIBOOOMO89"
+            },
+            "Contact Information": {
+                "Assistant Section Officer": "Mr. Sanjay Gandhi"
+            }
+        }
+    },
+    {
+        "name": "Online Weekend Programme in Logistics and Transportation",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2025-03-25",
+        "end_date": "",
+        "apply_link": "https://forms.eduqfix.com/iiftolform/add",
+        "event_type": "Exam",
+        "document_links": [
+            "https://docs.iift.ac.in/pilotweb/OCPGTLPO/brochure.pdf",
+            "https://www.iift.ac.in/iift/view-all-updated.php"
+        ]
+    },
+    {
+        "name": "Two-Day Hindi Programme on ‘Export Import Management’",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": [
+            "https://docs.iift.ac.in/pilotweb/tdhpeim/2-DayHindiProgramme.pdf"
+        ],
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.iift.ac.in/iift/view-all-updated.php"
+        ]
+    }
+]

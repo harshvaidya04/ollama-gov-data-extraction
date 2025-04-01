@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Haryana Health Department Recruitment",
+        "date_of_notification": "2023-10-05",
+        "date_of_commencement": "2024-03-26",
+        "end_date": "2025-03-26",
+        "apply_link": "https://haryanahealth.gov.in/notice-category/recruitments/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s31177967c7957072da3dc1db4ceb30e7a/uploads/2023/10/202310111289915013.pdf"
+        ],
+        "details": {
+            "Event Description": "The Haryana Health Department has announced a recruitment drive for various posts. The notification was released on October 5, 2023, and the application process is expected to begin in March 2024.",
+            "Job Types": [
+                "Medical Officer",
+                "Administrative Officer"
+            ],
+            "Organization": "Haryana Government"
+        }
+    },
+    {
+        "name": "Haryana Health Department Recruitment",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://haryanahealth.gov.in/notice-category/recruitments/",
+        "event_type": "Exam",
+        "document_links": [
+            "2025-02-20250209461236073.pdf",
+            "Recruitment Notice PDF"
+        ],
+        "details": {
+            "description": "The Haryana Health Department is recruiting candidates for various posts. The examination will be held to select the candidates for these posts.",
+            "url": "https://haryanahealth.gov.in/notice-category/recruitments/",
+            "last_updated": ""
+        }
+    },
+    {
+        "name": "Haryana Health Department Recruitment",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://haryanahealth.gov.in/notice-category/recruitments/",
+        "event_type": "Result",
+        "document_links": [
+            "https://cdnbbsr.s3waas.gov.in/s31177967c7957072da3dc1db4ceb30e7a/uploads/2025/02/202502101341267987.pdf"
+        ]
+    },
+    {
+        "name": "Walk-in-Drive for Specialists",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": "2025-04-14",
+        "apply_link": "https://cdnbbsr.s3waas.gov.in/s31177967c7957072da3dc1db4ceb30e7a/uploads/2025/02/202502061236278090.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://haryanahealth.gov.in/notice-category/recruitments/"
+        ],
+        "details": {
+            "Venue for Walk-in-Drive": "Civil Hospital, Sector-06, Panchkula",
+            "Health Department, Haryana i.e. Rees and haryanahealth.gov.in": null,
+            "Executive Committee": null
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": {}
+    }
+]

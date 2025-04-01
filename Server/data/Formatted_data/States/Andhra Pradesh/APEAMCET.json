@@ -1,34 +1,98 @@
 [
     {
-        "name": "AP EAPCET - 2025",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2025-04-15",
-        "end_date": "2025-06-30",
-        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Notification.pdf",
+        "name": "EAPCET (Engineering Admissions Preliminary Counselling) Exam",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Syllabus_Engineering.pdf",
         "event_type": "Exam",
         "document_links": [
-            "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Notification.pdf",
+            "https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx"
+        ]
+    },
+    {
+        "name": "Andhra Pradesh Engineering Agriculture and Pharmaceutical Council (APPEJCET) - A.P.",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": "2026-04-30",
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Instruction_Booklet_Agriculture_Pharmacy.pdf, https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Instruction_Booklet_Agriculture_Pharmacy.pdf"
+        ]
+    },
+    {
+        "name": "APEAPCET 2025",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2025-05-06",
+        "end_date": "2025-08-04",
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Corrections.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Corrections.pdf",
             "https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx"
         ],
         "details": {
-            "description": "The AP EAPCET is a state-level entrance examination for admission to professional courses in Andhra Pradesh."
+            "Contact Information": {
+                "email": "helpdeskapeapcet@apsche.org"
+            },
+            "Correction Instructions": {
+                "Category 1 Corrections": "Should be done at CONVENER, AP EAPCET-2025 Office",
+                "Category 2 Corrections": "Should be done by the candidate during permitted period only"
+            }
         }
     },
     {
-        "name": "AP EAPCET-2025",
-        "date_of_notification": "2025-03-24",
+        "name": "AP E-POLYCET",
+        "date_of_notification": "2025-03-25",
         "date_of_commencement": "",
         "end_date": "",
-        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Notification.pdf, https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx",
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Instruction_Booklet_Engineering.pdf https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx",
         "event_type": "Exam",
         "document_links": [
-            "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Notification.pdf",
+            "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Instruction_Booklet_Engineering.pdf",
             "https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx"
         ],
         "details": {
-            "description": "The AP EAPCET-2025 is a state-level entrance exam for students seeking admission to professional courses in Andhra Pradesh.",
-            "exam_type": "Computer Based Test",
-            "venue": "Jawaharlal Nehru Technological University Kakinada"
+            "criteria_for_ranking": "For the preparation of the merit list, in case of more than one student securing the same combined score obtained as mentioned above, the tie shall be resolved to decide the relative ranking by successively considering the following (I) The total marks secured in AP EAPCET-2025\n(Il) The Marks secured in mathematics in AP EAPCET-2025\n(Ill) The marks secured in Physics in AP EAPCET-2025\n(IV) If the tie persists, same rank will be given and the older (based on date of birth) will be given preference over the younger at the time of admissions.",
+            "weightage_of_marks": "75% weightage to the marks secured in AP EAPCET-2025 and 25% weightage to the marks secured in the relevant group subjects namely Mathematics, Physics, Chemistry of the qualifying examination."
+        }
+    },
+    {
+        "name": "APEAPCET 2025 Merit List CAP",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Merit_List_CAP.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://cets.apsche.ap.gov.in/EAPCET/PDF/APEAPCET2025_Merit_List_CAP.pdf",
+            "https://cets.apsche.ap.gov.in/EAPCET/Eapcet/EAPCET_HomePage.aspx"
+        ],
+        "details": {
+            "category": [
+                "Widows / Wards of Defence personnel killed in action",
+                "Wards of disabled in action and boarded out from service",
+                "Widows/Wards of Defence Personnel who died while in service with death attributable to military service",
+                "Wards of disabled in service and boarded out with disability attributable to military service"
+            ],
+            "wards_of_ex_servicemen_and_serving_personnel": [
+                "i) Param Vir Chakra",
+                "ii) Ashok Chakra",
+                "iii) Sarvottam Yudh Seva Medal",
+                "iv) Maha Vir Chakra",
+                "v) Kirti Chakra",
+                "vi) Uttam Yudh Seva Medal",
+                "vii) Vir Chakra",
+                "viii) Shaurya Chakra",
+                "ix) Yudh Seva Medal",
+                "x) Sena, Nau sena, Vayu Sena Medal",
+                "xi) Mention-in-Despatches"
+            ],
+            "wives_of_defence_personnel": [
+                "i) Defence personnel disabled in action and boarded out from service",
+                "ii) Defence personnel disabled in service and boarded out with disability attributable to military service"
+            ]
         }
     }
 ]

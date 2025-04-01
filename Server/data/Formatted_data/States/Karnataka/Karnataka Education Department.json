@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Karnataka State Examination Board",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://schooleducation.karnataka.gov.in/uploads/media_to_upload1719387788.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://schooleducation.karnataka.gov.in/en"
+        ]
+    },
+    {
+        "name": "Teacher Transfer 2023-2024",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://schooleducation.karnataka.gov.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://schooleducation.karnataka.gov.in/uploads/media_to_upload1722533820.pdf"
+        ]
+    },
+    {
+        "name": "Karnataka School Education",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://schooleducation.karnataka.gov.in/en",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://schooleducation.karnataka.gov.in/uploads/media_to_upload1739878032.pdf"
+        ],
+        "details": {
+            "description": "Karnataka School Education provides educational guidance and resources for schools in Karnataka, India.",
+            "url": "https://schooleducation.karnataka.gov.in/en",
+            "email": "[info@schooleducation.karnataka.gov.in](mailto:info@schooleducation.karnataka.gov.in)",
+            "phone": "+91 94459 00200"
+        }
+    },
+    {
+        "name": "Karnataka State Board Examinations",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://schooleducation.karnataka.gov.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "Exam Instructions",
+            "Result Guidelines",
+            "Admit Card Format"
+        ],
+        "details": {
+            "exam_format": "Multiple Choice Questions (MCQ) and Short Answer Questions (SAQ)",
+            "exam_duration": "3 hours for each paper",
+            "number_of_papers": "8 papers including English, Kannada, and other subjects",
+            "fees_structure": "Refer to the official website for fee details"
+        }
+    },
+    {
+        "name": "Karnataka Board of Secondary Education",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://schooleducation.karnataka.gov.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://schooleducation.karnataka.gov.in/uploads/media_to_upload1725447325.pdf"
+        ],
+        "details": {
+            "exam_date": "April 2025",
+            "exam_centre": "Karnataka, India",
+            "board_id": "KSEEB",
+            "exam_type": "SSC",
+            "apply_method": "Online Application",
+            "exam_schedule": "March 2025 - April 2025"
+        }
+    }
+]

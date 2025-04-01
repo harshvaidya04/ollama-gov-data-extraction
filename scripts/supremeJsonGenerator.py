@@ -102,7 +102,7 @@ def generateSupremeJson(supremeData):
     # state
     states = supremeData['state']
 
-    for state in states:
+    for state in states[10:]:
         stateName = state['name']
         orgs = state['organizations']
         
@@ -270,7 +270,7 @@ def generateSupremeJson(supremeData):
         
 if __name__ == '__main__':
     
-    with open("../scripts/documentUpdatedLinksSupreme.json",'r', encoding='utf-8') as f:
+    with open("../scripts/documentLinksSupreme.json",'r', encoding='utf-8') as f:
         supremeData = json.load(f)
     
         

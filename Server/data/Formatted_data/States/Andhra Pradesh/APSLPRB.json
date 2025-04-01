@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Andhra Pradesh State Level Police Recruitment Board",
+        "date_of_notification": "2022-12-27",
+        "date_of_commencement": "",
+        "end_date": "2022-07-01",
+        "apply_link": "https://slprb.ap.gov.in/UI/recruitments",
+        "event_type": "Exam",
+        "document_links": [
+            "https://slprb.ap.gov.in/PDFS/Amendment_SI.pdf"
+        ],
+        "details": {
+            "Chairman": "Manish Kumar Sinha IPS",
+            "Address": "Andhra Pradesh, Mangalagiri"
+        }
+    },
+    {
+        "name": "State Level Police Recruitment Board",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "19-12-2023",
+        "end_date": "",
+        "apply_link": "https://slprb.ap.gov.in/UI/recruitments",
+        "event_type": "Exam",
+        "document_links": [
+            "https://slprb.ap.gov.in/PDFS/Amendment Notification 2022.pdf"
+        ],
+        "details": {
+            "description": "Recruitment notification for SCT Sub-Inspector of Police (Civil) (Men & Women) and SCT RSI (APSP) (Men) in Police Department",
+            "notification_number": "163/SLPRB/Rect.1/2022",
+            "issued_on": "28-11-2022"
+        }
+    },
+    {
+        "name": "Andhra Pradesh Police Recruitment Board",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://slprb.ap.gov.in/UI/recruitments",
+        "event_type": "Exam",
+        "document_links": [
+            "SI Notification.pdf"
+        ],
+        "details": {
+            "Notification Date": "25th March 2025",
+            "Commencement Date": null,
+            "End Date": null,
+            "Exam Type": "Sub-Inspector (SI) Examination",
+            "Event Status": "Upcoming"
+        }
+    },
+    {
+        "name": "Andhra Pradesh Public Service Commission",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://slprb.ap.gov.in/UI/recruitments",
+        "event_type": "Exam",
+        "document_links": [
+            "https://slprb.ap.gov.in/PDFS/SLPRB_AP_PC_Notification.pdf"
+        ]
+    }
+]

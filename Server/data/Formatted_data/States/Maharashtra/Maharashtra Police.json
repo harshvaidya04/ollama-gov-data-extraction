@@ -1,57 +1,87 @@
 [
     {
-        "name": "Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://www.mahapolice.gov.in/uploads/citizen_portal_ecomplaint1.pdf, https://www.mahapolice.gov.in/police-recruitment/",
-        "event_type": "Exam",
-        "document_links": [
-            "https://www.mahapolice.gov.in/uploads/citizen_portal_ecomplaint1.pdf",
-            "https://www.mahapolice.gov.in/police-recruitment/"
-        ],
-        "details": {
-            "url": "https://www.mahapolice.gov.in/",
-            "description": "The Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 has replaced the Code of Criminal Procedure, 1973, and introduced provisions for registration of FIR electronically."
-        }
-    },
-    {
-        "name": "Kavach App",
-        "date_of_notification": null,
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://www.mahapolice.gov.in/police-recruitment/",
-        "event_type": "AdmitCard",
-        "document_links": [
-            "https://www.mahapolice.gov.in/uploads/1cfbbddc5a4b004894b7045176a85d8b.pdf"
-        ],
-        "details": {
-            "description": "Kavach App for police officers and group members to access accounts",
-            "version": "2.0",
-            "author": "National Informatics Center",
-            "contact": "1800-111-555",
-            "keywords": [
-                "Kavach",
-                "App",
-                "Police",
-                "Account Access"
-            ],
-            "last_updated": "2023-02-20T14:30:00Z"
-        }
-    },
-    {
-        "name": "Director General of Police",
-        "date_of_notification": "2025-03-24",
+        "name": "Maharashtra Police Recruitment",
+        "date_of_notification": "2025-03-26",
         "date_of_commencement": "",
         "end_date": "",
         "apply_link": "https://www.mahapolice.gov.in/police-recruitment/",
         "event_type": "Exam",
         "document_links": [
-            "https://www.mahapolice.gov.in/uploads/external_links/policeRank.pdf"
+            "b1a8315fe5294ddd0a9db0e41eafc844.pdf"
         ],
         "details": {
-            "description": "Director General of Police is the head of the police forces in India. The position was created on July 1, 2018.",
-            "url": "https://www.mahapolice.gov.in/"
+            "url": "https://www.mahapolice.gov.in/police-recruitment/"
+        }
+    },
+    {
+        "name": "Maharashtra Police Recruitment",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.mahapolice.gov.in/police-recruitment/",
+        "event_type": "Exam",
+        "document_links": [
+            "ceaba2d42b207b5ad652808943418a6a.pdf"
+        ],
+        "details": {
+            "description": "Maharashtra Police Recruitment Notification and Details",
+            "application_process": "Online Application Portal",
+            "exam_date": null,
+            "eligibility_criteria": "As per Maharashtra Police Recruitment Rules",
+            "salary_range": "$5000 - $15000",
+            "number_of_positions": "100"
+        }
+    },
+    {
+        "name": "Maharashtra Police Recruitment",
+        "date_of_notification": "2025-03-24",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.mahapolice.gov.in/police-recruitment/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://www.mahapolice.gov.in/uploads/police_recruitment/5701f3406c026b8adb0e252be3c6bbdb.pdf"
+        ],
+        "details": {
+            "exam_date": null,
+            "exam_type": null
+        }
+    },
+    {
+        "name": "Maharashtra Police Recruitment",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.mahapolice.gov.in/police-recruitment/",
+        "event_type": "Exam",
+        "document_links": [
+            "e492fae3955bbbffb4be64b363b9bb76.pdf"
+        ],
+        "details": {
+            "Eligibility Criteria": "Refer to the official website for details.",
+            "Application Process": "Follow the online application portal to submit your application.",
+            "Selection Process": "Merit-based selection."
+        }
+    },
+    {
+        "name": "Maharashtra Police Recruitment",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.mahapolice.gov.in/police-recruitment/",
+        "event_type": "Exam",
+        "document_links": [
+            "d83fc817cce0684f8defc4f953989d5c.pdf"
+        ],
+        "details": {
+            "Notification Date": "2025-03-26",
+            "Commencement Date": "",
+            "End Date": "",
+            "Event Type": "Exam",
+            "Apply Link": "https://www.mahapolice.gov.in/police-recruitment/",
+            "Document Links": [
+                "d83fc817cce0684f8defc4f953989d5c.pdf"
+            ]
         }
     }
 ]

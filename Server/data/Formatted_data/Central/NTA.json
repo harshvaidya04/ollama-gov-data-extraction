@@ -1,22 +1,83 @@
 [
     {
-        "name": "JIPMAT 2025 Notification",
-        "date_of_notification": "19 March 2025",
+        "name": "Joint Integrated Programme in Management Admission Test (JIPMAT) - 2022",
+        "date_of_notification": "10 May 2022",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://nta.ac.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://nta.ac.in/Download/Notice/Notice_20220510214459.pdf",
+            "https://nta.ac.in/NoticeBoardArchive"
+        ],
+        "details": {
+            "description": "The Joint Integrated Programme in Management Admission Test (JIPMAT) is a National Level Entrance Examination for admission to 5-Year Integrated Program in Management in ITM Bodh Gaya and IIM Jammu for the Academic Year 2022 - 2023."
+        }
+    },
+    {
+        "name": "NATIONAL TESTING AGENCY - Entrance Exam for admission to MBA (IB) 2022-24",
+        "date_of_notification": "05.01.2022",
         "date_of_commencement": null,
         "end_date": null,
         "apply_link": [
-            "https://nta.ac.in/NoticeBoardArchive",
-            "https://nta.ac.in/Download/Notice/Notice_20250319134044.pdf"
+            "https://iift.nta.nic.in"
         ],
         "event_type": "Exam",
         "document_links": [
-            "Annexure 1"
+            "https://nta.ac.in/Download/Notice/Notice_20220106165005.pdf",
+            "https://nta.ac.in/NoticeBoardArchive"
+        ]
+    },
+    {
+        "name": "NEET (UG)-2020 Examination Notification",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://nta.ac.in/Download/Notice/Notice_20200511063520.pdf, https://nta.ac.in/NoticeBoardArchive",
+        "event_type": "Exam",
+        "document_links": [
+            "https://nta.ac.in/Download/Notice/Notice_20200511063520.pdf",
+            "https://nta.ac.in/NoticeBoardArchive"
         ],
         "details": {
-            "Examination Details": "NTA will be conducting JIPMAT- 2025 on 26t April, 2025 (Saturday) from 03:00 PM to 5:30 PM (Indian Standard Time).",
-            "Application Deadline": "19 March 2025 to 21 March 2025",
-            "Corrections Allowed": "Candidate can make corrections in the particulars of their respective Application Forms up to 11:50 P.M. on 21 March 2025.",
-            "Additional Fee": "Applicable if there is an impact on the fee amount."
+            "url": "https://nta.ac.in/",
+            "directors_name": "DR VINEET JOSHI",
+            "position": "DIRECTOR GENERAL",
+            "office_address": "Block C-20,1A/8, Sector 62, IITK Outreach Centre, Gautam Buddh Nagar, Noida-201309, Uttar Pradesh (India) Tele: 0120-6895200"
+        }
+    },
+    {
+        "name": "Recruitment Exam of Nursing Officer (Male & Female) Banaras Hindu University, Varanasi — 2024",
+        "date_of_notification": "17% April 2024",
+        "date_of_commencement": "12 April 2024",
+        "end_date": "18 April 2024",
+        "apply_link": "https://bhu.ntaonline.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://nta.ac.in/Download/Notice/Notice_20240417130102.pdf",
+            "https://nta.ac.in/NoticeBoardArchive"
+        ],
+        "details": {
+            "Subject": "-Display of Provisional Answer Keys, and Question Paper with Recorded Responses for Answer Key Challenge for Recruitment",
+            "Duration": "Nursing Officer (Male and Female) | 17.04.2024 to 18.04.2024",
+            "Contact Information": "Fn) SeUasa Aa / Helpline Number: +91-11-40759000 or email at bhu2024@nta.ac.in"
+        }
+    },
+    {
+        "name": "National Testing Agency - Display of Provisional Answer Keys and Question Paper with Recorded Responses for Joint Entrance Examination JEE (Main) — 2023 Session 2",
+        "date_of_notification": "19 April 2023",
+        "date_of_commencement": "06, 08, 10, 11, 12, 13, and 15 April 2023",
+        "end_date": "21 April 2023",
+        "apply_link": "https://jeemain.nta.nic.in",
+        "event_type": "Exam",
+        "document_links": [
+            "https://nta.ac.in/Download/Notice/Notice_20230419201035.pdf",
+            "https://nta.ac.in/NoticeBoardArchive"
+        ],
+        "details": {
+            "procedure_for_challenge": "Please go to the website https://jeemain.nta.nic.in\nClick ‘Challenge (s) regarding Answer Key’\nLogin with your Application Number and Date of Birth and enter the Security Pin as displayed and Submit.\nClick ‘Challenge(s) regarding Answer Key’.",
+            "question_ids": "P 1: B.E./B.Tech 30+30+30\nPaper 2A: B.Arch. 30+50 . .\nPaper 2B: B.Planning 30+50+25 |Mathematics/Aptitude Test/ Planning based .",
+            "upload_supporting_documents": "You may upload supporting documents for which you can select ‘Choose File’and upload (all documents to be put in a single pdf file)."
         }
     }
 ]

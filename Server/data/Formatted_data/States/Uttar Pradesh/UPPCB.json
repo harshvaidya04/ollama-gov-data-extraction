@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Urban Carrying Capacity Assessment",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://uppcb.up.gov.in/downloadmedia/UploadNews/pdf/C_202503201126011411.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://app.cpebecr.com/AQI_India",
+            "https://www.teriin.org/sites/default/files/2018-08/Report SA AQM-Delhi-NCR_.pdf"
+        ]
+    },
+    {
+        "name": "Hazardous Waste Recycler",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://uppcb.up.gov.in/downloadmedia/siteContent/202411231429550623Haz-Waste-recycler_231124.pdf?cd=MwA4ADYA",
+        "event_type": "Exam",
+        "document_links": [
+            "https://uppcb.up.gov.in/en/feature/news-and-events"
+        ],
+        "details": {
+            "Type": [
+                "Metal Scrap",
+                "Battery Scrap",
+                "Plastic Granules"
+            ],
+            "Facilities": [
+                "1 MT/Day",
+                "2 MT/Day",
+                "1 MT/Day"
+            ],
+            "Capacities": [
+                "3960 MT/ Annum",
+                "1000 MT/Month",
+                "1050 MT/Month"
+            ],
+            "Locations": [
+                "Ghaziabad",
+                "Meerut",
+                "Hapur"
+            ]
+        }
+    },
+    {
+        "name": "General Standards",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://uppcb.up.gov.in/downloadmedia/siteContent/202405091516579979GeneralStandards.pdf?cd=MgAwADYA",
+        "event_type": "Exam",
+        "document_links": [
+            "https://uppcb.up.gov.in/en/feature/news-and-events"
+        ]
+    },
+    {
+        "name": "Uttar Pradesh Public Health Engineering Service",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://uppcb.up.gov.in/downloadmedia/UploadNews/pdf/C_202503241303309114.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://uppcb.up.gov.in/en/feature/news-and-events"
+        ]
+    },
+    {
+        "name": "E-waste Inventory",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://uppcb.up.gov.in/downloadmedia/siteContent/202408051901196271E-waste_inventory_050824.pdf?cd=MwA5ADIA",
+        "event_type": "Exam",
+        "document_links": [
+            "https://uppcb.up.gov.in/en/feature/news-and-events"
+        ],
+        "details": {
+            "description": "Extracted data from raw text, excluding irrelevant information."
+        }
+    }
+]

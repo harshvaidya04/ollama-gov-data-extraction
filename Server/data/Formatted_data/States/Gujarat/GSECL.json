@@ -1,0 +1,102 @@
+[
+    {
+        "name": "GSECL Provisional Merit List",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.gsecl.in/career/",
+        "event_type": "Exam",
+        "document_links": [
+            "Provision-Merit-list-VS-PA-I-Mechanical.pdf"
+        ],
+        "details": {
+            "Event Type": "Exam",
+            "Date of Notification": "2025-03-26",
+            "Date of Commencement": null,
+            "End Date": null
+        }
+    },
+    {
+        "name": "GSECL Accounts Officer Exam",
+        "date_of_notification": "2023-02-19",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.gsecl.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.gsecl.in/wp-content/uploads/2023/11/Provision-Merit-list-AO.pdf",
+            "https://www.gsecl.in/career/"
+        ],
+        "details": {
+            "description": "The provisional merit list of on-line exam conducted on 19.02.2023 and personal interview held on 11.09.2023 for Selection to the post of Accounts Officer.",
+            "conditions": [
+                "1. GS22013636 | 1119020065 75.53 | Male UR 02/Jul/1997",
+                "2. GS22000333 | 1119020043 74.31 | Male UR 04/Apr/1994",
+                "3. GS22009557 | 1119020056 71.31 | Male UR 23/Mar/1997",
+                "4. GS22010434 | 1119020002 71.25 | Male UR 11/Mar/1997",
+                "5. GS22022071 | 1119020013 70.25 | Male UR 09/Sep/1994",
+                "6. GS22008791 | 1119020055 64.18 | Male UR 29/Jan/1997",
+                "7. GS22013035 | 1119020089 63.33 | Male SEBC 24/Oct/1990",
+                "8. GS22000254 | 1119020051 61.94 | Male UR 11/Aug/1992",
+                "9. GS22017054 | 1119020091 56.56 | Male UR 06/May/1994",
+                "10. GS22012969 | 1119020021 55.91 | Female UR 28/Apr/1992"
+            ],
+            "instructions": [
+                "Marks obtained",
+                "Merit Registration (Online Gender Caste . No. No. Roll No. Examt (M/F) /Category Date of Birth Remarks Personal Interview)",
+                "Other instructions published earlier will remain unchanged."
+            ]
+        }
+    },
+    {
+        "name": "Gujarat State Electricity Corporation Limited - Provisional Result of 2nd Tier Online Exam",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2024-09-28",
+        "end_date": "2025-01-07",
+        "apply_link": "https://www.gsecl.in/wp-content/uploads/2025/01/Provisional_Result_VSJEElect-PwD2024.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.gsecl.in/career/",
+            "https://www.gsecl.in/wp-content/uploads/2025/01/Provisional_Result_VSJEElect-PwD2024.pdf"
+        ],
+        "details": {
+            "exam_type": "Online Exam",
+            "selection_process": "Based on the marks obtained in the online exam, candidates will be selected for the post of Vidyut Sahayak Junior Engineer (Electrical)-PwD."
+        }
+    },
+    {
+        "name": "Gujarat State Electricity Corporation Limited - VSJr Assistant",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": "null",
+        "apply_link": "https://www.gsecl.in/career/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.gsecl.in/wp-content/uploads/2023/01/VSJr.Asst_.pdf"
+        ],
+        "details": {
+            "Type": "Exam",
+            "Description": "Recruitment Exam for VSJr Assistant Position",
+            "Eligibility Criteria": "Check the official website for eligibility criteria and other details.",
+            "Exam Date": null,
+            "Paper Type": "Objective Type"
+        }
+    },
+    {
+        "name": "Amrit Mahotsav - Provisional Result of Junior Pharmacist",
+        "date_of_notification": "2024-09-28",
+        "date_of_commencement": "",
+        "end_date": "2025-01-07",
+        "apply_link": "https://www.gsecl.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.gsecl.in/wp-content/uploads/2025/01/Provisional_Result_Jr.Pharmacist-2024.pdf",
+            "https://www.gsecl.in/career/"
+        ],
+        "details": {
+            "corporation_name": "Gujarat State Electricity Corporation Limited",
+            "exam_type": "Online Exam",
+            "post_name": "Junior Pharmacist"
+        }
+    }
+]

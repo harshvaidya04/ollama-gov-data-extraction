@@ -1,95 +1,73 @@
 [
     {
-        "name": "World Health Summit",
-        "date_of_notification": "2025-03-24",
+        "name": "Indian Council of Medical Research",
+        "date_of_notification": "2025-03-25",
         "date_of_commencement": "",
         "end_date": "",
-        "apply_link": "https://whsnewdelhi2025.com/",
-        "event_type": "Convention",
-        "document_links": [
-            "https://www.icmr.gov.in/icmrobject/uploads/Documents/1742382283_brochure_cochranecollaborationatworldhealthsummit.pdf",
-            "https://www.icmr.gov.in/employment-opportunities"
-        ]
-    },
-    {
-        "name": "FIWC 2024",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://www.icmr.gov.in/icmrobject/uploads/Call/1741346689_result_fiwc2024.pdf",
-        "event_type": "Result",
-        "document_links": [
-            "ICMR Exam Notification",
-            "FIWC 2024 Exam Dates"
-        ]
-    },
-    {
-        "name": "ICMR Extramural Grant Application",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://www.icmr.gov.in/icmrobject/uploads/WhatsNew/1735900853_intermediate_grant_jan2025_02012025.pdf",
-        "event_type": "Exam",
-        "document_links": [
-            "https://www.icmr.gov.in/employment-opportunities"
-        ],
-        "details": {
-            "description": "ICMR Extramural Grant Application for Intermediate Research Award",
-            "date": "2025-03-24",
-            "location": "",
-            "organization": "Indian Council of Medical Research (ICMR)",
-            "category": "Research Award"
-        }
-    },
-    {
-        "name": "ICMR Small Grant Call",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "2025-01-02",
-        "end_date": "",
-        "apply_link": [
-            "https://www.icmr.gov.in/icmrobject/uploads/WhatsNew/1735900506_small_grant_jan2025_02012025.pdf",
-            "https://www.icmr.gov.in/employment-opportunities"
-        ],
-        "event_type": "Exam",
-        "document_links": [
-            "https://www.icmr.gov.in/icmrobject/uploads/WhatsNew/1735900506_small_grant_jan2025_02012025.pdf",
-            "https://www.icmr.gov.in/employment-opportunities"
-        ],
-        "details": {
-            "description": "ICMR Small Grant Call for Research Projects",
-            "events": [
-                {
-                    "name": "Exam",
-                    "type": "Exam"
-                }
-            ]
-        }
-    },
-    {
-        "name": "Director, Indian Council of Medical Research",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": null,
-        "end_date": null,
         "apply_link": "https://www.icmr.gov.in/employment-opportunities",
         "event_type": "Exam",
         "document_links": [
-            "Recruitment/1742809283_advertisementvacanciesofdirectorshindi.pdf"
+            "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1740648014_vcrc_notification_hindi.pdf"
         ]
     },
     {
-        "name": "Scientist-C Recruitment",
-        "date_of_notification": "2025-03-24",
+        "name": "Principal, Nursing College, BMHRC, Bhopal",
+        "date_of_notification": "2025-03-25",
         "date_of_commencement": "",
         "end_date": "",
-        "apply_link": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1742809091_finaladvrcn-sc-c02m-sc-c02nm.pdf",
+        "apply_link": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1741158726_finaladvt_principalnursingcollege_bmhrc_01-04-2025.pdf",
         "event_type": "Exam",
         "document_links": [
+            "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1741158726_finaladvt_principalnursingcollege_bmhrc_01-04-2025.pdf",
             "https://www.icmr.gov.in/employment-opportunities"
+        ]
+    },
+    {
+        "name": "Consultant Civil Engineer",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.icmr.gov.in/employment-opportunities",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://niih.org.in",
+            "https://icmr.gov.in/icmrobject/uploads/Recruitment/1742379402_consultantciviladlatest.pdf"
         ],
         "details": {
-            "description": "Scientist-C Recruitment",
-            "advice": "",
-            "important": ""
+            "Eligibility Criteria": "",
+            "Selection Process": "",
+            "Experience Requirements": "",
+            "Qualification Requirements": ""
+        }
+    },
+    {
+        "name": "National Institute of Malaria Research Recruitment",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.icmr.gov.in/employment-opportunities",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "Recruitment/1742878904_applicationform1.pdf"
+        ]
+    },
+    {
+        "name": "Indian Council of Medical Research (ICMR) Recruitment",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1741605338_advt_proj_sci_1_hindi_10032025.pdf, https://www.icmr.gov.in/employment-opportunities",
+        "event_type": "Exam",
+        "document_links": [
+            "Recruitment Advt Proj Sci Hindi 10032025",
+            "Employment Opportunities"
+        ],
+        "details": {
+            "Notification Date": "March 2025",
+            "Commencement Date": "",
+            "End Date": "",
+            "Application Link": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1741605338_advt_proj_sci_1_hindi_10032025.pdf, https://www.icmr.gov.in/employment-opportunities",
+            "Event Type Description": "Exam for scientific positions at ICMR"
         }
     }
 ]

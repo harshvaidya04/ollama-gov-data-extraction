@@ -1,0 +1,75 @@
+[
+    {
+        "name": "APTET July 2024 Schedule",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2024-07-03",
+        "end_date": "2024-10-20",
+        "apply_link": "https://aptet.apcfss.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://aptet.apcfss.in/Documents/AP_TET_Schedule_2024_new.pdf"
+        ],
+        "details": {
+            "published_by": "Government of Andhra Pradesh",
+            "published_date": "2025-03-25",
+            "subject": "School Education (Services.I) Department",
+            "gop_number": "284",
+            "gop_date": "2024-07-08"
+        }
+    },
+    {
+        "name": "A.P.TET Exam",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://aptet.apcfss.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://aptet.apcfss.in/Documents/GO_MS_NO_ 25_DT_04_05_2018_NEW.pdf"
+        ],
+        "details": {
+            "Description": "Andhra Pradesh Teachers Recruitment Test (A.P.TET) Exam Schedule, Syllabus, Eligibility Criteria and Admit Card for Primary Teacher Recruitment in Andhra Pradesh School Education Department.",
+            "Purpose": "The APTET exam is conducted to recruit eligible candidates as teachers in the primary schools of Andhra Pradesh. The test aims to assess the teacher's competency and teaching skills.",
+            "Eligibility": "B.Ed or Master's degree in the concerned subject with at least 50% marks."
+        }
+    },
+    {
+        "name": "National Council for Teacher Education Amendment Notification",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2011-07-29",
+        "end_date": "",
+        "apply_link": "https://aptet.apcfss.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://aptet.apcfss.in/Documents/Gazette_Notification_NCTE_2019.pdf"
+        ]
+    },
+    {
+        "name": "NCTE (Determination of Minimum Qualifications for Recruitment of Teachers in Schools) Regulations, 2001",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2010-01-04",
+        "end_date": "2025-03-25",
+        "apply_link": "https://aptet.apcfss.in/Documents/Gazette_Notification_NCTE_2010.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://aptet.apcfss.in/",
+            "https://aptet.apcfss.in/Documents/Gazette_Notification_NCTE_2010.pdf"
+        ]
+    },
+    {
+        "name": "Andhra Pradesh Teachers' Recruitment and Promotion Test",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://aptet.apcfss.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "APTET_FAQs.pdf"
+        ],
+        "details": {
+            "Duration": "Two hours with 50 questions",
+            "Format": "Offline",
+            "Eligibility": "B.A., B.Com., B.Sc., B.A. Ed, DDE, B.Ed., and other equivalent courses."
+        }
+    }
+]

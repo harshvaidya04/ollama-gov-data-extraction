@@ -1,93 +1,87 @@
 [
     {
-        "name": "Causelist",
-        "date_of_notification": "2025-03-25",
+        "name": "Non-Availability Notice",
+        "date_of_notification": "2025-03-26",
         "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://mphc.gov.in/PDF/web_pdf/LU/NON AVAILABILITY NOTICE DB DT.01.04.2023.pdf https://mphc.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mphc.gov.in/PDF/web_pdf/LU/NON AVAILABILITY NOTICE DB DT.01.04.2023.pdf",
+            "https://mphc.gov.in/"
+        ],
+        "details": {
+            "division_bench": "Division Bench-II comprising of Hon'ble Shri Justice Sheel Nagu & Hon'ble Shri Justice Virender Singh",
+            "principal_seat": "Principal seat Jabalpur",
+            "single_bench_vii": "10:15 AM on 01-04-2023 for hearing matters as per Roster/Assignment"
+        }
+    },
+    {
+        "name": "High Court of Madhya Pradesh",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2020-07-29",
+        "end_date": "2020-07-30",
+        "apply_link": "https://mphc.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mphc.gov.in/PDF/web_pdf/LU/Gwl closed.pdf"
+        ],
+        "details": {
+            "Reason for Closure": "Due to administrative exigencies, functioning including e-filing of High Court at Bench at Gwalior as well as its Registry shall remain closed.",
+            "Official Notice": "This is for information to all concerned.",
+            "Signatory": "BY ORDER OF HON'BLE THE CHIEF JUSTICE (RAJENDRA KUMAR VANI) REGISTRAR GENERAL"
+        }
+    },
+    {
+        "name": "Modification of the present Roster / Notification",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2023-08-23",
         "end_date": "",
         "apply_link": "https://mphc.gov.in/",
         "event_type": "Exam",
         "document_links": [
-            "https://mphc.gov.in/PDF/web_pdf/LU/causelist"
-        ]
-    },
-    {
-        "name": "Hindu Marriage Act applicability to Jaina Community",
-        "date_of_notification": "2025-03-24",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://mphc.gov.in/upload/indore/MPHCIND/2025/FA/263/FA_263_2025_FinalOrder_24-03-2025.pdf",
-        "event_type": "Result",
-        "document_links": [
-            "Final Order dated 08.02.2025"
+            "https://mphc.gov.in/PDF/web_pdf/LU/order reg bail nomination.pdf"
         ],
         "details": {
-            "Case summary": "The petitioners, members of the Jaina community, challenged the applicability of the Hindu Marriage Act, 1955 to their community.",
-            "Judgment": "The Hon'ble High Court of Madhya Pradesh held that the provisions of the Hindu Marriage Act, 1955 are applicable to the members of the Jaina community."
+            "Matters mentioned in the Roster / Notification": "Repeat / Bail Applications u/s 438, 439, Miscellaneous Criminal Cases filed u/s 482, Applications u/s 389, Criminal Revision filed u/s 397(1) and/or 401 of the Cr.P.C.",
+            "Application Procedure": "All matters tied-up with Hon’ble Judges will not be placed before Hon’ble the Chief Justice for nomination of the Bench."
         }
     },
     {
-        "name": "Notification No. 2025:MPHC-IND:7689",
-        "date_of_notification": "2025-03-21",
-        "date_of_commencement": "2024-12-08",
-        "end_date": "2025-03-25",
-        "apply_link": "https://mphc.gov.in/upload/indore/MPHCIND/2024/MCRC/28176/MCRC_28176_2024_FinalOrder_21-03-2025.pdf",
+        "name": "Programme of Special Benches for 18 June 2020",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2025-03-26",
+        "end_date": "2025-03-26",
+        "apply_link": "https://mphc.gov.in/PDF/web_pdf/LU/Special Bench Programme for 18-06-2020.pdf",
         "event_type": "Exam",
         "document_links": [
-            "https://mphc.gov.in/",
-            "https://mphc.gov.in/upload/indore/MPHCIND/2024/MCRC/28176/MCRC_28176_2024_FinalOrder_21-03-2025.pdf"
+            "https://mphc.gov.in/PDF/web_pdf/LU/Special Bench Programme for 18-06-2020.pdf",
+            "https://mphc.gov.in/"
         ],
         "details": {
-            "judge": "SANJEEV S KALGAONKAR",
-            "cc": "BHUNESH | WAR DATT",
-            "case_per rules": "C.C as per rules."
-        }
-    },
-    {
-        "name": "MPHC-IND:7689",
-        "date_of_notification": "2025-03-21",
-        "date_of_commencement": null,
-        "end_date": null,
-        "apply_link": "https://mphc.gov.in/",
-        "event_type": "Exam",
-        "document_links": [
-            "https://mphc.gov.in/upload/indore/MPHCIND/2024/MCRC/28176/MCRC_28176_2024_FinalOrder_21-03-2025.pdf"
-        ],
-        "details": {
-            "court_name": "High Court of Madhya Pradesh",
-            "petitioner_advocate": "SANJEEV S KALGAONKAR",
-            "case_number": "MRCR-28176/2024",
-            "decision_date": "2025-03-21"
-        }
-    },
-    {
-        "name": "Madhya Pradesh High Court Causelist",
-        "date_of_notification": "2025-03-25",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://mphc.gov.in/",
-        "event_type": "Exam",
-        "document_links": [
-            "https://mphc.gov.in/PDF/web_pdf/LU/causelist dated 16.12.2020"
-        ]
-    },
-    {
-        "name": "Jabalpur Division Bench - Larger (After DB) Daily Cause List",
-        "date_of_notification": "2025-03-25",
-        "date_of_commencement": "",
-        "end_date": "",
-        "apply_link": "https://mphc.gov.in/PDF/web_pdf/LU/Causelist dt. 11-12-2020",
-        "event_type": "Exam",
-        "document_links": [
-            "https://mphc.gov.in/PDF/web_pdf/LU/Causelist dt. 11-12-2020"
-        ],
-        "details": {
-            "court_name": "HIGH COURT OF MADHYA PRADESH : JABALPUR",
-            "hearings": [
-                {
-                    "case_number": "05189/2020",
-                    "petitioner_respondent": "PRAHLAD CHOUDHARY, THE STATE OF MADHYA ADVOCATE GENERAL"
-                }
+            "description": "Programme of Special Benches for 18 June 2020 held through video conferencing.",
+            "bench_list": [
+                "SPL DB-Il Hon'ble Shi Sustice Revendta Kumar Shrivastava",
+                "After No.1 SPL DB-IIl Hon'ble Shi Sustice Rajendra Kumar Shrivastava",
+                "SPL SB-I — |Hon’ble Shri Justice Sujoy Paul",
+                "SPL SB-II_—|Hon’ble Shri Justice Atul Sreedharan",
+                "SPL SB-VII_ |Hon’ble Shri Justice Rajendra Kumar Shrivastava"
             ]
+        }
+    },
+    {
+        "name": "Special Bench Programme for 14-12-2021",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2025-03-26",
+        "end_date": "",
+        "apply_link": "https://mphc.gov.in/PDF/web_pdf/LU/Special Bench Programme for 14-12-2021.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mphc.gov.in/PDF/web_pdf/LU/Special Bench Programme for 14-12-2021.pdf",
+            "https://mphc.gov.in/"
+        ],
+        "details": {
+            "Bench": "Special Bench"
         }
     }
 ]

@@ -1,0 +1,64 @@
+[
+    {
+        "name": "MHAHousing Exam Notification",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://mphousing.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "Advocate Fees 11-2022.pdf"
+        ]
+    },
+    {
+        "name": "Final Check List for Quality Control",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://mphousing.in/apply_link",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mphousing.in/pdf/FINALCHECKLISTQC.pdf"
+        ]
+    },
+    {
+        "name": "Architect Empanelment",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "2025-04-30",
+        "apply_link": "https://mphousing.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mphousing.in/pdf/Architect-Empanelment2023.pdf"
+        ]
+    },
+    {
+        "name": "Suryamya Prisar",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": "",
+        "apply_link": "https://mphousing.in/Upload/SuryamyaPrisar.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mphousing.in/"
+        ]
+    },
+    {
+        "name": "Project Appraisal Committee",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://mphousing.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mphousing.in/pdf/PAF",
+            "https://mphousing.in/pdf/2024-25-Paf.pdf"
+        ],
+        "details": {
+            "circle": "Circle-",
+            "deputy_housing_commissioner": "Deputy Housing Commissioner",
+            "project_appraisal_committee_member": "Name & Designation of Project Appraisal Committee Member",
+            "comments": "Comments (if any) of Project Appraisal Committee Member on the Project proposal"
+        }
+    }
+]

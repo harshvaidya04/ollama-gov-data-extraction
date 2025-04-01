@@ -1,0 +1,25 @@
+[
+    {
+        "name": "MPPolice Exam",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.mppolice.gov.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mppolice.gov.in/sites/default/files/Beaware-modus-operendi-Financial-Fraudsters.pdf"
+        ]
+    },
+    {
+        "name": "Cyber Security Awareness Training",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.mppolice.gov.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.cert-in.org.in/",
+            "https://www.meity.gov.in/"
+        ]
+    }
+]

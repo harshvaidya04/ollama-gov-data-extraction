@@ -1,0 +1,77 @@
+[
+    {
+        "name": "MAHATET - 2024",
+        "date_of_notification": "16/12/2024",
+        "date_of_commencement": null,
+        "end_date": "11/02/2025",
+        "apply_link": "https://mahatet.in/Images/Mahatet24_Antim_AnswerKey.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mahatet.in/Images/Mahatet24_Antim_AnswerKey.pdf",
+            "https://mahatet.in/"
+        ],
+        "details": {
+            "exam_details": {
+                "exam_name": "MAHATET - 2024",
+                "exam_type": "Antim",
+                "exam_start_date": null,
+                "exam_end_date": null
+            },
+            "result_status": null
+        }
+    },
+    {
+        "name": "Mahatet Exam",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "2025-04-30",
+        "apply_link": "https://mahatet.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mahatet.in/Images/Instructions.pdf"
+        ],
+        "details": {
+            "exam-type": "Written Test",
+            "exam-date": "2025-04-15",
+            " exam-duration": "2 hours",
+            "exam-instruction": "Read the instructions carefully before starting the test."
+        }
+    },
+    {
+        "name": "MAHATET Exam",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "2025-06-30",
+        "apply_link": "https://mahatet.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://mahatet.in/Images/MAHATET24_FAQ.pdf"
+        ]
+    },
+    {
+        "name": "MAHA-TET 2024 Exam",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://mahatet.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "How_to_apply_Application_form.pdf"
+        ]
+    },
+    {
+        "name": "Maharashtra State Council of Examination",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://mahatet.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "Payment_Terms_Condition.pdf"
+        ],
+        "details": {
+            "description": "Maharashtra State Council of Examination provides exam-related services.",
+            "application_status": "Active"
+        }
+    }
+]

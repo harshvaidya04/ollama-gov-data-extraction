@@ -1,0 +1,42 @@
+[
+    {
+        "name": "UP Agriculture Graduate Programme",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://upagripardarshi.gov.in/DynamicPages/Circular-hi.aspx#",
+        "event_type": "Exam",
+        "document_links": [
+            "https://upagripardarshi.gov.in/MediaGallery/PPTACPMeeting_compressed.pdf"
+        ],
+        "details": {
+            "Programme Name": null,
+            "Eligibility Criteria": null,
+            "Application Process": null,
+            "Selection Process": null,
+            "Duration of the Programme": null
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": {}
+    },
+    {
+        "name": "Uttar Pradesh Grih Pardarshi Department",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://upagripardarshi.gov.in/DynamicPages/Circular-hi.aspx#AdmitCardApplication",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://upagripardarshi.gov.in/MediaGallery/Lt_no_pension_80G.pdf",
+            "https://upagripardarshi.gov.in/DynamicPages/Circular-hi.aspx"
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Figure In Crores",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://transport.mp.gov.in/",
+        "event_type": null,
+        "document_links": [
+            "https://transport.mp.gov.in/sites/default/files/Revenue Target 2017-18.pdf"
+        ],
+        "details": {
+            "description": "A figure in crores related to transportation in Madhya Pradesh."
+        }
+    },
+    {
+        "name": "",
+        "date_of_notification": "",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "",
+        "event_type": "",
+        "document_links": [],
+        "details": {}
+    },
+    {
+        "name": "Motor Vehicle License Fees",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://transport.mp.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "Fees_2016.pdf"
+        ]
+    },
+    {
+        "name": "Transport Department",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2025-04-01",
+        "end_date": null,
+        "apply_link": "https://transport.mp.gov.in/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "Circular-List Of Registered Manufacturers for VLT Devices.pdf"
+        ]
+    },
+    {
+        "name": "Transport MP Department",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://transport.mp.gov.in/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "VLTD Circular-21-10-22_1.pdf"
+        ]
+    }
+]

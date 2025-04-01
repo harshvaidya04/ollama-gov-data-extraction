@@ -1,0 +1,28 @@
+[
+    {
+        "name": "HPBOSE Board of School Education Himachal Pradesh",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "http://hpbose.org/CurrentRecruitments.aspx",
+        "event_type": "Exam",
+        "document_links": [
+            "http://hpbose.org/Admin/Upload/HPBoSE.Affiliation.List.pdf"
+        ]
+    },
+    {
+        "name": "Himachal Pradesh Board of School Education, Dharamshala (Kangra)",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2024-10-01",
+        "end_date": "2024-12-31",
+        "apply_link": "http://hpbose.org/Admin/Upload/Noti.SOS.T.C.30.09.2024.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "http://hpbose.org/Admin/Upload/Noti.SOS.T.C.30.09.2024.pdf",
+            "http://hpbose.org/CurrentRecruitments.aspx"
+        ],
+        "details": {
+            "Description": "Terms & Conditions for Center Creation (Private Schools)"
+        }
+    }
+]

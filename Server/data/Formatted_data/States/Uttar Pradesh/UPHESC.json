@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Selection of Teachers",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://uphesc.org/en",
+        "event_type": "Exam",
+        "document_links": [
+            "sarkari-gajat.pdf"
+        ],
+        "details": {
+            "Description": "The selection of teachers for various posts in the state government."
+        }
+    },
+    {
+        "name": "UPHESC",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "2025-03-25",
+        "end_date": "2025-04-30",
+        "apply_link": "https://uphesc.org/site/writereaddata/UploadedPressRelease/pdf/C_202410251153160246.pdf",
+        "event_type": "Result",
+        "document_links": [
+            "Results of Graduation and Promotion of Students in various courses (2024-2025)",
+            "Download the admit card for UPHESC BBA Program"
+        ]
+    },
+    {
+        "name": "UPHESC Exam",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "2025-04-01",
+        "end_date": "2025-05-31",
+        "apply_link": "https://uphesc.org/site/writereaddata/UploadNews/pdf/C_202411091534265717.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "Exam Instructions",
+            "Hall Ticket",
+            "Admit Card"
+        ],
+        "details": {
+            "description": "UPHESC Exam for undergraduate students",
+            "exam_date": "2025-05-31",
+            "venue": "Various examination centers in the state"
+        }
+    },
+    {
+        "name": "UPHESC",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://uphesc.org/en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://uphesc.org/site/writereaddata/UploadedPressRelease/pdf/C_201608071131364560.pdf"
+        ],
+        "details": {
+            "Tach HAT & Has 18-0, As AM, sorerara W selfs ee": {
+                "©) Tach HAT & Has 18-0, As AM, sorerara W selfs ee": null,
+                "¢ Mméferees aeafsat gant Hart & até www.uphesconline.in & Home Page WW fer ame \"View Interview Schedules\" acet WX feo AX Hate A BAT Wed AT a Aad": null,
+                "¢ Maca VA sees ata H fae sea fava & encferees HeUAa cant sare & ater www.uphesconline.in # Home Page UW fav ae \"Download Interview Letter\" acat 4X fro Fl HTT HeHATH FT Tea TAA aif HL AMaMcHN TA sisetos Tha A Aha": null,
+                "¢ Wace VA seals HA TAT Heel aie fret wean Ft Hfoars HT fant wed F at fret sft ard feae A areter & seu-asat AFaL (0532-2420357), (8874209670) 31ear (8874209661)": null
+            }
+        }
+    },
+    {
+        "name": "UPHESC",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://uphesc.org/site/writereaddata/UploadNews/pdf/C_202411091536488173.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://uphesc.org/en"
+        ],
+        "details": {
+            "title": "Exam Notification",
+            "description": "Notification for the upcoming exam at UPHESC",
+            "notification_date": "2025-03-27"
+        }
+    }
+]

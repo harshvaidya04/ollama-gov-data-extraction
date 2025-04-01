@@ -1,0 +1,71 @@
+[
+    {
+        "name": "PGVCL CSR Projects",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.pgvcl.com/jobs/index.php",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "Appr.pdf"
+        ],
+        "details": {
+            "description": "A list of CSR projects approved by the CSR Committee/Board of PGVCL.",
+            "status": "Active and Upcoming",
+            "type": "Exam Result Admit Card"
+        }
+    },
+    {
+        "name": "PVGCL VSEA Recruitment",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.pgvcl.com/jobs/index.php",
+        "event_type": "Result",
+        "document_links": [
+            "https://www.pgvcl.com/jobs/EA2024/2nd Provisional List for Receruitment of VSEA Provisional List.pdf"
+        ]
+    },
+    {
+        "name": "20th AGM Notice",
+        "date_of_notification": "2023-12-26",
+        "date_of_commencement": "2024-03-01",
+        "end_date": "",
+        "apply_link": "https://www.pgvcl.com/jobs/index.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.pgvcl.com/about_us/AGM NOTICE.pdf"
+        ]
+    },
+    {
+        "name": "PGVCL Directors Terms",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.pgvcl.com/jobs/index.php",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.pgvcl.com/about_us/Termsofdirectors.pdf"
+        ]
+    },
+    {
+        "name": "Electricity(Rights of Consumers) Rules 2020",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.pgvcl.com/consumer/Elec Rights/Electricity(Rights of Consumers) Rules_2020.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.pgvcl.com/jobs/index.php"
+        ],
+        "details": {
+            "rules": "The Electricity (Rights of Consumers) Rules, 2020",
+            "summary": "This rule aims to provide better protection and rights for consumers in the electricity sector.",
+            "key_provisions": [
+                "Guaranteed standards of performance",
+                "Compensation provisions",
+                "Grievance redressal mechanism"
+            ]
+        }
+    }
+]

@@ -10,7 +10,7 @@ const PORT1 = 5000;
 const initializeServer = async(port)=>{
     try{
         const App = await app();
-        trial();
+        // trial();
         if(App){
             App.get('/',(req,res)=>{
                 res.send("Server is running perfectly !!");

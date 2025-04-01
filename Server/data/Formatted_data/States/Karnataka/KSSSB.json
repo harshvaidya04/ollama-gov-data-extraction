@@ -1,0 +1,83 @@
+[
+    {
+        "name": "SSC(KKR), Bangalore",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://www.ssckkr.kar.nic.in/",
+        "event_type": "AdmitCard",
+        "document_links": [
+            "https://www.ssckkr.kar.nic.in/Initial List 12123.pdf"
+        ]
+    },
+    {
+        "name": "Staff Selection Commission (KKR) Bengaluru",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2023-11-05",
+        "end_date": "",
+        "apply_link": "https://www.ssckkr.kar.nic.in/instructor.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ssckkr.kar.nic.in/instructor.pdf",
+            "https://www.ssckkr.kar.nic.in/"
+        ],
+        "details": {
+            "reasons_for_rejection": [
+                "Hardcopy of application with requisite documents not received",
+                "Ineligible. Not furnished required experience in sea fishing and gear fabrication as required for the post.",
+                "Does not possess the essential qualification and experience"
+            ],
+            "number_of_ineligible_candidates": 10,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "name": "Annual Departmental Stenography Skill Test-2020",
+        "date_of_notification": "28.12.2021",
+        "date_of_commencement": "2020-01-01",
+        "end_date": "2020-12-31",
+        "apply_link": "https://www.ssckkr.kar.nic.in/Result_Web.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ssckkr.kar.nic.in/",
+            "https://www.ssckkr.kar.nic.in/Result_Web.pdf"
+        ],
+        "details": {
+            "centers": [
+                "Raipur, Chennai and Bengaluru",
+                "Chandigarh, Delhi, Prayagraj, Kolkata, Guwahati, Raipur, Mumbai"
+            ],
+            "qualified_candidates": 53,
+            "candidates_deemed_to_have_made_genuine_attempt": 26,
+            "total_applicants": 198
+        }
+    },
+    {
+        "name": "Staff Selection Commission (Karnataka Kerala Region) - Important Notice",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "2024-11-15",
+        "apply_link": "https://www.ssckkr.kar.nic.in/important notice AC.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ssckkr.kar.nic.in/",
+            "https://www.ssckkr.kar.nic.in/important notice AC.pdf"
+        ],
+        "details": {
+            "Cancellation of Candidature": "Due to a few candidates' application photos matching with those of other candidates, the candidature of those candidates have been cancelled.",
+            "Examination Rescheduling": "The examination dates of a few candidates have been rescheduled due to administrative reasons."
+        }
+    },
+    {
+        "name": "SSC (KKR) Notification",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.ssckkr.kar.nic.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "KK11624.pdf",
+            "Initial eligible and Ineligible list KK11624.pdf"
+        ]
+    }
+]

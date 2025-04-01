@@ -1,0 +1,125 @@
+[
+    {
+        "name": "MP MLA Cases",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://hcraj.nic.in/hcraj/Allfiles/MPMLA_Cases_31122024.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "MPMLA_Cases_31122024.pdf"
+        ],
+        "details": {
+            "cases": [
+                {
+                    "case_number": "1",
+                    "court_name": "CJ&JM Sarada",
+                    "date_of_commencement": "2020-02-07",
+                    "end_date": "2025-02-15",
+                    "state_versus": "Amrit Lal Meena",
+                    "status": "",
+                    "details": "Evidence : frat ota aRgad atygarat AT fase Shanti devi lack of court time arma sia at wl aa carat oer ted & fa W fate"
+                },
+                {
+                    "case_number": "2",
+                    "court_name": "ACJM Malpura",
+                    "date_of_commencement": "2023-04-18",
+                    "end_date": "",
+                    "state_versus": "Sukhbeer Sukhveer Singh",
+                    "status": "",
+                    "details": "Evidence witnesses."
+                },
+                {
+                    "case_number": "3",
+                    "court_name": "ACJM Malpura",
+                    "date_of_commencement": "2023-04-18",
+                    "end_date": "",
+                    "state_versus": "Sukhbeer Kanhaiya Lal",
+                    "status": "",
+                    "details": "Evidence witnesses."
+                },
+                {
+                    "case_number": "4",
+                    "court_name": "ACJM Malpura",
+                    "date_of_commencement": "2023-04-18",
+                    "end_date": "",
+                    "state_versus": "Rajendra Gurjar Ex MLA Deoli Uniara witnesses.",
+                    "status": "",
+                    "details": ""
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rajasthan High Court",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://hcraj.nic.in/hcraj/apply-online",
+        "event_type": "Exam",
+        "document_links": [
+            "https://hcraj.nic.in/hcraj/img/HC_Cal_2025.pdf"
+        ],
+        "details": {
+            "upcoming_exams": [
+                "Ganesh Chaturthi",
+                "Samvatsari",
+                "Karwa Chouth"
+            ],
+            "current_holidays": [
+                "Bhagwan Parshvanath Jayanti",
+                "Guru Ravidas Jayanti"
+            ]
+        }
+    },
+    {
+        "name": "List of RPCs at Remote Points in Rajasthan",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://hcraj.nic.in/hcraj/hcraj_admin/uploadfile/ticker/List_of_RPCs_at Remote_points_in_Rajasthan173643877499.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "List of RPCs at Remote Points in Rajasthan",
+            "https://hcraj.nic.in/hcraj/hcraj_admin/uploadfile/ticker/List_of_RPCs_at Remote_points_in_Rajasthan173643877499.pdf"
+        ]
+    },
+    {
+        "name": "Rajasthan High Court",
+        "date_of_notification": null,
+        "date_of_commencement": null,
+        "end_date": null,
+        "apply_link": "https://hcraj.nic.in/hcraj/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://hcraj.nic.in/hcraj/img/DC_Cal_2023.pdf"
+        ],
+        "details": {
+            "description": null,
+            "calendar_type": null
+        }
+    },
+    {
+        "name": "VPNoBB Linux Configuration Guide",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://hcraj.nic.in/hcraj/Allfiles/vpnobb.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://hcraj.nic.in/hcraj/"
+        ],
+        "details": {
+            "description": "A step-by-step guide to configure VPNoBB in Linux.",
+            "steps": [
+                "Open web browser and type 192.168.1.1",
+                "Enter login details and click on reboot modem",
+                "Configure IP address and subnet mask",
+                "Restart network services and restart PC",
+                "Connect patch chord from VPN modem to switch"
+            ],
+            "images": [],
+            "videos": []
+        }
+    }
+]

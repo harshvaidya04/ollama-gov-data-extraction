@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Disability Certificate",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.ippbonline.com/web/ippb/current-openings",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ippbonline.com/documents/20133/133019/1736427021443.pdf"
+        ]
+    },
+    {
+        "name": "URe IndiaPost Recruitment Notification",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://www.ippbonline.com/web/ippb/current-openings",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ippbonline.com/documents/20133/133019/1733919867954.pdf"
+        ],
+        "details": {
+            "reference": "Reference to the list of provisionally selected Gramin Dak Sevak from Department of Post as Executives on engagement basis released on 12.11.2024",
+            "regarding": "provisionally selected Gramin Dak Sevak for onboarding in phase- II"
+        }
+    },
+    {
+        "name": " IPPB/CO/HR/RECT./2024-25 Extension of last date of online submission of applications with fee",
+        "date_of_notification": "08 August 2024",
+        "date_of_commencement": "",
+        "end_date": "17.08.2024",
+        "apply_link": "https://www.ippbonline.com/documents/20133/133019/1723119130694.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ippbonline.com/web/ippb/current-openings"
+        ],
+        "details": {
+            "issue_date": "20.07.2024",
+            "author": "Preeti Kumari, Assistant General Manager HR Department",
+            "organization": "India Post Payments Bank Limited, CIN : U74999DL2016G0130451",
+            "contact_info": "Post Office, Speed Post Center Building, Tel. : +011-23362 147"
+        }
+    },
+    {
+        "name": "Document Verification - II List",
+        "date_of_notification": "2024-07-01",
+        "date_of_commencement": null,
+        "end_date": "2024-07-11",
+        "apply_link": "https://www.ippbonline.com/web/ippb/current-openings",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ippbonline.com/documents/20133/133019/1719984536963.pdf"
+        ],
+        "details": {
+            "reference": "Reference to the subject noted matter, it is informed that as per Clause 4 of the recruitment notification, next list of 141 candidates has been drawn location wise based on the percentage of graduation mentioned in the online application with preference to candidates having MBA- Sales/ Marketing and a total of 141 candidates are invited for document verification which is scheduled on 09.07.2024, 10.07.2024 and 11.07.2024 at IPPB Corporate Office, New Delhi for further process.",
+            "candidates_invited": [
+                {
+                    "name": "Preeti Kumari",
+                    "email": "contact@ippbonline.in"
+                },
+                "468062448"
+            ],
+            "documents_required": "Candidates are required to produce original certificates of educational qualifications, age proof and other supporting documents."
+        }
+    },
+    {
+        "name": "IPPB Exam",
+        "date_of_notification": "2025-03-25",
+        "date_of_commencement": "2023-10-31",
+        "end_date": "2024-09-30",
+        "apply_link": "https://www.ippbonline.com/documents/20133/133019/1726556645921.pdf",
+        "event_type": "Exam",
+        "document_links": [
+            "https://www.ippbonline.com/web/ippb/current-openings"
+        ],
+        "details": {
+            "Social Distancing Instructions": "Candidate is required to report at the exam venue strictly as per the time slot mentioned in the Call Letter. Latecomers will not be allowed to take the test.",
+            "Exam Venue Rules": "No other Items are permitted inside the venue. Candidate should not share any of their personal belonging/material with anyone."
+        }
+    }
+]

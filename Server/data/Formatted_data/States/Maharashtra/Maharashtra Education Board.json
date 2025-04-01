@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Maharashtra State Board of Secondary and Higher Secondary Education",
+        "date_of_notification": "2025-03-26",
+        "date_of_commencement": "2025-02-21",
+        "end_date": "2025-03-31",
+        "apply_link": "https://mahahsscboard.in/en",
+        "event_type": "Exam",
+        "document_links": [
+            "https://state-board-strapi-upload.blr1.digitaloceanspaces.com/timetable_ssc_mar_2025_fc73052b80_ab303f1bc2.pdf"
+        ],
+        "details": {
+            "Language": [
+                "Marathi",
+                "Kannada",
+                "Tamil",
+                "Telugu",
+                "Malayalam"
+            ]
+        }
+    }
+]

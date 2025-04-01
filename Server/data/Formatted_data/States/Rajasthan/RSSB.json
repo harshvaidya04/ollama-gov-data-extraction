@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Exam Name",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://rssb.rajasthan.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://rssb.rajasthan.gov.in/storage/news_item/1742884460.pdf"
+        ],
+        "details": {
+            "Exam Code": "",
+            "Exam Date": "",
+            "Objection Type": [],
+            "Sr Candidat Rol | Applic | Quest Ans": "",
+            "No | ation ion Specify In Remarks": ""
+        }
+    },
+    {
+        "name": "Rajasthan Subordinate Service Selection Board",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://rssb.rajasthan.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://rssb.rajasthan.gov.in/storage/news_item/1742291139.pdf"
+        ],
+        "details": {
+            "Exam Details": {
+                "Name of Exam": "Subordinate Services Examination",
+                "Type of Examination": "Written Test",
+                "Duration of Examination": "60 minutes",
+                "Number of Questions": "100",
+                "Marks for each question": "1 mark"
+            },
+            "Application Instructions": {
+                "Eligibility Criteria": "Citizenship, Age, Education and Residence requirements as specified by the Rajasthan Subordinate Service Selection Board",
+                "How to Apply": "Online Application Form available on the official website of the Rajasthan Subordinate Service Selection Board",
+                "Required Documents": "Valid Identity Proof, Educational Certificates and Residency Certificate"
+            }
+        }
+    },
+    {
+        "name": "Rajasthan Subordinate Service Selection Board",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": "",
+        "end_date": "",
+        "apply_link": "https://rssb.rajasthan.gov.in/",
+        "event_type": "Exam",
+        "document_links": [
+            "https://rssb.rajasthan.gov.in/storage/news_item/1742469685.pdf"
+        ],
+        "details": {
+            "Designation": "2025.",
+            "RajKaj Ref No.:": "14248476",
+            "WRU GSR": "Yo US Taeg PW, WoT",
+            "os YORI, TIGR": "WM a I ST Ct"
+        }
+    },
+    {
+        "name": "Rajasthan Police Constable Recruitment Examination (CPO)",
+        "date_of_notification": "2025-03-27",
+        "date_of_commencement": {
+            "General/OBC category candidates": "2023-07-17 (Tuesday)",
+            "SC/ST/OBC categories": "2022-05-16 (Monday)",
+            "Economic Backward Class (EBC) category candidates": "2023-03-09 (Thursday)"
+        },
+        "end_date": {
+            "General/OBC category candidates": "2024-07-14 (Sunday)",
+            "SC/ST/OBC categories": "2024-05-26 (Sunday)",
+            "Economic Backward Class (EBC) category candidates": "2024-04-06 (Saturday)"
+        },
+        "apply_link": "https://rssb.rajasthan.gov.in/",
+        "event_type": [
+            "Exam"
+        ],
+        "document_links": [
+            "https://rssb.rajasthan.gov.in/storage/news_item/1741784073.pdf"
+        ]
+    }
+]
