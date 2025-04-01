@@ -1146,5 +1146,19 @@
     "description": "A recruitment drive conducted by Engineering Projects India Limited (EPIL) for 48 managerial positions across various domains, including engineering, legal, finance, and management. Candidates with qualifications such as B.Tech/B.E, LLB, CA, and MBA/PGDM can apply online. The selection process involves a written test and/or personal interview.",
     "category": "Technical",
     "parent_organization": "Central"
+},
+{
+  "name": "Railway Recruitment Board",
+  "abbreviation": "RRB",
+  "description": "The Railway Recruitment Board (RRB) is responsible for recruiting personnel for various technical and non-technical posts in Indian Railways. This recruitment drive is for 9970 ALP (Assistant Loco Pilot) positions. Candidates with qualifications such as Any Graduate, Diploma, and ITI can apply. The selection process includes written exams, medical tests, and document verification.",
+  "category": "Railways",
+  "parent_organization": "Central"
+},
+{
+  "name": "National Bank for Financing Infrastructure and Development",
+  "abbreviation": "NaBFID",
+  "description": "The National Bank for Financing Infrastructure and Development (NaBFID) is a financial institution established to provide long-term financial assistance for infrastructure projects. The recruitment drive is for 4 officer-level positions. Eligible candidates with a Diploma, Post Graduate qualification, or CA can apply. The selection process involves interviews and document verification.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
 }
 ]
