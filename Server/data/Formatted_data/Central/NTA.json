@@ -4,10 +4,9 @@
         "date_of_notification": "19 March 2025",
         "date_of_commencement": null,
         "end_date": null,
-        "apply_link": [
+        "apply_link": 
             "https://nta.ac.in/NoticeBoardArchive",
-            "https://nta.ac.in/Download/Notice/Notice_20250319134044.pdf"
-        ],
+
         "event_type": "Exam",
         "document_links": [
             "Annexure 1"
