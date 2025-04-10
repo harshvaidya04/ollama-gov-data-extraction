@@ -1167,6 +1167,15 @@
   "description": "The North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences (NEIGRIHMS), based in Shillong, Meghalaya, is a leading healthcare and educational institute in northeastern India. It is renowned for providing advanced medical services, quality education in medicine and nursing, and fostering research. It stands as a symbol of excellence, dedicated to improving healthcare in the region.",
   "category": "Medical",
   "parent_organization": "Central"
+},
+{
+
+  "name": "Institute of Banking Personnel Selection",
+  "abbreviation": "IBPS",
+  "description": "IBPS (Institute of Banking Personnel Selection) is an autonomous body that conducts recruitment exams for various banking positions in public sector banks in India. Established in 1975, IBPS was created with the aim of providing a standardized and efficient selection process for banking jobs. The IBPS exam are highly competitive and serves as a gateway for candidates aspiring to work in the banking sector; to secure positions such as Probationary Officers (PO), Clerks, Specialist Officers (SO), and Officers in Regional Rural Banks (RRBs).",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+
 }
 
 ]
