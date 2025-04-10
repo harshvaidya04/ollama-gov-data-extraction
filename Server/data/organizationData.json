@@ -1176,6 +1176,12 @@
   "category": "Banking Finance",
   "parent_organization": "Central"
 
+},  {
+  "name": "Reserve Bank of India",
+  "abbreviation": "RBI",
+  "description": "The Reserve Bank of India (RBI) is the central bank of India, established in 1935 under the Reserve Bank of India Act, 1934. It serves as the regulatory body for the Indian banking system and is responsible for managing the country's currency and monetary policy. The RBI's primary functions include conducting consolidated supervision of the financial sector, regulating commercial banks, and ensuring financial stability in India. The bank was originally privately owned but was nationalized in 1949 and is headquartered in Mumbai.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
 }
 
 ]
