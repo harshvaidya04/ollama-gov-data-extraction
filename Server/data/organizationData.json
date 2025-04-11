@@ -1182,6 +1182,49 @@
   "description": "The Reserve Bank of India (RBI) is the central bank of India, established in 1935 under the Reserve Bank of India Act, 1934. It serves as the regulatory body for the Indian banking system and is responsible for managing the country's currency and monetary policy. The RBI's primary functions include conducting consolidated supervision of the financial sector, regulating commercial banks, and ensuring financial stability in India. The bank was originally privately owned but was nationalized in 1949 and is headquartered in Mumbai.",
   "category": "Banking Finance",
   "parent_organization": "Central"
+},
+{
+  "name": "Indian Coast Guard",
+  "abbreviation": "ICG",
+  "description": "The Indian Coast Guard (ICG) is a maritime law enforcement and search and rescue agency operating under the Ministry of Defence, Government of India. Established on August 18, 1978, it is responsible for protecting India’s maritime interests and enforcing maritime law in the territorial waters and Exclusive Economic Zone (EEZ). Its primary roles include coastal security, search and rescue operations, anti-smuggling, environmental protection, and maritime surveillance. The ICG operates independently but works in coordination with the Indian Navy, police, and customs authorities. It plays a vital role in ensuring national security and maritime safety.",
+  "category": "Defence",
+  "parent_organization": "Central"
+},
+{
+  "name": "Airports Authority of India",
+  "abbreviation": "AAI",
+ "description": "The Airports Authority of India (AAI) is a statutory body under the Ministry of Civil Aviation, established in 1995 by merging the International Airports Authority of India and the National Airports Authority. It is responsible for creating, upgrading, maintaining, and managing civil aviation infrastructure in India. AAI oversees the operations of domestic and international airports across the country, provides Air Traffic Management (ATM) services, and ensures the safety and efficiency of air navigation. Headquartered in New Delhi, AAI plays a key role in enhancing air connectivity and supporting the growth of the aviation sector in India.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "India Exim Bank",
+  "abbreviation": "Exim Bank",
+ "description": "The Export-Import Bank of India (Exim Bank) is a specialized financial institution established in 1982 under the Export-Import Bank of India Act, 1981. It is wholly owned by the Government of India and operates under the Ministry of Finance. Exim Bank's primary role is to promote and finance Indian exports and facilitate international trade by offering financial products and services to Indian exporters and overseas buyers. The bank also supports Indian companies in their global expansion through loans, guarantees, and advisory services. Headquartered in Mumbai, Exim Bank plays a crucial role in strengthening India's international trade presence.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "National Green Tribunal",
+  "abbreviation": "NGT",
+ "description": "The National Green Tribunal (NGT) is a specialized judicial body established in 2010 under the National Green Tribunal Act, 2010, for effective and expeditious disposal of cases relating to environmental protection and conservation of forests and other natural resources. It is a statutory body under the Central Government and functions under the Ministry of Environment, Forest and Climate Change. NGT deals with civil cases involving environmental laws, provides relief and compensation for damages to persons and property, and aims to reduce the burden of litigation in higher courts. The tribunal is headquartered in New Delhi and has regional benches across the country.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Industrial Development Bank of India",
+  "abbreviation": "IDBI Bank",
+ "description": "IDBI Bank, originally established in 1964 as a development finance institution, was transformed into a full-service commercial bank in 2004. It operates under the jurisdiction of the Ministry of Finance, Government of India. IDBI Bank offers a wide range of financial services including retail and corporate banking, SME lending, and investment services. Although it was initially wholly owned by the Government of India, a majority stake was later acquired by the Life Insurance Corporation of India (LIC). Headquartered in Mumbai, the bank plays a significant role in supporting industrial and economic development in the country.",
+  "category": "Banking Finance",
+  "parent_organization": "central"
+},
+{
+  "name": "Punjab and Sind Bank",
+  "abbreviation": "PSB",
+ "description": "Punjab and Sind Bank is a government-owned public sector bank, founded in 1908 and nationalized in 1980. It operates under the Ministry of Finance, Government of India, and offers a wide range of banking and financial services including retail banking, corporate banking, agricultural banking, and loan services. The bank is known for its strong presence in northern India, especially in Punjab. Headquartered in New Delhi, Punjab and Sind Bank plays a key role in promoting financial inclusion and supporting economic development through its network of branches and digital services.",
+  "category": "Banking Finance",
+  "parent_organization": "central"
 }
+
 
 ]
