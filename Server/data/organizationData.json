@@ -1224,6 +1224,20 @@
  "description": "Punjab and Sind Bank is a government-owned public sector bank, founded in 1908 and nationalized in 1980. It operates under the Ministry of Finance, Government of India, and offers a wide range of banking and financial services including retail banking, corporate banking, agricultural banking, and loan services. The bank is known for its strong presence in northern India, especially in Punjab. Headquartered in New Delhi, Punjab and Sind Bank plays a key role in promoting financial inclusion and supporting economic development through its network of branches and digital services.",
   "category": "Banking Finance",
   "parent_organization": "central"
+},
+{
+  "name": "Hindustan Aeronautics Limited",
+  "abbreviation": "HAL",
+ "description": "Hindustan Aeronautics Limited (HAL) is a premier aerospace and defense public sector undertaking established in 1940 and headquartered in Bengaluru, India. It operates under the administrative control of the Ministry of Defence, Government of India. HAL is primarily engaged in the design, development, manufacture, and maintenance of aircraft, helicopters, engines, avionics, and related systems. It plays a critical role in India's defense preparedness and self-reliance in aerospace technology, collaborating with organizations like ISRO, DRDO, and international defense agencies. HAL also supports civilian aviation needs through its technical expertise.",
+  "category": "Engineering",
+  "parent_organization": "Central"
+},
+{
+  "name": "Balmer Lawrie & Co. Ltd.",
+  "abbreviation": "Balmer Lawrie",
+ "description": "Balmer Lawrie & Co. Ltd. is a Mini-Ratna Category-I Public Sector Enterprise established in 1867 and headquartered in Kolkata, India. It operates under the administrative control of the Ministry of Petroleum and Natural Gas, Government of India. Balmer Lawrie is a diversified conglomerate with core businesses in industrial packaging, greases and lubricants, travel and tourism, logistics, and chemicals. Over the years, it has evolved into a professionally managed, multi-location organization serving various sectors across India. The company plays a significant role in providing industrial solutions and logistics support for both public and private enterprises.",
+  "category": "Public Services",
+  "parent_organization": "Central"
 }
 
 
