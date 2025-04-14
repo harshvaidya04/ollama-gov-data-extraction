@@ -1238,6 +1238,48 @@
  "description": "Balmer Lawrie & Co. Ltd. is a Mini-Ratna Category-I Public Sector Enterprise established in 1867 and headquartered in Kolkata, India. It operates under the administrative control of the Ministry of Petroleum and Natural Gas, Government of India. Balmer Lawrie is a diversified conglomerate with core businesses in industrial packaging, greases and lubricants, travel and tourism, logistics, and chemicals. Over the years, it has evolved into a professionally managed, multi-location organization serving various sectors across India. The company plays a significant role in providing industrial solutions and logistics support for both public and private enterprises.",
   "category": "Public Services",
   "parent_organization": "Central"
+},
+{
+  "name": "National Capital Region Transport Corporation",
+  "abbreviation": "NCRTC",
+ "description": "The National Capital Region Transport Corporation (NCRTC) is a joint venture company of the Government of India and the states of Haryana, Rajasthan, Uttar Pradesh, and Delhi.",
+  "category": "Railways",
+  "parent_organization": "Central"
+},
+{
+  "name": "National High-Speed Rail Corporation Limited",
+  "abbreviation": "NHSRCL",
+ "description": "NHSRCL is a government organization responsible for implementing high-speed rail projects in India, including the Mumbai-Ahmedabad bullet train corridor. It works under the Ministry of Railways and aims to introduce cutting-edge rail technology to the country. The organization handles planning, construction, and execution of all high-speed rail infrastructure and services.",
+  "category": "Railways",
+  "parent_organization": "Central"
+},
+{
+  "name": "Central Pollution Control Board",
+  "abbreviation": "CPCB",
+ "description": "CPCB is a statutory organization under the Ministry of Environment, Forest and Climate Change, Government of India. It is responsible for monitoring and controlling pollution in air and water across the country. CPCB also advises the central government on environmental policies and ensures compliance with environmental laws and standards.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "THDC India Limited (Tehri Hydro Development Corporation India Limited)",
+  "abbreviation": "THDC",
+ "description": "THDC India Limited is a leading power sector and profit-making Public Sector Enterprise, registered as a Public Limited Company in July 1988 under the Companies Act, 1956. It primarily focuses on hydroelectric and renewable energy projects across India. Conferred with Mini Ratna Category-I status in October 2009 and upgraded to a Schedule 'A' PSU in July 2010, THDCIL operates under the Ministry of Power, Government of India.",
+  "category": "Engineering",
+  "parent_organization": "Central"
+},
+{
+  "name": "Hindustan Petroleum Corporation Limited",
+  "abbreviation": "HPCL",
+ "description": "HPCL is a Maharatna Central Public Sector Enterprise under the Ministry of Petroleum and Natural Gas, Government of India. It is primarily engaged in refining, marketing, and distribution of petroleum products across the country. With a strong presence in the oil and gas sector, HPCL plays a vital role in India’s energy infrastructure and fuel security.",
+  "category": "Engineering",
+  "parent_organization": "Central"
+},
+{
+  "name": "IRCON International Limited",
+  "abbreviation": "IRCON",
+ "description": "IRCON International Limited is a Navratna Public Sector Undertaking under the Ministry of Railways, Government of India. Established in 1976, it specializes in engineering and construction services for transport infrastructure projects, including railways, highways, bridges, tunnels, and electrification. With operations in over 31 countries, IRCON has completed more than 1,650 major infrastructure projects in India and over 900 internationally.",
+  "category": "Railways",
+  "parent_organization": "Central"
 }
 
 
