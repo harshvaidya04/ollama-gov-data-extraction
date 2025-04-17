@@ -92,7 +92,7 @@ export const updateOrganizationFunction = async (abbreviation, details) => {
   const logo = await fetchLogo(abbreviation);
   return await Organization.findOneAndUpdate(
     { abbreviation },
-    { $set: { ...details, logo } },
+    { $set: { logo } },
     { new: true }
   );
 };

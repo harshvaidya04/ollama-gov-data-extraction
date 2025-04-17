@@ -1280,6 +1280,62 @@
  "description": "IRCON International Limited is a Navratna Public Sector Undertaking under the Ministry of Railways, Government of India. Established in 1976, it specializes in engineering and construction services for transport infrastructure projects, including railways, highways, bridges, tunnels, and electrification. With operations in over 31 countries, IRCON has completed more than 1,650 major infrastructure projects in India and over 900 internationally.",
   "category": "Railways",
   "parent_organization": "Central"
+},
+{
+  "name": "NTPC Green Energy Limited",
+  "abbreviation": "NGEL",
+ "description": "NTPC Green Energy Limited (NGEL) is a wholly owned subsidiary of NTPC Limited, India’s largest power generation company. Established to spearhead NTPC’s renewable energy initiatives, NGEL is focused on the development, ownership, and operation of green energy projects including solar, wind, and hybrid power across the country. It plays a key role in achieving India’s clean energy targets and reducing carbon emissions by supporting the transition from conventional to renewable sources. NGEL operates under the Ministry of Power, Government of India, and is headquartered in New Delhi.",
+  "category": "Engineering",
+  "parent_organization": "Central"
+},
+{
+  "name": "Narcotics Control Bureau",
+  "abbreviation": "NCB ",
+ "description": "The Narcotics Control Bureau (NCB) is the apex drug law enforcement and intelligence agency of India, established in 1986 under the Narcotic Drugs and Psychotropic Substances Act, 1985. It operates under the Ministry of Home Affairs, Government of India. NCB is responsible for combating drug trafficking and the abuse of illegal substances by coordinating with state governments, central agencies, and international organizations. It also provides training, intelligence sharing, and technical support to various law enforcement bodies. The bureau is headquartered in New Delhi with zonal offices across major cities in India.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Metallurgical & Engineering Consultants Limited",
+  "abbreviation": "MECON",
+ "description": "MECON Limited is a Central Public Sector Enterprise under the Ministry of Steel, Government of India. Established in 1959, it is a leading engineering, consultancy, and contracting organization that provides a wide range of services in the fields of metallurgy, mining, power, oil and gas, infrastructure, and other industrial sectors. Headquartered in Ranchi, Jharkhand, MECON offers end-to-end solutions including project management, design, procurement, construction, and commissioning. The company plays a key role in supporting India’s industrial development and is known for its technical expertise and project execution capabilities. ",
+  "category": "Engineering",
+  "parent_organization": "Central"
+},
+{
+  "name": "IIFCL Projects Limited",
+  "abbreviation": "IIFCL",
+ "description": "IIFCL Projects Limited (IIFCL PL) is a wholly owned subsidiary of India Infrastructure Finance Company Limited (IIFCL), a Government of India enterprise under the Ministry of Finance. Established to provide advisory and project development services, IIFCL PL supports infrastructure projects across sectors such as transportation, energy, water, and urban infrastructure. It specializes in Public-Private Partnership (PPP) frameworks, financial structuring, and project appraisal, playing a crucial role in accelerating infrastructure development in India. The company operates with the objective of improving the quality and viability of infrastructure projects through professional advisory support.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Neyveli Lignite Corporation",
+  "abbreviation": "NLC",
+ "description": "NLC India Limited, formerly known as Neyveli Lignite Corporation Limited, is a Navratna Public Sector Enterprise under the administrative control of the Ministry of Coal, Government of India. Established in 1956, NLC is engaged in lignite mining and power generation, including thermal and renewable energy. Headquartered in Neyveli, Tamil Nadu, the company plays a vital role in meeting India’s energy demands and advancing clean energy initiatives. NLC has diversified into solar and wind energy, aligning with the nation’s commitment to sustainable development and environmental conservation. ",
+  "category": "Engineering",
+  "parent_organization": "Central"
+},  
+{
+  "name": "Agricultural Scientists Recruitment Board",
+  "abbreviation": "ASRB",
+ "description": "The Agricultural Scientists Recruitment Board (ASRB) is an autonomous organization under the Department of Agricultural Research and Education (DARE), Ministry of Agriculture and Farmers Welfare, Government of India. Established in 1973, ASRB is responsible for the recruitment of scientists and research professionals for the Indian Council of Agricultural Research (ICAR) and its affiliated institutes. It conducts national-level competitive examinations and interviews to ensure merit-based selection for various scientific and academic positions. Headquartered in New Delhi, ASRB plays a key role in strengthening agricultural research and education in India.",
+  "category": "Agriculture",
+  "parent_organization": "Central"
+},
+{
+  "name": "Employees' State Insurance Corporation",
+  "abbreviation": "ESIC",
+ "description": "The Employees' State Insurance Corporation (ESIC) is a statutory body under the Ministry of Labour and Employment, Government of India. Established in 1952 under the Employees' State Insurance Act, 1948, ESIC provides social security and health insurance to Indian workers. It offers benefits such as medical care, sickness benefits, maternity benefits, and disability compensation to employees and their dependents. ESIC operates a large network of hospitals and dispensaries across India and plays a vital role in promoting workers’ welfare and labor rights. Its headquarters is located in New Delhi.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Border Security Force",
+  "abbreviation": "BSF",
+ "description": "The Border Security Force (BSF) is one of India's Central Armed Police Forces, established in 1965 under the Ministry of Home Affairs, Government of India. It is responsible for guarding India’s land borders during peacetime and preventing transnational crimes such as smuggling and infiltration. BSF plays a key role in maintaining national security and participates in internal security duties, disaster response, and UN peacekeeping missions. With its motto 'Duty Unto Death', BSF is the world's largest border guarding force and is headquartered in New Delhi.",
+  "category": "Defence",
+  "parent_organization": "Central"
 }
 
 
