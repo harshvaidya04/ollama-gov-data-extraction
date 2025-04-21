@@ -1336,6 +1336,69 @@
  "description": "The Border Security Force (BSF) is one of India's Central Armed Police Forces, established in 1965 under the Ministry of Home Affairs, Government of India. It is responsible for guarding India’s land borders during peacetime and preventing transnational crimes such as smuggling and infiltration. BSF plays a key role in maintaining national security and participates in internal security duties, disaster response, and UN peacekeeping missions. With its motto 'Duty Unto Death', BSF is the world's largest border guarding force and is headquartered in New Delhi.",
   "category": "Defence",
   "parent_organization": "Central"
+},
+{
+  "name": "Central Institute of Petrochemicals Engineering & Technology",
+  "abbreviation": "CIPET",
+  "description": "Central Institute of Petrochemicals Engineering & Technology (CIPET) is an autonomous institute under the Ministry of Chemicals and Fertilizers, Government of India. It focuses on education, training, and research in the field of plastics engineering and technology.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Central"
+},
+{
+  "name": "International Centre for Genetic Engineering and Biotechnology",
+  "abbreviation": "ICGEB",
+  "description": "The International Centre for Genetic Engineering and Biotechnology (ICGEB) is an international organization under the United Nations Industrial Development Organization (UNIDO), focusing on genetic engineering and biotechnology research.",
+  "category": "Academics Research",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Maritime University",
+  "abbreviation": "IMU",
+  "description": "Indian Maritime University (IMU) is a central university under the Ministry of Ports, Shipping and Waterways, Government of India. It offers education and training in maritime studies, research, and related disciplines.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Tamil Nadu"
+},
+{
+  "name": "National Institute of Technology Patna",
+  "abbreviation": "NIT Patna",
+  "description": "National Institute of Technology Patna (NIT Patna) is an autonomous engineering and technology institute in Patna, Bihar, India. It offers undergraduate and postgraduate programs in various engineering disciplines.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Bihar"
+},
+{
+  "name": "Office of the Chief Commissioner of Income Tax, Odisha",
+  "abbreviation": "CCIT Odisha",
+  "description": "The Office of the Chief Commissioner of Income Tax, Odisha is a regional office under the Central Board of Direct Taxes (CBDT), Ministry of Finance, Government of India. It oversees income tax administration and enforcement in Odisha.",
+  "category": "Banking Finance",
+  "parent_organization": "Odisha"
+},
+{
+  "name": "RailTel Corporation of India Limited",
+  "abbreviation": "RCIL",
+  "description": "RailTel Corporation of India Limited (RCIL) is a Mini-Ratna (Category-I) public sector enterprise under the Ministry of Railways. It provides broadband and VPN services, and is one of the largest neutral telecom infrastructure providers in the country.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Rail Vikas Nigam Limited",
+  "abbreviation": "RVNL",
+  "description": "Rail Vikas Nigam Limited (RVNL) is a public sector undertaking under the Ministry of Railways. It is responsible for the implementation of railway infrastructure projects and modernization of railways in India.",
+  "category": "Railways",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Railway Catering and Tourism Corporation",
+  "abbreviation": "IRCTC",
+  "description": "The Indian Railway Catering and Tourism Corporation (IRCTC) is a subsidiary of Indian Railways that handles catering, tourism, and online ticketing operations for the Indian Railways.",
+  "category": "Railways",
+  "parent_organization": "Central"
+},
+{
+  "name": "Dedicated Freight Corridor Corporation of India Limited",
+  "abbreviation": "DFCCIL",
+  "description": "Dedicated Freight Corridor Corporation of India Limited (DFCCIL) is a public sector undertaking under the Ministry of Railways. It is responsible for planning, development, and mobilization of financial resources for the construction of dedicated freight corridors.",
+  "category": "Engineering",
+  "parent_organization": "Central"
 }
 
 
