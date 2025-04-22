@@ -1399,6 +1399,43 @@
   "description": "Dedicated Freight Corridor Corporation of India Limited (DFCCIL) is a public sector undertaking under the Ministry of Railways. It is responsible for planning, development, and mobilization of financial resources for the construction of dedicated freight corridors.",
   "category": "Engineering",
   "parent_organization": "Central"
+},
+{
+  "name": "Andhra Pradesh District Selection Commission",
+  "abbreviation": "APDSC",
+  "description": "AP DSC (Andhra Pradesh District Selection Committee) is a state-level recruitment examination conducted by the Government of Andhra Pradesh to hire qualified candidates for teaching positions in government schools. The exam is held for posts like School Assistants, Secondary Grade Teachers (SGT), Language Pandits, and Physical Education Teachers (PET) in various government, Zilla Parishad, Mandal Parishad, and municipal schools across the state.",
+  "category": "Public Services",
+  "parent_organization": "Andhra Pradesh"
+},
+{
+  "name": "Competition Commission of India",
+  "abbreviation": "CCI",
+  "description": "The Competition Commission of India (CCI) is a statutory body established under the Competition Act, 2002 to promote and sustain fair competition in the Indian market. It aims to prevent anti-competitive practices, protect the interests of consumers, and ensure freedom of trade. The CCI investigates mergers, acquisitions, and abuse of dominant positions to maintain a healthy economic environment and foster innovation and efficiency in the marketplace.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "State Health Society",
+  "abbreviation": "SHSB",
+  "description": "State Health Society, Bihar (SHS Bihar) is a government body under the Department of Health, Government of Bihar, responsible for implementing and managing various public health programs and schemes, primarily under the National Health Mission (NHM). Its aim is to improve the health infrastructure, maternal and child health services, and access to quality healthcare across the state.",
+  "category": "Public Services",
+  "parent_organization": "Bihar"
+},
+{
+  "name": "Noida Metro Rail Corporation",
+  "abbreviation": "NMRC",
+  "description": "Noida Metro Rail Corporation (NMRC) is a government organization responsible for rapid transit in Noida and Greater Noida regions of Uttar Pradesh, India. It operates under the Ministry of Housing and Urban Affairs.",
+  "category": "Railways",
+  "parent_organization": "Uttar Pradesh"
+},
+{
+
+  "name": "Digital India Corporation",
+  "abbreviation": "DIC",
+  "description": "The Digital India Corporation (DIC) is a government body responsible for accelerating the digital transformation of India. They have announced a recruitment for 15 posts including Business Analyst, Product Manager, and more in 2025. The positions are available on a contract/consolidated basis with various educational qualifications required.",
+  "category": "Technical",
+  "parent_organization": "Central"
+
 }
 
 
