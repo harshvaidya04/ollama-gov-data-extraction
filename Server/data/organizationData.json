@@ -1366,9 +1366,9 @@
   "parent_organization": "Bihar"
 },
 {
-  "name": "Office of the Chief Commissioner of Income Tax, Odisha",
-  "abbreviation": "CCIT Odisha",
-  "description": "The Office of the Chief Commissioner of Income Tax, Odisha is a regional office under the Central Board of Direct Taxes (CBDT), Ministry of Finance, Government of India. It oversees income tax administration and enforcement in Odisha.",
+  "name": "Income Tax Department of India",
+  "abbreviation": "ITD",
+  "description": "Income Tax Department (ITD) is the apex body for administration of direct taxes in India, under the Department of Revenue, Ministry of Finance, Government of India.",
   "category": "Banking Finance",
   "parent_organization": "Odisha"
 },
@@ -1436,7 +1436,32 @@
   "category": "Technical",
   "parent_organization": "Central"
 
+},
+{
+  "name": "Dredging Corporation Of India",
+  "abbreviation": "DCI",
+  "description": "Dredging Corporation of India (DCI) is a public sector company engaged in dredging and marine infrastructure development services in India and globally.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Institute of Hotel Management, Catering Technology and Applied Nutrition, Hajipur",
+  "abbreviation": "IHM",
+  "description": "The Institute of Hotel Management, Catering Technology and Applied Nutrition, Hajipur (IHM Hajipur) is a premier hospitality education institution established in 1998. It functions under the Ministry of Tourism, Government of India, and is affiliated with the National Council for Hotel Management and Catering Technology (NCHMCT), Noida. The institute offers undergraduate and diploma programs in hospitality and hotel administration.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Bihar"
+},
+{
+  "name": "Indian Institute of Technology Patna",
+  "abbreviation": "IIT Patna",
+  "description": "The Indian Institute of Technology Patna (IIT Patna) is a public research university located in Bihta, Bihar, India. Established on August 6, 2008, by an Act of the Indian Parliament, it is recognized as an Institute of National Importance by the Government of India. IIT Patna offers undergraduate, postgraduate, and doctoral programs in various fields of engineering, science, and technology through its ten academic departments. The institute's permanent campus spans over 550 acres and has been fully operational since 2015.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Bihar"
 }
+ 
+ 
 
-
+ 
 ]
+
+
