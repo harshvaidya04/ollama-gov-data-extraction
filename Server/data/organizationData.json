@@ -1457,6 +1457,13 @@
   "description": "The Indian Institute of Technology Patna (IIT Patna) is a public research university located in Bihta, Bihar, India. Established on August 6, 2008, by an Act of the Indian Parliament, it is recognized as an Institute of National Importance by the Government of India. IIT Patna offers undergraduate, postgraduate, and doctoral programs in various fields of engineering, science, and technology through its ten academic departments. The institute's permanent campus spans over 550 acres and has been fully operational since 2015.",
   "category": "Higher Education Specialized Exams",
   "parent_organization": "Bihar"
+},
+{
+  "name": "Bhartiya Pashupalan Nigam Limited",
+  "abbreviation": "BPNL",
+  "description": "Bhartiya Pashupalan Nigam Limited (BPNL) is a private sector company working in the field of animal husbandry in India. Established in 2009, BPNL aims to provide employment opportunities and promote livestock development by offering training and marketing support for animal products. The organization conducts various recruitment drives for roles such as Animal Health Worker, Sales Assistant, and other field-level positions.",
+  "category": "Agriculture",
+  "parent_organization": "Central"
 }
  
  
