@@ -1544,6 +1544,77 @@
 }
 
  
+},
+{
+  "name": "Indian Institute of Technology Madras",
+  "abbreviation": "IIT Madras",
+  "description": "The Indian Institute of Technology Madras (IIT Madras) is a premier public technical and research university located in Chennai, Tamil Nadu, India. Established in 1959 with assistance from the Government of West Germany, it is one of the oldest and most prestigious IITs in India. IIT Madras is recognized as an Institute of National Importance and consistently ranks among the top engineering institutions in the country. It offers undergraduate, postgraduate, and doctoral programs in various fields of engineering, sciences, management, and humanities. The campus spans approximately 620 acres and is known for its lush greenery and diverse wildlife.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Tamil Nadu"
+},
+{
+  "name": "Bureau of Indian Standards",
+  "abbreviation": "BIS",
+  "description": "The Bureau of Indian Standards (BIS) is the national standards body of India, established under the BIS Act 1986 and functioning under the Ministry of Consumer Affairs, Food & Public Distribution, Government of India. BIS is responsible for the development and implementation of national standards to ensure quality, safety, and reliability of products and services. It also provides certification to manufacturers and laboratories through various schemes such as ISI mark and Hallmark. BIS plays a vital role in consumer protection, industrial development, and export promotion.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Bureau of Civil Aviation Security",
+  "abbreviation": "BCAS",
+  "description": "The Bureau of Civil Aviation Security (BCAS) is the regulatory authority for civil aviation security in India. It functions under the Ministry of Civil Aviation and is responsible for laying down standards and measures related to the security of civil flights at international and domestic airports in India. BCAS ensures the implementation of security policies, conducts inspections and audits, and provides training to security personnel. It plays a key role in safeguarding civil aviation operations against acts of unlawful interference.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Management Tiruchirappalli",
+  "abbreviation": "IIM Tiruchirappalli",
+  "description": "The Indian Institute of Management Tiruchirappalli (IIM Tiruchirappalli or IIM Trichy) is an autonomous public business school located in Tiruchirappalli, Tamil Nadu, India. Established in 2011 by the Government of India, it is one of the newer IIMs but has quickly gained a reputation for academic excellence and industry engagement. The institute offers postgraduate, doctoral, and executive education programs in management. Its state-of-the-art permanent campus spans over 175 acres and supports a vibrant academic and research environment.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Tamil Nadu"
+},
+{
+  "name": "Ministry of Ports, Shipping and Waterways",
+  "abbreviation": "MoPSW",
+  "description": "The Ministry of Ports, Shipping and Waterways is a branch of the Government of India responsible for formulating and administering policies related to ports, shipping, and inland waterways. It oversees the development and regulation of major ports, promotes maritime trade, and facilitates infrastructure development through initiatives like the Sagarmala Project. The ministry also ensures safety, security, and sustainability in maritime operations and supports India's blue economy growth.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Department of Telecommunications",
+  "abbreviation": "DoT",
+  "description": "The Department of Telecommunications (DoT) is a department under the Ministry of Communications, Government of India. It is responsible for policy formulation, licensing, regulation, and coordination of telecommunications services across the country. DoT oversees telecom service providers, spectrum management, infrastructure development, and the promotion of indigenous telecom manufacturing under initiatives like BharatNet and Make in India. It plays a crucial role in ensuring secure, accessible, and affordable telecom services to all citizens.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Management Ahmedabad",
+  "abbreviation": "IIM Ahmedabad",
+  "description": "The Indian Institute of Management Ahmedabad (IIM Ahmedabad or IIMA) is one of India's premier business schools, located in Ahmedabad, Gujarat. Established in 1961, it is renowned for its excellence in management education, research, and leadership development. IIMA offers a wide range of programs including the flagship Post Graduate Programme in Management (PGP), executive education, and doctoral programs. The institute is known for its rigorous academic environment, case-based pedagogy, and strong industry interface. IIMA has been consistently ranked among the top management institutes in India and Asia.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Gujarat"
+},
+{
+  "name": "Physical Research Laboratory",
+  "abbreviation": "PRL",
+  "description": "The Physical Research Laboratory (PRL) is a premier research institution located in Ahmedabad, Gujarat, India. Established in 1947 by Dr. Vikram Sarabhai, PRL is an autonomous unit of the Department of Space, Government of India. It is recognized as the cradle of space sciences in India and conducts fundamental research in various scientific domains, including Astronomy and Astrophysics, Solar Physics, Planetary Science and Exploration, Space and Atmospheric Sciences, Geosciences, Theoretical Physics, Atomic, Molecular and Optical Physics, and Astro-chemistry. PRL operates observatories such as the Udaipur Solar Observatory and the Mount Abu InfraRed Observatory, contributing significantly to India's space and scientific endeavors.",
+  "category": "Academics & Research",
+  "parent_organization": "Gujarat"
+},
+{
+  "name": "National Water Development Agency",
+  "abbreviation": "NWDA",
+  "description": "The National Water Development Agency (NWDA) is an autonomous society under the Ministry of Jal Shakti, Government of India, established in July 1982. It was set up to carry out detailed studies, surveys, and investigations concerning the Peninsular Component of the National Perspective Plan for Water Resources Development. NWDA's primary objective is to promote the interlinking of rivers in India to optimize the utilization of water resources, enhance irrigation, generate hydroelectric power, and mitigate floods and droughts. The agency conducts feasibility studies, prepares Detailed Project Reports (DPRs), and coordinates with various state governments for implementing interlinking projects.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Deendayal Port Authority",
+  "abbreviation": "DPA",
+  "description": "Deendayal Port Authority (DPA), formerly known as Kandla Port Trust, is a major seaport located in Kutch district, Gujarat, India. Established in 1952, it is one of the largest ports in India by cargo volume. The port serves as a vital gateway for trade in the western region, handling a diverse range of cargo including crude oil, coal, grains, and chemicals. DPA operates multiple terminals and is strategically positioned to cater to the needs of North, West, and Central India. The port has undergone significant modernization and expansion to enhance its capacity and efficiency.",
+  "category": "Public Services",
+  "parent_organization": "Gujarat"
+} 
 ]
 
 
