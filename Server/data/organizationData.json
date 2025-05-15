@@ -1534,7 +1534,50 @@
   "description": "Deendayal Port Authority (DPA), formerly known as Kandla Port Trust, is a major seaport located in Kutch district, Gujarat, India. Established in 1952, it is one of the largest ports in India by cargo volume. The port serves as a vital gateway for trade in the western region, handling a diverse range of cargo including crude oil, coal, grains, and chemicals. DPA operates multiple terminals and is strategically positioned to cater to the needs of North, West, and Central India. The port has undergone significant modernization and expansion to enhance its capacity and efficiency.",
   "category": "Public Services",
   "parent_organization": "Gujarat"
-} 
+} ,
+{
+  "name": "Bihar Rural Livelihoods Promotion Society",
+  "abbreviation": "BRLPS",
+  "description": "Bihar Rural Livelihoods Promotion Society (BRLPS), popularly known as JEEViKA, is an autonomous body under the Department of Rural Development, Government of Bihar. Established in 2007, it serves as the State Rural Livelihoods Mission under the National Rural Livelihoods Mission (NRLM) framework. BRLPS aims to alleviate poverty and empower rural communities by promoting sustainable livelihood opportunities. The program focuses on social and economic empowerment of the rural poor, especially women, through the formation of Self-Help Groups (SHGs), Village Organizations (VOs), and Cluster-Level Federations (CLFs). Operating across all 534 blocks in Bihar, JEEViKA has mobilized over 1.3 crore rural families into more than 10 lakh SHGs. The initiative also implements various programs like the Bihar Kosi Flood Recovery Project and collaborates with organizations to enhance legal awareness and support among rural women.",
+  "category": "Public Services",
+  "parent_organization": "Bihar"
+},
+{
+  "name": "Central Bank of India",
+  "abbreviation": "CBI",
+  "description": "Central Bank of India (CBI) is a public sector bank headquartered in Mumbai, Maharashtra. Established on 21 December 1911 by Sir Sorabji Pochkhanawala, it was the first Indian commercial bank that was wholly owned and managed by Indians. The bank offers a wide range of financial services including retail banking, corporate banking, and treasury operations. As of June 2024, Central Bank of India operates over 4,600 branches and more than 3,600 ATMs across India, serving millions of customers. The bank is majority-owned by the Government of India, holding a 93.08% stake. It has played a significant role in India's banking history, including being one of the first banks to issue credit cards in collaboration with Visa in 1980. The bank continues to be a key player in India's financial sector, focusing on inclusive banking and digital transformation.",
+  "category": "Banking and Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Union Bank of India",
+  "abbreviation": "UBI",
+  "description": "Union Bank of India (UBI) is a prominent public sector bank headquartered in Mumbai, Maharashtra. Established on 11 November 1919, the bank has grown significantly over the years. On 1 April 2020, it amalgamated with Andhra Bank and Corporation Bank, becoming one of the largest public sector banks in India. As of December 2024, Union Bank of India operates over 8,574 branches and 9,087 ATMs, serving more than 153 million customers. The bank offers a comprehensive range of financial services, including consumer and corporate banking, investment banking, mortgage loans, private banking, and wealth management. It also has an international presence with branches in Hong Kong, Dubai, Antwerp, and Sydney, and representative offices in Shanghai, Beijing, and Abu Dhabi. The Government of India holds an 83.49% stake in the bank.",
+  "category": "Banking and Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Patna High Court",
+  "abbreviation": "PHC",
+  "description": "The Patna High Court is the High Court of the state of Bihar, India. Established on 3 February 1916 by the British colonial government, it was created under the Government of India Act 1915. The court is headquartered in Patna, the administrative capital of Bihar. The foundation stone of the High Court building was laid on 1 December 1913 by Viceroy Sir Charles Hardinge, and the building was inaugurated on 3 February 1916. The court commenced its judicial functions on 1 March 1916, with Sir Edward Maynard Des Champs Chamier serving as its first Chief Justice. Initially, the Patna High Court had jurisdiction over the territories of Bihar and Orissa until 26 July 1948, when a separate High Court was established for Orissa. The court's jurisdiction was further adjusted following the creation of the state of Jharkhand in November 2000. The Patna High Court exercises jurisdiction over the state of Bihar and has the authority to issue writs under Article 226 of the Constitution of India. The court has played a significant role in the development of the Indian judiciary and has been instrumental in upholding the rule of law in the region.",
+  "category": "Public Services",
+  "parent_organization": "Bihar"
+},
+{
+  "name": "High Court of Andhra Pradesh",
+  "abbreviation": "APHC",
+  "description": "The High Court of Andhra Pradesh is the highest judicial authority in the state of Andhra Pradesh, India. Originally established in 1954 with its principal seat at Guntur, the court was relocated to Hyderabad in 1956 following the merger of Andhra State and Hyderabad State to form Andhra Pradesh. Post the bifurcation of Andhra Pradesh in 2014, the High Court of Judicature at Hyderabad served as the common High Court for both Andhra Pradesh and Telangana. Subsequently, a separate High Court for Andhra Pradesh was established on 1 January 2019, with its principal seat at Amaravati. The court exercises original, appellate, and extraordinary jurisdiction over the state and comprises a sanctioned strength of 37 judges.",
+  "category": "Public Services",
+  "parent_organization": "Andhra Pradesh"
+},
+{
+  "name": "All India Institute of Medical Sciences, Mangalagiri",
+  "abbreviation": "AIIMS Mangalagiri",
+  "description": "All India Institute of Medical Sciences (AIIMS) Mangalagiri is a premier public medical institution located in the Mangalagiri-Tadepalli Municipal Corporation area of Guntur District, Andhra Pradesh. Established in 2018 under the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY), it is one of the 'Phase-IV' AIIMS institutes aimed at correcting regional imbalances in quality tertiary healthcare and medical education. The institute commenced its academic session in 2018 with 50 MBBS students at a temporary campus and began operations at its permanent campus in March 2019. As of the 2020–21 academic year, the MBBS intake increased to 125 students. The campus spans 183 acres and includes outpatient and inpatient services, with a 960-bed hospital offering a range of specialties. AIIMS Mangalagiri is committed to providing affordable tertiary healthcare and training future healthcare professionals.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Andhra Pradesh"
+}
+ 
 ]
 
 
