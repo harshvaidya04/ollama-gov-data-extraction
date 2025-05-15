@@ -1106,13 +1106,6 @@
     "parent_organization": "Himachal Pradesh"
   },
   {
-    "name": "Gujarat Common Entrance Test",
-    "abbreviation": "GUJCET",
-    "description": "GUJCET is a state-level entrance exam conducted by the Gujarat Secondary and Higher Secondary Education Board (GSEB) for admission into engineering and pharmacy courses in various colleges and universities across Gujarat. The exam is based on the Gujarat Board syllabus for Class 11 and 12.",
-    "category": "Higher Education Specialized Exams",
-    "parent_organization": "Gujarat"
-  },
-  {
     "name": "Indian Rare Earths Limited",
     "abbreviation": "IREL",
     "description": "A recruitment drive conducted by Indian Rare Earths (IREL) for 30 executive-level positions across various domains, including finance, HR, engineering, and business development. Candidates with relevant educational qualifications such as B.Tech/B.E, CA, MBA, and M.Sc can apply. The selection process involves a written test and/or personal interview.",
@@ -1463,6 +1456,90 @@
   "abbreviation": "BPNL",
   "description": "Bhartiya Pashupalan Nigam Limited (BPNL) is a private sector company working in the field of animal husbandry in India. Established in 2009, BPNL aims to provide employment opportunities and promote livestock development by offering training and marketing support for animal products. The organization conducts various recruitment drives for roles such as Animal Health Worker, Sales Assistant, and other field-level positions.",
   "category": "Agriculture",
+  "parent_organization": "Central"
+},
+{
+  "name": "Gujarat Secondary and Higher Secondary Education Board",
+  "abbreviation": "GSEB",
+  "description": "Gujarat Secondary and Higher Secondary Education Board (GSEB) conducts and regulates GSEB HSC and GSEB SSC exams across Gujarat. Get the latest updates on GSEB Result 2025, GSEB latest news, exam schedules, syllabus changes, and more. Stay informed with real-time announcements and resources for GSEB students and parents.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Gujarat" 
+},
+{
+  "name": "Madhya Pradesh Board of Secondary Education",
+  "abbreviation": "MPBSE",
+  "description": "The Madhya Pradesh Board of Secondary Education (MPBSE) is the official education board responsible for conducting and regulating MP Board Class 10th and 12th exams. It publishes MP Board results, academic notifications, and syllabus updates. Students can access MPBSE result 2025, latest news, and official announcements on mpbse.nic.in and related portals.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Maharashtra"
+},
+{
+  "name": "National Investigation Agency",
+  "abbreviation": "NIA",
+  "description": "The National Investigation Agency (NIA) is the central counter-terrorism law enforcement agency of India. Established under the National Investigation Agency Act, 2008, it operates under the Ministry of Home Affairs, Government of India. The NIA is tasked with investigating and prosecuting offenses related to terrorism, national security, and other threats affecting the sovereignty and integrity of the country. It has the authority to conduct investigations across India without prior approval from state governments. The agency is headquartered in New Delhi and has branch offices in various cities to ensure nationwide coverage and coordination in counter-terrorism and other national security-related investigations.",
+  "category": "Defence",
+  "parent_organization": "Central"
+},
+{
+  "name": "Department of Food and Public Distribution",
+  "abbreviation": "DFPD",
+  "description": "The Department of Food and Public Distribution (DFPD) operates under the Ministry of Consumer Affairs, Food and Public Distribution, Government of India. It is responsible for ensuring food security through the procurement, storage, movement, and distribution of food grains across the country. DFPD manages the Public Distribution System (PDS), which provides subsidized food grains to the economically weaker sections of society. The department also oversees the Food Corporation of India (FCI) and implements policies related to food grain management, sugar, and edible oils.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Central Water Commission",
+  "abbreviation": "CWC",
+  "description": "The Central Water Commission (CWC) is a premier technical organization in India in the field of water resources. Established in 1945, it functions as an attached office of the Ministry of Jal Shakti, Government of India. The CWC is responsible for initiating, coordinating, and furthering schemes related to the control, conservation, and utilization of water resources throughout the country. Its functions encompass flood control, irrigation, navigation, drinking water supply, and hydroelectric power development. The Commission is structured into three main wings: Designs and Research (D&R), River Management (RM), and Water Planning and Projects (WP&P), each overseen by a full-time Member with the status of Ex-Officio Additional Secretary to the Government of India. The CWC also operates 14 regional organizations across India to ensure effective coordination with state governments.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "National Small Industries Corporation",
+  "abbreviation": "NSIC",
+  "description": "The National Small Industries Corporation (NSIC) is a Government of India enterprise established in 1955 under the Ministry of Micro, Small and Medium Enterprises (MSME). It aims to promote and support the growth of micro, small, and medium enterprises (MSMEs) across India. NSIC provides a range of services including marketing support, credit facilitation, technology assistance, and skill development to enhance the competitiveness of MSMEs. The corporation operates through a nationwide network of offices and technical centers, offering schemes such as the Single Point Registration Scheme (SPRS), Performance & Credit Rating, and the National SC-ST Hub. NSIC also facilitates raw material procurement, organizes training programs, and assists in export marketing to empower small enterprises.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Technology Bombay",
+  "abbreviation": "IIT Bombay",
+  "description": "The Indian Institute of Technology Bombay (IIT Bombay) is a premier public research university located in Powai, Mumbai, Maharashtra, India. Established in 1958 with assistance from UNESCO and the Soviet Union, it was the second IIT to be founded and is recognized as an Institute of National Importance by the Government of India. IIT Bombay offers undergraduate, postgraduate, and doctoral programs across various disciplines, including engineering, science, design, and management. The institute is renowned for its cutting-edge research, innovation, and entrepreneurship initiatives, consistently ranking among the top engineering institutions globally. Its 550-acre urban campus houses 15 academic departments, 36 multidisciplinary centers, and several schools of excellence, fostering a vibrant academic and research environment.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Maharashtra"
+},
+{
+  "name": "Indian Institute of Technology Kanpur",
+  "abbreviation": "IIT Kanpur",
+  "description": "The Indian Institute of Technology Kanpur (IIT Kanpur) is a premier public research university located in Kanpur, Uttar Pradesh, India. Established in 1959, it is recognized as an Institute of National Importance by the Government of India. IIT Kanpur offers undergraduate, postgraduate, and doctoral programs across various disciplines, including engineering, science, humanities, and management. The institute is renowned for its cutting-edge research, innovation, and entrepreneurship initiatives, consistently ranking among the top engineering institutions globally. Its 1,055-acre urban campus houses 18 academic departments and several interdisciplinary programs, fostering a vibrant academic and research environment.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Uttar Pradesh"
+},
+{
+  "name": "Central Council for Research in Ayurvedic Sciences",
+  "abbreviation": "CCRAS",
+  "description": "The Central Council for Research in Ayurvedic Sciences (CCRAS) is an apex autonomous organization under the Ministry of AYUSH, Government of India, dedicated to the formulation, coordination, development, and promotion of research on scientific lines in the Ayurveda and Sowa-Rigpa systems of medicine. Established in 1978, CCRAS operates a network of 30 institutes across India, focusing on clinical research, pharmacological studies, drug standardization, and medicinal plant research. The council aims to develop safe and effective Ayurvedic formulations and therapies for the management of diseases of national and global importance, validate classical Ayurvedic formulations, and disseminate research outcomes to promote evidence-based Ayurveda.",
+  "category": "Academics Research",
+  "parent_organization": "Central"
+},
+{
+  "name": "MSME Technology Centre, Indo German Tool Room",
+  "abbreviation": "IGTR",
+  "description": "The MSME Technology Centre, Indo German Tool Room (IGTR) is a premier institution established in 1990 through a collaboration between the Government of India, the Government of the Federal Republic of Germany, and the Government of Maharashtra. Operating under the Ministry of Micro, Small and Medium Enterprises (MSME), it serves as a center of excellence in tooling and training solutions. IGTR  offers comprehensive services including design, manufacturing, and consultancy for SMEs, supported by advanced CNC machines and technologies. The center specializes in precision tooling, rapid prototyping, and 3D manufacturing for both metal and plastic components. It is certified under multiple ISO standards and focuses on skill development and technology transfer to enhance the capabilities of small and medium enterprises.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "National Aluminium Company Limited",
+  "abbreviation": "NALCO",
+  "description": "National Aluminium Company Limited (NALCO) is a Navratna Central Public Sector Enterprise under the Ministry of Mines, Government of India. Established on 7th January 1981, with its registered office in Bhubaneswar, Odisha, NALCO is one of the largest integrated Bauxite-Alumina-Aluminium-Power complexes in India. The company operates a 68.25 lakh TPA Bauxite Mine and a 21.00 lakh TPA Alumina Refinery at Damanjodi in Koraput district, and a 4.60 lakh TPA Aluminium Smelter along with a 1200 MW Captive Power Plant at Angul, Odisha. NALCO has regional sales offices in Delhi, Kolkata, Mumbai, Chennai, and Bangalore, and operates multiple stockyards across the country to facilitate domestic marketing. The company is recognized as the lowest-cost producer of metallurgical grade alumina and bauxite in the world, as per Wood Mackenzie reports. NALCO is also a significant exporter, with export earnings accounting for a substantial portion of its turnover.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Northern Coalfields Limited",
+  "abbreviation": "NCL",
+  "description": "Northern Coalfields Limited (NCL) is a wholly owned subsidiary of Coal India Limited (CIL), operating under the Ministry of Coal, Government of India. Established in 1985, NCL is headquartered in Singrauli, Madhya Pradesh. The company operates ten highly mechanized open-cast coal mines in the Singrauli coalfield, which spans parts of Madhya Pradesh and Uttar Pradesh. NCL is a significant contributor to India's coal production, supplying a substantial portion of its output to power plants across the country. The company is also involved in various community development and environmental sustainability initiatives.",
+  "category": "Public Services",
   "parent_organization": "Central"
 },
 {
