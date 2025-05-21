@@ -1653,7 +1653,150 @@
   "description": "All India Institute of Medical Sciences (AIIMS) Mangalagiri is a premier public medical institution located in the Mangalagiri-Tadepalli Municipal Corporation area of Guntur District, Andhra Pradesh. Established in 2018 under the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY), it is one of the 'Phase-IV' AIIMS institutes aimed at correcting regional imbalances in quality tertiary healthcare and medical education. The institute commenced its academic session in 2018 with 50 MBBS students at a temporary campus and began operations at its permanent campus in March 2019. As of the 2020–21 academic year, the MBBS intake increased to 125 students. The campus spans 183 acres and includes outpatient and inpatient services, with a 960-bed hospital offering a range of specialties. AIIMS Mangalagiri is committed to providing affordable tertiary healthcare and training future healthcare professionals.",
   "category": "Higher Education Specialized Exams",
   "parent_organization": "Andhra Pradesh"
+},
+{
+  "name": "National Academy of Defence Production",
+  "abbreviation": "NADP",
+  "description": "The National Academy of Defence Production (NADP), located in Nagpur, Maharashtra, is a premier central training institute under the Ministry of Defence, Government of India. Established in 1978, NADP is responsible for training Group-A gazetted officers of the Indian Ordnance Factories Service (IOFS) and other personnel in defence production and management. The academy offers a comprehensive 64-week induction program for probationary officers, encompassing modules in general administration, management, and technical training. The program includes attachments to various ordnance factories, DRDO labs, defence institutes, and armed forces units to provide practical exposure. NADP also offers an AICTE-approved 2-year Post Graduate Diploma in Management (PGDM) in Business Management, focusing on the defence industry. With state-of-the-art facilities and a commitment to excellence, NADP plays a crucial role in developing skilled professionals for India's defence manufacturing sector.",
+  "category": "Defence",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Council of Agricultural Research",
+  "abbreviation": "ICAR",
+  "description": "The Indian Council of Agricultural Research (ICAR) is an autonomous organization under the Department of Agricultural Research and Education (DARE), Ministry of Agriculture and Farmers Welfare, Government of India. Established on 16 July 1929 as the Imperial Council of Agricultural Research, ICAR is the apex body responsible for coordinating, guiding, and managing research and education in agriculture and allied sectors, including horticulture, fisheries, and animal sciences. Headquartered in New Delhi, ICAR oversees one of the world's largest national agricultural systems, comprising 113 institutes and 74 agricultural universities across the country. The council has played a pivotal role in ushering the Green Revolution in India, enhancing food security, and promoting sustainable agricultural practices. ICAR's initiatives encompass strategic research, technology development, and capacity building to address the challenges of climate change and ensure the resilience of Indian agriculture.",
+  "category": "Academics Research",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Management Udaipur",
+  "abbreviation": "IIM Udaipur",
+  "description": "The Indian Institute of Management Udaipur (IIM Udaipur) is a premier public business school located in Udaipur, Rajasthan, India. Established in 2011, it is one of the second-generation IIMs set up by the Government of India. IIM Udaipur offers a range of management programs, including a two-year full-time MBA, one-year MBAs in Global Supply Chain Management (GSCM) and Digital Enterprise Management (DEM), and a doctoral-level Ph.D. program. The institute is accredited by the Association to Advance Collegiate Schools of Business (AACSB), making it one of the few Indian B-schools with this distinction. It has consistently featured in global rankings, including the Financial Times Masters in Management Rankings and the QS World University Rankings. The campus spans 300 acres in Balicha, Udaipur, and is fully residential, providing housing for over 900 students, faculty, and staff. IIM Udaipur is recognized for its emphasis on research, innovation, and its commitment to developing responsible business leaders.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Rajasthan"
+},
+{
+  "name": "Ex-Servicemen Contributory Health Scheme",
+  "abbreviation": "ECHS",
+  "description": "The Ex-Servicemen Contributory Health Scheme (ECHS) is a healthcare initiative launched by the Government of India to provide quality medical care to ex-servicemen pensioners and their dependents. Managed by the Department of Ex-Servicemen Welfare under the Ministry of Defence, ECHS offers comprehensive medical services through a network of ECHS Polyclinics, empanelled private hospitals, and government hospitals across India. The scheme covers a wide range of medical treatments, including outpatient care, hospitalization, and specialized consultations. Beneficiaries are issued ECHS Smart Cards, which facilitate cashless transactions at empanelled facilities. The scheme aims to ensure accessible and affordable healthcare for the veteran community, recognizing their service to the nation.",
+  "category": "Medical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Technology Mandi",
+  "abbreviation": "IIT Mandi",
+  "description": "The Indian Institute of Technology Mandi (IIT Mandi) is a premier public technical and research university located in the Kamand Valley of Mandi district, Himachal Pradesh, India. Established in 2009, it is one of the eight second-generation IITs set up by the Ministry of Human Resource Development (now Ministry of Education), Government of India. The institute commenced its first academic session in July 2009 with 97 students, initially operating from a transit campus at IIT Roorkee. The permanent campus, spread over 538 hectares along the Uhl River, became fully operational in 2015. IIT Mandi offers a range of undergraduate, postgraduate, and doctoral programs across various disciplines, including engineering, sciences, humanities, and management. The institute is known for its emphasis on research, innovation, and entrepreneurship, exemplified by initiatives like the IIT Mandi Catalyst, the first technology business incubator in Himachal Pradesh. Additionally, IIT Mandi hosts 'Exodia', an annual techno-cultural festival that attracts participants from across the country.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Himachal Pradesh"
+},
+{
+  "name": "National Institute of Technology Hamirpur",
+  "abbreviation": "NIT Hamirpur",
+  "description": "The National Institute of Technology Hamirpur (NIT Hamirpur) is a premier public technical and research university located in Hamirpur, Himachal Pradesh, India. Established on 7 August 1986 as a Regional Engineering College (REC), it was upgraded to a National Institute of Technology in 2002 and declared an Institute of National Importance in 2007 under the National Institutes of Technology Act. The institute offers undergraduate, postgraduate, and doctoral programs in engineering, architecture, sciences, management, and humanities. NIT Hamirpur is known for its scenic 170-acre campus nestled in the Himalayan foothills, state-of-the-art infrastructure, and a strong emphasis on research and innovation. The institute fosters a vibrant student life with annual events like 'Hill'ffair' (cultural fest) and 'NIMBUS' (technical fest), promoting holistic development and national integration among students.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Himachal Pradesh"
+},
+{
+  "name": "Aeronautical Development Agency",
+  "abbreviation": "ADA",
+  "description": "The Aeronautical Development Agency (ADA) is an autonomous organization under the Department of Defence Research and Development (DR&D) of India's Ministry of Defence. Established in 1984 and headquartered in Bengaluru, Karnataka, ADA is the nodal agency responsible for the design and development of India's Light Combat Aircraft (LCA) program. Its notable projects include the HAL Tejas, Tejas Mk2, Twin Engine Deck Based Fighter (TEDBF), and the Advanced Medium Combat Aircraft (AMCA). ADA has developed specialized software tools for computer-aided design (CAD), computer-aided engineering (CAE), and flight simulation. The agency collaborates with various stakeholders, including Hindustan Aeronautics Limited (HAL), Defence Research and Development Organisation (DRDO) laboratories, Council of Scientific and Industrial Research (CSIR) institutions, academic bodies, and private sector partners, to advance India's indigenous defense capabilities.",
+  "category": "Defence",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Technology Dharwad",
+  "abbreviation": "IIT Dharwad",
+  "description": "The Indian Institute of Technology Dharwad (IIT Dharwad) is a premier public technical and research university located in Dharwad, Karnataka, India. Established in 2016 under the mentorship of IIT Bombay, it is one of the third-generation IITs set up by the Ministry of Education, Government of India. The institute commenced its academic journey in July 2016, initially operating from a temporary campus at the Water and Land Management Institute (WALMI). In March 2023, IIT Dharwad transitioned to its permanent 470-acre campus in Chikkamalligawad, which was officially inaugurated by Prime Minister Narendra Modi. The institute offers a range of undergraduate, postgraduate, and doctoral programs across various disciplines, including Computer Science and Engineering, Electrical Engineering, Mechanical Engineering, Engineering Physics, Chemical and Biochemical Engineering, Mathematics and Computing, and Civil and Infrastructure Engineering. IIT Dharwad emphasizes research, innovation, and entrepreneurship, fostering a vibrant academic ecosystem.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Karnataka"
+},
+{
+  "name": "Unique Identification Authority of India",
+  "abbreviation": "UIDAI",
+  "description": "The Unique Identification Authority of India (UIDAI) is a statutory authority established in 2016 under the provisions of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016. Operating under the Ministry of Electronics and Information Technology, UIDAI is responsible for issuing Aadhaar, a 12-digit unique identification number to all residents of India. The Aadhaar number is linked to the individual's biometric and demographic data, which is stored in a centralized database. UIDAI's mission is to provide a unique identity to residents and enable transparent and efficient delivery of subsidies, benefits, and services. The authority also oversees the Aadhaar ecosystem, including enrollment, authentication, and data security, ensuring the integrity and confidentiality of residents' information.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Central Power Research Institute",
+  "abbreviation": "CPRI",
+  "description": "The Central Power Research Institute (CPRI) is an autonomous society established in 1960 by the Government of India under the Ministry of Power. Headquartered in Bengaluru, Karnataka, CPRI serves as a premier national laboratory for applied research in electrical power engineering. It provides comprehensive services in testing, certification, consultancy, and training across the power sector, encompassing generation, transmission, and distribution. CPRI's state-of-the-art facilities include high-power laboratories, short-circuit testing stations, and protocol testing labs for substation automation and metering systems. The institute is recognized globally for its expertise in evaluating electrical equipment and ensuring their compliance with national and international standards.",
+  "category": "Technical",
+  "parent_organization": "Karnataka"
+},
+{
+  "name": "National Institute of Technology Calicut",
+  "abbreviation": "NIT Calicut",
+  "description": "The National Institute of Technology Calicut (NIT Calicut) is a premier public technical university located in Kozhikode, Kerala, India. Established in 1961 as the Calicut Regional Engineering College (CREC), it was transformed into a National Institute of Technology in 2002 and declared an Institute of National Importance under the NIT Act, 2007. The institute offers undergraduate, postgraduate, and doctoral programs in various disciplines of engineering, science, technology, and management. NIT Calicut is known for its strong emphasis on research, innovation, and industry collaboration. The campus, situated at the foothills of the Western Ghats, spans over 120 hectares and provides state-of-the-art facilities, including a supercomputing facility, advanced laboratories, and a comprehensive library. The institute also hosts two major annual events: 'Tathva', a techno-management festival, and 'Ragam', a cultural festival, both of which attract participation from across the country.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Kerala"
+},
+{
+  "name": "Prasar Bharati",
+  "abbreviation": "PB",
+  "description": "Prasar Bharati is India's state-owned public broadcaster, established as a statutory autonomous body under the Prasar Bharati Act, 1990. It came into existence on 23 November 1997. Headquartered in New Delhi, Prasar Bharati comprises two main divisions: Doordarshan (DD), the television network, and All India Radio (AIR), the radio network. These entities were previously media units under the Ministry of Information and Broadcasting before being merged into Prasar Bharati to grant them operational autonomy. The organization is tasked with providing a fair and balanced flow of information on matters of public interest, free from opinion or bias. Prasar Bharati operates across various platforms, including terrestrial, satellite, and digital media, and serves as a vital instrument for public service broadcasting in India.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Centre for Management Development",
+  "abbreviation": "CMD Kerala",
+  "description": "The Centre for Management Development (CMD) is a research-driven management consulting and training institution established in 1979 under the Government of Kerala. Located in Thiruvananthapuram, CMD provides professional managerial support to various enterprises, including government departments, development agencies, and organizations in the corporate and social sectors. The institution offers services in project management, consultancy, monitoring and evaluation, human resource management, training, and public-private partnerships. CMD is recognized as a research center for Ph.D. programs in Management and Social Sciences by Amrita Vishwa Vidyapeetham and CHRIST (Deemed to be University).",
+  "category": "Public Services",
+  "parent_organization": "Kerala"
+},
+{
+  "name": "National AYUSH Mission Kerala",
+  "abbreviation": "NAM Kerala",
+  "description": "The National AYUSH Mission Kerala is the state-level implementation of the centrally sponsored National AYUSH Mission, launched by the Government of India in 2014. In Kerala, the mission commenced in 2015 under the Department of Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homoeopathy (AYUSH). The mission aims to mainstream AYUSH systems into healthcare services, develop evidence-based AYUSH management protocols, and ensure the accessibility of quality AYUSH services across the state. Key initiatives include the establishment of AYUSH Health and Wellness Centers (AHWCs), capacity building through training programs, and promoting research and development in AYUSH disciplines. NAM Kerala also focuses on integrating AYUSH with the public health system to provide holistic healthcare solutions.",
+  "category": "Medical",
+  "parent_organization": "Kerala"
+},
+
+{
+  "name": "Institute of Company Secretaries of India",
+  "abbreviation": "ICSI",
+  "description": "The Institute of Company Secretaries of India (ICSI) is a premier national professional body in India established under the Company Secretaries Act, 1980. Operating under the Ministry of Corporate Affairs, Government of India, ICSI is the sole recognized organization responsible for developing and regulating the profession of Company Secretaries in India. Headquartered in New Delhi, the institute has four regional offices in New Delhi, Chennai, Kolkata, and Mumbai, along with 73 chapters across the country. ICSI offers a structured Company Secretary (CS) course comprising three levels: the Company Secretary Executive Entrance Test (CSEET), Executive Programme, and Professional Programme. In addition to examinations, candidates must complete prescribed practical training to qualify for membership. Members of ICSI play a pivotal role in ensuring legal compliance, corporate governance, and ethical business practices within organizations. The institute also engages in policy advocacy, conducts research, and organizes various programs to promote investor education and corporate responsibility.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Tata Memorial Centre",
+  "abbreviation": "TMC",
+  "description": "The Tata Memorial Centre (TMC) is a premier cancer treatment and research institution in India, established on February 28, 1941, by the Sir Dorabji Tata Trust. Located in Mumbai, Maharashtra, TMC operates under the administrative control of the Department of Atomic Energy, Government of India. It encompasses several units, including the Tata Memorial Hospital (TMH) in Parel and the Advanced Centre for Treatment, Research and Education in Cancer (ACTREC) in Navi Mumbai. TMC is renowned for its comprehensive cancer care, integrating service, education, and research. The center has pioneered numerous advancements in oncology, such as introducing India's first linear accelerator for radiation therapy in 1978 and the first proton therapy unit in a government setup in 2023. Approximately 60% of its patients receive free or highly subsidized treatments, reflecting its commitment to accessible healthcare. TMC also plays a pivotal role in oncology education and has expanded its reach through a 'hub and spoke' model, establishing nodal centers across India to enhance cancer care accessibility.",
+  "category": "Medical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Electronics Corporation of India Limited",
+  "abbreviation": "ECIL",
+  "description": "The Electronics Corporation of India Limited (ECIL) is a public sector enterprise established on April 11, 1967, under the Department of Atomic Energy, Government of India. Founded by A. S. Rao, ECIL was set up in Hyderabad with the objective of achieving self-reliance in the field of professional-grade electronics. Over the years, ECIL has emerged as a multi-product, multi-disciplinary organization specializing in the design, development, and manufacture of electronic products and systems for sectors such as nuclear energy, defense, aerospace, security, and information technology. The company has been credited with several pioneering achievements, including the development of India's first digital computer (TDC-312), first solid-state television, and the first electronic voting machines. ECIL's product portfolio encompasses control and instrumentation for nuclear power plants, communication systems, electronic warfare systems, and various other strategic electronic products. The organization plays a crucial role in supporting India's strategic sectors and contributes significantly to the nation's technological advancements.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "All India Institute of Medical Sciences, Nagpur",
+  "abbreviation": "AIIMS Nagpur",
+  "description": "All India Institute of Medical Sciences, Nagpur (AIIMS Nagpur) is a premier public medical research and education institute located in the MIHAN (Multi-modal International Cargo Hub and Airport at Nagpur) area of Maharashtra, India. Established in 2018 as part of the 'Phase-IV' expansion of AIIMS institutions, it operates under the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY) and is governed by the Ministry of Health and Family Welfare, Government of India. AIIMS Nagpur offers a range of undergraduate, postgraduate, and doctoral programs in medicine and allied health sciences. The institute is committed to providing high-quality patient care, conducting advanced medical research, and fostering excellence in medical education. Notably, AIIMS Nagpur has maintained a state of high alert to ensure emergency preparedness, conducting regular mock drills and maintaining readiness for deployment or support across the country if needed.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Maharashtra"
+},
+{
+  "name": "Munitions India Limited",
+  "abbreviation": "MIL",
+  "description": "Munitions India Limited (MIL) is a state-owned defence Public Sector Undertaking (PSU) established on October 1, 2021, as part of the restructuring of the Ordnance Factory Board into seven distinct PSUs. Headquartered in Pune, Maharashtra, MIL specializes in the production of ammunition, explosives, rockets, and bombs for the Indian Armed Forces, foreign militaries, and domestic civilian use. The company operates 12 manufacturing units across India, including facilities in Khadki, Aruvankadu, Tiruchirappalli, Bhandara, Bolangir, Chandrapur, Dehu Road, Itarsi, Khamaria, Nalanda, and Varangaon. MIL's product portfolio includes the Pinaka Multi-Barrel Rocket Launcher, various calibers of artillery shells, hand grenades, and air-to-ground bombs. The company has secured significant export orders, including deals with the United Arab Emirates, Armenia, and Saudi Arabia, contributing to India's growing presence in the global defence market.",
+  "category": "Defence",
+  "parent_organization": "Central"
+},
+{
+  "name": "National Highways Authority of India",
+  "abbreviation": "NHAI",
+  "description": "The National Highways Authority of India (NHAI) is an autonomous agency under the Ministry of Road Transport and Highways, Government of India. Established in 1995 under the National Highways Authority of India Act, 1988, NHAI is responsible for the development, maintenance, and management of India's National Highways network. Headquartered in Dwarka, New Delhi, the authority oversees a vast network exceeding 50,000 km, playing a pivotal role in enhancing the country's road infrastructure. NHAI implements major projects like the National Highways Development Project (NHDP) and Bharatmala Pariyojana, often utilizing public–private partnership models. Additionally, NHAI has collaborated with the Indian Space Research Organisation (ISRO) for satellite-based highway monitoring and has launched initiatives like the 'Harit Path' mobile app to monitor plantation along highways.",
+  "category": "Public Services",
+  "parent_organization": "Central"
 }
+ 
+ 
  
 ]
 
