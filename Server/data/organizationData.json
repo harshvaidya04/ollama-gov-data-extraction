@@ -1794,6 +1794,41 @@
   "description": "The National Highways Authority of India (NHAI) is an autonomous agency under the Ministry of Road Transport and Highways, Government of India. Established in 1995 under the National Highways Authority of India Act, 1988, NHAI is responsible for the development, maintenance, and management of India's National Highways network. Headquartered in Dwarka, New Delhi, the authority oversees a vast network exceeding 50,000 km, playing a pivotal role in enhancing the country's road infrastructure. NHAI implements major projects like the National Highways Development Project (NHDP) and Bharatmala Pariyojana, often utilizing public–private partnership models. Additionally, NHAI has collaborated with the Indian Space Research Organisation (ISRO) for satellite-based highway monitoring and has launched initiatives like the 'Harit Path' mobile app to monitor plantation along highways.",
   "category": "Public Services",
   "parent_organization": "Central"
+},
+{
+  "name": "Translational Health Science and Technology Institute",
+  "abbreviation": "THSTI",
+  "description": "The Translational Health Science and Technology Institute (THSTI) is an autonomous institute under the Department of Biotechnology, Ministry of Science and Technology, Government of India. Established in 2009, THSTI is located in the NCR Biotech Science Cluster in Faridabad, Haryana. The institute aims to integrate multidisciplinary scientific teams from medicine, science, and technology to facilitate translational research that bridges laboratory findings with clinical applications, thereby improving public health outcomes. THSTI hosts several specialized research centers, including the Centre for Maternal and Child Health, Centre for Virus Research, Therapeutics and Vaccines, Centre for Tuberculosis Research, Centre for Microbial Research, Centre for Immunobiology and Immunotherapy, Computational and Mathematical Biology Centre, Centre for Bio-design and Diagnostics, Centre for Drug Discovery, and the Clinical Development Services Agency. These centers focus on areas such as vaccine development, infectious diseases, diagnostics, and drug discovery. THSTI also offers academic programs, including a Master of Science in Clinical Research and Ph.D. programs, contributing to capacity building in the healthcare research sector.",
+  "category": "Medical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Cochin Special Economic Zone",
+  "abbreviation": "CSEZ",
+  "description": "The Cochin Special Economic Zone (CSEZ) is a multi-product special economic zone located in Kakkanad, Kochi, Kerala. Established in 1984 as one of India's first Export Processing Zones, it was later converted into a Special Economic Zone in 2003. Spanning an area of 41.7 hectares, CSEZ hosts over 160 industrial units across sectors like electronics hardware, engineering, gem and jewellery, IT/ITES, agro and food processing, textiles, and plastics. These units collectively employ more than 15,000 people. The zone offers robust infrastructure, including a dedicated 25 MVA power substation, water treatment facilities, sewage processing, and on-site customs clearance. CSEZ operates under the Ministry of Commerce & Industry, Government of India, and is managed by the Cochin Special Economic Zone Authority (CSEZA), constituted under the Special Economic Zones Act, 2005.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Centre for Development of Advanced Computing",
+  "abbreviation": "CDAC",
+  "description": "The Centre for Development of Advanced Computing (C-DAC) is the premier R&D organization of the Ministry of Electronics and Information Technology (MeitY), Government of India. Established in 1988 in response to technology denial for supercomputers, C-DAC developed India's first indigenous supercomputer, PARAM 8000, in 1991. Headquartered in Pune, C-DAC has centers across India, including Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, Mohali, Mumbai, Noida, Patna, Silchar, and Thiruvananthapuram. Its research areas encompass High Performance Computing (HPC), Grid and Cloud Computing, Multilingual and Heritage Computing, VLSI and Processor Design, Embedded Systems, Speech and Natural Language Processing, Information and Cyber Security, Ubiquitous Computing, Bioinformatics, Geomatics, Digital Forensics, Big Data Analytics, Blockchain, Health Informatics, and Quantum Computing. C-DAC's notable products include the PARAM series of supercomputers, VEGA Microprocessors based on RISC-V architecture, M-Kavach 2 mobile security solution, Bharat Operating System Solutions (BOSS), and eSanjeevani telemedicine platform. The organization also offers advanced computing diploma programs through its Advanced Computing Training School (ACTS) and has established Centres of Excellence in Information Technology (CEIT) abroad under the Ministry of External Affairs' development partnership projects.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Hindustan Organic Chemicals Limited",
+  "abbreviation": "HOCL",
+  "description": "Hindustan Organic Chemicals Limited (HOCL) is a central public sector undertaking established in 1960 under the Ministry of Chemicals and Fertilizers, Government of India. Headquartered in Mumbai, Maharashtra, with a major manufacturing unit in Ambalamugal, Kochi, Kerala, HOCL was founded to achieve self-reliance in the production of basic organic chemicals and reduce dependence on imports. The company specializes in the manufacture of chemicals such as phenol, acetone, nitrobenzene, aniline, nitrotoluenes, chlorobenzenes, and nitrochlorobenzenes. These chemicals serve as key inputs for industries including pharmaceuticals, pesticides, dyes, plastics, and rubber. HOCL is recognized as the second-largest producer of phenol and acetone in India. Additionally, through its subsidiary, Hindustan Fluorocarbons Limited (HFL), HOCL produces polytetrafluoroethylene (PTFE), a versatile engineering plastic. The company is listed on the Bombay Stock Exchange (BSE: 500449) and is majority-owned by the Government of India.",
+  "category": "Engineering",
+  "parent_organization": "Central"
+},
+{
+  "name": "Footwear Design and Development Institute",
+  "abbreviation": "FDDI",
+  "description": "The Footwear Design and Development Institute (FDDI) is a premier academic and training institution established in 1986 under the aegis of the Ministry of Commerce and Industry, Government of India. Headquartered in Noida, Uttar Pradesh, FDDI was designated as an 'Institution of National Importance' under the FDDI Act, 2017. The institute specializes in the fields of footwear design, leather goods, fashion design, and retail management. FDDI offers comprehensive undergraduate and postgraduate programs, including Bachelor of Design (B.Des) and Master of Design (M.Des) degrees, across its 12 state-of-the-art campuses located in Noida, Fursatganj (Raebareli), Chennai, Kolkata, Rohtak, Chhindwara, Guna, Jodhpur, Ankleshwar, Banur, Patna, and Hyderabad. The institute conducts the All India Selection Test (AIST) annually for admissions. FDDI is renowned for its industry-oriented curriculum, modern infrastructure, and strong placement records, contributing significantly to the growth of the footwear, fashion, and retail sectors in India.",
+  "category": "Higher Education & Specialized Exams",
+  "parent_organization": "Central"
 }
  
  
