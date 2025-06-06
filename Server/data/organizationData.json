@@ -1796,6 +1796,97 @@
   "parent_organization": "Central"
 },
 {
+  "name": "Indo Danish Tool Room, Jamshedpur",
+  "abbreviation": "IDTR Jamshedpur",
+  "description": "The Indo Danish Tool Room (IDTR), Jamshedpur is a premier institution operating under the Ministry of Micro, Small and Medium Enterprises (MSME), Government of India. It was established through collaboration between the Governments of India and Denmark to promote precision engineering and tool manufacturing. IDTR provides advanced training programs, design, and manufacturing services to support MSMEs and boost industrial growth. The center is equipped with modern CNC machines and offers a wide range of services including product development, tool design, and consultancy.",
+  "category": "Engineering",
+  "parent_organization": "Central"
+},
+{
+  "name": "Bureau of Energy Efficiency",
+  "abbreviation": "BEE",
+  "description": "The Bureau of Energy Efficiency (BEE) is a statutory body under the Ministry of Power, Government of India. Established on March 1, 2002, under the provisions of the Energy Conservation Act, 2001, BEE's primary objective is to reduce the energy intensity of the Indian economy. The agency develops policies and strategies to promote energy efficiency and conservation across various sectors, including industry, transportation, and buildings. Key initiatives by BEE include the Standards & Labeling Program, which provides energy efficiency ratings for appliances; the Perform, Achieve and Trade (PAT) scheme for energy-intensive industries; and the Energy Conservation Building Code (ECBC) for commercial buildings. BEE also conducts awareness campaigns and provides training programs to promote energy-efficient practices.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Central Tool Room & Training Centre, Bhubaneswar",
+  "abbreviation": "CTTC Bhubaneswar",
+  "description": "The Central Tool Room & Training Centre (CTTC), Bhubaneswar, is an autonomous institution under the Ministry of Micro, Small and Medium Enterprises (MSME), Government of India. Established in 1991 through a technical cooperation program between the Governments of India and Denmark, CTTC aims to enhance the competitiveness of the MSME sector by providing high-quality tool design and manufacturing services, as well as industry-oriented training programs. The center offers long-term and short-term courses in areas such as CAD/CAM, Tool Design & Manufacturing, CNC Programming & Machining, Mechatronics, Industrial Automation, and VLSI. CTTC also provides consultancy services, precision machining, and has contributed to significant projects like ISRO's Mars Orbiter Mission and Chandrayaan missions. With extension centers in Rayagada, Kalinganagar, Durg, and Berhampur, CTTC plays a pivotal role in skill development and technological advancement in India.",
+  "category": "Engineering",
+  "parent_organization": "Odisha"
+},
+{
+  "name": "National Institute of Technology Kurukshetra",
+  "abbreviation": "NIT Kurukshetra",
+  "description": "The National Institute of Technology Kurukshetra (NIT Kurukshetra) is a public technical and research university located in Kurukshetra, Haryana, India. Established in 1963 as Regional Engineering College Kurukshetra, it was conferred the status of an Institute of National Importance in December 2008. NIT Kurukshetra offers undergraduate, postgraduate, and doctoral programs in various fields of engineering, technology, applied sciences, and management. The institute is known for its emphasis on research and innovation, with state-of-the-art laboratories and research centers. It hosts annual festivals like 'Techspardha', a techno-managerial fest, and 'Confluence', a cultural fest, fostering a vibrant campus life.",
+  "category": "Engineering",
+  "parent_organization": "Haryana"
+},
+{
+  "name": "Central Forensic Science Laboratory",
+  "abbreviation": "CFSL",
+  "description": "The Central Forensic Science Laboratory (CFSL) is a network of premier forensic institutions under the Ministry of Home Affairs, Government of India. Established to provide scientific support to the criminal justice system, CFSLs analyze crime scene evidence and offer expert opinions in courts. There are seven CFSLs located in Hyderabad, Kolkata, Chandigarh, New Delhi, Guwahati, Bhopal, and Pune. While most laboratories operate under the Directorate of Forensic Science Services (DFSS), the CFSL in New Delhi functions under the Central Bureau of Investigation (CBI). Each laboratory specializes in various forensic disciplines, including DNA analysis, cyber forensics, ballistics, toxicology, and questioned document examination. CFSLs also engage in research and development to advance forensic science in India.",
+  "category": "Civil Services",
+  "parent_organization": "Ministry of Home Affairs, Government of India"
+},
+{
+  "name": "NTPC Limited",
+  "abbreviation": "NTPC",
+  "description": "NTPC Limited, formerly known as National Thermal Power Corporation, is India's largest power generation company. Established in 1975, NTPC is a Maharatna Central Public Sector Undertaking under the Ministry of Power, Government of India. Headquartered in New Delhi, the company is involved in the generation and sale of electricity to state-owned power distribution companies and State Electricity Boards in India. NTPC's operations encompass the entire value chain of the power generation business, including coal-based thermal power, gas-based power, hydroelectric power, and renewable energy sources like solar and wind. As of 2025, NTPC has an installed capacity of over 80 GW, contributing approximately 25% of India's total power generation. The company is also expanding into nuclear energy, with plans to develop small modular reactors and large-scale nuclear power projects. NTPC is listed on the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE) and is a constituent of the BSE SENSEX and NSE NIFTY 50 indices.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "All India Institute of Medical Sciences, Bhopal",
+  "abbreviation": "AIIMS Bhopal",
+  "description": "All India Institute of Medical Sciences, Bhopal (AIIMS Bhopal) is a premier public medical university and research institution located in Saket Nagar, Bhopal, Madhya Pradesh, India. Established in 2012 under the Pradhan Mantri Swasthya Suraksha Yojna (PMSSY), it is one of the Institutes of National Importance aimed at correcting regional imbalances in quality tertiary-level healthcare. AIIMS Bhopal offers undergraduate (MBBS), postgraduate (MD/MS), and doctoral programs in various medical and allied health sciences. The institute is equipped with state-of-the-art facilities, including a Biosafety Level 3 (BSL-3) laboratory, and has been designated as a Centre of Excellence for Rare Diseases. It actively engages in research areas such as bioinformatics, tissue engineering, molecular diagnostics, and precision medicine, collaborating with institutions like IISc Bangalore, IIT Kanpur, and IISER Bhopal. In 2024, AIIMS Bhopal was ranked 31st among medical colleges in India by the National Institutional Ranking Framework (NIRF).",
+  "category": "Medical",
+  "parent_organization": "Madhya Pradesh"
+},
+{
+  "name": "Coir Board",
+  "abbreviation": "Coir Board",
+  "description": "The Coir Board is a statutory body established by the Government of India under the Coir Industry Act, 1953. It functions under the Ministry of Micro, Small and Medium Enterprises (MSME) and is tasked with the promotion and development of the coir industry in India. Headquartered in Kochi, Kerala, with regional offices across the country, the Board supports coir manufacturers, exporters, and workers through various initiatives. These include schemes like the Coir Vikas Yojana and the Mahila Coir Yojana, which aim to enhance production capacity, provide skill development, and empower women artisans. The Coir Board also facilitates research and development, quality improvement, and market promotion of coir products such as mats, rugs, ropes, and geotextiles, both domestically and internationally.",
+  "category": "Agriculture",
+  "parent_organization": "Central"
+},
+{
+  "name": "Bureau of Police Research and Development",
+  "abbreviation": "BPRD",
+  "description": "The Bureau of Police Research and Development (BPR&D) is a national organization under the Ministry of Home Affairs, Government of India, established on August 28, 1970. Its primary objective is to modernize and reform the police forces in India. BPR&D functions through four main divisions: Research, Development, Training, and Correctional Administration. The Research Division focuses on analyzing crime trends and police operations; the Development Division works on the advancement of police equipment and technologies; the Training Division oversees the enhancement of police training programs; and the Correctional Administration Division addresses prison reforms and correctional training. BPR&D also publishes various journals and manuals, such as the Indian Police Journal and the Police Drill Manual, to disseminate knowledge and best practices in policing.",
+  "category": "Civil Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of External Affairs",
+  "abbreviation": "MEA",
+  "description": "The Ministry of External Affairs (MEA) is the government agency responsible for the conduct of India's relations with foreign countries. Established in 1948, MEA operates more than 200 diplomatic missions worldwide and represents India at the United Nations and other international organizations. The ministry manages bilateral and multilateral relations, oversees consular services, and handles issues related to the Indian diaspora. It also administers the Indian Foreign Service (IFS), which is tasked with implementing India's foreign policy and representing the nation abroad.",
+  "category": "Civil Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Garden Reach Shipbuilders & Engineers Ltd",
+  "abbreviation": "GRSE",
+  "description": "Garden Reach Shipbuilders & Engineers Ltd (GRSE) is a premier Indian shipbuilding company located in Kolkata, West Bengal. Established in 1884 and nationalized in 1960, GRSE operates under the administrative control of the Ministry of Defence, Government of India. The company specializes in the design and construction of a wide range of vessels, including frigates, corvettes, patrol vessels, landing ships, and survey vessels for the Indian Navy and Coast Guard. GRSE has also exported warships to friendly foreign nations, such as Mauritius and Seychelles. In addition to shipbuilding, GRSE's engineering division manufactures prefabricated steel bridges, deck machinery, and marine pumps. The company has achieved significant milestones, including the delivery of over 100 warships and securing major contracts like the Indian Navy's Next Generation Corvettes project, valued at over ₹25,000 crore.",
+  "category": "Defence",
+  "parent_organization": "Central"
+},
+{
+  "name": "National Company Law Tribunal",
+  "abbreviation": "NCLT",
+  "description": "The National Company Law Tribunal (NCLT) is a quasi-judicial body in India established under Section 408 of the Companies Act, 2013. Constituted on June 1, 2016, based on the recommendations of the V. Balakrishna Eradi committee, the NCLT adjudicates issues relating to Indian companies. It serves as the adjudicating authority for matters pertaining to company law, including proceedings related to arbitration, compromise, arrangements, reconstructions, and winding up of companies. Additionally, under the Insolvency and Bankruptcy Code, 2016, the NCLT oversees the insolvency resolution process for companies and limited liability partnerships. The tribunal has multiple benches across India, with the Principal Bench located in New Delhi. Decisions of the NCLT can be appealed to the National Company Law Appellate Tribunal (NCLAT), and subsequently to the Supreme Court of India on points of law.",
+  "category": "Civil Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "New India Assurance Company Limited",
+  "abbreviation": "NIACL",
+  "description": "The New India Assurance Company Limited (NIACL) is a multinational general insurance company owned by the Government of India and administered by the Ministry of Finance. Founded in 1919 by Sir Dorabji Tata, NIACL is headquartered in Mumbai and operates in over 25 countries. It is India's largest non-life insurance company in terms of net worth, domestic gross direct premium, profit after tax, and number of branches. NIACL offers a wide range of insurance products including fire, marine, motor, health, liability, aviation, engineering, crop, and other miscellaneous insurance. The company has a vast network of offices across India and abroad, providing comprehensive insurance solutions to individuals and businesses.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
   "name": "Translational Health Science and Technology Institute",
   "abbreviation": "THSTI",
   "description": "The Translational Health Science and Technology Institute (THSTI) is an autonomous institute under the Department of Biotechnology, Ministry of Science and Technology, Government of India. Established in 2009, THSTI is located in the NCR Biotech Science Cluster in Faridabad, Haryana. The institute aims to integrate multidisciplinary scientific teams from medicine, science, and technology to facilitate translational research that bridges laboratory findings with clinical applications, thereby improving public health outcomes. THSTI hosts several specialized research centers, including the Centre for Maternal and Child Health, Centre for Virus Research, Therapeutics and Vaccines, Centre for Tuberculosis Research, Centre for Microbial Research, Centre for Immunobiology and Immunotherapy, Computational and Mathematical Biology Centre, Centre for Bio-design and Diagnostics, Centre for Drug Discovery, and the Clinical Development Services Agency. These centers focus on areas such as vaccine development, infectious diseases, diagnostics, and drug discovery. THSTI also offers academic programs, including a Master of Science in Clinical Research and Ph.D. programs, contributing to capacity building in the healthcare research sector.",
