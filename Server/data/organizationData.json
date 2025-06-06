@@ -1829,7 +1829,42 @@
   "description": "The Footwear Design and Development Institute (FDDI) is a premier academic and training institution established in 1986 under the aegis of the Ministry of Commerce and Industry, Government of India. Headquartered in Noida, Uttar Pradesh, FDDI was designated as an 'Institution of National Importance' under the FDDI Act, 2017. The institute specializes in the fields of footwear design, leather goods, fashion design, and retail management. FDDI offers comprehensive undergraduate and postgraduate programs, including Bachelor of Design (B.Des) and Master of Design (M.Des) degrees, across its 12 state-of-the-art campuses located in Noida, Fursatganj (Raebareli), Chennai, Kolkata, Rohtak, Chhindwara, Guna, Jodhpur, Ankleshwar, Banur, Patna, and Hyderabad. The institute conducts the All India Selection Test (AIST) annually for admissions. FDDI is renowned for its industry-oriented curriculum, modern infrastructure, and strong placement records, contributing significantly to the growth of the footwear, fashion, and retail sectors in India.",
   "category": "Higher Education & Specialized Exams",
   "parent_organization": "Central"
-}
+},
+{
+  "name": "Jawaharlal Institute of Postgraduate Medical Education and Research",
+  "abbreviation": "JIPMER",
+  "description": "The Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER) is a premier public medical institution located in Puducherry, India. Established in 1823 as the École de Médecine de Pondichéry by the French government, it was later taken over by the Government of India and renamed in honor of India's first Prime Minister, Jawaharlal Nehru. In 2008, JIPMER was designated as an Institute of National Importance (INI) under the Ministry of Health and Family Welfare. The institute offers a wide range of undergraduate, postgraduate, and super-specialty medical courses, including MBBS, MD, MS, DM, and MCh programs. Admissions are based on national-level entrance examinations such as NEET-UG, INI-CET, and INI-SS. JIPMER is also renowned for its research contributions in modern medicine, public health, and medical education, with collaborations with international institutions like the Harvard School of Public Health. The campus spans 195 acres and includes multiple hospital blocks, a nursing college, and research facilities. In the National Institutional Ranking Framework (NIRF) 2024, JIPMER was ranked 5th among medical institutions in India.",
+  "category": "Medical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Rashtriya Chemicals and Fertilizers Limited",
+  "abbreviation": "RCFL",
+  "description": "Rashtriya Chemicals and Fertilizers Limited (RCFL) is a leading public sector undertaking under the Ministry of Chemicals and Fertilizers, Government of India. Established in 1978, RCF is headquartered in Mumbai, Maharashtra, and operates two manufacturing units located at Trombay (Mumbai) and Thal (Raigad district, Maharashtra). The company specializes in the production of a wide range of fertilizers and industrial chemicals, including urea, complex fertilizers (NPK), bio-fertilizers, micro-nutrients, and various industrial chemicals such as methanol, nitric acid, and ammonium nitrate. RCF's products are widely used in agriculture and various industries like pharmaceuticals, dyes, and leather. The company has been accorded 'Navratna' status and is known for its commitment to sustainability, with initiatives like operating sewage treatment plants to meet its water requirements.",
+  "category": "Agriculture",
+  "parent_organization": "Central"
+},
+{
+  "name": "Mumbai Metro Rail Corporation Limited",
+  "abbreviation": "MMRCL",
+  "description": "Mumbai Metro Rail Corporation Limited (MMRCL) is a joint venture between the Government of India and the Government of Maharashtra, established to implement the Mumbai Metro Line-3 (Colaba-Bandra-SEEPZ), also known as the Aqua Line. This 33.5 km fully underground corridor aims to alleviate traffic congestion in Mumbai by providing a modern, efficient, and sustainable mass rapid transit system. The line comprises 27 stations and is designed to connect key business districts, educational institutions, and the international airport, thereby enhancing urban mobility. MMRCL employs advanced technologies, including platform screen doors and Communication-Based Train Control (CBTC) signaling, to ensure passenger safety and operational efficiency. The project is partially operational, with the Bandra Kurla Complex to Aarey section inaugurated on October 5, 2024.",
+  "category": "Public Services",
+  "parent_organization": "Maharashtra"
+},
+{
+  "name": "Indira Gandhi Institute of Medical Sciences",
+  "abbreviation": "IGIMS",
+  "description": "The Indira Gandhi Institute of Medical Sciences (IGIMS) is a premier public medical institution located in Patna, Bihar, India. Established on November 19, 1983, under the State Legislature Act, IGIMS was modeled after the All India Institute of Medical Sciences (AIIMS), New Delhi, with the objective of providing super-specialty medical care and reducing the patient load on other national institutes. The institute offers a wide range of academic programs, including MBBS, MD, MS, DM, M.Ch, DNB, Ph.D., and various paramedical courses. Admissions are primarily based on national-level entrance examinations such as NEET-UG for MBBS, NEET-PG for postgraduate courses, and NEET-SS for super-specialty programs. The IGIMS campus spans 131 acres on Bailey Road and currently houses approximately 1,070 beds, including a 100-bed Regional Cancer Institute. Expansion plans are underway to increase capacity to 2,500 beds, with ongoing construction of a 500-bed ultra-modern hospital and a 200-bed Regional Institute of Ophthalmology. IGIMS is recognized by the National Medical Commission (NMC), University Grants Commission (UGC), and the Association of Indian Universities (AIU), and is affiliated with the Ministry of Health and Family Welfare, Government of Bihar.",
+  "category": "Medical",
+  "parent_organization": "Bihar"
+},
+{
+  "name": "All India Institute of Medical Sciences, New Delhi",
+  "abbreviation": "AIIMS Delhi",
+  "description": "The All India Institute of Medical Sciences (AIIMS), New Delhi, is a premier public medical research university and hospital located in New Delhi, India. Established in 1956 under the AIIMS Act, it operates autonomously under the Ministry of Health and Family Welfare. AIIMS Delhi is renowned for its excellence in medical education, research, and patient care. The institute offers a wide range of undergraduate, postgraduate, and doctoral programs in various medical and allied health sciences. With a sprawling urban campus of over 213 acres, AIIMS Delhi houses state-of-the-art facilities, including specialized research centers and a comprehensive hospital complex. The institute is consistently ranked among the top medical institutions in India and holds the status of an Institute of National Importance.",
+  "category": "Medical",
+  "parent_organization": "Central"
+} 
  
  
  
