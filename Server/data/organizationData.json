@@ -1955,7 +1955,552 @@
   "description": "The All India Institute of Medical Sciences (AIIMS), New Delhi, is a premier public medical research university and hospital located in New Delhi, India. Established in 1956 under the AIIMS Act, it operates autonomously under the Ministry of Health and Family Welfare. AIIMS Delhi is renowned for its excellence in medical education, research, and patient care. The institute offers a wide range of undergraduate, postgraduate, and doctoral programs in various medical and allied health sciences. With a sprawling urban campus of over 213 acres, AIIMS Delhi houses state-of-the-art facilities, including specialized research centers and a comprehensive hospital complex. The institute is consistently ranked among the top medical institutions in India and holds the status of an Institute of National Importance.",
   "category": "Medical",
   "parent_organization": "Central"
-} 
+} ,
+
+{
+  "name": "All India Institute of Medical Sciences, Patna",
+  "abbreviation": "AIIMS Patna",
+  "description": "The All India Institute of Medical Sciences (AIIMS), Patna, is a premier medical college and hospital located in Patna, Bihar. Established in 2012 as part of the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY), AIIMS Patna is one of the new AIIMS institutions aimed at correcting regional imbalances in healthcare services and education. It operates autonomously under the Ministry of Health and Family Welfare and offers undergraduate, postgraduate, and super-specialty medical courses. AIIMS Patna is dedicated to providing top-tier medical education, advanced healthcare, and cutting-edge research in the field of medicine.",
+  "category": "Medical",
+  "parent_organization": "Bihar"
+},
+{
+  "name": "Government of Bihar",
+  "abbreviation": "GoB",
+  "description": "The Government of Bihar is the governing authority of the Indian state of Bihar. It comprises the executive, led by the Governor and the Chief Minister, the legislative branch with the Bihar Legislative Assembly and Legislative Council, and the judiciary. The government is responsible for administration, law and order, development programs, education, healthcare, infrastructure, and various other public services across the state. It operates through multiple departments and agencies to implement policies and schemes that contribute to the socio-economic development of Bihar.",
+  "category": "Public Services",
+  "parent_organization": "Bihar"
+},
+{
+  "name": "National Insurance Company Limited",
+  "abbreviation": "NICL",
+  "description": "National Insurance Company Limited (NICL) is a state-owned general insurance company in India. Established in 1906 and nationalized in 1972, NICL operates under the ownership of the Ministry of Finance, Government of India. Headquartered in Kolkata, it offers a wide range of insurance products including health, motor, property, and marine insurance. NICL plays a crucial role in the financial services sector by providing risk coverage and insurance solutions to individuals, businesses, and government entities across the country. It also conducts competitive recruitment exams for various administrative and officer-level positions.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Mahatma Gandhi Central University, Bihar",
+  "abbreviation": "MGCUB",
+  "description": "Mahatma Gandhi Central University, Bihar (MGCUB), is a central university established in 2016 and located in Motihari, Bihar. It operates under the Central Universities Act and is funded by the Government of India. MGCUB offers undergraduate, postgraduate, and doctoral programs across diverse disciplines including humanities, sciences, social sciences, commerce, and management. The university aims to provide quality higher education and research opportunities while promoting academic excellence and inclusive development. It holds the status of a Central University and contributes to expanding access to higher education in the region.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Bihar"
+},
+{
+  "name": "Ministry of Women & Child Development",
+  "abbreviation": "MWCD",
+  "description": "The Ministry of Women & Child Development is a branch of the Government of India responsible for formulating and implementing policies and programs focusing on the welfare and empowerment of women and children. It oversees schemes related to health, education, nutrition, safety, and protection, such as the Beti Bachao Beti Padhao initiative and Integrated Child Protection Scheme. Operating through a network of state and district-level bodies, the Ministry works towards ensuring gender equality, child rights, and overall social security in India.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Central Council for Research in Homoeopathy",
+  "abbreviation": "CCRH",
+  "description": "The Central Council for Research in Homoeopathy (CCRH) is an autonomous organization under the Ministry of AYUSH, Government of India. Established in 1978, CCRH is responsible for the formulation, coordination, development, and promotion of research in Homoeopathy. It undertakes clinical, drug, and fundamental research and operates a network of research institutes and centers across the country. The council also contributes to policy development, standardization of homoeopathic medicines, and public health initiatives. CCRH plays a critical role in advancing scientific evidence for Homoeopathy in India.",
+  "category": "Medical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Department of Health and Family Welfare",
+  "abbreviation": "DHFW",
+  "description": "The Department of Health and Family Welfare (DHFW) is a government body responsible for implementing public health policies, programs, and services at both central and state levels in India. Its core functions include managing healthcare delivery systems, maternal and child health services, disease control programs, immunization drives, and family planning initiatives. DHFW works through a network of hospitals, primary health centers, and outreach programs to ensure accessible and affordable healthcare for all citizens. It plays a vital role in strengthening the country's public health infrastructure and improving health outcomes.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Sports Authority of India",
+  "abbreviation": "SAI",
+  "description": "The Sports Authority of India (SAI) is the apex national sports body responsible for the promotion of sports and the development of sporting talent in India. Established in 1984 under the Ministry of Youth Affairs and Sports, Government of India, SAI manages various sports training centers, including National Centres of Excellence and Sports Hostels. It provides infrastructure, coaching, and financial support to athletes across disciplines. SAI also implements key government sports schemes such as Khelo India and contributes significantly to India's performance in national and international competitions.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Life Insurance Corporation of India",
+  "abbreviation": "LIC",
+  "description": "Life Insurance Corporation of India (LIC) is a state-owned insurance and investment corporation, established in 1956 and headquartered in Mumbai. Operating under the Ministry of Finance, Government of India, LIC is the largest life insurance company in India. It offers a wide range of life insurance products, pension plans, and investment services to individuals and groups. LIC plays a key role in financial inclusion and national economic development through its vast network of branches, agents, and digital services across the country.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ferro Scrap Nigam Limited",
+  "abbreviation": "FSNL",
+  "description": "Ferro Scrap Nigam Limited (FSNL) is a government-owned company under the Ministry of Steel, Government of India. Incorporated in 1979, FSNL is a subsidiary of MSTC Limited and specializes in the processing and recovery of scrap from slag and other allied activities in the steel sector. FSNL provides specialized services to major steel plants across India, including slag handling, metal recovery, and scrap management. It plays an essential role in improving efficiency, sustainability, and environmental practices in the steel manufacturing industry.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Education",
+  "abbreviation": "MoE",
+  "description": "The Ministry of Education (MoE) is a branch of the Government of India responsible for the formulation and administration of the rules, regulations, and laws relating to education in India. Established in 1985 (formerly known as the Ministry of Human Resource Development until 2020), it oversees all aspects of school and higher education, including policy formulation, funding, assessment, accreditation, and regulation through bodies like UGC, AICTE, and NCERT. The Ministry promotes accessible, equitable, and quality education across the country.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "National Institute of Technology, Andhra Pradesh",
+  "abbreviation": "NIT Andhra Pradesh",
+  "description": "The National Institute of Technology Andhra Pradesh (NIT Andhra Pradesh) is an autonomous public technical university located in Tadepalligudem, West Godavari district. Established in 2015 and designated as an Institute of National Importance, it operates under the Ministry of Education, Government of India. The institute offers undergraduate, postgraduate, and doctoral programs in engineering, technology, and sciences. NIT Andhra Pradesh is committed to academic excellence, research innovation, industry collaboration, and overall technical education, with modern infrastructure and multidisciplinary laboratories.",
+  "category": "Engineering",
+  "parent_organization": "Andhra Pradesh"
+}, 
+{
+  "name": "Government of Andhra Pradesh",
+  "abbreviation": "GoAP",
+  "description": "The Government of Andhra Pradesh is the administrative body governing the state of Andhra Pradesh in India. It consists of the executive, led by the Governor and Chief Minister, the bicameral legislature (Legislative Assembly and Legislative Council), and the judiciary. The government is responsible for law and order, public administration, infrastructure development, education, healthcare, agriculture, and welfare programs. It functions through various departments and agencies to implement state policies, flagship schemes, and development initiatives aimed at enhancing socio-economic progress in the region.",
+  "category": "Public Services",
+  "parent_organization": "Andhra Pradesh"
+},
+{
+  "name": "Hindustan Shipyard Limited",
+  "abbreviation": "HSL",
+  "description": "Hindustan Shipyard Limited (HSL) is a premier government-owned shipbuilding and maintenance facility under the Ministry of Defence, Government of India. Established in 1941 in Visakhapatnam, Andhra Pradesh, HSL specializes in constructing, repairing, and overhauling naval and commercial vessels. It provides critical ship repair services to the Indian Navy and Coast Guard, and manufactures essential marine equipment and platforms. With dry docks, workshops, and skilled workforce, HSL plays a strategic role in supporting India's maritime defense and commercial shipping capabilities.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Petroleum and Energy",
+  "abbreviation": "IIPE",
+  "description": "The Indian Institute of Petroleum and Energy (IIPE), located in Visakhapatnam, Andhra Pradesh, is an Institute of National Importance established in 2016 under the Ministry of Petroleum & Natural Gas. It offers undergraduate, postgraduate, and doctoral programs in petroleum and energy engineering. IIPE focuses on advanced research, industry collaboration, and technical education in areas such as petroleum exploration, petrochemical engineering, renewable energy, and sustainable energy systems. The institute aims to address India's energy sector needs by developing skilled professionals and cutting‑edge technologies.",
+  "category": "Engineering",
+  "parent_organization": "Central"
+},
+{
+  "name": "Tribal Cooperative Marketing Development Federation of India Limited",
+  "abbreviation": "TRIFED",
+  "description": "Tribal Cooperative Marketing Development Federation of India Limited (TRIFED) is a national-level apex organization under the Ministry of Tribal Affairs, Government of India. Established in 1987, TRIFED is dedicated to promoting tribal products, ensuring fair trade practices, and empowering tribal communities through marketing support and capacity building. It operates the 'TRIBES India' brand, organizes exhibitions, and facilitates the development of sustainable livelihoods for tribal artisans and forest dwellers. TRIFED plays a vital role in tribal welfare and inclusive economic development.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Department of Atomic Energy",
+  "abbreviation": "DAE",
+  "description": "The Department of Atomic Energy (DAE) is a key government department under the direct control of the Prime Minister of India. Established in 1954, DAE is responsible for nuclear energy production, atomic research, and the development of nuclear technology for peaceful purposes. It oversees institutions like BARC, NPCIL, IGCAR, and TIFR, contributing to areas such as energy, healthcare, agriculture, and advanced scientific research. DAE plays a crucial role in India's strategic capabilities and technological advancement.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Government of Tamil Nadu",
+  "abbreviation": "GoTN",
+  "description": "The Government of Tamil Nadu is the governing authority of the state of Tamil Nadu, India. It comprises the executive (headed by the Governor and the Chief Minister), the unicameral Legislative Assembly, and the judiciary. The government is responsible for administration, public services, infrastructure development, education, healthcare, agriculture, law and order, and welfare schemes. It functions through various departments and municipalities to implement state-level policies and initiatives for socio-economic growth.",
+  "category": "Public Services",
+  "parent_organization": "Tamil Nadu"
+},
+{
+  "name": "National Institute of Technology, Tiruchirappalli",
+  "abbreviation": "NIT Trichy",
+  "description": "National Institute of Technology, Tiruchirappalli (NIT Trichy) is one of India’s premier autonomous technical universities, located in Tiruchirappalli, Tamil Nadu. Founded in 1964 as Regional Engineering College and granted the status of Institute of National Importance in 2003, it operates under the Ministry of Education, Government of India. NIT Trichy offers a wide range of undergraduate, postgraduate, and doctoral programs in engineering, technology, science, architecture, and management. Renowned for its robust academic curriculum, cutting-edge research, and industry collaboration, it consistently ranks among the top NITs in the country.",
+  "category": "Engineering",
+  "parent_organization": "Central"
+},
+{
+  "name": "Chennai Metro Rail Limited",
+  "abbreviation": "CMRL",
+  "description": "Chennai Metro Rail Limited (CMRL) is a joint venture between the Government of India and the Government of Tamil Nadu responsible for implementing and operating the Chennai Metro. Established in 2007, CMRL plans, constructs, and manages metro rail infrastructure and services aimed at improving urban mobility in Chennai. It oversees project execution from civil works to signalling and train operations, and plays a key role in enhancing public transportation, reducing traffic congestion, and promoting sustainable urban development.",
+  "category": "Railways",
+  "parent_organization": "Central"
+},
+{
+  "name": "Department of Financial Services",
+  "abbreviation": "DFS",
+  "description": "The Department of Financial Services (DFS) is part of the Ministry of Finance, Government of India. It oversees banking, insurance, pension reforms, and financial inclusion initiatives. DFS regulates and formulates policies for public sector banks, private banks, non-banking financial companies, insurance firms, and pension funds. It also implements flagship programs such as Pradhan Mantri Jan Dhan Yojana, Atal Pension Yojana, and provides administrative oversight to institutions like RBI, IRDAI, and pension regulators.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Defence",
+  "abbreviation": "MoD",
+  "description": "The Ministry of Defence (MoD) is a key ministry under the Government of India responsible for maintaining and managing the country's defense and armed forces. It oversees the Indian Army, Navy, Air Force, Coast Guard, and several Defence Public Sector Undertakings (DPSUs). The MoD formulates policies, allocates budgets, and coordinates national security efforts, procurement, research, and defense manufacturing. It works to ensure the territorial integrity and strategic interests of India both domestically and internationally.",
+  "category": "Defence",
+  "parent_organization": "Central"
+},
+{
+  "name": "All India Institute of Medical Sciences, Rishikesh",
+  "abbreviation": "AIIMS Rishikesh",
+  "description": "All India Institute of Medical Sciences (AIIMS), Rishikesh, is an autonomous public medical university and hospital located in Rishikesh, Uttarakhand. Established in 2012 under the Pradhan Mantri Swasthya Suraksha Yojana and operating under the Ministry of Health and Family Welfare, Government of India, AIIMS Rishikesh provides high-quality medical education, patient care, and research. The institute offers undergraduate, postgraduate, and doctoral programs in various medical and allied health disciplines. It is equipped with modern clinical facilities, advanced diagnostic services, and specialized departments, serving as a key healthcare hub in the region.",
+  "category": "Medical",
+  "parent_organization": "Uttarakhand"
+},
+{
+  "name": "Indian Institute of Technology Roorkee",
+  "abbreviation": "IIT Roorkee",
+  "description": "Indian Institute of Technology Roorkee (IIT Roorkee) is an autonomous public technical and research university located in Roorkee, Uttarakhand. Established in 1847 as the College of Civil Engineering and later designated as an IIT in 2001, it is one of India’s oldest and premier engineering institutions. Functioning under the Ministry of Education, Government of India, IIT Roorkee offers undergraduate, postgraduate, and doctoral programs in engineering, technology, architecture, sciences, management, and humanities. It is renowned for its strong academic curriculum, innovative research initiatives, industry partnerships, and contributions to national and global technological advancement.",
+  "category": "Engineering",
+  "parent_organization": "Uttarakhand"
+},
+{
+  "name": "Government of Uttarakhand",
+  "abbreviation": "GoUK",
+  "description": "The Government of Uttarakhand is the governing authority of the state of Uttarakhand, India. It comprises the executive (headed by the Governor and Chief Minister), the unicameral Legislative Assembly, and the judiciary. The government is responsible for administration, public services, infrastructure development, education, healthcare, agriculture, environment, disaster management, and welfare programs. It operates through various departments and agencies to implement state policies, schemes, and initiatives for sustainable socio-economic development in the region.",
+  "category": "Public Services",
+  "parent_organization": "Uttarakhand"
+},
+{
+  "name": "Ministry of Environment, Forest and Climate Change",
+  "abbreviation": "MoEFCC",
+  "description": "The Ministry of Environment, Forest and Climate Change (MoEFCC) is a central government ministry responsible for planning, promoting, coordinating, and overseeing environmental and forestry programmes in India. It formulates national policies, legislation, and regulations for the conservation of natural resources, protection of the environment, and sustainable development. The ministry also implements and monitors various biodiversity, climate change mitigation, pollution control, and afforestation initiatives through its departments and subordinate bodies.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Management Kashipur",
+  "abbreviation": "IIM Kashipur",
+  "description": "The Indian Institute of Management Kashipur (IIM Kashipur) is a premier public business school located in Kashipur, Uttarakhand. Established in 2011 under the Indian Institutes of Management Act and operating under the Ministry of Education, Government of India, IIM Kashipur offers postgraduate, doctoral, and executive programs in management. The institute emphasizes rigorous academic curriculum, high-quality research, industry engagement, and leadership development. It is renowned for its state-of-the-art campus facilities and strong placement records, contributing significantly to India's management education landscape.",
+  "category": "Academics Research",
+  "parent_organization": "Uttarakhand"
+},
+{
+  "name": "National Institute of Technology, Uttarakhand",
+  "abbreviation": "NIT Uttarakhand",
+  "description": "National Institute of Technology Uttarakhand (NIT Uttarakhand) is an autonomous public technical institute located in Srinagar, Uttarakhand. Established in 2009 and designated as an Institute of National Importance under the Ministry of Education, Government of India, it offers undergraduate, postgraduate, and doctoral programs in engineering, sciences, and technology. The institute focuses on quality technical education, research, and innovation, and is equipped with modern laboratories, classrooms, and collaborative industry linkages.",
+  "category": "Engineering",
+  "parent_organization": "Uttarakhand"
+},
+{
+  "name": "Government of Uttar Pradesh",
+  "abbreviation": "GoUP",
+  "description": "The Government of Uttar Pradesh is the governing authority of the state of Uttar Pradesh, India. It comprises the executive (headed by the Governor and the Chief Minister), the unicameral Legislative Assembly, and the judiciary. The government is responsible for administration, public services, infrastructure development, law and order, education, healthcare, agriculture, and welfare schemes. It functions through numerous departments and agencies to implement state-level policies and programs aimed at promoting socio-economic development across the state.",
+  "category": "Public Services",
+  "parent_organization": "Uttar Pradesh"
+},
+{
+  "name": "High Court of Allahabad",
+  "abbreviation": "High Court of Allahabad",
+  "description": "The High Court of Allahabad, established on 17 March 1866, is one of the oldest and largest high courts in India with jurisdiction over the state of Uttar Pradesh. Located in Allahabad (Prayagraj), it administers justice across civil, criminal, constitutional, and administrative matters. The High Court supervises subordinate courts, handles writ petitions, and serves as an appellate authority. It plays a pivotal role in upholding the rule of law and protecting individual rights within its jurisdiction.",
+  "category": "Public Services",
+  "parent_organization": "Uttar Pradesh"
+},
+{
+  "name": "Government of Rajasthan",
+  "abbreviation": "GoR",
+  "description": "The Government of Rajasthan is the governing authority of the state of Rajasthan, India. It comprises the executive branch (headed by the Governor and the Chief Minister), the unicameral Legislative Assembly, and the judiciary. The government is responsible for administration, law and order, infrastructure development, education, healthcare, tourism, agriculture, and welfare programs. It operates through various departments and agencies to implement state-level policies and initiatives aimed at socio‑economic growth and cultural preservation in the region.",
+  "category": "Public Services",
+  "parent_organization": "Rajasthan"
+},
+{
+  "name": "All India Institute of Medical Sciences, Raebareli",
+  "abbreviation": "AIIMS Raebareli",
+  "description": "All India Institute of Medical Sciences (AIIMS), Raebareli, is an autonomous public medical research university and hospital located in Raebareli, Uttar Pradesh. Approved in 2013 under the PMSSY Phase II initiative, it became operational in 2018 and began its first MBBS batch in 2019. Operating under the Ministry of Health and Family Welfare, AIIMS Raebareli offers undergraduate (MBBS), postgraduate (MD/MS), and doctoral programs. The sprawling campus spans approximately 148 acres and includes modern clinical, teaching, and research facilities. With a 750‑bed hospital, the institute emphasizes high-quality patient care, advanced medical education, and cutting-edge research.",
+  "category": "Medical",
+  "parent_organization": "Uttar Khand"
+},
+{
+  "name": "Ministry of Civil Aviation",
+  "abbreviation": "MoCA",
+  "description": "The Ministry of Civil Aviation (MoCA) is the nodal ministry of the Government of India responsible for formulation of national policies and programmes for the development and regulation of the civil aviation sector in the country. It oversees air transport services, airport infrastructure, air safety, and air traffic services. MoCA also administers statutory bodies like the Directorate General of Civil Aviation (DGCA) and Airports Authority of India (AAI), aiming to ensure safe, efficient, and sustainable growth of civil aviation.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Information and Broadcasting",
+  "abbreviation": "MoIB",
+  "description": "The Ministry of Information and Broadcasting (MoIB) is the nodal ministry of the Government of India responsible for formulating and administering rules, regulations, and laws relating to information, broadcasting, the press, and films in India. It oversees content regulation for television and radio, administers public service broadcasting through Doordarshan and All India Radio, supports the film sector via the Film Division and the National Film Development Corporation, and implements the Press Information Bureau. The ministry also promotes film and media culture, awards, and film festivals.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Motilal Nehru National Institute of Technology, Allahabad",
+  "abbreviation": "MNNIT Allahabad",
+  "description": "Motilal Nehru National Institute of Technology (MNNIT), Allahabad, is a premier public technical university located in Prayagraj (formerly Allahabad), Uttar Pradesh. Established in 1961 and designated as an Institute of National Importance, it operates under the Ministry of Education, Government of India. MNNIT offers undergraduate, postgraduate, and doctoral programs in engineering, technology, sciences, management, and humanities. The institute is recognized for its strong academic curriculum, research output, industry collaborations, and cultural vibrancy, contributing significantly to national technical education.",
+  "category": "Engineering",
+  "parent_organization": "Uttar Pradesh"
+},
+{
+  "name": "Uttar Pradesh Metro Rail Corporation",
+  "abbreviation": "UPMRCL",
+  "description": "Uttar Pradesh Metro Rail Corporation (UPMRCL) is a joint venture company of the Government of India and the Government of Uttar Pradesh, responsible for the implementation, operation, and maintenance of metro rail projects in the state, including Lucknow Metro and Kanpur Metro. Established in 2013 as UP Metro Rail Corporation Ltd., it coordinates planning, construction, and service delivery to enhance urban public transit infrastructure and mobility.",
+  "category": "Railways",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Technology (BHU) Varanasi",
+  "abbreviation": "IIT BHU",
+  "description": "Indian Institute of Technology (BHU) Varanasi, commonly known as IIT BHU, is a premier autonomous public technical and research university located in Varanasi, Uttar Pradesh. Originally established in 1919 as the Banaras Engineering College and later merged with the Banaras Hindu University, it was designated as an IIT in 2012 under the Institutes of Technology Act. IIT BHU offers undergraduate, postgraduate, and doctoral programs in engineering, technology, sciences, humanities, and management. It is renowned for its strong academic curriculum, high-impact research, vibrant campus life, and significant contributions to India’s technical and scientific development.",
+  "category": "Engineering",
+  "parent_organization": "Uttar Pradesh"
+},
+{
+  "name": "All India Institute of Medical Sciences, Gorakhpur",
+  "abbreviation": "AIIMS Gorakhpur",
+  "description": "All India Institute of Medical Sciences (AIIMS), Gorakhpur, is an autonomous public medical university and hospital located in Gorakhpur, Uttar Pradesh. Announced under the PMSSY Phase IV initiative, it became operational in 2019 and admits its first MBBS cohort in 2020. Operating under the Ministry of Health and Family Welfare, Government of India, AIIMS Gorakhpur offers undergraduate (MBBS), postgraduate (MD/MS), and doctoral programs in various medical and allied health disciplines. The campus features modern teaching hospitals, advanced diagnostic services, and dedicated research facilities. The institute is committed to delivering high-quality medical education, specialized patient care, and impactful medical research in the region.",
+  "category": "Medical",
+  "parent_organization": "Uttar Pradesh"
+},
+{
+  "name": "Uttar Pradesh Public Works Department",
+  "abbreviation": "UPPWD",
+  "description": "The Uttar Pradesh Public Works Department (UPPWD) is a state government department responsible for the planning, design, construction, and maintenance of public infrastructure assets such as roads, bridges, government buildings, irrigation systems, and other civil works within Uttar Pradesh. It undertakes major and minor engineering projects to support transportation, irrigation, fire safety, and administrative infrastructure. UPPWD ensures structural safety, adherence to engineering standards, and timely delivery of public works across the state.",
+  "category": "Public Services",
+  "parent_organization": "Uttar Pradesh"
+},
+{
+  "name": "Department of Space",
+  "abbreviation": "DoS",
+  "description": "The Department of Space (DoS) is a central government department under the Prime Minister's Office responsible for the planning, formulation, and implementation of space policy, training, and providing space services in India. Established in 1972, it oversees organizations such as the Indian Space Research Organisation (ISRO), Vikram Sarabhai Space Centre (VSSC), and Liquid Propulsion Systems Centre (LPSC). DoS is tasked with satellite development, space exploration, launch vehicle missions, and satellite-based applications in fields like communication, remote sensing, navigation, and scientific research.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "All India Institute of Medical Sciences, Jodhpur",
+  "abbreviation": "AIIMS Jodhpur",
+  "description": "All India Institute of Medical Sciences (AIIMS), Jodhpur, is an autonomous public medical university and hospital located in Jodhpur, Rajasthan. Established in 2012 under the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY), AIIMS Jodhpur operates under the Ministry of Health and Family Welfare, Government of India. The institute offers undergraduate (MBBS), postgraduate (MD/MS), super-specialty, and doctoral programs across various medical and allied health disciplines. With modern clinical facilities, dedicated research centers, and a comprehensive hospital complex, AIIMS Jodhpur is committed to excellence in medical education, patient care, and innovative healthcare research.",
+  "category": "Medical",
+  "parent_organization": "Rajasthan"
+},
+{
+  "name": "Indian Council of Medical Research",
+  "abbreviation": "ICMR",
+  "description": "The Indian Council of Medical Research (ICMR) is the apex body for the formulation, coordination, and promotion of biomedical research in India. Established in 1911 and functioning under the Department of Health Research, Ministry of Health and Family Welfare, Government of India, ICMR supports and conducts research on communicable and non‑communicable diseases, reproduction, nutrition, immunology, and health systems. With a network of research institutes and centers, it plays a pivotal role in health policy development, public health preparedness, and the advancement of medical science in India.",
+  "category": "Medical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Technology Roorkee – Kota Campus",
+  "abbreviation": "IIT Kota",
+  "description": "Indian Institute of Technology Roorkee — Kota Campus (commonly referred to as IIT Kota) is a satellite campus of IIT Roorkee located in Kota, Rajasthan. Established in 2023 under the Super-National Mission on Holistic Education (SNMHE), it aims to expand access to quality technical education in emerging cities. Affiliated to IIT Roorkee, IIT Kota offers undergraduate (BTech) and postgraduate (MTech, PhD) programs in engineering and applied sciences, leveraging the parent institute’s academic framework, faculty, and research facilities.",
+  "category": "Engineering",
+  "parent_organization": "Rajasthan"
+},
+{
+  "name": "Indian Institute of Technology Gandhinagar",
+  "abbreviation": "IIT Gandhinagar",
+  "description": "Indian Institute of Technology Gandhinagar (IITGN) is a premier public technical and research university located in Gandhinagar, Gujarat. Established in 2008 as one of the eight new IITs, it operates under the Ministry of Education, Government of India. IIT Gandhinagar offers undergraduate, postgraduate, and doctoral programs in engineering, science, humanities, management, and design. Known for its interdisciplinary curriculum, innovative pedagogy, and commitment to sustainability and community engagement, IIT Gandhinagar is recognized for its excellence in research, innovation, and holistic education.",
+  "category": "Engineering",
+  "parent_organization": "Gujarat"
+},
+{
+  "name": "Government of Gujarat",
+  "abbreviation": "GoG",
+  "description": "The Government of Gujarat is the governing authority of the state of Gujarat, India. It comprises the executive (headed by the Governor and Chief Minister), unicameral Legislative Assembly, and the judiciary. The government is responsible for administration, public services, infrastructure development, education, healthcare, agriculture, law and order, industrial growth, and welfare schemes. It functions through a network of departments and agencies to implement state-level policies and initiatives aimed at promoting socio-economic development in the region.",
+  "category": "Public Services",
+  "parent_organization": "Gujarat"
+},
+{
+  "name": "Commissionerate of Higher Education, Gujarat",
+  "abbreviation": "CoHEG",
+  "description": "The Commissionerate of Higher Education (CoHEG) is the state‑level body under the Government of Gujarat responsible for the administration and oversight of higher education institutions in the state. It formulates policies, coordinates with universities, approves curricula and academic standards, and oversees examinations and accreditation for colleges and technical institutes. CoHEG also implements state‑level schemes for scholarship, quality assurance, and infrastructure development in higher education.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Gujarat"
+},
+{
+  "name": "All India Institute of Medical Sciences, Rajkot",
+  "abbreviation": "AIIMS Rajkot",
+  "description": "All India Institute of Medical Sciences (AIIMS), Rajkot is an autonomous public medical university and hospital located in Rajkot, Gujarat. Established in 2020 under the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY), it is one of the AIIMS–plus institutions set up to provide advanced medical education and healthcare across underserved regions. Operating under the Ministry of Health and Family Welfare, Government of India, AIIMS Rajkot offers undergraduate (MBBS), postgraduate (MD/MS), and soon doctoral programs in various medical and allied health sciences. The institute aims to deliver high-quality patient care, cutting-edge research, and specialized medical training to strengthen regional health infrastructure.",
+  "category": "Medical",
+  "parent_organization": "Gujarat"
+},
+{
+  "name": "Ministry of Labour and Employment",
+  "abbreviation": "MoLE",
+  "description": "The Ministry of Labour and Employment (MoLE) is a central government ministry in India responsible for promoting gainful employment, protecting workers’ rights, and ensuring appropriate working conditions. It oversees labour laws, national employment services, industrial relations, social security schemes like Employees’ Provident Fund (EPF) and Employees’ State Insurance (ESI), and implements skill development and welfare programs across the organized and unorganized sectors.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Commerce and Industry",
+  "abbreviation": "MoCI",
+  "description": "The Ministry of Commerce and Industry (MoCI) is a central government ministry in India responsible for formulating and implementing policies related to foreign and domestic trade, industrial development, export promotion, and economic engagement. It oversees departments such as the Department of Commerce (including DGFT), the Department for Promotion of Industry and Internal Trade (DPIIT), and agencies like the Export–Import Bank of India. The ministry works to enhance India’s global trade competitiveness, attract investments, foster industrial growth, and support small- and medium-sized enterprises.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Science and Technology",
+  "abbreviation": "MoST",
+  "description": "The Ministry of Science and Technology (MoST) is a central government ministry in India responsible for promoting scientific research, innovation, and technological development across various sectors. It oversees key departments such as the Department of Science and Technology (DST), Department of Biotechnology (DBT), and Department of Scientific and Industrial Research (DSIR). MoST funds and supports national laboratories, research institutions, and science-based policy initiatives aimed at advancing India's scientific capabilities and fostering innovation-driven growth.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Government of Kerala",
+  "abbreviation": "GoK",
+  "description": "The Government of Kerala is the governing authority of the state of Kerala, India. It comprises the executive branch headed by the Governor and Chief Minister, the unicameral Legislative Assembly, and the judiciary. The government is responsible for administration, law and order, infrastructure development, education, healthcare, agriculture, tourism, and implementation of welfare schemes. It operates through various departments and public sector undertakings to drive socio-economic growth and sustainable development in the state.",
+  "category": "Public Services",
+  "parent_organization": "Kerala"
+},
+{
+  "name": "Kannur International Airport",
+  "abbreviation": "KIAL",
+  "description": "Kannur International Airport is an international airport serving Kannur, Kasaragod, and surrounding regions in north Kerala. It commenced operations in December 2018 and is operated by Kannur International Airport Limited (KIAL), a company promoted by the Government of Kerala and the Airports Authority of India. The airport features modern terminal facilities, cargo handling infrastructure, and serves domestic and international flights, enhancing connectivity and supporting regional economic growth.",
+  "category": "Public Services",
+  "parent_organization": "Kerala"
+},
+{
+  "name": "Ministry of Electronics and Information Technology",
+  "abbreviation": "MeitY",
+  "description": "The Ministry of Electronics and Information Technology (MeitY) is a central government ministry in India responsible for policy formulation, regulation, and promotion in the areas of electronics, information technology, digital services, and the internet. It oversees initiatives related to e‑governance, cybersecurity, digital infrastructure (such as UIDAI and Digital India), semiconductor policy, innovation ecosystems, and software exports. MeitY operates through organizations like the Controller of Certifying Authorities (CCA), National Informatics Centre (NIC), CERT‑In, and others to drive India’s digital transformation agenda.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Heavy Industries",
+  "abbreviation": "MHI",
+  "description": "The Ministry of Heavy Industries (MHI) is a central government ministry in India responsible for the promotion, development, and regulation of heavy engineering industries. It oversees public sector undertakings such as Bharat Heavy Electricals Limited (BHEL), Heavy Engineering Corporation (HEC), and Tractors and Farm Equipment Limited (TAFE). MHI formulates policies, supports industrial modernization, and implements schemes to enhance manufacturing capabilities, quality, and competitiveness in the heavy industry sector.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "National Medical Commission",
+  "abbreviation": "NMC",
+  "description": "The National Medical Commission (NMC) is the apex regulatory body for medical education and professionals in India. Established in 2020 under the National Medical Commission Act, it replaced the Medical Council of India. NMC is responsible for setting policies for medical education, accrediting institutions, overseeing registration of medical practitioners, and conducting the National Exit Test (NExT). It aims to improve access to quality healthcare through better standards in education and ethical medical practice.",
+  "category": "Medical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Government of Maharashtra",
+  "abbreviation": "GoM",
+  "description": "The Government of Maharashtra is the governing authority of the state of Maharashtra, India. It consists of the executive branch (headed by the Governor and the Chief Minister), a bicameral legislature (Vidhan Sabha and Vidhan Parishad), and the judiciary. The government is responsible for policy-making and administration in sectors like education, healthcare, transportation, agriculture, industry, infrastructure, and law and order. Through its various departments and agencies, the Government of Maharashtra implements welfare programs and drives economic and social development in the state.",
+  "category": "Public Services",
+  "parent_organization": "Maharashtra"
+},
+{
+  "name": "Advanced Centre for Treatment, Research and Education in Cancer",
+  "abbreviation": "ACTREC",
+  "description": "The Advanced Centre for Treatment, Research and Education in Cancer (ACTREC) is a premier national institution operated by the Tata Memorial Centre under the Department of Atomic Energy, Government of India. Located in Navi Mumbai, it focuses on cutting-edge research in cancer biology, clinical oncology, and cancer prevention. ACTREC also provides specialized cancer treatment services and offers educational programs including MD, DM, and PhD degrees in oncology. It plays a vital role in advancing cancer care and research in India.",
+  "category": "Medical",
+  "parent_organization": "Maharashtra"
+},
+{
+  "name": "Department of Revenue",
+  "abbreviation": "DoR",
+  "description": "The Department of Revenue (DoR) functions under the Ministry of Finance, Government of India, and is responsible for the formulation and implementation of policies concerning direct and indirect taxes. It supervises two key statutory boards—the Central Board of Direct Taxes (CBDT) and the Central Board of Indirect Taxes and Customs (CBIC). DoR manages tax collection, prevents tax evasion and smuggling, and oversees legal and policy frameworks related to revenue administration.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Management Nagpur",
+  "abbreviation": "IIM Nagpur",
+  "description": "Indian Institute of Management Nagpur (IIM Nagpur) is a premier public business school located in Nagpur, Maharashtra. Established in 2015 as part of the second generation of new IIMs, it operates under the Indian Institutes of Management Act and is overseen by the Ministry of Education, Government of India. IIM Nagpur offers postgraduate (PGP), executive, and doctoral programs in management. The institute emphasizes experiential learning, research-driven pedagogy, and strong industry linkages, making it a key player in India’s management education landscape.",
+  "category": "Academics Research",
+  "parent_organization": "Maharashtra"
+},
+{
+  "name": "Securities and Exchange Board of India",
+  "abbreviation": "SEBI",
+  "description": "The Securities and Exchange Board of India (SEBI) is India’s statutory regulatory authority for the securities market, established in 1988 and granted statutory status in 1992 under the SEBI Act. Operating under the Ministry of Finance, SEBI’s mandate is to protect investors’ interests, promote market development, and regulate intermediaries such as stock exchanges, brokers, mutual funds, and depositories. It possesses quasi-legislative, quasi-judicial, and quasi-executive powers to ensure transparent, fair, and efficient capital markets.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Home Affairs",
+  "abbreviation": "MHA",
+  "description": "The Ministry of Home Affairs (MHA) is a key ministry under the Government of India responsible for the maintenance of internal security, border management, center-state relations, disaster management, and the administration of Union Territories. It oversees organizations like the Central Armed Police Forces (CAPFs), National Disaster Response Force (NDRF), Intelligence Bureau (IB), and National Investigation Agency (NIA). MHA formulates policies related to law and order, citizenship, immigration, and national integration.",
+  "category": "Defence",
+  "parent_organization": "Central"
+},
+{
+  "name": "Directorate of Medical Education and Research, Maharashtra",
+  "abbreviation": "DMER",
+  "description": "The Directorate of Medical Education and Research (DMER), Maharashtra, was established in 1970 and operates under the state’s Ministry of Medical Education. It supervises government medical, dental, and nursing colleges and teaching hospitals, overseeing undergraduate, postgraduate, and super-specialty academic standards, conduct of the MH‑CET entrance exam, and coordination of clinical research. In 2025, DMER launched a major recruitment drive to fill 792 faculty and 10 dean posts in government medical colleges to address staff shortages following show‑cause notices by the National Medical Commission :contentReference[oaicite:0]{index=0}.",
+  "category": "Medical",
+  "parent_organization": "Maharasthra"
+},
+{
+  "name": "Indian Institute of Management Mumbai",
+  "abbreviation": "IIM Mumbai",
+  "description": "Indian Institute of Management Mumbai (IIM Mumbai) is the 21st Indian Institute of Management, established by upgrading the National Institute of Industrial Engineering (NITIE) in 2023. Located in Mumbai, Maharashtra, IIM Mumbai is recognized as a premier institution for management education and research, particularly in the fields of industrial management, operations, and supply chain. It operates under the Ministry of Education, Government of India, and offers postgraduate, doctoral, and executive programs in management, with a focus on industry relevance and innovation.",
+  "category": "Academics Research",
+  "parent_organization": "Maharashtra"
+},
+{
+  "name": "Bank of Maharashtra",
+  "abbreviation": "BoM",
+  "description": "Bank of Maharashtra (BoM) is a major public sector bank headquartered in Pune, Maharashtra. Established in 1935, it operates under the ownership of the Government of India. BoM provides a wide range of banking services including retail, corporate, agriculture, and MSME banking. With an extensive network of branches and ATMs across India, the bank plays a significant role in financial inclusion and regional development.",
+  "category": "Banking Finance",
+  "parent_organization": "Maharashtra"
+},
+{
+  "name": "Maharashtra Metro Rail Corporation Limited",
+  "abbreviation": "MAHA Metro",
+  "description": "Maharashtra Metro Rail Corporation Limited (MAHA Metro) is a joint venture between the Government of India and the Government of Maharashtra tasked with the implementation, operation, and maintenance of metro rail projects across the state. Established in 2015, MAHA Metro is responsible for overseeing rapid transit systems including Nagpur Metro, Pune Metro, and planning new corridors. It manages planning, construction, signaling, train operations, and metro services to enhance urban mobility and sustainable public transportation across Maharashtra.",
+  "category": "Public Services",
+  "parent_organization": "Maharashtra"
+},
+{
+  "name": "Ministry of Mines",
+  "abbreviation": "MoM",
+  "description": "The Ministry of Mines (MoM) is a central government ministry in India responsible for the survey, exploration, and development of all minerals (excluding natural gas, petroleum, and atomic minerals). It formulates and implements policies related to mining and mineral conservation and oversees key organizations such as the Geological Survey of India (GSI), Indian Bureau of Mines (IBM), and mineral-based Public Sector Undertakings. The ministry plays a vital role in promoting sustainable mining practices and supporting India's resource security and industrial development.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Department of Personnel & Training",
+  "abbreviation": "DoPT",
+  "description": "The Department of Personnel & Training (DoPT) is a central government department under the Prime Minister’s Office. It serves as the cadre-controlling authority for the Indian Administrative Service (IAS) and Central Secretariat Service (CSS), and oversees recruitment, training, service conditions, and performance management of central government employees. DoPT also issues policies related to government staffing, vigilance, official language, and e-governance, and coordinates major initiatives such as the Central Training Institutes and the Fundamental Rights-based policy frameworks.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Mineral Exploration Company Limited",
+  "abbreviation": "MECL",
+  "description": "Mineral Exploration Company Limited (MECL) is a public sector undertaking under the Ministry of Mines, Government of India. Established in 1965, MECL performs reconnaissance, exploration, and detailed investigation of mineral resources across the country. The company contributes to the development of geological data, survey reports, and feasibility studies for various metallic, non-metallic, and energy minerals. MECL plays a key role in supporting India’s mineral policy, exploration strategies, and sustainable resource management.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Railways",
+  "abbreviation": "MoR",
+  "description": "The Ministry of Railways (MoR) is a central government ministry in India responsible for the formulation and administration of policies, planning, and development of the Indian Railways. It oversees rail infrastructure, operations, and safety standards, and manages a vast network of routes and services across the country. MoR operates key organizations including the Railway Board, Indian Railways, and public sector undertakings like IRCTC and RITES. The ministry plays a crucial role in transportation, economic growth, and connectivity.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Fisheries, Animal Husbandry & Dairying",
+  "abbreviation": "MoFAD",
+  "description": "The Ministry of Fisheries, Animal Husbandry & Dairying (MoFAD) is a central government ministry in India, formed in May 2019. It is responsible for the development and regulation of the fisheries, livestock, and dairy sectors. The ministry formulates policies and implements programs to improve production, productivity, infrastructure, and socio-economic growth of fishermen, livestock rearers, and dairy farmers. Key schemes include Blue Revolution, National Livestock Mission, and the Animal Husbandry Infrastructure Development Fund.",
+  "category": "Agriculture",
+  "parent_organization": "Central"
+},
+
+{
+  "name": "Indian Institute of Technology Ropar",
+  "abbreviation": "IIT Ropar",
+  "description": "Indian Institute of Technology Ropar (IIT Ropar) is a premier autonomous public technical and research university located in Rupnagar (Ropar), Punjab. Established in 2008 as one of the new IITs, it operates under the Ministry of Education, Government of India. IIT Ropar offers undergraduate, postgraduate, and doctoral programs in engineering, sciences, humanities, and management. The institute is recognized for its strong academic curriculum, interdisciplinary research, innovation-focused initiatives, and vibrant campus culture.",
+  "category": "Engineering",
+  "parent_organization": "Punjab"
+},
+{
+  "name": "Punjab State Legal Services Authority",
+  "abbreviation": "PSLSA",
+  "description": "The Punjab State Legal Services Authority (PSLSA) is a statutory body established under the Legal Services Authorities Act, 1987, functioning under the Department of Law, Government of Punjab. PSLSA provides free legal services to the underprivileged and marginalized, organizes Lok Adalats for speedy resolution of disputes, and conducts legal awareness programs across the state. It plays a vital role in ensuring access to justice, promoting legal literacy, and facilitating alternative dispute resolution mechanisms in Punjab.",
+  "category": "Public Services",
+  "parent_organization": "Punjab"
+},
+{
+  "name": "Government of Punjab",
+  "abbreviation": "GoP",
+  "description": "The Government of Punjab is the governing authority of the state of Punjab, India. It comprises the executive branch (headed by the Governor and Chief Minister), the unicameral Legislative Assembly, and the judiciary. The government is responsible for law and order, public administration, infrastructure development, education, healthcare, agriculture, industry, and implementation of welfare schemes. It operates through various departments and agencies to drive socio-economic growth and ensure public services across the state.",
+  "category": "Public Services",
+  "parent_organization": "Punjab"
+},
+{
+  "name": "Ministry of Steel",
+  "abbreviation": "MoS",
+  "description": "The Ministry of Steel (MoS) is a central government ministry in India responsible for the development, regulation, and coordination of the iron and steel industry. It formulates policies to promote growth, technological advancement, and sustainable practices within the sector. The ministry oversees major public sector undertakings such as Steel Authority of India Limited (SAIL), Rashtriya Ispat Nigam Limited (RINL), and NMDC. MoS plays a crucial role in ensuring raw material security, enhancing capacity utilization, and supporting research and innovation in steel production.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "All India Institute of Medical Sciences, Bathinda",
+  "abbreviation": "AIIMS Bathinda",
+  "description": "All India Institute of Medical Sciences (AIIMS), Bathinda is an autonomous public medical university and hospital located in Bathinda, Punjab. Announced under the Pradhan Mantri Swasthya Suraksha Yojana Phase IV, it became operational in 2019 and admitted its first MBBS batch in 2020. Operating under the Ministry of Health and Family Welfare, Government of India, AIIMS Bathinda offers undergraduate (MBBS), postgraduate (MD/MS), and doctoral programs in various medical and allied health sciences. The campus features modern clinical, diagnostic, and research facilities, and is committed to delivering high-quality healthcare, medical education, and research in the region.",
+  "category": "Medical",
+  "parent_organization": "Punjab"
+},
+{
+  "name": "Punjab and Haryana High Court",
+  "abbreviation": "PHHC",
+  "description": "The Punjab and Haryana High Court is the common high court for the Indian states of Punjab and Haryana and the union territory of Chandigarh. Established in 1919 and located in Chandigarh, it has jurisdiction over civil, criminal, constitutional, and administrative matters. The court supervises subordinate courts in both states and handles appeals, writ petitions, and special leave petitions. It plays a crucial role in upholding the rule of law, protecting individual rights, and interpreting constitutional provisions within its jurisdiction.",
+  "category": "Public Services",
+  "parent_organization": "Punjab"
+}
+
+
+ 
+
+
+
+
+
+
+
+
  
  
  
