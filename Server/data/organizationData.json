@@ -2489,7 +2489,146 @@
   "description": "The Punjab and Haryana High Court is the common high court for the Indian states of Punjab and Haryana and the union territory of Chandigarh. Established in 1919 and located in Chandigarh, it has jurisdiction over civil, criminal, constitutional, and administrative matters. The court supervises subordinate courts in both states and handles appeals, writ petitions, and special leave petitions. It plays a crucial role in upholding the rule of law, protecting individual rights, and interpreting constitutional provisions within its jurisdiction.",
   "category": "Public Services",
   "parent_organization": "Punjab"
+},
+{
+  "name": "National Institute of Technology, Hamirpur",
+  "abbreviation": "NIT Hamirpur",
+  "description": "National Institute of Technology Hamirpur (NIT Hamirpur) is an autonomous public technical university located in Hamirpur, Himachal Pradesh. Established in 1986 as a Regional Engineering College, it was granted Institute of National Importance status under the Ministry of Education in 2002. It offers undergraduate, postgraduate, and doctoral programs in engineering, technology, and sciences, with strong focus on research, innovation, and industry partnerships. NIT Hamirpur is known for its quality academic curriculum, modern infrastructure, and contributions to engineering education in the region.",
+  "category": "Engineering",
+  "parent_organization": "Himachal Pradesh"
+},
+{
+  "name": "Indian Institute of Management Bangalore",
+  "abbreviation": "IIM Bangalore",
+  "description": "Indian Institute of Management Bangalore (IIM Bangalore or IIMB) is a premier autonomous public business school located in Bengaluru, Karnataka. Established in 1973 through an Act of Parliament, it operates under the Indian Institutes of Management Act and functions under the Ministry of Education, Government of India. IIM Bangalore offers postgraduate (PGP, PGP‑PGDM), executive, doctoral, and specialized management programs. Known for its global curriculum, rigorous research, strong industry linkages, and vibrant campus, IIMB consistently ranks among the top management institutions in India and Asia.",
+  "category": "Academics Research",
+  "parent_organization": "Karnataka"
+},
+{
+  "name": "Ministry of Tribal Affairs",
+  "abbreviation": "MoTA",
+  "description": "The Ministry of Tribal Affairs (MoTA) is a central government ministry in India responsible for policy formulation, planning, and administration concerning the welfare and development of the Scheduled Tribes community. It oversees schemes related to education, livelihood, health, infrastructure, and cultural preservation for tribal populations. MoTA administers initiatives such as the Post Matric Scholarship Scheme, Tribal Sub-Plan, Vanbandhu Kalyan Yojana, and supports Tribal Research Institutes and the National Commission for Scheduled Tribes.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "All India Institute of Medical Sciences, Bhubaneswar",
+  "abbreviation": "AIIMS Bhubaneswar",
+  "description": "All India Institute of Medical Sciences (AIIMS), Bhubaneswar is an autonomous public medical university and hospital located in Bhubaneswar, Odisha. Established in 2012 under the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY), it operates under the Ministry of Health and Family Welfare, Government of India. AIIMS Bhubaneswar offers undergraduate (MBBS), postgraduate (MD/MS), super-specialty, and doctoral programs in various medical and allied health sciences. The campus includes advanced clinical facilities, research laboratories, and a 1000+ bed hospital, focusing on excellence in patient care, medical education, and cutting-edge research.",
+  "category": "Medical",
+  "parent_organization": "Odisha"
+},
+{
+  "name": "Government of Odisha",
+  "abbreviation": "GoO",
+  "description": "The Government of Odisha (GoO) is the governing authority of the Indian state of Odisha. It consists of the executive branch led by the Governor and Chief Minister, the legislative branch with a unicameral legislature, and the judiciary. The government is responsible for administration, development, and implementation of policies across various sectors such as education, health, infrastructure, agriculture, and industry. Through its departments and agencies, GoO works to promote socio-economic development and ensure public service delivery across the state.",
+  "category": "Public Services",
+  "parent_organization": "Odisha"
+},
+{
+  "name": "Indian Institute of Technology Bhubaneswar",
+  "abbreviation": "IIT Bhubaneswar",
+  "description": "Indian Institute of Technology Bhubaneswar (IIT Bhubaneswar) is a premier autonomous public technical and research university located in Bhubaneswar, Odisha. Established in 2008 as one of the new IITs, it functions under the Ministry of Education, Government of India. The institute offers undergraduate, postgraduate, and doctoral programs in engineering, science, humanities, and management. Known for its strong academic curriculum, interdisciplinary research, modern infrastructure, and innovation-focused initiatives, IIT Bhubaneswar is recognized as an Institute of National Importance and contributes significantly to technical education and research.",
+  "category": "Engineering",
+  "parent_organization": "Odisha"
+},
+{
+  "name": "Odisha Hydro Power Corporation",
+  "abbreviation": "OHPC",
+  "description": "Odisha Hydro Power Corporation (OHPC) is a state-owned power generation company under the Government of Odisha. Established in 1995, OHPC is responsible for the operation and maintenance of hydroelectric plants and generation of renewable energy in the state. It manages major projects such as Upper Kolab, Balimela, and Upper Indravati, contributing significantly to Odisha's power supply and sustainable energy initiatives.",
+  "category": "Technical",
+  "parent_organization": "Odisha"
+},
+{
+  "name": "Ministry of Petroleum and Natural Gas",
+  "abbreviation": "MoPNG",
+  "description": "The Ministry of Petroleum and Natural Gas (MoPNG) is a central government ministry in India responsible for the formulation and implementation of policies related to petroleum, natural gas, petrochemicals, and oil & gas infrastructure. It oversees exploration and production, refining, distribution, marketing, and imports of oil and gas. The ministry regulates and coordinates public sector undertakings such as Oil and Natural Gas Corporation (ONGC), Indian Oil Corporation (IOC), Bharat Petroleum Corporation Limited (BPCL), and GAIL (India), and promotes investment in the energy sector.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Information Technology, Design and Manufacturing",
+  "abbreviation": "IIITDM Jabalpur ",
+  "description": "The Indian Institute of Information Technology, Design and Manufacturing (IIITDM) is a group of premier technical institutions in India focused on integrated education, design-led engineering, and manufacturing innovation. Operating under the Ministry of Education, Government of India, IIITDM campuses—such as those in Kancheepuram (Tamil Nadu), Jabalpur (Madhya Pradesh), and Kurnool (Andhra Pradesh)—offer undergraduate, postgraduate, and doctoral programs in information technology, design, manufacturing, and related engineering disciplines. They emphasize interdisciplinary curriculum, human-centered design, and industry collaboration.",
+  "category": "Engineering",
+  "parent_organization": "Madhya Pradesh"
+},
+{
+  "name": "Indian Institute of Technology Indore",
+  "abbreviation": "IIT Indore",
+  "description": "Indian Institute of Technology Indore (IIT Indore) is a premier autonomous public technical and research university located in Indore, Madhya Pradesh. Established in 2009 as one of the new IITs under the Ministry of Education, Government of India, it has been designated as an Institute of National Importance. IIT Indore offers undergraduate, postgraduate, and doctoral programs in various engineering, technology, science, and management disciplines. Known for its cutting-edge research, interdisciplinary curriculum, and modern campus infrastructure, it consistently ranks among the top IITs in India.",
+  "category": "Engineering",
+  "parent_organization": "Madhya Pradesh"
+},
+{
+  "name": "Indian Institute of Information Technology and Management, Gwalior",
+  "abbreviation": "IIITM Gwalior",
+  "description": "Indian Institute of Information Technology and Management, Gwalior (IIITM Gwalior), also known as ABV-IIITM, is a premier autonomous public technical and research university located in Gwalior, Madhya Pradesh. Established in 1997 under the Ministry of Education, Government of India, it specializes in offering postgraduate, doctoral, and integrated programs in information technology, management, and application development. The institute focuses on advanced research, industry collaboration, and interdisciplinary education, contributing significantly to national initiatives in digital innovation and technology leadership.",
+  "category": "Engineering",
+  "parent_organization": "Madhya Pradesh"
+},
+{
+  "name": "Indira Gandhi National Tribal University",
+  "abbreviation": "IGNTU",
+  "description": "Indira Gandhi National Tribal University (IGNTU) is a central university located in Amarkantak, Madhya Pradesh. Established in 2007 by an Act of Parliament, it operates under the Ministry of Education, Government of India. IGNTU focuses on tribal-centric education, offering undergraduate, postgraduate, and doctoral programs in disciplines such as humanities, social sciences, tribal art and culture, languages, and environmental studies. The university aims to promote higher education, preserve tribal heritage, and foster socio-economic development among India's indigenous communities.",
+  "category": "High Education Specialized Exams",
+  "parent_organization": "Madhya Pradesh"
+},
+{
+  "name": "Indian Council of Forestry Research and Education",
+  "abbreviation": "ICFRE",
+  "description": "The Indian Council of Forestry Research and Education (ICFRE) is an autonomous organization under the Ministry of Environment, Forest and Climate Change, Government of India. Established in 1986 and headquartered in Dehradun, ICFRE is the apex body for coordinating, guiding, and managing research and education in forestry. It operates a network of regional research institutes and centers focused on forest management, biodiversity conservation, and sustainable forestry. ICFRE supports capacity building, policy advice, and the dissemination of scientific knowledge to help conserve forests and enhance forest-based livelihoods.",
+  "category": "Academics Research",
+  "parent_organization": "Central"
+},
+{
+  "name": "Government of Madhya Pradesh",
+  "abbreviation": "GoMP",
+  "description": "The Government of Madhya Pradesh is the governing authority of the state of Madhya Pradesh, India. It comprises the executive branch (headed by the Governor and Chief Minister), a unicameral Legislative Assembly, and the judiciary. The government is responsible for administration, public services, law and order, infrastructure development, education, healthcare, agriculture, industry, and welfare initiatives. It functions through various state departments and agencies to drive socio-economic development and ensure effective public service delivery throughout the state.",
+  "category": "Public Services",
+  "parent_organization": "Madhya Pradesh"
+},
+{
+  "name": "Maulana Azad National Institute of Technology, Bhopal",
+  "abbreviation": "MANIT Bhopal",
+  "description": "Maulana Azad National Institute of Technology (MANIT), Bhopal is an autonomous public technical university located in Bhopal, Madhya Pradesh. Established in 1960 as Maulana Azad College of Technology, it was granted the status of an Institute of National Importance in 2002. MANIT offers undergraduate, postgraduate, and doctoral programs in engineering, architecture, science, and management. Recognized for its strong academic curriculum, research contributions, and industry collaboration, the institute plays a significant role in nurturing technical education and innovation.",
+  "category": "Engineering",
+  "parent_organization": "Madhya Pradesh"
+},
+{
+  "name": "Indian Institute of Management Indore",
+  "abbreviation": "IIM Indore",
+  "description": "Indian Institute of Management Indore (IIM Indore) is a premier autonomous public business school located in Indore, Madhya Pradesh. Established in 1996 and recognized under the Indian Institutes of Management Act, it operates under the Ministry of Education, Government of India. IIM Indore offers postgraduate, doctoral, and executive education programs in management, known for its rigorous curriculum, strong research focus, vibrant campus culture, and high placement records. It is consistently ranked among the top IIMs in the country.",
+  "category": "Academics Research",
+  "parent_organization": "Madhya Pradesh"
+},
+{
+  "name": "Government of Haryana",
+  "abbreviation": "GoH",
+  "description": "The Government of Haryana is the governing authority of the state of Haryana, India. It comprises the executive branch (headed by the Governor and Chief Minister), a unicameral Legislative Assembly, and the judiciary. The state government is responsible for public administration, law and order, infrastructure development, education, healthcare, agriculture, industry promotion, and welfare schemes. It functions through various departments and agencies to deliver socio-economic development across urban and rural areas.",
+  "category": "Public Services",
+  "parent_organization": "Haryana"
+},
+{
+  "name": "Ministry of Jal Shakti",
+  "abbreviation": "MoJS",
+  "description": "The Ministry of Jal Shakti (MoJS) is a central government ministry in India formed in 2019 by merging the Ministry of Water Resources, River Development & Ganga Rejuvenation and the Ministry of Drinking Water and Sanitation. It is responsible for the planning, development, and management of water resources, river basin management, irrigation, flood control, drinking water supply, and sanitation. The ministry oversees flagship programs like the Jal Jeevan Mission, Atal Bhujal Yojana, and Namami Gange, aiming to ensure sustainable water supply and sanitation across the country.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Technology Tirupati",
+  "abbreviation": "IIT Tirupati",
+  "description": "Indian Institute of Technology Tirupati (IIT Tirupati) is a premier autonomous public technical and research university located in Tirupati, Andhra Pradesh. It was established in 2015 as one of the new IITs and functions under the Ministry of Education, Government of India. The institute offers undergraduate, postgraduate, and doctoral programs in engineering, sciences, and interdisciplinary areas. IIT Tirupati emphasizes quality education, research innovation, sustainability, and industry engagement, with modern infrastructure and skilled faculty, and is designated as an Institute of National Importance.",
+  "category": "Engineering",
+  "parent_organization": "Andhra Pradesh"
 }
+
+
+
+
+
+
 
 
  
