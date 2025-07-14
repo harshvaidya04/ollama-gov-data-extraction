@@ -2622,7 +2622,126 @@
   "description": "Indian Institute of Technology Tirupati (IIT Tirupati) is a premier autonomous public technical and research university located in Tirupati, Andhra Pradesh. It was established in 2015 as one of the new IITs and functions under the Ministry of Education, Government of India. The institute offers undergraduate, postgraduate, and doctoral programs in engineering, sciences, and interdisciplinary areas. IIT Tirupati emphasizes quality education, research innovation, sustainability, and industry engagement, with modern infrastructure and skilled faculty, and is designated as an Institute of National Importance.",
   "category": "Engineering",
   "parent_organization": "Andhra Pradesh"
-}
+},
+
+{
+  "name": "National Consumer Disputes Redressal Commission",
+  "abbreviation": "NCDRC",
+  "description": "The National Consumer Disputes Redressal Commission (NCDRC) is a quasi-judicial commission established under the Consumer Protection Act, 1986, with jurisdiction over India. Headquartered in New Delhi, NCDRC addresses consumer complaints and appeals involving goods and services, adjudicating higher-value disputes and ensuring enforcement of consumer rights. Serving as the apex consumer forum, it reviews decisions of State Commissions and contributes to strengthening consumer protection through legal rulings and guidance.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "All India Institute of Medical Sciences, Madurai",
+  "abbreviation": "AIIMS Madurai",
+  "description": "All India Institute of Medical Sciences (AIIMS), Madurai is an autonomous public medical university and hospital located in Madurai, Tamil Nadu. Approved under PMSSY Phase IV and operational since 2024, AIIMS Madurai functions under the Ministry of Health and Family Welfare, Government of India. The institute offers undergraduate (MBBS), postgraduate (MD/MS), and doctoral programs in various medical and allied health sciences. The campus includes modern clinical, diagnostic, and research facilities, and provides high-quality patient care, medical education, and healthcare research to serve the region.",
+  "category": "Medical",
+  "parent_organization": "Tamil Nadu"
+},
+{
+  "name": "Gas Authority of India Limited",
+  "abbreviation": "GAIL",
+  "description": "Gas Authority of India Limited (GAIL) is the largest state-owned natural gas processing and distribution company in India. Established in 1984, it operates under the Ministry of Petroleum and Natural Gas, Government of India. GAIL’s core operations include natural gas processing, transmission through pipeline networks, LNG regasification, petrochemicals, city gas distribution, and exploration & production. The company plays a vital role in India’s energy security, infrastructure development, and the transition toward cleaner fuel usage.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of AYUSH",
+  "abbreviation": "MoAYUSH",
+  "description": "The Ministry of AYUSH is a central government ministry in India responsible for the development, promotion, and regulation of traditional systems of medicine including Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homoeopathy. It formulates policies, standards, and research frameworks, and supports educational institutions, public health programs, and clinical research in traditional medicine. The ministry oversees organizations such as CCRAS, CCRUM, and CCRH to further integrate AYUSH into India's healthcare ecosystem.",
+  "category": "Medical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Cooperation",
+  "abbreviation": "MoCoo",
+  "description": "The Ministry of Cooperation is a central government ministry in India, constituted in July 2021. It is responsible for strengthening the cooperative movement, formulating policies and legislation for cooperative societies, and ensuring seamless working of cooperatives across sectors such as agriculture, credit, housing, dairy, and consumer services. The ministry oversees the implementation of initiatives like the National Cooperative Development Corporation (NCDC), promotes capacity-building among cooperative institutions, and ensures their alignment with national economic and social objectives.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Bank",
+  "abbreviation": "Indian Bank",
+  "description": "Indian Bank is a public sector bank headquartered in Chennai, Tamil Nadu, India. Established in 1907, it operates under the ownership of the Government of India. The bank offers a comprehensive range of banking and financial services including retail banking, corporate banking, NRI services, and digital banking solutions. With an extensive branch network and ATMs across India, Indian Bank plays a significant role in financial inclusion, providing credit support to agriculture, MSME, and rural sectors.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Management Kozhikode",
+  "abbreviation": "IIM Kozhikode",
+  "description": "Indian Institute of Management Kozhikode (IIM Kozhikode or IIMK) is a premier autonomous public business school located in Kozhikode, Kerala. Established in 1996 through an Act of Parliament, it operates under the Ministry of Education, Government of India. IIM Kozhikode offers postgraduate (PGP), executive, and doctoral programs in management. Renowned for its rigorous academic curriculum, research-driven pedagogy, strong industry linkages, and vibrant campus life, it is consistently ranked among India's top management institutes.",
+  "category": "Academics Research",
+  "parent_organization": "Kerala"
+},
+{
+  "name": "Ministry of Chemicals & Fertilizers",
+  "abbreviation": "MoCF",
+  "description": "The Ministry of Chemicals & Fertilizers (MoCF) is a central government ministry in India responsible for the formulation and implementation of policies related to the chemical and fertilizer industries. It oversees production, quality control, pricing, and distribution of fertilizers; regulates bulk drug and pharmaceuticals; and promotes chemical safety and environmental protection. The ministry administers key entities such as the Fertilizer Corporation of India, IOC’s Chemical Division, and the Central Institute of Petrochemicals Engineering & Technology (CIPET).",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Earth Sciences",
+  "abbreviation": "MoES",
+  "description": "The Ministry of Earth Sciences (MoES) is a central government ministry in India responsible for monitoring and predicting Earth systems, including weather, climate, oceans, and seismology. It oversees institutions like the India Meteorological Department (IMD), National Centre for Medium Range Weather Forecasting (NCMRWF), Indian National Centre for Ocean Information Services (INCOIS), and National Institute of Ocean Technology (NIOT). MoES provides critical services such as weather forecasting, cyclone warnings, tsunami alerts, climate research, and supports maritime mandates and disaster preparedness.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Rajkot Nagarik Sahakari Bank",
+  "abbreviation": "RNSB",
+  "description": "Rajkot Nagarik Sahakari Bank (RNSB) is a cooperative bank based in Rajkot, Gujarat. Established to serve the urban and semi-urban communities, it provides a variety of banking services including savings and current accounts, fixed deposits, loans (personal, business, and housing), and digital banking facilities. Regulated by the Reserve Bank of India under the Gujarat State Co‑operative Societies Act, RNSB focuses on promoting financial inclusion and supporting local development.",
+  "category": "Banking Finance",
+  "parent_organization": "Gujarat"
+},
+{
+  "name": "Government of Karnataka",
+  "abbreviation": "Govt of Karnataka",
+  "description": "The Government of Karnataka is the governing authority of the state of Karnataka, India. It comprises the executive branch led by the Governor and Chief Minister, the Legislative Assembly, and the judiciary. The government is responsible for law and order, infrastructure development, education, healthcare, agriculture, industry, and the implementation of welfare schemes. It functions through various state departments and agencies to deliver public services and drive socio-economic development across the state.",
+  "category": "Public Services",
+  "parent_organization": "Karnataka"
+},
+{
+  "name": "Bangalore Metro Rail Corporation Limited",
+  "abbreviation": "BMRCL",
+  "description": "Bangalore Metro Rail Corporation Limited (BMRCL) is a joint venture between the Government of India and the Government of Karnataka. Established in 2007, BMRCL is tasked with the planning, execution, operation, and maintenance of the Namma Metro system in Bengaluru. It oversees all aspects of the metro network, including civil construction, signalling, train operations, and passenger services, to enhance urban mobility and reduce congestion in the city.",
+  "category": "Public Services",
+  "parent_organization": "Karnataka"
+},
+{
+  "name": "National Institute of Mental Health and Neurosciences",
+  "abbreviation": "NIMHANS",
+  "description": "The National Institute of Mental Health and Neurosciences (NIMHANS) is a premier autonomous medical institute located in Bengaluru, Karnataka. Established in 1974, it functions under the Ministry of Health and Family Welfare, Government of India. NIMHANS is recognized for its excellence in mental health and neurosciences, offering postgraduate, doctoral, and super-specialty programs in psychiatry, clinical psychology, neurosurgery, neurology, and allied disciplines. It also provides patient care, training, research, and policy advice, and holds the status of an Institute of National Importance in its domain.",
+  "category": "Medical",
+  "parent_organization": "Karnataka"
+},
+{
+  "name": "National Institute of Technology Karnataka",
+  "abbreviation": "NIT Karnataka",
+  "description": "National Institute of Technology Karnataka (NITK), also known as NITK Surathkal, is a premier autonomous technical university located in Surathkal, Karnataka. Established in 1960 and designated as an Institute of National Importance, it functions under the Ministry of Education, Government of India. NITK offers undergraduate, postgraduate, and doctoral programs in engineering, technology, sciences, architecture, and management. It is renowned for its strong academic curriculum, cutting-edge research, and robust industry collaborations.",
+  "category": "Engineering",
+  "parent_organization": "Karnataka"
+},
+{
+  "name": "Ministry of Women & Child Development",
+  "abbreviation": "MoWCD",
+  "description": "The Ministry of Women & Child Development (MoWCD) is a central government ministry in India responsible for formulating and implementing policies and programs focused on the welfare, protection, and empowerment of women and children. It administers schemes such as Beti Bachao Beti Padhao, Integrated Child Protection Scheme, and Pradhan Mantri Matru Vandana Yojana, and enforces child protection services, nutrition programs, and gender equality initiatives through a network of state- and district-level agencies.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Bombay High Court",
+  "abbreviation": "Bombay High Court",
+  "description": "The Bombay High Court is one of the oldest High Courts in India, established on 14 August 1862. It has jurisdiction over the states of Maharashtra and Goa, and the Union Territories of Dadra & Nagar Haveli and Daman & Diu. The court hears civil, criminal, constitutional, and administrative cases, oversees subordinate courts, and serves as an important appellate and supervisory authority in its jurisdiction.",
+  "category": "Public Services",
+  "parent_organization": "Maharashtra"
+} 
+
+
+
+
+
+
 
 
 
