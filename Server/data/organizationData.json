@@ -2735,7 +2735,139 @@
   "description": "The Bombay High Court is one of the oldest High Courts in India, established on 14 August 1862. It has jurisdiction over the states of Maharashtra and Goa, and the Union Territories of Dadra & Nagar Haveli and Daman & Diu. The court hears civil, criminal, constitutional, and administrative cases, oversees subordinate courts, and serves as an important appellate and supervisory authority in its jurisdiction.",
   "category": "Public Services",
   "parent_organization": "Maharashtra"
-} 
+} ,
+   {
+  "name": "NHPC Limited (National Hydroelectric Power Corporation)",
+  "abbreviation": "NHPC",
+  "description": "NHPC Limited, formerly National Hydroelectric Power Corporation, is a premier government-owned company under the Ministry of Power, Government of India. Established in 1975, NHPC has been tasked with planning, promoting, and executing hydropower projects across India, while expanding into renewable energy sectors like solar, wind, pumped storage, and green hydrogen. It holds Navratna status and is listed on Indian equity markets. Current operations include over 8,000 MW of installed capacity and multiple renewable energy and hydroelectric projects in development, including Subansiri Lower (2,000 MW) and Dibang (2,880 MW), along with major solar park initiatives. NHPC plays a strategic role in national energy security and green transition efforts.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Konkan Railway Corporation Limited",
+  "abbreviation": "KRCL",
+  "description": "Konkan Railway Corporation Limited (KRCL) is a state-owned company under the Ministry of Railways, Government of India. Established in 1990, KRCL is responsible for building, operating, and maintaining the Konkan Railway, a critical rail corridor running along India's western coast from Maharashtra through Goa to Karnataka. Known for its challenging engineering achievements—including long tunnels, high bridges, and complex terrain—the corporation significantly enhances regional connectivity and contributes to freight and passenger rail transport development.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Directorate of Medical Education",
+  "abbreviation": "DME AP",
+  "description": "The Directorate of Medical Education (DME) is a state government body responsible for overseeing medical and dental education, training, and academic standards in government and private medical institutions. It regulates admissions, faculty recruitment, curriculum implementation, and infrastructure development in medical colleges and allied health institutions. The DME also coordinates with national regulatory bodies like the National Medical Commission (NMC) and ensures quality assurance in undergraduate and postgraduate medical education across the state.",
+  "category": "Medical",
+  "parent_organization": "Andhra Pradesh"
+},
+{
+  "name": "University Grants Commission",
+  "abbreviation": "UGC",
+  "description": "The University Grants Commission (UGC) is the statutory body of the Government of India responsible for coordinating, determining, and maintaining standards of higher education in India. Established in 1956 under the UGC Act, it provides recognition to universities, disburses central funding, oversees academic standards, and promotes research and faculty development. UGC also enforces regulations for curriculum, grants for research projects, and guidelines for higher education institutions.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Gujarat"
+},
+{
+  "name": "Directorate General of Foreign Trade",
+  "abbreviation": "DGFT",
+  "description": "The Directorate General of Foreign Trade (DGFT) is a government agency under the Ministry of Commerce and Industry, Government of India. It is responsible for formulating and implementing India’s Foreign Trade Policy, issuing import/export licenses (IEC), monitoring trade performance, and promoting exports. DGFT also administers schemes like the Advance Authorization Scheme, Export Promotion Capital Goods (EPCG) Scheme, and provides advisory services to support exporters and importers in international trade.",
+  "category": "Banking Finance",
+  "parent_organization": "Gujarat"
+},
+{
+  "name": "Gujarat Vidyapith",
+  "abbreviation": "Gujarat Vidyapith",
+  "description": "Gujarat Vidyapith, founded by Mahatma Gandhi in 1920 in Ahmedabad, is a national university focused on promoting education based on Gandhian values. It operates autonomously and offers undergraduate, postgraduate, and doctoral programs in humanities, social sciences, rural development, and education. The Vidyapith emphasizes self-reliance, village upliftment, and character formation, combining academic curricula with community service and sustainable practices.",
+  "category": "Academics Research",
+  "parent_organization": "Gujarat"
+},
+{
+  "name": "Sardar Vallabhbhai National Institute of Technology, Surat",
+  "abbreviation": "SVNIT",
+  "description": "Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, is an autonomous public technical university established in 1961. Designated as an Institute of National Importance under the Ministry of Education, Government of India, it offers undergraduate, postgraduate, and doctoral programs in engineering, sciences, architecture, and management. SVNIT is known for its academic rigor, research initiatives, industry collaboration, and vibrant campus culture in South Gujarat.",
+  "category": "Engineering",
+  "parent_organization": "Gujarat"
+},
+{
+  "name": "Gujarat Council of Science City",
+  "abbreviation": "Gujarat Council of Science City",
+  "description": "The Gujarat Council of Science City (GCSC) is a state-level statutory body established under the Science City Act, tasked with the development, management, and promotion of the Science City campus in Ahmedabad. It aims to foster science education and public engagement through interactive exhibits, planetarium shows, educational programs, workshops, and research collaborations. GCSC plays a critical role in inspiring scientific temper and innovation among students and the general public in Gujarat.",
+  "category": "Academics Research",
+  "parent_organization": "State"
+},
+{
+  "name": "Central University of Rajasthan",
+  "abbreviation": "CURAJ",
+  "description": "Central University of Rajasthan (CURAJ), located in Bandar Sindri, Ajmer district, Rajasthan, was established in 2009 by an act of Parliament. Recognized as an Institute of National Importance, it offers a wide range of undergraduate, postgraduate, integrated, and doctoral programs across 12 schools and over 30 departments including engineering, science, humanities, commerce, management, public policy, and social sciences. The university emphasizes interdisciplinary education, cutting-edge research, and community engagement on its sprawling 518-acre urban campus.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Rajasthan"
+},
+{
+  "name": "Ministry of Micro, Small and Medium Enterprises",
+  "abbreviation": "MoMSME",
+  "description": "The Ministry of Micro, Small and Medium Enterprises (MoMSME) is a central government ministry in India responsible for developing and promoting micro, small, and medium enterprises across the country. It formulates policies, provides financial support, credit facilitation, technology upgrading, and marketing assistance to MSMEs. Key initiatives include Prime Minister’s Employment Generation Programme (PMEGP), Credit Linked Capital Subsidy Scheme (CLCSS), and One District One Product (ODOP). The ministry also oversees bodies such as the Khadi and Village Industries Commission (KVIC) and the National Small Industries Corporation (NSIC).",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "MP Power Management Company Limited",
+  "abbreviation": "MPPMCL",
+  "description": "MP Power Management Company Limited (MPPMCL) is a state-owned power trading company under the Government of Madhya Pradesh. Initially named MP Power Trading Company Limited and renamed in 2012, it serves as the holding company for all DISCOMs in Madhya Pradesh. MPPMCL manages power trading, scheduling, grid operation, demand forecasting, and energy accounting. It also facilitates renewable energy procurement via long-term PPAs, deploys AI-enabled analytics for grid balancing and theft detection, and coordinates large-scale solar PPA agreements.",
+  "category": "Technical",
+  "parent_organization": "Madhya Pradesh"
+},
+{
+  "name": "Madhya Pradesh Employees Selection Board",
+  "abbreviation": "MPESB",
+  "description": "The Madhya Pradesh Employees Selection Board (MPESB), formerly known as Vyapam or the Professional Examination Board, is a state government agency established in 1970. It conducts a wide range of recruitment and entrance exams—such as Pre-Agriculture Test (PAT), Primary Teacher Selection Test (PSTST), Pre-Nursing Selection Test (PNST), Group‑1/2/3 services, and others—for admission and government job recruitment across Madhya Pradesh. MPESB functions as an autonomous, self-financed body under the state's General Administration Department, headquartered in Bhopal.",
+  "category": "Public Services",
+  "parent_organization": "Madhya Pradesh"
+},
+{
+  "name": "Directorate of Ordnance",
+  "abbreviation": "DOO",
+  "description": "The Directorate of Ordnance (DOO) functions under the Ministry of Defence, Government of India. It oversees the management, coordination, and modernization of ordnance manufacturing and supply operations across India. It plays a critical role in ensuring timely delivery of arms, ammunition, and military equipment to the Indian Armed Forces. The DOO also coordinates with Defence Public Sector Undertakings and private partners to enhance indigenous defence production capabilities.",
+  "category": "Defence",
+  "parent_organization": "Cemtral"
+},
+{
+  "name": "National Institute of Technology, Rourkela",
+  "abbreviation": "NIT Rourkela",
+  "description": "The National Institute of Technology, Rourkela (NIT Rourkela) is an autonomous public technical university located in Rourkela, Odisha. Established on August 15, 1961 as REC Rourkela and designated an Institute of National Importance under the National Institutes of Technology Act, 2007, it operates under the Ministry of Education, Government of India. NIT Rourkela offers undergraduate, postgraduate and doctoral programs in engineering, architecture, sciences, management, and humanities across 17 academic departments. With a large 650-acre urban campus, it is known for high-quality research, innovation, and strong industry linkages. It ranked 19th under the engineering category in NIRF 2024. ",
+  "category": "Engineering",
+  "parent_organization": "Odisha"
+},
+{
+  "name": "Canara Bank",
+  "abbreviation": "Canara Bank",
+  "description": "Canara Bank is one of the largest public sector banks in India, headquartered in Bengaluru, Karnataka. Established in 1906, it was nationalized in 1969 and operates under the Ministry of Finance, Government of India. Canara Bank provides a wide range of banking and financial services including retail banking, corporate banking, investment services, and digital banking solutions. With a strong presence across urban and rural India, the bank plays a crucial role in financial inclusion and national economic development. It is also known for its customer service, innovative banking practices, and focus on social welfare banking initiatives.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Ministry of Social Justice and Empowerment",
+  "abbreviation": "MoSJE",
+  "description": "The Ministry of Social Justice and Empowerment (MoSJE) is a central government ministry in India responsible for welfare, social justice, and empowerment of disadvantaged and marginalized groups, including Scheduled Castes, Other Backward Classes, senior citizens, transgender persons, and individuals with disabilities. The ministry formulates policies, implements welfare schemes, and oversees legislative frameworks to promote social inclusion and equal opportunities. Through its departments and autonomous bodies, MoSJE aims to eliminate social inequalities and foster an inclusive society.",
+  "category": "Public Services",
+  "parent_organization": "Central"
+},
+{
+  "name": "Visvesvaraya National Institute of Technology, Nagpur",
+  "abbreviation": "VNIT Nagpur",
+  "description": "Visvesvaraya National Institute of Technology (VNIT), Nagpur, is one of the premier public engineering institutes in India. Established in 1960 and formerly known as Visvesvaraya Regional College of Engineering, it was later upgraded to a National Institute of Technology and recognized as an Institute of National Importance by the Government of India. VNIT offers undergraduate, postgraduate, and doctoral programs in engineering, architecture, and applied sciences. Known for its academic excellence, research output, and innovation, the institute is part of the NIT network and operates under the Ministry of Education.",
+  "category": "Engineering",
+  "parent_organization": "Maharashtra"
+},
+{
+  "name": "Haryana Kaushal Rozgar Nigam",
+  "abbreviation": "HKRN",
+  "description": "Haryana Kaushal Rozgar Nigam (HKRN) is a government initiative by the state of Haryana aimed at streamlining the recruitment of contractual and outsourced manpower in various government departments and boards. Established to promote transparency and efficiency in hiring, HKRN provides a centralized digital platform where eligible candidates can apply for job opportunities across departments based on merit. It plays a vital role in promoting employment, especially among youth, and contributes to the state’s skill development and livelihood enhancement goals.",
+  "category": "Public Services",
+  "parent_organization": "Haryana"
+}
+
+
+
+
+
+
 
 
 
