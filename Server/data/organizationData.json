@@ -2861,39 +2861,73 @@
   "description": "Haryana Kaushal Rozgar Nigam (HKRN) is a government initiative by the state of Haryana aimed at streamlining the recruitment of contractual and outsourced manpower in various government departments and boards. Established to promote transparency and efficiency in hiring, HKRN provides a centralized digital platform where eligible candidates can apply for job opportunities across departments based on merit. It plays a vital role in promoting employment, especially among youth, and contributes to the state’s skill development and livelihood enhancement goals.",
   "category": "Public Services",
   "parent_organization": "Haryana"
+},
+
+{
+  "name": "General Insurance Corporation of India",
+  "abbreviation": "GIC Re",
+  "description": "The General Insurance Corporation of India (GIC Re) is the national reinsurance company of India, fully owned by the Government of India. Established in 1972 under the General Insurance Business (Nationalisation) Act, it is headquartered in Mumbai. GIC Re provides reinsurance solutions for life and non-life insurance businesses, both domestically and internationally. It plays a crucial role in strengthening the insurance sector by providing financial stability, risk management support, and global reinsurance services. Recognized as one of the leading reinsurance companies in Asia, GIC Re has a strong global presence through subsidiaries and branch offices abroad.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Mahatma Gandhi Institute for Rural Industrialization",
+  "abbreviation": "MGIRI",
+  "description": "The Mahatma Gandhi Institute for Rural Industrialization (MGIRI), located in Wardha, Maharashtra, is an autonomous national institute established under the Ministry of Micro, Small and Medium Enterprises (MSME), Government of India. Inspired by the Gandhian vision of self-reliant villages, MGIRI works to promote rural industrialization through research, technology development, training, and extension services. The institute focuses on areas such as khadi and textiles, bio-processing, rural energy, agro-based industries, and sustainable technologies. MGIRI plays a significant role in enhancing livelihood opportunities in rural India by integrating modern science with Gandhian principles.",
+  "category": "Agriculture",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Management Lucknow",
+  "abbreviation": "IIM Lucknow",
+  "description": "The Indian Institute of Management Lucknow (IIM Lucknow) is one of the premier management institutes in India, established in 1984 by the Government of India. Recognized as an Institution of National Importance, it is the fourth IIM in the country and operates under the Ministry of Education. IIM Lucknow offers postgraduate, doctoral, and executive programs in management, with a strong emphasis on leadership, innovation, and research. The institute has two campuses, one in Lucknow and another in Noida, serving as a hub for academic excellence, policy research, and executive training. IIM Lucknow is also responsible for mentoring newer IIMs and conducting national-level management entrance exams like the CAT.",
+  "category": "Higher Education Specialized Exams",
+  "parent_organization": "Uttar Pradesh"
+},
+{
+  "name": "Central Electronics Limited",
+  "abbreviation": "CEL",
+  "description": "Central Electronics Limited (CEL) is a Government of India Enterprise under the Department of Scientific and Industrial Research (DSIR), Ministry of Science and Technology. Established in 1974 and headquartered in Sahibabad, Uttar Pradesh, CEL specializes in the design, development, and production of electronic components and systems. It is a pioneer in the field of solar photovoltaics, railway electronics, and defense-related technologies. CEL plays a significant role in supporting strategic sectors through indigenous technology development and contributes to the growth of renewable energy and advanced electronics in India.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Institute of Information Technology Allahabad",
+  "abbreviation": "IIIT Allahabad",
+  "description": "The Indian Institute of Information Technology Allahabad (IIIT Allahabad) is a premier public technical and research university in India, established in 1999 by the Government of India. Recognized as an Institute of National Importance, it specializes in information technology, computer science, and allied fields. The institute offers undergraduate, postgraduate, and doctoral programs with a strong emphasis on research, innovation, and industry collaboration. Located in Prayagraj, Uttar Pradesh, IIIT Allahabad is known for its cutting-edge curriculum, advanced laboratories, and vibrant student ecosystem, making it one of the leading institutes for IT and engineering education in the country.",
+  "category": "Engineering",
+  "parent_organization": "Uttar Pradesh"
+},
+{
+  "name": "Indian Overseas Bank",
+  "abbreviation": "IOB",
+  "description": "Indian Overseas Bank (IOB) is a major public sector bank in India, headquartered in Chennai, Tamil Nadu. It was founded in 1937 to provide overseas banking services and has since grown into a leading commercial bank with a wide domestic and international presence. Nationalized in 1969, IOB operates under the Ministry of Finance, Government of India. The bank offers a wide range of services, including retail and corporate banking, international banking, treasury operations, and digital financial services. Known for its strong presence in southern India and overseas branches in several countries, IOB plays a vital role in supporting trade, finance, and financial inclusion initiatives.",
+  "category": "Banking Finance",
+  "parent_organization": "Central"
+},
+{
+  "name": "Himachal Pradesh Rajya Chayan Aayog",
+  "abbreviation": "HPRCA",
+  "description": "The Himachal Pradesh Rajya Chayan Aayog (HPRCA) is a state-level recruitment agency established on September 30, 2023, by the Government of Himachal Pradesh. It operates under the Department of Personnel and is headquartered in Hamirpur. HPRCA was created to replace the dissolved Himachal Pradesh Staff Selection Commission and ensure transparent, merit-based recruitment for Group C positions across the state, leveraging IT-based processes such as computer-based tests, online applications, and single-window registration systems.:contentReference[oaicite:0]{index=0}",
+  "category": "Public Services",
+  "parent_organization": "Himachal Pradesh"
+},
+{
+  "name": "National Test House",
+  "abbreviation": "NTH",
+  "description": "The National Test House (NTH) is a premier scientific and technical institution under the Department of Consumer Affairs, Ministry of Consumer Affairs, Food & Public Distribution, Government of India. Established in 1912 under the Railway Board, NTH specializes in testing, calibration, evaluation, and quality assurance of engineering materials and finished products according to national and international standards. It supports industry, commerce, trade, standardization, and promotes domestic manufacturing and self-reliance. NTH operates through multiple regional laboratories located across India including Kolkata, Mumbai, Chennai, Ghaziabad, Jaipur, Guwahati, and Varanasi. Its services include testing, failure analysis, consultancy, R&D support, standardization, and accreditation assistance.",
+  "category": "Technical",
+  "parent_organization": "Central"
+},
+{
+  "name": "Indian Academy of Sciences",
+  "abbreviation": "IASc",
+  "description": "The Indian Academy of Sciences (IASc), founded in 1934 by Nobel Laureate Sir C. V. Raman, is an autonomous scientific institution headquartered in Bengaluru, Karnataka. Its primary mission is to promote the advancement of science in India through research, publications, science education, and policy advocacy. IASc publishes several peer-reviewed scientific journals, organizes conferences and symposia, and runs programs to encourage young scientists and students in research. The Academy works closely with other scientific bodies in India and abroad, contributing significantly to knowledge dissemination, scientific communication, and nurturing of talent in the sciences.",
+  "category": "Academics Research",
+  "parent_organization": "Central"
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
- 
- 
 ]
 
 
