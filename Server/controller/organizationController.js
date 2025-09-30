@@ -147,6 +147,35 @@ export const updateOrganization = async (req, res) => {
   }
 };
 
+export const getAllCategories = async (req, res) => {
+  try {
+    const categories = await Category.find()
+      .select('category description')
+      .sort({ category: 1 });
+    res.status(200).json({ 
+      message: "Categories fetched successfully", 
+      categories 
+    });
+  } catch (error) {
+    console.error("getAllCategories Error:", error.message);
+    res.status(500).json({ error: "Failed to fetch categories" });
+  }
+};
+
+export const getAllAuthorities = async (req, res) => {
+  try {
+    const authorities = await Authority.find()
+      .select('name description authority_type')
+      .sort({ name: 1 });
+    res.status(200).json({ 
+      message: "Authorities fetched successfully", 
+      authorities 
+    });
+  } catch (error) {
+    console.error("getAllAuthorities Error:", error.message);
+    res.status(500).json({ error: "Failed to fetch authorities" });
+  }
+};
 export const updateOrganizationCategory = async (req, res) => {
   try {
     const { abbreviation, category } = req.body;
